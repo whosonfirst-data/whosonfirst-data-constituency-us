@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903822,
     "wof:geomhash":"af0294a29ddb6482e869362736bd4b18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688543
+        }
+    ],
     "wof:id":1108737829,
     "wof:lastmodified":1478903822,
-    "wof:name":"Congressional District 4",
-    "wof:parent_id":-1,
+    "wof:name":"New York Congressional District 4",
+    "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

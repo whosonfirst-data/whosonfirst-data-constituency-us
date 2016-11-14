@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903888,
     "wof:geomhash":"bf156e7b804fe7001f717c5c7c759895",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688661
+        }
+    ],
     "wof:id":1108738139,
     "wof:lastmodified":1478903888,
-    "wof:name":"Congressional District 8",
-    "wof:parent_id":-1,
+    "wof:name":"Missouri Congressional District 8",
+    "wof:parent_id":85688661,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

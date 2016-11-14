@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903963,
     "wof:geomhash":"f89551e81d82882bd7f5d92babeea6a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108738555,
     "wof:lastmodified":1478903963,
-    "wof:name":"Congressional District 32",
-    "wof:parent_id":-1,
+    "wof:name":"Texas Congressional District 32",
+    "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

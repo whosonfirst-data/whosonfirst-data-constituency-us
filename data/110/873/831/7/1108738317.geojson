@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903919,
     "wof:geomhash":"8f92d4fec9990c1e6bdc9bd71a5e4b17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738317,
     "wof:lastmodified":1478903919,
-    "wof:name":"Congressional District 13",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 13",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

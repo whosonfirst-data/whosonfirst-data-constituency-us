@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903850,
     "wof:geomhash":"b1180375b0a04f0bd1e56370a35ccba8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108737943,
     "wof:lastmodified":1478903850,
-    "wof:name":"Congressional District 5",
-    "wof:parent_id":-1,
+    "wof:name":"Texas Congressional District 5",
+    "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

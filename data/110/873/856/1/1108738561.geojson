@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903963,
     "wof:geomhash":"16a1d33c1b0d57916d690440188021d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108738561,
     "wof:lastmodified":1478903963,
-    "wof:name":"Congressional District 33",
-    "wof:parent_id":-1,
+    "wof:name":"Texas Congressional District 33",
+    "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903779,
     "wof:geomhash":"079cb82471ed8465df6303c097121ca3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688675
+        }
+    ],
     "wof:id":1108737651,
     "wof:lastmodified":1478903779,
-    "wof:name":"Congressional District 3",
-    "wof:parent_id":-1,
+    "wof:name":"Alabama Congressional District 3",
+    "wof:parent_id":85688675,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

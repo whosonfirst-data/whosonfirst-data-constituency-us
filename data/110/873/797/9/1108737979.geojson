@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903857,
     "wof:geomhash":"a563dfaad89e1e1b453e4757f83edf41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688641
+        }
+    ],
     "wof:id":1108737979,
     "wof:lastmodified":1478903857,
-    "wof:name":"Congressional District 6",
-    "wof:parent_id":-1,
+    "wof:name":"Kentucky Congressional District 6",
+    "wof:parent_id":85688641,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

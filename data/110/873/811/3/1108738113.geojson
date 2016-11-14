@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903883,
     "wof:geomhash":"7170e083989d1addc3faf00e077e729c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738113,
     "wof:lastmodified":1478903883,
-    "wof:name":"Congressional District 8",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 8",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903872,
     "wof:geomhash":"af32c9f713c63c4dca623f8776af85b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688645
+        }
+    ],
     "wof:id":1108738063,
     "wof:lastmodified":1478903872,
-    "wof:name":"Congressional District 7",
-    "wof:parent_id":-1,
+    "wof:name":"Massachusetts Congressional District 7",
+    "wof:parent_id":85688645,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

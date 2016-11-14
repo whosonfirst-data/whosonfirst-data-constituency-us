@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903860,
     "wof:geomhash":"c4b330150fed30e8c8847f3df3d0bab6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108737993,
     "wof:lastmodified":1478903860,
-    "wof:name":"Congressional District 6",
-    "wof:parent_id":-1,
+    "wof:name":"Michigan Congressional District 6",
+    "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

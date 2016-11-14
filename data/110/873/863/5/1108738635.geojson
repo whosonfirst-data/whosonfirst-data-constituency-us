@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903973,
     "wof:geomhash":"463487a5d2fc3aa52d4b19473ed21e37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
     "wof:id":1108738635,
     "wof:lastmodified":1478903973,
-    "wof:name":"Congressional Districts not defined",
-    "wof:parent_id":-1,
+    "wof:name":"Illinois Congressional Districts not defined",
+    "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

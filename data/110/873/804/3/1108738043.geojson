@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903870,
     "wof:geomhash":"72a8a981363ffa22620944f1b86a1719",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738043,
     "wof:lastmodified":1478903870,
-    "wof:name":"Congressional District 7",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 7",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

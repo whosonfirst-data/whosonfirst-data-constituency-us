@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903853,
     "wof:geomhash":"18ac01798cf94bbddbed64e32e048652",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688623
+        }
+    ],
     "wof:id":1108737951,
     "wof:lastmodified":1478903853,
-    "wof:name":"Congressional District 5",
-    "wof:parent_id":-1,
+    "wof:name":"Washington Congressional District 5",
+    "wof:parent_id":85688623,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903751,
     "wof:geomhash":"cea97eff653151db01c66b775cba4da0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108737529,
     "wof:lastmodified":1478903751,
-    "wof:name":"Congressional District 2",
-    "wof:parent_id":-1,
+    "wof:name":"Connecticut Congressional District 2",
+    "wof:parent_id":85688629,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

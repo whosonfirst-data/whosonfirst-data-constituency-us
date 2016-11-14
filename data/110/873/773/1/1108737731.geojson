@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903796,
     "wof:geomhash":"09c8ffc41d816f6554e4f73feaa0d47a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
     "wof:id":1108737731,
     "wof:lastmodified":1478903796,
-    "wof:name":"Congressional District 3",
-    "wof:parent_id":-1,
+    "wof:name":"Ohio Congressional District 3",
+    "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

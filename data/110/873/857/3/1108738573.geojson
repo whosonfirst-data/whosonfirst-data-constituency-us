@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903966,
     "wof:geomhash":"dd231352903d35ba4e2f3ebfbf353073",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688753
+        }
+    ],
     "wof:id":1108738573,
     "wof:lastmodified":1478903966,
-    "wof:name":"Congressional District 36",
-    "wof:parent_id":-1,
+    "wof:name":"Texas Congressional District 36",
+    "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903753,
     "wof:geomhash":"db415e66533c4861ddaf5e128c73a6f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688671
+        }
+    ],
     "wof:id":1108737539,
     "wof:lastmodified":1478903753,
-    "wof:name":"Congressional District 2",
-    "wof:parent_id":-1,
+    "wof:name":"Hawaii Congressional District 2",
+    "wof:parent_id":85688671,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

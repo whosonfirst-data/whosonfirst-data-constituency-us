@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903894,
     "wof:geomhash":"718097a81dc0a4d86a6b327d93c44b10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738175,
     "wof:lastmodified":1478903894,
-    "wof:name":"Congressional District 9",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 9",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

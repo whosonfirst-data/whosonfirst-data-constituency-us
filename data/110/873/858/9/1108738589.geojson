@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903968,
     "wof:geomhash":"1b1846ab7bf5f525eef72c674a51264c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738589,
     "wof:lastmodified":1478903968,
-    "wof:name":"Congressional District 42",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 42",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

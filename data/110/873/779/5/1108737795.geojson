@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903813,
     "wof:geomhash":"ff3a10acd0da02f0eb85d7d9a95a0e06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688709
+        }
+    ],
     "wof:id":1108737795,
     "wof:lastmodified":1478903813,
-    "wof:name":"Congressional District 4",
-    "wof:parent_id":-1,
+    "wof:name":"Indiana Congressional District 4",
+    "wof:parent_id":85688709,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

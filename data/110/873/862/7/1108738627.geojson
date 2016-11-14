@@ -31,11 +31,18 @@
     "wof:country":"us",
     "wof:created":1478903973,
     "wof:geomhash":"287114d807acb2bc345cf78510566a66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191575",
+            "country_id":"85633793",
+            "dependency_id":"85633729",
+            "region_id":85687331
+        }
+    ],
     "wof:id":1108738627,
     "wof:lastmodified":1478903973,
-    "wof:name":"Resident Commissioner District (at Large)",
-    "wof:parent_id":-1,
+    "wof:name":"Puerto Rico Resident Commissioner District (at Large)",
+    "wof:parent_id":85687331,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

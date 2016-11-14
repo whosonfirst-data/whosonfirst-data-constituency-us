@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903947,
     "wof:geomhash":"e8988075167f6593faa335bd6726ed15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738491,
     "wof:lastmodified":1478903947,
-    "wof:name":"Congressional District 24",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 24",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

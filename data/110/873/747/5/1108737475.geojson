@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903738,
     "wof:geomhash":"e7168901cafa88bd611ce0502e6b0f55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688585
+        }
+    ],
     "wof:id":1108737475,
     "wof:lastmodified":1478903738,
-    "wof:name":"Congressional District 1",
-    "wof:parent_id":-1,
+    "wof:name":"Oklahoma Congressional District 1",
+    "wof:parent_id":85688585,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903964,
     "wof:geomhash":"3003996dbafc33a92c4591b5dff1c3fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738563,
     "wof:lastmodified":1478903964,
-    "wof:name":"Congressional District 34",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 34",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

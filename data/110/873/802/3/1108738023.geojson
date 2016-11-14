@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903866,
     "wof:geomhash":"b0535e293ce27d7a6d8aa9dfa3790b0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688701
+        }
+    ],
     "wof:id":1108738023,
     "wof:lastmodified":1478903866,
-    "wof:name":"Congressional District 6",
-    "wof:parent_id":-1,
+    "wof:name":"Tennessee Congressional District 6",
+    "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

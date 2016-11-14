@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903876,
     "wof:geomhash":"8885f93117ea586aab23a4d194b67464",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688773
+        }
+    ],
     "wof:id":1108738081,
     "wof:lastmodified":1478903876,
-    "wof:name":"Congressional District 7",
-    "wof:parent_id":-1,
+    "wof:name":"North Carolina Congressional District 7",
+    "wof:parent_id":85688773,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

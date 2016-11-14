@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903911,
     "wof:geomhash":"404f6854b25702c839ed9b85ea2e43a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108738277,
     "wof:lastmodified":1478903911,
-    "wof:name":"Congressional District 11",
-    "wof:parent_id":-1,
+    "wof:name":"Pennsylvania Congressional District 11",
+    "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

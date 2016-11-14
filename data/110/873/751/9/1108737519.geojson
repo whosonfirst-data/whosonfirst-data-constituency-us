@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903749,
     "wof:geomhash":"b6a9ef55e97e9fe1d979d04a9241e316",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688549
+        }
+    ],
     "wof:id":1108737519,
     "wof:lastmodified":1478903749,
-    "wof:name":"Congressional District 2",
-    "wof:parent_id":-1,
+    "wof:name":"Arkansas Congressional District 2",
+    "wof:parent_id":85688549,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

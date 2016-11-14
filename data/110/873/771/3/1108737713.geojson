@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903792,
     "wof:geomhash":"7156f9a1a102f59344d966206e167aa1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688563
+        }
+    ],
     "wof:id":1108737713,
     "wof:lastmodified":1478903792,
-    "wof:name":"Congressional District 3",
-    "wof:parent_id":-1,
+    "wof:name":"Nebraska Congressional District 3",
+    "wof:parent_id":85688563,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

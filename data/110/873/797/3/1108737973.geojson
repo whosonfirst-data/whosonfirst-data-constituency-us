@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903855,
     "wof:geomhash":"618b6b8612d905dc33ca55f731992a87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688697
+        }
+    ],
     "wof:id":1108737973,
     "wof:lastmodified":1478903855,
-    "wof:name":"Congressional District 6",
-    "wof:parent_id":-1,
+    "wof:name":"Illinois Congressional District 6",
+    "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903750,
     "wof:geomhash":"ceda5fec3448e5a4bb72dc8fa4f0f635",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688603
+        }
+    ],
     "wof:id":1108737525,
     "wof:lastmodified":1478903750,
-    "wof:name":"Congressional District 2",
-    "wof:parent_id":-1,
+    "wof:name":"Colorado Congressional District 2",
+    "wof:parent_id":85688603,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

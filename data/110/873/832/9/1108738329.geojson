@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903920,
     "wof:geomhash":"3d99177419718e4bd0c11a51ac1c6ccb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688599
+        }
+    ],
     "wof:id":1108738329,
     "wof:lastmodified":1478903920,
-    "wof:name":"Congressional District 13",
-    "wof:parent_id":-1,
+    "wof:name":"Michigan Congressional District 13",
+    "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

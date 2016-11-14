@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903730,
     "wof:geomhash":"708028fc7ba834cda9a2762dbf9a8892",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688555
+        }
+    ],
     "wof:id":1108737421,
     "wof:lastmodified":1478903730,
-    "wof:name":"Congressional District 1",
-    "wof:parent_id":-1,
+    "wof:name":"Kansas Congressional District 1",
+    "wof:parent_id":85688555,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

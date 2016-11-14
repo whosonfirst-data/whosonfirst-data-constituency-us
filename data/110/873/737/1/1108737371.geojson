@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903718,
     "wof:geomhash":"57b18dfe95153979b09ff912c4402ba1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688693
+        }
+    ],
     "wof:id":1108737371,
     "wof:lastmodified":1478903718,
-    "wof:name":"Congressional District (at Large)",
-    "wof:parent_id":-1,
+    "wof:name":"South Dakota Congressional District (at Large)",
+    "wof:parent_id":85688693,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

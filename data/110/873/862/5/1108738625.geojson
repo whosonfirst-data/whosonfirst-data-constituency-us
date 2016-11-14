@@ -31,11 +31,18 @@
     "wof:country":"us",
     "wof:created":1478903972,
     "wof:geomhash":"567caa7dc709f329957c490297da77d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191583",
+            "country_id":"85633793",
+            "dependency_id":"85632421",
+            "region_id":85674801
+        }
+    ],
     "wof:id":1108738625,
     "wof:lastmodified":1478903972,
-    "wof:name":"Delegate District (at Large)",
-    "wof:parent_id":-1,
+    "wof:name":"Tinian Delegate District (at Large)",
+    "wof:parent_id":85674801,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

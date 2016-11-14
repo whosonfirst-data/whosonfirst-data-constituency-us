@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903738,
     "wof:geomhash":"39abd40b0e73949d306b6ed46f4498b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688485
+        }
+    ],
     "wof:id":1108737473,
     "wof:lastmodified":1478903738,
-    "wof:name":"Congressional District 1",
-    "wof:parent_id":-1,
+    "wof:name":"Ohio Congressional District 1",
+    "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903896,
     "wof:geomhash":"170cc0ba0330a2e528bdbcdac3bcdd01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688645
+        }
+    ],
     "wof:id":1108738187,
     "wof:lastmodified":1478903896,
-    "wof:name":"Congressional District 9",
-    "wof:parent_id":-1,
+    "wof:name":"Massachusetts Congressional District 9",
+    "wof:parent_id":85688645,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

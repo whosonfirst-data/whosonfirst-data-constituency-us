@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903864,
     "wof:geomhash":"59cccd83b1bff3af09d339b00eb4e01c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688683
+        }
+    ],
     "wof:id":1108738015,
     "wof:lastmodified":1478903864,
-    "wof:name":"Congressional District 6",
-    "wof:parent_id":-1,
+    "wof:name":"South Carolina Congressional District 6",
+    "wof:parent_id":85688683,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

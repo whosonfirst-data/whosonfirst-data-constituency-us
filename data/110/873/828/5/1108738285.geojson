@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903913,
     "wof:geomhash":"6eb3e69d23215943d821f8646608518b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688637
+        }
+    ],
     "wof:id":1108738285,
     "wof:lastmodified":1478903913,
-    "wof:name":"Congressional District 12",
-    "wof:parent_id":-1,
+    "wof:name":"California Congressional District 12",
+    "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

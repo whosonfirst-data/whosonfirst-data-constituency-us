@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903746,
     "wof:geomhash":"96feaec0deffcf9b3ccb7825a6787666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688589
+        }
+    ],
     "wof:id":1108737509,
     "wof:lastmodified":1478903746,
-    "wof:name":"Congressional District 1",
-    "wof:parent_id":-1,
+    "wof:name":"West Virginia Congressional District 1",
+    "wof:parent_id":85688589,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],

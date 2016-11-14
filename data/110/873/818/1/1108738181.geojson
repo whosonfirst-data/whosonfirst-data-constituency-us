@@ -31,11 +31,17 @@
     "wof:country":"us",
     "wof:created":1478903895,
     "wof:geomhash":"21307f5599c8c5af1fa4b829190833c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108738181,
     "wof:lastmodified":1478903895,
-    "wof:name":"Congressional District 9",
-    "wof:parent_id":-1,
+    "wof:name":"Georgia Congressional District 9",
+    "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
