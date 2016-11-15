@@ -539,7 +539,7 @@
     "wof:name":"Louisiana",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:subdivision":"US-LA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
