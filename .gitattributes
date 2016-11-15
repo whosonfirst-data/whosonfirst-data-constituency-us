@@ -26,3 +26,4 @@ meta/wof-postalcode-latest.csv filter=lfs diff=lfs merge=lfs -text
 meta/wof-region-latest.csv filter=lfs diff=lfs merge=lfs -text
 meta/wof-timezone-latest.csv filter=lfs diff=lfs merge=lfs -text
 meta/wof-venue-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-constituency-us-latest.csv filter=lfs diff=lfs merge=lfs -text
