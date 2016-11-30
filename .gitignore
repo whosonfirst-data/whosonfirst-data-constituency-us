@@ -1,0 +1,8 @@
+*~
+*.bz2
+.commit
+Makefile.*
+.gitignore.*
+.DS_Store
+.changed-*
+.merge-*

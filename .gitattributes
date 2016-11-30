@@ -1,0 +1,10 @@
+*.geojson text eol=lf
+meta filter=lfs diff=lfs merge=lfs -text
+meta/wof-concordances-20160419.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-concordances-20160505.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-concordances-20160510.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-concordances-20160527.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-venue-us-ca-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-venue-us-ca-concordances-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/wof-venue-us-pr-latest.csv filter=lfs diff=lfs merge=lfs -text
+meta/*-latest.csv filter=lfs diff=lfs merge=lfs -text
