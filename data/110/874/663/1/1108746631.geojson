@@ -506,7 +506,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-LA",
     "wk:wordcount":16417,
@@ -529,13 +531,14 @@
     "wof:geomhash":"2d298026586e31563b008c1a2dc6a971",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746631,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108746631,
-    "wof:lastmodified":1479231165,
+    "wof:lastmodified":1487197410,
     "wof:name":"Louisiana",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

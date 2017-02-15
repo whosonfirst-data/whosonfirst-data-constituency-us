@@ -29,7 +29,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-AZ",
     "wk:wordcount":10758,
@@ -51,13 +53,14 @@
     "wof:geomhash":"8e8ccc32df7bdbb58ebacc0da3e644b8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746659,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108746659,
-    "wof:lastmodified":1479231173,
+    "wof:lastmodified":1487197400,
     "wof:name":"Arizona",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

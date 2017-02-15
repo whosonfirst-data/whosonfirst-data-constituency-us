@@ -485,7 +485,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-KY",
     "wk:wordcount":13787,
@@ -507,13 +509,14 @@
     "wof:geomhash":"e07effa8a95591cbe6fd4e4afa0ae137",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746669,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108746669,
-    "wof:lastmodified":1479231177,
+    "wof:lastmodified":1487197385,
     "wof:name":"Kentucky",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",
