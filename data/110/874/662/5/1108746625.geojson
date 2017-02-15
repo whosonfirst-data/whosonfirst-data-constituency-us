@@ -506,7 +506,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-VT",
     "wk:wordcount":19295,
@@ -528,13 +530,14 @@
     "wof:geomhash":"521f9bd4d5b91c7830d8d80f7e08cdae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746625,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108746625,
-    "wof:lastmodified":1479231162,
+    "wof:lastmodified":1487197397,
     "wof:name":"Vermont",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

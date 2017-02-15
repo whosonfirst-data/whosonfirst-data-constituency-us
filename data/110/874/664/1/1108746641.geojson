@@ -29,7 +29,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-ID",
     "wk:wordcount":7982,
@@ -51,13 +53,14 @@
     "wof:geomhash":"dbefbaf459cddb5a4dfc6816b802629b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746641,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108746641,
-    "wof:lastmodified":1479231167,
+    "wof:lastmodified":1487197412,
     "wof:name":"Idaho",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

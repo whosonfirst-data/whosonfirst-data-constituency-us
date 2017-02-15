@@ -488,7 +488,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-ME",
     "wk:wordcount":9509,
@@ -510,13 +512,14 @@
     "wof:geomhash":"3f779d284a590219df48602214cac88b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746681,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108746681,
-    "wof:lastmodified":1479231180,
+    "wof:lastmodified":1487197424,
     "wof:name":"Maine",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

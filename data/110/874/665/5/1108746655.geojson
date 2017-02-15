@@ -485,7 +485,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-SC",
     "wk:wordcount":10240,
@@ -507,13 +509,14 @@
     "wof:geomhash":"0681a819c7c1604653f07065744b97e7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746655,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108746655,
-    "wof:lastmodified":1479231172,
+    "wof:lastmodified":1487197399,
     "wof:name":"South Carolina",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -560,7 +560,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-AK",
     "wof:abbreviation":"AK",
@@ -580,13 +582,14 @@
     "wof:geomhash":"5a91329dbbdb0bfbacebdad428f112a1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746701,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108746701,
-    "wof:lastmodified":1479231188,
+    "wof:lastmodified":1487197395,
     "wof:name":"Alaska",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

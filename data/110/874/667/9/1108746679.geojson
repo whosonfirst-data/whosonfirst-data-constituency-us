@@ -497,7 +497,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-WV",
     "wof:abbreviation":"WV",
@@ -517,13 +519,14 @@
     "wof:geomhash":"ad0bd6de9e61e250cf04c7c5860cc00b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746679,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108746679,
-    "wof:lastmodified":1479231179,
+    "wof:lastmodified":1487197409,
     "wof:name":"West Virginia",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

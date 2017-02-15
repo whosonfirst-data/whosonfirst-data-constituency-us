@@ -482,7 +482,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-SD",
     "wk:wordcount":10619,
@@ -505,13 +507,14 @@
     "wof:geomhash":"d3128cd8f53e33608aecdacde84e3102",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746683,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688693
         }
     ],
     "wof:id":1108746683,
-    "wof:lastmodified":1479231181,
+    "wof:lastmodified":1487197384,
     "wof:name":"South Dakota",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

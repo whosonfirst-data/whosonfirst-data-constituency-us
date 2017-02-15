@@ -29,7 +29,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-HI",
     "wk:wordcount":14844,
@@ -52,13 +54,14 @@
     "wof:geomhash":"3036c294824a51ccff2f3740f44e20c3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746643,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108746643,
-    "wof:lastmodified":1479231169,
+    "wof:lastmodified":1487197425,
     "wof:name":"Hawaii",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

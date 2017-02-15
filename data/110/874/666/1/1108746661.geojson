@@ -29,7 +29,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-NC",
     "wk:wordcount":13073,
@@ -51,13 +53,14 @@
     "wof:geomhash":"68de08921205af592bf39bd969e14842",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746661,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108746661,
-    "wof:lastmodified":1479231174,
+    "wof:lastmodified":1487197405,
     "wof:name":"North Carolina",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",
