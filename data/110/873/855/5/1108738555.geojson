@@ -11,6 +11,9 @@
     "geom:longitude":-96.652265,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-32"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":484467670.0,
     "uscensus:awater":31838375.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 32",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903963,
-    "wof:geomhash":"f89551e81d82882bd7f5d92babeea6a5",
+    "wof:geomhash":"725cbd0d4fc1743259a6fc0b9ef1abc1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738555,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738555,
-    "wof:lastmodified":1478903963,
+    "wof:lastmodified":1493955490,
     "wof:name":"Texas Congressional District 32",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

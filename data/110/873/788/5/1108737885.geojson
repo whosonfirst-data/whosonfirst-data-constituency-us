@@ -11,6 +11,9 @@
     "geom:longitude":-73.218842,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CT-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":3232720307.0,
     "uscensus:awater":87618065.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"09",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903839,
-    "wof:geomhash":"f5fe416aae8b8ef5cebe39d5c4910fdc",
+    "wof:geomhash":"961d4aa99354c251206731c5dfed3bdd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737885,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108737885,
-    "wof:lastmodified":1478903839,
+    "wof:lastmodified":1493955416,
     "wof:name":"Connecticut Congressional District 5",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

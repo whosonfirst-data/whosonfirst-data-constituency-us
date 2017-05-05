@@ -11,6 +11,9 @@
     "geom:longitude":-88.146439,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IL-11"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":727513792.0,
     "uscensus:awater":14395653.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 11",
     "uscensus:statefp":"17",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903908,
-    "wof:geomhash":"72f86c008b7c852755b82335427998c0",
+    "wof:geomhash":"ac16da191ec8bc86a3ca6660531f3770",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738261,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108738261,
-    "wof:lastmodified":1478903908,
+    "wof:lastmodified":1493955513,
     "wof:name":"Illinois Congressional District 11",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

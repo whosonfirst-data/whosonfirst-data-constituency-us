@@ -11,6 +11,9 @@
     "geom:longitude":-85.094524,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GA-14"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":9384274803.0,
     "uscensus:awater":51592163.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 14",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903923,
-    "wof:geomhash":"5a2464032c3b54ad171705db5a56ccc4",
+    "wof:geomhash":"f49611618bb81153a8d87e71c3a6b32a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738351,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108738351,
-    "wof:lastmodified":1478903923,
+    "wof:lastmodified":1493955424,
     "wof:name":"Georgia Congressional District 14",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

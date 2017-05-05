@@ -11,6 +11,9 @@
     "geom:longitude":-80.525573,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SC-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":20886522008.0,
     "uscensus:awater":859859328.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"45",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903864,
-    "wof:geomhash":"59cccd83b1bff3af09d339b00eb4e01c",
+    "wof:geomhash":"6bae09c4eb8378cc9379305ebfb695ef",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738015,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108738015,
-    "wof:lastmodified":1478903864,
+    "wof:lastmodified":1493955493,
     "wof:name":"South Carolina Congressional District 6",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-75.942215,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "VA-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":2859165075.0,
     "uscensus:awater":5175276563.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"51",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903775,
-    "wof:geomhash":"5385b81bf711cf2a8b837525a7f2ffef",
+    "wof:geomhash":"de9cb42be88a857f7118f8b9c7c874be",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737637,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108737637,
-    "wof:lastmodified":1478903775,
+    "wof:lastmodified":1493955491,
     "wof:name":"Virginia Congressional District 2",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

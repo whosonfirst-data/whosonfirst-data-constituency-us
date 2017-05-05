@@ -11,6 +11,9 @@
     "geom:longitude":-117.155374,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-52"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":691527660.0,
     "uscensus:awater":296833733.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 52",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903971,
-    "wof:geomhash":"470b3abdc6a8ef70a25851214e9e1591",
+    "wof:geomhash":"f11d3277b183ff5699b81161443bba24",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738613,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738613,
-    "wof:lastmodified":1478903971,
+    "wof:lastmodified":1493955487,
     "wof:name":"California Congressional District 52",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

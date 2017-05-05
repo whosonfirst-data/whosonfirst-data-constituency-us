@@ -11,6 +11,9 @@
     "geom:longitude":-83.521956,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "KY-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":29095520627.0,
     "uscensus:awater":312970296.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"21",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903842,
-    "wof:geomhash":"e0ba0a006d873fd4e0da54beda7c8c6e",
+    "wof:geomhash":"5b4b4eb93a65c8f738356610b7000c4c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737899,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108737899,
-    "wof:lastmodified":1478903842,
+    "wof:lastmodified":1493955425,
     "wof:name":"Kentucky Congressional District 5",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",

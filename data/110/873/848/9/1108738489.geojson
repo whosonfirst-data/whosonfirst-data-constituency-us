@@ -11,6 +11,9 @@
     "geom:longitude":-102.362864,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-23"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":150370081534.0,
     "uscensus:awater":449327207.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 23",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903945,
-    "wof:geomhash":"7ecec5258f1de98d9f5485564effb731",
+    "wof:geomhash":"4d0f9c3a4ab506075e6c47e924f4e8f7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738489,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738489,
-    "wof:lastmodified":1478903945,
+    "wof:lastmodified":1493955553,
     "wof:name":"Texas Congressional District 23",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-88.046501,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WI-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":4475863318.0,
     "uscensus:awater":2523908462.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"55",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688517
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903747,
-    "wof:geomhash":"d7599e8121a5e0af50160c427cdf720c",
+    "wof:geomhash":"5aa945c865a0243b2e43a8fa23ceb8e2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737511,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108737511,
-    "wof:lastmodified":1478903747,
+    "wof:lastmodified":1493955405,
     "wof:name":"Wisconsin Congressional District 1",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

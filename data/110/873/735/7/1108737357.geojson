@@ -11,6 +11,9 @@
     "geom:longitude":-151.593422,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AK-00"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1477946266785.0,
     "uscensus:awater":245390495931.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District (at Large)",
     "uscensus:statefp":"02",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688573
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903714,
-    "wof:geomhash":"f5a093770c89243ad79b559a83984009",
+    "wof:geomhash":"d7a393cea566ba937cab5f3ce1700d1d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737357,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108737357,
-    "wof:lastmodified":1478903714,
+    "wof:lastmodified":1493955437,
     "wof:name":"Alaska Congressional District (at Large)",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",

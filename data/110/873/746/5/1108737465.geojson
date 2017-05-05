@@ -11,6 +11,9 @@
     "geom:longitude":-106.055351,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NM-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":11915188974.0,
     "uscensus:awater":17971806.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"35",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903737,
-    "wof:geomhash":"b029d9e2efc867ed930c0148518a0d37",
+    "wof:geomhash":"9d80fb15e2511b3fa3944aa3ab2d875a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737465,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688493
         }
     ],
     "wof:id":1108737465,
-    "wof:lastmodified":1478903737,
+    "wof:lastmodified":1493955449,
     "wof:name":"New Mexico Congressional District 1",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",

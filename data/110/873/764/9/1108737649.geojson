@@ -11,6 +11,9 @@
     "geom:longitude":-89.747781,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WI-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":11750339257.0,
     "uscensus:awater":189149076.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"55",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688517
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903779,
-    "wof:geomhash":"f62b7848e8e58b498157eac237e62344",
+    "wof:geomhash":"7201ca81d99983bd48f7d7205ad3a4fb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737649,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108737649,
-    "wof:lastmodified":1478903779,
+    "wof:lastmodified":1493955408,
     "wof:name":"Wisconsin Congressional District 2",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

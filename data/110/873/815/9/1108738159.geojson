@@ -11,6 +11,9 @@
     "geom:longitude":-95.547371,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":15680129941.0,
     "uscensus:awater":412776297.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903891,
-    "wof:geomhash":"1465879fe752b476f3fc75e57a20d254",
+    "wof:geomhash":"6e9d402945449a229ce428dd63b38d4d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738159,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738159,
-    "wof:lastmodified":1478903891,
+    "wof:lastmodified":1493955484,
     "wof:name":"Texas Congressional District 8",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

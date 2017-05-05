@@ -11,6 +11,9 @@
     "geom:longitude":-84.750522,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MI-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":21906541481.0,
     "uscensus:awater":520884153.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"26",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903818,
-    "wof:geomhash":"88fb6d6dcf44d8e9f949cd1c6b25326c",
+    "wof:geomhash":"11f1f3e5de4703c5f2c1e9d0b04c5af2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737815,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108737815,
-    "wof:lastmodified":1478903818,
+    "wof:lastmodified":1493955424,
     "wof:name":"Michigan Congressional District 4",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

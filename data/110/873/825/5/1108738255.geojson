@@ -11,6 +11,9 @@
     "geom:longitude":-82.215707,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "FL-11"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":6189835712.0,
     "uscensus:awater":1289581272.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 11",
     "uscensus:statefp":"12",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688651
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903908,
-    "wof:geomhash":"43ce4afdbf2afa2a28036153a5e7c418",
+    "wof:geomhash":"ca09353f5ce491a2da8e913a989c77ce",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738255,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108738255,
-    "wof:lastmodified":1478903908,
+    "wof:lastmodified":1493955498,
     "wof:name":"Florida Congressional District 11",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

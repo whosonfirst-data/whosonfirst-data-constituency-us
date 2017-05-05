@@ -11,6 +11,9 @@
     "geom:longitude":-77.251444,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MD-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":2226201063.0,
     "uscensus:awater":24118929.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"24",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903885,
-    "wof:geomhash":"b27a2356f8d886980733f5dea608ca0d",
+    "wof:geomhash":"0eeb4895ba8dfe27d1a0fc2a5714cb46",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738129,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108738129,
-    "wof:lastmodified":1478903885,
+    "wof:lastmodified":1493955444,
     "wof:name":"Maryland Congressional District 8",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

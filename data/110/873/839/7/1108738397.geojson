@@ -11,6 +11,9 @@
     "geom:longitude":-81.738357,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-16"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":3121946612.0,
     "uscensus:awater":31001528.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 16",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903930,
-    "wof:geomhash":"3e8ef0ac864c374ae3c33ba04bd55d29",
+    "wof:geomhash":"d891912c4d041c4ef2b2c81ffb4a8aa7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738397,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108738397,
-    "wof:lastmodified":1478903930,
+    "wof:lastmodified":1493955430,
     "wof:name":"Ohio Congressional District 16",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

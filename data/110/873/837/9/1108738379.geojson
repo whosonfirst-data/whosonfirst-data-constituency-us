@@ -11,6 +11,9 @@
     "geom:longitude":-82.752746,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-15"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":12273657579.0,
     "uscensus:awater":99640583.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 15",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903927,
-    "wof:geomhash":"caa2f983f3d4db5f38c80cca2044c8b1",
+    "wof:geomhash":"03815f9a8d79de9e5f184b9a2335ec74",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738379,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108738379,
-    "wof:lastmodified":1478903927,
+    "wof:lastmodified":1493955467,
     "wof:name":"Ohio Congressional District 15",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-76.429026,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MD-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":902948596.0,
     "uscensus:awater":440384875.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"24",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903760,
-    "wof:geomhash":"bf69cbe8d49effaf1fd5de5da8e575fd",
+    "wof:geomhash":"17acbf618fef8b81ff11dcefbf961bec",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737571,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108737571,
-    "wof:lastmodified":1478903760,
+    "wof:lastmodified":1493955516,
     "wof:name":"Maryland Congressional District 2",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

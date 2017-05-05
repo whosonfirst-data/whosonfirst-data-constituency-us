@@ -11,6 +11,9 @@
     "geom:longitude":-82.564567,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-09"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1203374672.0,
     "uscensus:awater":4312237545.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 9",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903898,
-    "wof:geomhash":"a0c828ed41d7f56d9d66acc53a090b73",
+    "wof:geomhash":"083a8dea7fbf4b3789c779292aa180ef",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738201,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108738201,
-    "wof:lastmodified":1478903898,
+    "wof:lastmodified":1493955542,
     "wof:name":"Ohio Congressional District 9",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

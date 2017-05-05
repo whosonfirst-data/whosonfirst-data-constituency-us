@@ -11,6 +11,9 @@
     "geom:longitude":-82.805782,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NC-11"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":17107258417.0,
     "uscensus:awater":191414245.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 11",
     "uscensus:statefp":"37",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903910,
-    "wof:geomhash":"46efd03012dd0d3d88c0550e24989665",
+    "wof:geomhash":"af529c69b18aac5cd5655a2ebc84242f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738271,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108738271,
-    "wof:lastmodified":1478903910,
+    "wof:lastmodified":1493955546,
     "wof:name":"North Carolina Congressional District 11",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-72.800865,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CT-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1749272971.0,
     "uscensus:awater":51354205.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"09",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903725,
-    "wof:geomhash":"28aff9acb7f6af066e16ca42b5f38849",
+    "wof:geomhash":"0cb385762a0b4e80558c300f91417068",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737397,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108737397,
-    "wof:lastmodified":1478903725,
+    "wof:lastmodified":1493955460,
     "wof:name":"Connecticut Congressional District 1",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

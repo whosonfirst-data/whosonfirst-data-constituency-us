@@ -11,6 +11,9 @@
     "geom:longitude":-97.739811,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "KS-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":37076615316.0,
     "uscensus:awater":188692073.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"20",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903814,
-    "wof:geomhash":"b2659a7eeb52918f8b8e8dc312dda7e7",
+    "wof:geomhash":"f084d563b7e76bcaed72cbd747aae79b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737799,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108737799,
-    "wof:lastmodified":1478903814,
+    "wof:lastmodified":1493955505,
     "wof:name":"Kansas Congressional District 4",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-86.480998,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MI-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":64823240980.0,
     "uscensus:awater":75783708302.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"26",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903733,
-    "wof:geomhash":"9b91f86ffd76e6d07da6e7019d52982f",
+    "wof:geomhash":"f6eb744bfdd4b88910bd08c7eed11978",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737443,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108737443,
-    "wof:lastmodified":1478903733,
+    "wof:lastmodified":1493955475,
     "wof:name":"Michigan Congressional District 1",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

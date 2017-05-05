@@ -11,6 +11,9 @@
     "geom:longitude":-88.431823,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IL-14"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":4137758645.0,
     "uscensus:awater":62456199.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 14",
     "uscensus:statefp":"17",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903923,
-    "wof:geomhash":"f2f8f4f378749e3821027e25ce8f6987",
+    "wof:geomhash":"1a45ff985c43f1205abfbdad9e15be5f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738353,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108738353,
-    "wof:lastmodified":1478903923,
+    "wof:lastmodified":1493955424,
     "wof:name":"Illinois Congressional District 14",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-90.294537,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MO-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":583631669.0,
     "uscensus:awater":27126111.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"29",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903735,
-    "wof:geomhash":"8663ea40722bc7c0865ad0e3a6ed1b3e",
+    "wof:geomhash":"5e698f8fe38a80807fb330161b241085",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737451,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108737451,
-    "wof:lastmodified":1478903735,
+    "wof:lastmodified":1493955532,
     "wof:name":"Missouri Congressional District 1",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-121.693333,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WA-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":16020143718.0,
     "uscensus:awater":1095973781.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"53",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903745,
-    "wof:geomhash":"9819b9fef35510b3bbf62534b99775f9",
+    "wof:geomhash":"84b21c34731285cf874c73a6964fac98",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737507,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108737507,
-    "wof:lastmodified":1478903745,
+    "wof:lastmodified":1493955418,
     "wof:name":"Washington Congressional District 1",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

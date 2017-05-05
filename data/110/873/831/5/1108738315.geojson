@@ -11,6 +11,9 @@
     "geom:longitude":-97.66951,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-12"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":3732599058.0,
     "uscensus:awater":86671264.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 12",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903918,
-    "wof:geomhash":"a9b27b78cfb519d1091e427d6aa220e9",
+    "wof:geomhash":"3a9123d1a2bebdb9440127da63cf2866",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738315,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738315,
-    "wof:lastmodified":1478903918,
+    "wof:lastmodified":1493955411,
     "wof:name":"Texas Congressional District 12",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

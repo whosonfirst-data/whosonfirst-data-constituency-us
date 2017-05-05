@@ -11,6 +11,9 @@
     "geom:longitude":-83.471278,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MI-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":6083579647.0,
     "uscensus:awater":4835391072.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"26",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903845,
-    "wof:geomhash":"7499aff5a95af517b45a98ea32973ffa",
+    "wof:geomhash":"4d73f252c6d2f7f180aeddf2ce6cbc82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737913,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108737913,
-    "wof:lastmodified":1478903845,
+    "wof:lastmodified":1493955485,
     "wof:name":"Michigan Congressional District 5",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

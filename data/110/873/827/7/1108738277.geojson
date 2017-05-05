@@ -11,6 +11,9 @@
     "geom:longitude":-76.451979,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PA-11"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":8692584436.0,
     "uscensus:awater":193803886.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 11",
     "uscensus:statefp":"42",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903911,
-    "wof:geomhash":"404f6854b25702c839ed9b85ea2e43a5",
+    "wof:geomhash":"f63433c176cbc6e623b151f6fcea8717",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738277,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108738277,
-    "wof:lastmodified":1478903911,
+    "wof:lastmodified":1493955545,
     "wof:name":"Pennsylvania Congressional District 11",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

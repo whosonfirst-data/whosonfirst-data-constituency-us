@@ -11,6 +11,9 @@
     "geom:longitude":-79.538474,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NC-09"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":10034195760.0,
     "uscensus:awater":88354229.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 9",
     "uscensus:statefp":"37",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903897,
-    "wof:geomhash":"4953612edb7eaef7f7a496bf52a5f95b",
+    "wof:geomhash":"4dc13885a22e4d35511bd3003ba98847",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738199,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108738199,
-    "wof:lastmodified":1478903897,
+    "wof:lastmodified":1493955403,
     "wof:name":"North Carolina Congressional District 9",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

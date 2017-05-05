@@ -11,6 +11,9 @@
     "geom:longitude":-91.554919,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MO-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":17745397776.0,
     "uscensus:awater":368170747.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"29",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903791,
-    "wof:geomhash":"7b7d0cabbe17ff2d313eff7a86fcf627",
+    "wof:geomhash":"aca8105070fae75ca50cec78c9a62a00",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737707,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108737707,
-    "wof:lastmodified":1478903791,
+    "wof:lastmodified":1493955431,
     "wof:name":"Missouri Congressional District 3",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",

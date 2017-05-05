@@ -11,6 +11,9 @@
     "geom:longitude":-87.200277,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AL-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":23022867957.0,
     "uscensus:awater":572877020.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"01",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688675
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903805,
-    "wof:geomhash":"501e45145c17cce776d1c0ef199bba72",
+    "wof:geomhash":"cb9eea542aea4d88de7c70bdd84caa5f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737767,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108737767,
-    "wof:lastmodified":1478903805,
+    "wof:lastmodified":1493955499,
     "wof:name":"Alabama Congressional District 4",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-98.261068,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-15"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":20212651272.0,
     "uscensus:awater":154626758.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 15",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903928,
-    "wof:geomhash":"a7e113aad9db455103c3a0e867c586da",
+    "wof:geomhash":"35b98393f6ed34e9fad9a1e538cecc50",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738383,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738383,
-    "wof:lastmodified":1478903928,
+    "wof:lastmodified":1493955531,
     "wof:name":"Texas Congressional District 15",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

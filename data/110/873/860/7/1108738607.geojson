@@ -11,6 +11,9 @@
     "geom:longitude":-116.617797,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-50"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":7219220756.0,
     "uscensus:awater":43659718.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 50",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903970,
-    "wof:geomhash":"00386fb536ee04dee93d677df06c2e8e",
+    "wof:geomhash":"2483ba0fcb8d27181189e8ab8dd02be0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738607,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738607,
-    "wof:lastmodified":1478903970,
+    "wof:lastmodified":1493955501,
     "wof:name":"California Congressional District 50",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

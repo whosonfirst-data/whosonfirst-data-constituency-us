@@ -11,6 +11,9 @@
     "geom:longitude":-97.814248,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-25"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":19742494282.0,
     "uscensus:awater":316174716.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 25",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903949,
-    "wof:geomhash":"9ed211924b564cfe18f0c4baecc9ce4e",
+    "wof:geomhash":"702d65a123a24f2d67fca47705a6e351",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738509,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738509,
-    "wof:lastmodified":1478903949,
+    "wof:lastmodified":1493955421,
     "wof:name":"Texas Congressional District 25",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

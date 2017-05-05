@@ -11,6 +11,9 @@
     "geom:longitude":-123.468067,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":33546252741.0,
     "uscensus:awater":4122497535.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903749,
-    "wof:geomhash":"b54df15d35dedd1d1a747dc788bf0800",
+    "wof:geomhash":"18e04e988c77b9612ebbefe2bb376a24",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737523,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108737523,
-    "wof:lastmodified":1478903749,
+    "wof:lastmodified":1493955529,
     "wof:name":"California Congressional District 2",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

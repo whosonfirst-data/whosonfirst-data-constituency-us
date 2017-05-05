@@ -11,6 +11,9 @@
     "geom:longitude":-87.835334,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IL-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":247680140.0,
     "uscensus:awater":1857063.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"17",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903841,
-    "wof:geomhash":"3ed78303895d67f40922925a3dc8c074",
+    "wof:geomhash":"e016ff9e8283f1287dcd6e3a85968bda",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737895,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108737895,
-    "wof:lastmodified":1478903841,
+    "wof:lastmodified":1493955425,
     "wof:name":"Illinois Congressional District 5",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

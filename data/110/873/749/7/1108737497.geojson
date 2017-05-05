@@ -11,6 +11,9 @@
     "geom:longitude":-94.55897,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":20379602044.0,
     "uscensus:awater":951776362.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903742,
-    "wof:geomhash":"877c01c00052b2197f117cde2d01772b",
+    "wof:geomhash":"d8d52cafe37c83ee9fd15c74930b00f9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737497,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108737497,
-    "wof:lastmodified":1478903742,
+    "wof:lastmodified":1493955400,
     "wof:name":"Texas Congressional District 1",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

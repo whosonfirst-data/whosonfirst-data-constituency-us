@@ -11,6 +11,9 @@
     "geom:longitude":-89.732948,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MS-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":33032657985.0,
     "uscensus:awater":343133742.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"28",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903790,
-    "wof:geomhash":"93f7eca9d64ccf49af9cec59af502133",
+    "wof:geomhash":"09771ae742b07395b4098510154a24e5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737703,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108737703,
-    "wof:lastmodified":1478903790,
+    "wof:lastmodified":1493955432,
     "wof:name":"Mississippi Congressional District 3",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",

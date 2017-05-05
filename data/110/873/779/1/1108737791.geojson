@@ -11,6 +11,9 @@
     "geom:longitude":-84.04997,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GA-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1286346610.0,
     "uscensus:awater":22918132.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903812,
-    "wof:geomhash":"8d98ac6abab866afb32d01074dc89345",
+    "wof:geomhash":"45e659f49b9d139e511d7dd94d8a5125",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737791,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108737791,
-    "wof:lastmodified":1478903812,
+    "wof:lastmodified":1493955505,
     "wof:name":"Georgia Congressional District 4",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

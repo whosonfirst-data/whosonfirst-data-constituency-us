@@ -11,6 +11,9 @@
     "geom:longitude":-100.469391,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "ND-00"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":178711813026.0,
     "uscensus:awater":4399093501.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District (at Large)",
     "uscensus:statefp":"38",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688525
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903716,
-    "wof:geomhash":"2582f8937a020efa0ff4ba74d4f654f1",
+    "wof:geomhash":"55f9897ec102639744d0d089859550b2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737365,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108737365,
-    "wof:lastmodified":1478903716,
+    "wof:lastmodified":1493955440,
     "wof:name":"North Dakota Congressional District (at Large)",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",

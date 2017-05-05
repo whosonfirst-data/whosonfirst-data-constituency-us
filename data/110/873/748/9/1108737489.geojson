@@ -11,6 +11,9 @@
     "geom:longitude":-80.152702,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SC-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":4009011998.0,
     "uscensus:awater":2197026731.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"45",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903740,
-    "wof:geomhash":"c0407b801701811915b268869e437f50",
+    "wof:geomhash":"fca83c2fc7bc2cdd083b85e1760b9043",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737489,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108737489,
-    "wof:lastmodified":1478903740,
+    "wof:lastmodified":1493955524,
     "wof:name":"South Carolina Congressional District 1",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

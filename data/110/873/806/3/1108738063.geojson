@@ -11,6 +11,9 @@
     "geom:longitude":-71.021342,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MA-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":162438962.0,
     "uscensus:awater":97447931.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"25",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903872,
-    "wof:geomhash":"af32c9f713c63c4dca623f8776af85b3",
+    "wof:geomhash":"e4c599bafb17c4f201c5e9d18f2cc01e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738063,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108738063,
-    "wof:lastmodified":1478903872,
+    "wof:lastmodified":1493955429,
     "wof:name":"Massachusetts Congressional District 7",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

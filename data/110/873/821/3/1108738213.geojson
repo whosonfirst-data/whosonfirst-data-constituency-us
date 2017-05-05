@@ -11,6 +11,9 @@
     "geom:longitude":-121.06105,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-10"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":4714659697.0,
     "uscensus:awater":54177484.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 10",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903901,
-    "wof:geomhash":"18483901fda6fa2d9b8ee580ca3108c5",
+    "wof:geomhash":"7adc82bb7e07c8d0b2625795801c19b4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738213,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738213,
-    "wof:lastmodified":1478903901,
+    "wof:lastmodified":1493955514,
     "wof:name":"California Congressional District 10",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

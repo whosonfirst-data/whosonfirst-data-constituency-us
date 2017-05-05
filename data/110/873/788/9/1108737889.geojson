@@ -11,6 +11,9 @@
     "geom:longitude":-84.401491,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GA-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":686230968.0,
     "uscensus:awater":5099707.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903841,
-    "wof:geomhash":"ed13cfaba1473597c2d54bd6c92683aa",
+    "wof:geomhash":"17faa4d6480e26a1a7331d9a9b0fb5ce",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737889,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108737889,
-    "wof:lastmodified":1478903841,
+    "wof:lastmodified":1493955417,
     "wof:name":"Georgia Congressional District 5",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-87.834128,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IL-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":669321972.0,
     "uscensus:awater":2069261.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"17",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903728,
-    "wof:geomhash":"0009d531e2ec667d3e77f0cb09fb4cb9",
+    "wof:geomhash":"bf4c33bc33922a7dacfa633561d5f410",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737415,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108737415,
-    "wof:lastmodified":1478903728,
+    "wof:lastmodified":1493955533,
     "wof:name":"Illinois Congressional District 1",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

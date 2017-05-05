@@ -11,6 +11,9 @@
     "geom:longitude":-109.957426,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AZ-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":20298522803.0,
     "uscensus:awater":138380234.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"04",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688719
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903748,
-    "wof:geomhash":"d8275131b939beda1a5c81d3ec4cae83",
+    "wof:geomhash":"737a15d6ff5bd632854408a28bc8a80b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737517,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108737517,
-    "wof:lastmodified":1478903748,
+    "wof:lastmodified":1493955405,
     "wof:name":"Arizona Congressional District 2",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

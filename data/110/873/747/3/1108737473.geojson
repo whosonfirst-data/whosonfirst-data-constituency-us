@@ -11,6 +11,9 @@
     "geom:longitude":-84.345541,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1779250428.0,
     "uscensus:awater":26627619.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903738,
-    "wof:geomhash":"39abd40b0e73949d306b6ed46f4498b9",
+    "wof:geomhash":"880f1c69b21494abee1f04442be994ae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737473,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108737473,
-    "wof:lastmodified":1478903738,
+    "wof:lastmodified":1493955422,
     "wof:name":"Ohio Congressional District 1",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

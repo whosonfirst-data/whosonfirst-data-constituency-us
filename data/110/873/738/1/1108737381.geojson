@@ -11,6 +11,9 @@
     "geom:longitude":-87.792945,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AL-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":15713033442.0,
     "uscensus:awater":2275872161.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"01",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688675
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903720,
-    "wof:geomhash":"72c3dc302a1ad81bcd64c10b27de7b40",
+    "wof:geomhash":"4af815254a74f80b6adc2335401b2c5e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737381,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108737381,
-    "wof:lastmodified":1478903720,
+    "wof:lastmodified":1493955521,
     "wof:name":"Alabama Congressional District 1",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

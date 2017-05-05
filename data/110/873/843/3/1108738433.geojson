@@ -11,6 +11,9 @@
     "geom:longitude":-80.028218,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PA-18"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":5368517143.0,
     "uscensus:awater":17435303.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 18",
     "uscensus:statefp":"42",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903936,
-    "wof:geomhash":"4a9e2ed0883ff1981ab9c7a5c55473da",
+    "wof:geomhash":"6a31fcc48bad14b80632caf6f0d3e69b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738433,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108738433,
-    "wof:lastmodified":1478903936,
+    "wof:lastmodified":1493955410,
     "wof:name":"Pennsylvania Congressional District 18",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

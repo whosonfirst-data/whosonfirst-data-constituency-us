@@ -11,6 +11,9 @@
     "geom:longitude":-86.139056,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IN-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":787152103.0,
     "uscensus:awater":4737057.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"18",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903872,
-    "wof:geomhash":"a07d3ef8725704ce4f442c3d5e69b059",
+    "wof:geomhash":"ff5307f21980391578aeb0d488057977",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738057,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108738057,
-    "wof:lastmodified":1478903872,
+    "wof:lastmodified":1493955436,
     "wof:name":"Indiana Congressional District 7",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

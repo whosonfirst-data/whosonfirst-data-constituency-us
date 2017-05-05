@@ -11,6 +11,9 @@
     "geom:longitude":-105.821665,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NM-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":116443103249.0,
     "uscensus:awater":319447800.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"35",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688493
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903795,
-    "wof:geomhash":"5f2f93d93564d620057ca307def22cd3",
+    "wof:geomhash":"145fba9d94f27f6c928d1d53a19e3bc9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737721,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688493
         }
     ],
     "wof:id":1108737721,
-    "wof:lastmodified":1478903795,
+    "wof:lastmodified":1493955516,
     "wof:name":"New Mexico Congressional District 3",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",

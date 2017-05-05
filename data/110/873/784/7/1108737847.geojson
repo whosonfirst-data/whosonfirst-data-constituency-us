@@ -11,6 +11,9 @@
     "geom:longitude":-76.910264,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PA-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":3931306854.0,
     "uscensus:awater":41446365.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"42",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903826,
-    "wof:geomhash":"3f351ea642477b112e33d403edbacb76",
+    "wof:geomhash":"fc3a7fc8d6ac35bef446a4e7e620af84",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737847,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108737847,
-    "wof:lastmodified":1478903826,
+    "wof:lastmodified":1493955517,
     "wof:name":"Pennsylvania Congressional District 4",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

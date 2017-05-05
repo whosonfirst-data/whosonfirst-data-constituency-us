@@ -11,6 +11,9 @@
     "geom:longitude":-105.33834,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CO-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":18818274962.0,
     "uscensus:awater":61255623.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"08",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688603
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903839,
-    "wof:geomhash":"61dc153bbd570b42d103be54a89d8b60",
+    "wof:geomhash":"07fcaea2a9861ce789b9ae4ad9b7eacb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737881,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108737881,
-    "wof:lastmodified":1478903839,
+    "wof:lastmodified":1493955416,
     "wof:name":"Colorado Congressional District 5",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",

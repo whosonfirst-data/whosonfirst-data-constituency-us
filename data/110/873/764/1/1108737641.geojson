@@ -11,6 +11,9 @@
     "geom:longitude":-122.616458,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WA-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":2629804515.0,
     "uscensus:awater":2683877037.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"53",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903776,
-    "wof:geomhash":"4b7a2232c54856378d771bfb8b3586dd",
+    "wof:geomhash":"b4e1dc1e7440cbba20ef3be6a58282d7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737641,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108737641,
-    "wof:lastmodified":1478903776,
+    "wof:lastmodified":1493955407,
     "wof:name":"Washington Congressional District 2",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-97.13192,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-26"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":2349770351.0,
     "uscensus:awater":191526735.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 26",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903950,
-    "wof:geomhash":"653d5f95d7d6a12552512a9453360c50",
+    "wof:geomhash":"fecc2b1d1b73f37cdb91771da777fea9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738517,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738517,
-    "wof:lastmodified":1478903950,
+    "wof:lastmodified":1493955556,
     "wof:name":"Texas Congressional District 26",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

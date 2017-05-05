@@ -11,6 +11,9 @@
     "geom:longitude":-87.422526,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IL-ZZ"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":922.0,
     "uscensus:awater":4070628922.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional Districts not defined",
     "uscensus:statefp":"17",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903973,
-    "wof:geomhash":"463487a5d2fc3aa52d4b19473ed21e37",
+    "wof:geomhash":"ca5b92c5175e0924f36c734dda70a08a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738635,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108738635,
-    "wof:lastmodified":1478903973,
+    "wof:lastmodified":1493955514,
     "wof:name":"Illinois Congressional Districts not defined",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

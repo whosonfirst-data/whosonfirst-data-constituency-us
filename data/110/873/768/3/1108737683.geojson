@@ -11,6 +11,9 @@
     "geom:longitude":-94.79251,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "KS-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1961359359.0,
     "uscensus:awater":33283122.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"20",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903786,
-    "wof:geomhash":"f92c31a567f9d724bec40332307ac818",
+    "wof:geomhash":"8c350625f96c42733f50c35cc8f76eb2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737683,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108737683,
-    "wof:lastmodified":1478903786,
+    "wof:lastmodified":1493955519,
     "wof:name":"Kansas Congressional District 3",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

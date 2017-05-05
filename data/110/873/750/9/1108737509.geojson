@@ -11,6 +11,9 @@
     "geom:longitude":-80.267261,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WV-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":16253892437.0,
     "uscensus:awater":176317347.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"54",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903746,
-    "wof:geomhash":"96feaec0deffcf9b3ccb7825a6787666",
+    "wof:geomhash":"c7d0806a43db6258dbcf5fd9c9f5b969",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737509,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108737509,
-    "wof:lastmodified":1478903746,
+    "wof:lastmodified":1493955420,
     "wof:name":"West Virginia Congressional District 1",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",

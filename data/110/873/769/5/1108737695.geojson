@@ -11,6 +11,9 @@
     "geom:longitude":-71.574713,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MA-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1962136218.0,
     "uscensus:awater":76259190.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"25",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903788,
-    "wof:geomhash":"b8c65ca2fadf7f2949f351832ba07bdf",
+    "wof:geomhash":"180642c37f06bfe5c45e1a13c88f5e2d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737695,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108737695,
-    "wof:lastmodified":1478903788,
+    "wof:lastmodified":1493955439,
     "wof:name":"Massachusetts Congressional District 3",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

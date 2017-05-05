@@ -11,6 +11,9 @@
     "geom:longitude":-77.294807,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "VA-11"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":479653091.0,
     "uscensus:awater":21596391.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 11",
     "uscensus:statefp":"51",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903913,
-    "wof:geomhash":"6e1f9b0a88496316e8e0a0246ba8f1be",
+    "wof:geomhash":"56b7eaf1448279f5cf924289f45c54a2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738283,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108738283,
-    "wof:lastmodified":1478903913,
+    "wof:lastmodified":1493955445,
     "wof:name":"Virginia Congressional District 11",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

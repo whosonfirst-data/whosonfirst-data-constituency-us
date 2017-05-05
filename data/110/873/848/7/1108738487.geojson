@@ -11,6 +11,9 @@
     "geom:longitude":-77.842209,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NY-23"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":19092559709.0,
     "uscensus:awater":1602397770.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 23",
     "uscensus:statefp":"36",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903945,
-    "wof:geomhash":"de46812ce5f3191bffb1115338f9dd4a",
+    "wof:geomhash":"b9771f20be29039226c8600bd099762f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738487,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108738487,
-    "wof:lastmodified":1478903945,
+    "wof:lastmodified":1493955551,
     "wof:name":"New York Congressional District 23",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

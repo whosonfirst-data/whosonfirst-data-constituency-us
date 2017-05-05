@@ -11,6 +11,9 @@
     "geom:longitude":-79.797494,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NC-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":7650801120.0,
     "uscensus:awater":123328440.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"37",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903889,
-    "wof:geomhash":"a728ad02ef8d44cd9a3046129443bb4b",
+    "wof:geomhash":"753c18c840063e50232874dfa49f9e9b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738149,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108738149,
-    "wof:lastmodified":1478903889,
+    "wof:lastmodified":1493955544,
     "wof:name":"North Carolina Congressional District 8",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

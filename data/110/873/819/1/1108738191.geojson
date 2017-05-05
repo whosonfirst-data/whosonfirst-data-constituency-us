@@ -11,6 +11,9 @@
     "geom:longitude":-74.073482,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NJ-09"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":246844919.0,
     "uscensus:awater":19506357.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 9",
     "uscensus:statefp":"34",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903897,
-    "wof:geomhash":"63009f5062afdc8746454d8dc1a877d8",
+    "wof:geomhash":"aee43e3cddce0cc81e02cb921d406048",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738191,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108738191,
-    "wof:lastmodified":1478903897,
+    "wof:lastmodified":1493955402,
     "wof:name":"New Jersey Congressional District 9",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

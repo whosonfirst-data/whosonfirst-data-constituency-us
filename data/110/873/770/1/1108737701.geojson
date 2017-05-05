@@ -11,6 +11,9 @@
     "geom:longitude":-93.529604,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1365075415.0,
     "uscensus:awater":144960110.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903789,
-    "wof:geomhash":"4f181ff66e2a1325eba0035e47ab0690",
+    "wof:geomhash":"7e1eb0742a1695185a0734a56cea4881",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737701,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108737701,
-    "wof:lastmodified":1478903789,
+    "wof:lastmodified":1493955433,
     "wof:name":"Minnesota Congressional District 3",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

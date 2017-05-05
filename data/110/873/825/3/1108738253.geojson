@@ -11,6 +11,9 @@
     "geom:longitude":-122.001887,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-11"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1277339159.0,
     "uscensus:awater":92421440.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 11",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903907,
-    "wof:geomhash":"903f963dcf40365df897e399a7d790c2",
+    "wof:geomhash":"8ba0dbf619b57bc7c8eaf03f70273284",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738253,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738253,
-    "wof:lastmodified":1478903907,
+    "wof:lastmodified":1493955499,
     "wof:name":"California Congressional District 11",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

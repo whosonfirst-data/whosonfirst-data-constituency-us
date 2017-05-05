@@ -11,6 +11,9 @@
     "geom:longitude":-78.741868,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "VA-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":25977255356.0,
     "uscensus:awater":391593341.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"51",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903851,
-    "wof:geomhash":"fe56c28e3f7ea8d83cebbea992844072",
+    "wof:geomhash":"84881b008fe4d7f7462331611fda32d8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737947,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108737947,
-    "wof:lastmodified":1478903851,
+    "wof:lastmodified":1493955547,
     "wof:name":"Virginia Congressional District 5",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
