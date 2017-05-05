@@ -11,6 +11,9 @@
     "geom:longitude":-95.43508,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "KS-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":36631689605.0,
     "uscensus:awater":529495467.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"20",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903757,
-    "wof:geomhash":"57e8af178f294e381585a7a7522ee03b",
+    "wof:geomhash":"727866b099232c3f6ef4f25b8a747ca8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737555,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108737555,
-    "wof:lastmodified":1478903757,
+    "wof:lastmodified":1493955472,
     "wof:name":"Kansas Congressional District 2",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-85.861212,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IN-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":4985187632.0,
     "uscensus:awater":40997784.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"18",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903841,
-    "wof:geomhash":"fc3762abdaf687771879d3b334e6a8ee",
+    "wof:geomhash":"43e341a9f7848d540c390849a2f93c96",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737897,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108737897,
-    "wof:lastmodified":1478903841,
+    "wof:lastmodified":1493955425,
     "wof:name":"Indiana Congressional District 5",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

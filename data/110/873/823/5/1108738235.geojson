@@ -11,6 +11,9 @@
     "geom:longitude":-81.621586,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NC-10"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":6707738013.0,
     "uscensus:awater":108170530.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 10",
     "uscensus:statefp":"37",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688773
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903903,
-    "wof:geomhash":"f042315bd140c1cf3c7c991d96e5940c",
+    "wof:geomhash":"e0b26ca11b0b7df28b744ff3fc704f6c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738235,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108738235,
-    "wof:lastmodified":1478903903,
+    "wof:lastmodified":1493955473,
     "wof:name":"North Carolina Congressional District 10",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

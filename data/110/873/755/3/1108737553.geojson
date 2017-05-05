@@ -11,6 +11,9 @@
     "geom:longitude":-92.149208,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IA-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":31758192941.0,
     "uscensus:awater":431647367.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"19",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903756,
-    "wof:geomhash":"398ce4ef61c9c3cb0b5a8df1f15a6c6c",
+    "wof:geomhash":"d387b0ca65226e6280eb355b1b3a9e18",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737553,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108737553,
-    "wof:lastmodified":1478903756,
+    "wof:lastmodified":1493955472,
     "wof:name":"Iowa Congressional District 2",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",

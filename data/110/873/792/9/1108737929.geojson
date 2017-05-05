@@ -11,6 +11,9 @@
     "geom:longitude":-84.041741,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":14572425339.0,
     "uscensus:awater":72295618.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903847,
-    "wof:geomhash":"09bc271d792b7192227a380de2b51d06",
+    "wof:geomhash":"40350ef77af5b1385ce710d20b7b2ac0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737929,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108737929,
-    "wof:lastmodified":1478903847,
+    "wof:lastmodified":1493955465,
     "wof:name":"Ohio Congressional District 5",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

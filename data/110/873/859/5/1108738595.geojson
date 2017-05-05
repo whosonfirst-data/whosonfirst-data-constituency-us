@@ -11,6 +11,9 @@
     "geom:longitude":-118.249617,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-44"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":205565799.0,
     "uscensus:awater":66854286.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 44",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903968,
-    "wof:geomhash":"1ee2f17a2cda55a92f9836728aa1faec",
+    "wof:geomhash":"df4e6ccf830af35ce30afb772367ae5b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738595,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738595,
-    "wof:lastmodified":1478903968,
+    "wof:lastmodified":1493955557,
     "wof:name":"California Congressional District 44",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

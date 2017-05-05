@@ -11,6 +11,9 @@
     "geom:longitude":-93.297981,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MO-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":47134020202.0,
     "uscensus:awater":527099972.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"29",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903861,
-    "wof:geomhash":"dbb1b220038196df831f8a34a26b44e0",
+    "wof:geomhash":"a701ae2a65ca4a30a9b67fe97055c104",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738001,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108738001,
-    "wof:lastmodified":1478903861,
+    "wof:lastmodified":1493955447,
     "wof:name":"Missouri Congressional District 6",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-89.889271,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "LA-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":10439814563.0,
     "uscensus:awater":14395438742.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"22",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903731,
-    "wof:geomhash":"657f1bd4214dfe923027a0e21ea7cfdc",
+    "wof:geomhash":"7fe0e9433bf8f46eab51421ea5968634",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737429,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108737429,
-    "wof:lastmodified":1478903731,
+    "wof:lastmodified":1493955525,
     "wof:name":"Louisiana Congressional District 1",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",

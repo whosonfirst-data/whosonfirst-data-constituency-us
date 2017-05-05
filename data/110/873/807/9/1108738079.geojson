@@ -11,6 +11,9 @@
     "geom:longitude":-73.948714,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NY-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":41806002.0,
     "uscensus:awater":2675060.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"36",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903876,
-    "wof:geomhash":"a0455c9311fd20f6bcd7db4f30b0f750",
+    "wof:geomhash":"6c86c50c59db7909b791130b9a22f1dc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738079,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108738079,
-    "wof:lastmodified":1478903876,
+    "wof:lastmodified":1493955471,
     "wof:name":"New York Congressional District 7",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

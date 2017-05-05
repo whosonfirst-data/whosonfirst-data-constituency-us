@@ -11,6 +11,9 @@
     "geom:longitude":-71.718774,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NH-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":16804415984.0,
     "uscensus:awater":401982322.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"33",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688689
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903764,
-    "wof:geomhash":"43cdf3b0e2e9cd33b75e6ffcdb7e103a",
+    "wof:geomhash":"cc6f2cb255367365a697557d647130fe",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737593,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108737593,
-    "wof:lastmodified":1478903764,
+    "wof:lastmodified":1493955450,
     "wof:name":"New Hampshire Congressional District 2",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-91.246845,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AR-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":50036314981.0,
     "uscensus:awater":1233951818.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"05",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688549
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903722,
-    "wof:geomhash":"e73808abe5535b5d507254e753914ad4",
+    "wof:geomhash":"8a573d8a31c65c7a56517231eea5a56e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737389,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108737389,
-    "wof:lastmodified":1478903722,
+    "wof:lastmodified":1493955522,
     "wof:name":"Arkansas Congressional District 1",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",

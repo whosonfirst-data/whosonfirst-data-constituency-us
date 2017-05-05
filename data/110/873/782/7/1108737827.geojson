@@ -11,6 +11,9 @@
     "geom:longitude":-74.318487,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NJ-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1790194779.0,
     "uscensus:awater":49209076.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"34",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903821,
-    "wof:geomhash":"fe6e8a67bcf093ac3489cc13af5f188d",
+    "wof:geomhash":"34bb80814a963bae905f4db5474e5074",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737827,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108737827,
-    "wof:lastmodified":1478903821,
+    "wof:lastmodified":1493955453,
     "wof:name":"New Jersey Congressional District 4",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

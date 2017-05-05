@@ -11,6 +11,9 @@
     "geom:longitude":-82.059018,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":10009776446.0,
     "uscensus:awater":64671745.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903877,
-    "wof:geomhash":"a4f8f5528f62ad68b00b5d11555bbcf0",
+    "wof:geomhash":"71a9df38dafc55467d595dc9f6262174",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738085,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108738085,
-    "wof:lastmodified":1478903877,
+    "wof:lastmodified":1493955408,
     "wof:name":"Ohio Congressional District 7",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

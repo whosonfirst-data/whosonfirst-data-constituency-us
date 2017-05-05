@@ -11,6 +11,9 @@
     "geom:longitude":-89.07619,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MS-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":20835102687.0,
     "uscensus:awater":2217386363.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"28",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903818,
-    "wof:geomhash":"7a272f80906290c5b864eb267176b544",
+    "wof:geomhash":"0c217e75b02447f1818626d0910f09da",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737821,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108737821,
-    "wof:lastmodified":1478903818,
+    "wof:lastmodified":1493955454,
     "wof:name":"Mississippi Congressional District 4",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",

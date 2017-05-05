@@ -11,6 +11,9 @@
     "geom:longitude":-92.938028,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":72280249674.0,
     "uscensus:awater":12450068371.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903887,
-    "wof:geomhash":"531fc7bd876e3325c65c867e65daea7e",
+    "wof:geomhash":"a6d705da27a2481c87e0c832925aca65",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738137,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108738137,
-    "wof:lastmodified":1478903887,
+    "wof:lastmodified":1493955505,
     "wof:name":"Minnesota Congressional District 8",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

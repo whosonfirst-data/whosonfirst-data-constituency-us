@@ -11,6 +11,9 @@
     "geom:longitude":-118.536916,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-23"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":25636001562.0,
     "uscensus:awater":100513172.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 23",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903944,
-    "wof:geomhash":"7e2a5b37354820917323f5e4ff98e68e",
+    "wof:geomhash":"2d418771e83c547aad2e8174fdbab7e0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738481,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738481,
-    "wof:lastmodified":1478903944,
+    "wof:lastmodified":1493955552,
     "wof:name":"California Congressional District 23",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

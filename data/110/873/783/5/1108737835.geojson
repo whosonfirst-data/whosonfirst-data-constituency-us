@@ -11,6 +11,9 @@
     "geom:longitude":-83.475314,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":12081651798.0,
     "uscensus:awater":123073441.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903824,
-    "wof:geomhash":"9b337ddc814292c6c790f432ac5e3ff7",
+    "wof:geomhash":"35d02b1432e60db3bdbcfaf2e90c3195",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737835,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108737835,
-    "wof:lastmodified":1478903824,
+    "wof:lastmodified":1493955526,
     "wof:name":"Ohio Congressional District 4",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-84.427207,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "KY-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":11334500897.0,
     "uscensus:awater":289968531.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"21",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688641
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903815,
-    "wof:geomhash":"eaca57c5fb47418489f72a9e87b7aa9a",
+    "wof:geomhash":"5ef3f5ed116bfd84ae0aa844a0ed1b23",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737803,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108737803,
-    "wof:lastmodified":1478903815,
+    "wof:lastmodified":1493955438,
     "wof:name":"Kentucky Congressional District 4",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",

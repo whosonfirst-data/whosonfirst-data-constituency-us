@@ -11,6 +11,9 @@
     "geom:longitude":-80.240052,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "FL-23"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":487263398.0,
     "uscensus:awater":183907793.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 23",
     "uscensus:statefp":"12",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688651
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903945,
-    "wof:geomhash":"e7f92b15f06b21b844de620fd67d91dd",
+    "wof:geomhash":"390cec5948d9fc6880c055ddbdf23c82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738483,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108738483,
-    "wof:lastmodified":1478903945,
+    "wof:lastmodified":1493955552,
     "wof:name":"Florida Congressional District 23",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

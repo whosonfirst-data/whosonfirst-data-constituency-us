@@ -11,6 +11,9 @@
     "geom:longitude":-88.280936,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WI-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":12739403869.0,
     "uscensus:awater":7317994714.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"55",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688517
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903868,
-    "wof:geomhash":"30d7d5d80b209981e6d8b18bf1af0a83",
+    "wof:geomhash":"f07ce572a543f26132cef5b21f90676b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738033,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108738033,
-    "wof:lastmodified":1478903868,
+    "wof:lastmodified":1493955551,
     "wof:name":"Wisconsin Congressional District 6",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

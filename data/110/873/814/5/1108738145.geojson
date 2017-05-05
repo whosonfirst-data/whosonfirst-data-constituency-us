@@ -11,6 +11,9 @@
     "geom:longitude":-74.107253,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NJ-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":141649964.0,
     "uscensus:awater":37928111.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"34",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903888,
-    "wof:geomhash":"1aa33295876c5f8d05e88dbad94320ab",
+    "wof:geomhash":"56738931ffab19f3cef1995da1bb1ba0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738145,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108738145,
-    "wof:lastmodified":1478903888,
+    "wof:lastmodified":1493955544,
     "wof:name":"New Jersey Congressional District 8",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

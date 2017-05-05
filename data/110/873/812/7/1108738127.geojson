@@ -11,6 +11,9 @@
     "geom:longitude":-87.197673,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IN-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":18792728694.0,
     "uscensus:awater":278106959.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"18",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688709
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903885,
-    "wof:geomhash":"43e1008ae254cf030d695a34d0ad32c7",
+    "wof:geomhash":"a7f92274e325308ee387883d77ec2ca7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738127,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108738127,
-    "wof:lastmodified":1478903885,
+    "wof:lastmodified":1493955443,
     "wof:name":"Indiana Congressional District 8",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

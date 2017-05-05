@@ -11,6 +11,9 @@
     "geom:longitude":-113.361666,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "ID-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":111949731538.0,
     "uscensus:awater":1082666094.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"16",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688657
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903753,
-    "wof:geomhash":"1da96f6424be1bc447ef0095efc15399",
+    "wof:geomhash":"ea1d98f07ac26781b07c524e9611148a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737541,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108737541,
-    "wof:lastmodified":1478903753,
+    "wof:lastmodified":1493955413,
     "wof:name":"Idaho Congressional District 2",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",

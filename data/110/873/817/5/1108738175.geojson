@@ -11,6 +11,9 @@
     "geom:longitude":-121.305004,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-09"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":3245118661.0,
     "uscensus:awater":134846563.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 9",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903894,
-    "wof:geomhash":"718097a81dc0a4d86a6b327d93c44b10",
+    "wof:geomhash":"b1c93d49353abd7aea9c1e18b7b3b63b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738175,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738175,
-    "wof:lastmodified":1478903894,
+    "wof:lastmodified":1493955537,
     "wof:name":"California Congressional District 9",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

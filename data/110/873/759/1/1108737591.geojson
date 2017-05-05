@@ -11,6 +11,9 @@
     "geom:longitude":-117.306091,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NV-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":144597297854.0,
     "uscensus:awater":1316053531.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"32",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903764,
-    "wof:geomhash":"8d25e283305e388874e82e447c327310",
+    "wof:geomhash":"30407bbded3c70124097f20eb2e8e70a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737591,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108737591,
-    "wof:lastmodified":1478903764,
+    "wof:lastmodified":1493955451,
     "wof:name":"Nevada Congressional District 2",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",

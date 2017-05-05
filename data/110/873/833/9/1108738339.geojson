@@ -11,6 +11,9 @@
     "geom:longitude":-75.159359,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PA-13"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":401885239.0,
     "uscensus:awater":2643950.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 13",
     "uscensus:statefp":"42",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903921,
-    "wof:geomhash":"ca7953127397880fef4c883e0df07df0",
+    "wof:geomhash":"c597e8d5cc6836707c966682352b7ae6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738339,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108738339,
-    "wof:lastmodified":1478903921,
+    "wof:lastmodified":1493955423,
     "wof:name":"Pennsylvania Congressional District 13",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

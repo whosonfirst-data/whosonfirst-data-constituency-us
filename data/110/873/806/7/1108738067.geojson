@@ -11,6 +11,9 @@
     "geom:longitude":-95.687412,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":86582564027.0,
     "uscensus:awater":5043372813.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903873,
-    "wof:geomhash":"e7ce2448e004367010b8375281f199fc",
+    "wof:geomhash":"e10d4635a763f75590ef405c0c425147",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738067,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108738067,
-    "wof:lastmodified":1478903873,
+    "wof:lastmodified":1493955428,
     "wof:name":"Minnesota Congressional District 7",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

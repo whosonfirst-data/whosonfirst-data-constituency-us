@@ -11,6 +11,9 @@
     "geom:longitude":-84.411459,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GA-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":24932003744.0,
     "uscensus:awater":449441957.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903752,
-    "wof:geomhash":"e1fe264d7a3fb11eb137f24f93e033e0",
+    "wof:geomhash":"0508b0ffa5eb7acbf460472def0c6eec",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737537,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108737537,
-    "wof:lastmodified":1478903752,
+    "wof:lastmodified":1493955459,
     "wof:name":"Georgia Congressional District 2",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

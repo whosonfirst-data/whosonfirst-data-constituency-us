@@ -11,6 +11,9 @@
     "geom:longitude":-75.981477,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MD-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":10300745055.0,
     "uscensus:awater":4036037553.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"24",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903732,
-    "wof:geomhash":"dff3cef1260876d2eb98d2ab41a8a51f",
+    "wof:geomhash":"4d00441d7bdafbfcaff76c5c2e421a01",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737435,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108737435,
-    "wof:lastmodified":1478903732,
+    "wof:lastmodified":1493955462,
     "wof:name":"Maryland Congressional District 1",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

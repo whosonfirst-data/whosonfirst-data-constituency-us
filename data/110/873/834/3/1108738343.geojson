@@ -11,6 +11,9 @@
     "geom:longitude":-100.617385,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-13"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":99324789812.0,
     "uscensus:awater":766084541.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 13",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903922,
-    "wof:geomhash":"311ff8b977e46454d712350faa71e357",
+    "wof:geomhash":"ccf743f7ec4809e0e2bfa482e8f91b4a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738343,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108738343,
-    "wof:lastmodified":1478903922,
+    "wof:lastmodified":1493955495,
     "wof:name":"Texas Congressional District 13",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

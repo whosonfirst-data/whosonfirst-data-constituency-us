@@ -11,6 +11,9 @@
     "geom:longitude":-94.637372,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IA-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":22765297168.0,
     "uscensus:awater":152937021.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"19",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903786,
-    "wof:geomhash":"2003e9cfd77281b91a1ff93ffe68a624",
+    "wof:geomhash":"c5d894c9d056be3a8b680657077172d8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737679,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108737679,
-    "wof:lastmodified":1478903786,
+    "wof:lastmodified":1493955458,
     "wof:name":"Iowa Congressional District 3",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",

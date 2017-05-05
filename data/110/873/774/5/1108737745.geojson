@@ -11,6 +11,9 @@
     "geom:longitude":-96.615104,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1245661528.0,
     "uscensus:awater":97740060.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903801,
-    "wof:geomhash":"48130477c4bde2b9db15fc484ca6d38f",
+    "wof:geomhash":"c1ea8a41307eee94eef9db17fbf6c9de",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737745,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108737745,
-    "wof:lastmodified":1478903801,
+    "wof:lastmodified":1493955508,
     "wof:name":"Texas Congressional District 3",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

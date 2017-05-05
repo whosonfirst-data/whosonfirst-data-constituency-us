@@ -11,6 +11,9 @@
     "geom:longitude":-79.489273,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PA-12"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":5602307851.0,
     "uscensus:awater":59304328.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 12",
     "uscensus:statefp":"42",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903917,
-    "wof:geomhash":"4b76760f0414bed1004bfbd7ac9802d1",
+    "wof:geomhash":"31f475b40605e15a2bac933625e87859",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738311,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108738311,
-    "wof:lastmodified":1478903917,
+    "wof:lastmodified":1493955411,
     "wof:name":"Pennsylvania Congressional District 12",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

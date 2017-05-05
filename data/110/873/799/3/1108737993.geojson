@@ -11,6 +11,9 @@
     "geom:longitude":-86.156257,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MI-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":9188350269.0,
     "uscensus:awater":4065713954.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"26",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903860,
-    "wof:geomhash":"c4b330150fed30e8c8847f3df3d0bab6",
+    "wof:geomhash":"6019199660597f79e8c9bc45d4921e5b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737993,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108737993,
-    "wof:lastmodified":1478903860,
+    "wof:lastmodified":1493955412,
     "wof:name":"Michigan Congressional District 6",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

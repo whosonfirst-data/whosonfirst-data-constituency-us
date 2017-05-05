@@ -11,6 +11,9 @@
     "geom:longitude":-79.505552,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SC-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":13868504444.0,
     "uscensus:awater":959219478.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"45",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903879,
-    "wof:geomhash":"6bd24b2e2a3dfd9f5d0e31c04000ebc6",
+    "wof:geomhash":"c7f760aecd13ab6612717560ec46f0c2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738093,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108738093,
-    "wof:lastmodified":1478903879,
+    "wof:lastmodified":1493955488,
     "wof:name":"South Carolina Congressional District 7",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

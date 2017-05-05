@@ -11,6 +11,9 @@
     "geom:longitude":-84.651364,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GA-11"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":2773108743.0,
     "uscensus:awater":70581222.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 11",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903908,
-    "wof:geomhash":"2f44d69f4aa79c11aba7139d375818c9",
+    "wof:geomhash":"3f7aad7139d5b30e00adcb871e846849",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738257,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108738257,
-    "wof:lastmodified":1478903908,
+    "wof:lastmodified":1493955499,
     "wof:name":"Georgia Congressional District 11",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

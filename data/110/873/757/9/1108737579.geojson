@@ -11,6 +11,9 @@
     "geom:longitude":-92.848596,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":6314280321.0,
     "uscensus:awater":243599629.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903762,
-    "wof:geomhash":"81199890c326541be25b1e67e4a870ab",
+    "wof:geomhash":"b4842eac357ab4b23505c3adeaa3ffbe",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737579,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108737579,
-    "wof:lastmodified":1478903762,
+    "wof:lastmodified":1493955517,
     "wof:name":"Minnesota Congressional District 2",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

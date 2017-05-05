@@ -11,6 +11,9 @@
     "geom:longitude":-89.006378,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MS-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":27383790196.0,
     "uscensus:awater":409003678.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"28",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688579
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903735,
-    "wof:geomhash":"95bfdd362e89b576612d72397e2e6e25",
+    "wof:geomhash":"c6c0fa9743d923ac56d4e5e6ba179107",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737449,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108737449,
-    "wof:lastmodified":1478903735,
+    "wof:lastmodified":1493955475,
     "wof:name":"Mississippi Congressional District 1",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-91.01781,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "LA-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":10447660258.0,
     "uscensus:awater":1012421193.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"22",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903858,
-    "wof:geomhash":"fb10704f00f27921b83a6d2a33d5a873",
+    "wof:geomhash":"5ced9f78bc09f5081e9d2f5bd3172f95",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737983,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108737983,
-    "wof:lastmodified":1478903858,
+    "wof:lastmodified":1493955435,
     "wof:name":"Louisiana Congressional District 6",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",

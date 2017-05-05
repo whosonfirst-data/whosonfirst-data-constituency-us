@@ -11,6 +11,9 @@
     "geom:longitude":-83.151173,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MI-14"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":480908597.0,
     "uscensus:awater":97628292.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 14",
     "uscensus:statefp":"26",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903923,
-    "wof:geomhash":"35041a79ee11ed97a29da551586b6484",
+    "wof:geomhash":"354f96c570a4a0c38b1477cdd243f2d9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738355,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108738355,
-    "wof:lastmodified":1478903923,
+    "wof:lastmodified":1493955424,
     "wof:name":"Michigan Congressional District 14",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

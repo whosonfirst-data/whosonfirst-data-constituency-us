@@ -11,6 +11,9 @@
     "geom:longitude":-93.705021,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":31013541677.0,
     "uscensus:awater":540476226.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903734,
-    "wof:geomhash":"f17aa1f48d98b8853af26229684d9791",
+    "wof:geomhash":"cd3987ad6a2030dcbb112b78033dc0e1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737445,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108737445,
-    "wof:lastmodified":1478903734,
+    "wof:lastmodified":1493955474,
     "wof:name":"Minnesota Congressional District 1",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

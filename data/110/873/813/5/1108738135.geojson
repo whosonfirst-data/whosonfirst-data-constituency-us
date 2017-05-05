@@ -11,6 +11,9 @@
     "geom:longitude":-83.940728,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MI-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":3892928712.0,
     "uscensus:awater":99927299.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"26",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688599
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903887,
-    "wof:geomhash":"e14cbf5f74174195ca6112510ecf47eb",
+    "wof:geomhash":"050e8c9fdc98f30d963e9f65d870f67d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738135,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108738135,
-    "wof:lastmodified":1478903887,
+    "wof:lastmodified":1493955505,
     "wof:name":"Michigan Congressional District 8",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

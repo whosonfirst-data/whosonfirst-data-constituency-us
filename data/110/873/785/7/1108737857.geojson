@@ -11,6 +11,9 @@
     "geom:longitude":-95.404432,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TX-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":26237731127.0,
     "uscensus:awater":1010312804.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"48",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688753
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903834,
-    "wof:geomhash":"0219081cfd4893dedc8395fd89123a05",
+    "wof:geomhash":"40336610a6dd69d54ec50a39ad721e13",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737857,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108737857,
-    "wof:lastmodified":1478903834,
+    "wof:lastmodified":1493955527,
     "wof:name":"Texas Congressional District 4",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

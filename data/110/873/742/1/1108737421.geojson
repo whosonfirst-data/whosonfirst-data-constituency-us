@@ -11,6 +11,9 @@
     "geom:longitude":-99.402528,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "KS-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":136083588824.0,
     "uscensus:awater":594765016.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"20",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688555
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903730,
-    "wof:geomhash":"708028fc7ba834cda9a2762dbf9a8892",
+    "wof:geomhash":"9ec7473faf5be677dcdb50e80cf40ee2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737421,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108737421,
-    "wof:lastmodified":1478903730,
+    "wof:lastmodified":1493955525,
     "wof:name":"Kansas Congressional District 1",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-96.830892,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NE-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":22996557709.0,
     "uscensus:awater":249247398.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"31",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688563
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903735,
-    "wof:geomhash":"864cf7e08b069216270c93ba1f468031",
+    "wof:geomhash":"bc51c3266267879ac3745a7af0e9b81e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737453,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108737453,
-    "wof:lastmodified":1478903735,
+    "wof:lastmodified":1493955532,
     "wof:name":"Nebraska Congressional District 1",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",

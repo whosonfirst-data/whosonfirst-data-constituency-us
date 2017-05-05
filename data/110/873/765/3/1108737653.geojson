@@ -11,6 +11,9 @@
     "geom:longitude":-112.443622,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AZ-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":40632449010.0,
     "uscensus:awater":8411270.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"04",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688719
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903780,
-    "wof:geomhash":"949ea61438a2fd39764e01cbfd14e9bf",
+    "wof:geomhash":"b005f3ee20466e0b3b76982d3402d8d6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737653,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108737653,
-    "wof:lastmodified":1478903780,
+    "wof:lastmodified":1493955447,
     "wof:name":"Arizona Congressional District 3",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

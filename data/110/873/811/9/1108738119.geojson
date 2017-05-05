@@ -11,6 +11,9 @@
     "geom:longitude":-83.453436,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GA-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":22576186548.0,
     "uscensus:awater":355224112.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903883,
-    "wof:geomhash":"00d96690e6f5326fe88dd81da7578cb7",
+    "wof:geomhash":"0c1bc157e458bc2b2dcafc5a6ebfb87a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738119,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108738119,
-    "wof:lastmodified":1478903883,
+    "wof:lastmodified":1493955466,
     "wof:name":"Georgia Congressional District 8",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

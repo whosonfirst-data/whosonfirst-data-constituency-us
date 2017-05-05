@@ -11,6 +11,9 @@
     "geom:longitude":-87.73243,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IL-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":161452482.0,
     "uscensus:awater":5309542.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"17",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903871,
-    "wof:geomhash":"c130fee9936ba76af3fa3db02e06777a",
+    "wof:geomhash":"d35d0c94d5201548e2f7641d1e34ab95",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738055,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108738055,
-    "wof:lastmodified":1478903871,
+    "wof:lastmodified":1493955435,
     "wof:name":"Illinois Congressional District 7",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

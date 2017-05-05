@@ -11,6 +11,9 @@
     "geom:longitude":-93.853719,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":7463638003.0,
     "uscensus:awater":405370191.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903861,
-    "wof:geomhash":"b6e8e57606458c66f7ac503eeacea019",
+    "wof:geomhash":"dbd8e94b575735841daa58b2b0cef5d5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737995,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108737995,
-    "wof:lastmodified":1478903861,
+    "wof:lastmodified":1493955412,
     "wof:name":"Minnesota Congressional District 6",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

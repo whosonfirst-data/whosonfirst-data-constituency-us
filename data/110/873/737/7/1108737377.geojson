@@ -11,6 +11,9 @@
     "geom:longitude":-107.551394,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WY-00"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":251464935120.0,
     "uscensus:awater":1861273298.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District (at Large)",
     "uscensus:statefp":"56",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688475
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903720,
-    "wof:geomhash":"d23519f9d2f41d1ca17abcd20b0909aa",
+    "wof:geomhash":"6c5026b9c3fa5df16ba39d8b73bc85bb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737377,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108737377,
-    "wof:lastmodified":1478903720,
+    "wof:lastmodified":1493955496,
     "wof:name":"Wyoming Congressional District (at Large)",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",

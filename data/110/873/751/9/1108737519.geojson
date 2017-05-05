@@ -11,6 +11,9 @@
     "geom:longitude":-92.391021,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AR-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":12894845468.0,
     "uscensus:awater":303339608.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"05",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688549
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903749,
-    "wof:geomhash":"b6a9ef55e97e9fe1d979d04a9241e316",
+    "wof:geomhash":"b6b1629024580b4cfd0ce70cfc44e599",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737519,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108737519,
-    "wof:lastmodified":1478903749,
+    "wof:lastmodified":1493955406,
     "wof:name":"Arkansas Congressional District 2",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",

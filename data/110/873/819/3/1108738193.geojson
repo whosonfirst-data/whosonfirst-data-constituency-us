@@ -11,6 +11,9 @@
     "geom:longitude":-73.947431,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NY-09"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":40267196.0,
     "uscensus:awater":502409.0,
@@ -34,16 +37,17 @@
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903897,
-    "wof:geomhash":"8e021b7bdf02ebb033abbc05938cea3c",
+    "wof:geomhash":"652dddc13b029b5101136e4c81cde629",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738193,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108738193,
-    "wof:lastmodified":1478903897,
+    "wof:lastmodified":1493955402,
     "wof:name":"New York Congressional District 9",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

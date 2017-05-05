@@ -11,6 +11,9 @@
     "geom:longitude":-74.207881,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NJ-10"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":196410066.0,
     "uscensus:awater":12455536.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 10",
     "uscensus:statefp":"34",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903903,
-    "wof:geomhash":"6f8f44486e827d558b4ba64bf4a6b67b",
+    "wof:geomhash":"8dc7bb72d95eaa8f2e421d6150870da7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738227,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108738227,
-    "wof:lastmodified":1478903903,
+    "wof:lastmodified":1493955403,
     "wof:name":"New Jersey Congressional District 10",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

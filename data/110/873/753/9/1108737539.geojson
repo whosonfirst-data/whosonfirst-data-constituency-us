@@ -11,6 +11,9 @@
     "geom:longitude":-158.117519,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "HI-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":16092665176.0,
     "uscensus:awater":11321001350.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"15",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688671
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903753,
-    "wof:geomhash":"db415e66533c4861ddaf5e128c73a6f4",
+    "wof:geomhash":"b6b25b8b5ce629ae48a1aafba11cdf13",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737539,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108737539,
-    "wof:lastmodified":1478903753,
+    "wof:lastmodified":1493955460,
     "wof:name":"Hawaii Congressional District 2",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",

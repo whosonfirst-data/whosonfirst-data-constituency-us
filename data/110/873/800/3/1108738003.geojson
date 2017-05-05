@@ -11,6 +11,9 @@
     "geom:longitude":-74.142943,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NJ-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":557585813.0,
     "uscensus:awater":503797550.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"34",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903862,
-    "wof:geomhash":"7060cdd01c923a69e292fbbb27167099",
+    "wof:geomhash":"a6ce84bb2a58c498cbddc84d6cb5ce5d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738003,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108738003,
-    "wof:lastmodified":1478903862,
+    "wof:lastmodified":1493955446,
     "wof:name":"New Jersey Congressional District 6",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

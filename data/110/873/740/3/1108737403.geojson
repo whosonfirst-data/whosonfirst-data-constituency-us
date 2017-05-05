@@ -11,6 +11,9 @@
     "geom:longitude":-81.928263,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "GA-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":20881495473.0,
     "uscensus:awater":2247971210.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903725,
-    "wof:geomhash":"06352a6c54697672dcc6ce35b5e1c6fb",
+    "wof:geomhash":"c8b346b8987f8b705da93da688c3e722",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737403,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108737403,
-    "wof:lastmodified":1478903725,
+    "wof:lastmodified":1493955482,
     "wof:name":"Georgia Congressional District 1",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

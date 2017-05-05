@@ -11,6 +11,9 @@
     "geom:longitude":-89.9805,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "TN-09"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1252890659.0,
     "uscensus:awater":53682732.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 9",
     "uscensus:statefp":"47",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903899,
-    "wof:geomhash":"93090d74106b008f778235d258d93083",
+    "wof:geomhash":"b449eba19328188a8ece9a069a2ffd24",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738205,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108738205,
-    "wof:lastmodified":1478903899,
+    "wof:lastmodified":1493955541,
     "wof:name":"Tennessee Congressional District 9",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",

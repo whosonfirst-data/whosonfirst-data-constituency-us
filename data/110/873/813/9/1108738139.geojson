@@ -11,6 +11,9 @@
     "geom:longitude":-90.92963,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MO-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":51543599761.0,
     "uscensus:awater":444589754.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"29",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688661
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903888,
-    "wof:geomhash":"bf156e7b804fe7001f717c5c7c759895",
+    "wof:geomhash":"02c7ded96d1f087877348b5ead73b6c2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738139,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108738139,
-    "wof:lastmodified":1478903888,
+    "wof:lastmodified":1493955506,
     "wof:name":"Missouri Congressional District 8",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-81.015131,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OH-14"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":5063193255.0,
     "uscensus:awater":3731070942.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 14",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903924,
-    "wof:geomhash":"5349e890766eebe947d18f9161a8f53c",
+    "wof:geomhash":"c095a4f5079b3771d213ce51a232042b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738361,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108738361,
-    "wof:lastmodified":1478903924,
+    "wof:lastmodified":1493955541,
     "wof:name":"Ohio Congressional District 14",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

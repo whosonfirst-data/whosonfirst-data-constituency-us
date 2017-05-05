@@ -11,6 +11,9 @@
     "geom:longitude":-75.799685,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "PA-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":2228751663.0,
     "uscensus:awater":29627133.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"42",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903864,
-    "wof:geomhash":"3cd3b0df193e4c82773bd86d3e3cfdab",
+    "wof:geomhash":"b23d7891a543c4c1cb808393af694b82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738013,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108738013,
-    "wof:lastmodified":1478903864,
+    "wof:lastmodified":1493955494,
     "wof:name":"Pennsylvania Congressional District 6",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

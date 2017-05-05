@@ -11,6 +11,9 @@
     "geom:longitude":-86.071053,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "AL-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":26266769386.0,
     "uscensus:awater":306746680.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"01",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688675
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903747,
-    "wof:geomhash":"870b0869f6ac05d3da80e1beb8cc5872",
+    "wof:geomhash":"cc4f33f01f7e1279bd3ae8874160ab7b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737515,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108737515,
-    "wof:lastmodified":1478903747,
+    "wof:lastmodified":1493955405,
     "wof:name":"Alabama Congressional District 2",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

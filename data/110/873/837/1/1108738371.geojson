@@ -11,6 +11,9 @@
     "geom:longitude":-88.435561,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "IL-15"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":38062250204.0,
     "uscensus:awater":353550248.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 15",
     "uscensus:statefp":"17",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688697
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903926,
-    "wof:geomhash":"c3d644b5da51f2dfd7da2565d6236f20",
+    "wof:geomhash":"da2ca05f3e2965871b8fcbd34c10d740",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738371,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108738371,
-    "wof:lastmodified":1478903926,
+    "wof:lastmodified":1493955467,
     "wof:name":"Illinois Congressional District 15",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

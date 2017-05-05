@@ -11,6 +11,9 @@
     "geom:longitude":-93.295509,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":351450382.0,
     "uscensus:awater":16658761.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903845,
-    "wof:geomhash":"d759ce3b97a0fcbfe35f7e39be67fd28",
+    "wof:geomhash":"ab097c91b0e965e5357cdf52db920dab",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737915,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108737915,
-    "wof:lastmodified":1478903845,
+    "wof:lastmodified":1493955485,
     "wof:name":"Minnesota Congressional District 5",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

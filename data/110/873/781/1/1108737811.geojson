@@ -11,6 +11,9 @@
     "geom:longitude":-71.232322,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MA-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1730748391.0,
     "uscensus:awater":86369099.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"25",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903817,
-    "wof:geomhash":"8c7bc501864a513c0d67e8fb2bfc6f8d",
+    "wof:geomhash":"578a5824c37288b8488d4f912f21ef29",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737811,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108737811,
-    "wof:lastmodified":1478903817,
+    "wof:lastmodified":1493955425,
     "wof:name":"Massachusetts Congressional District 4",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

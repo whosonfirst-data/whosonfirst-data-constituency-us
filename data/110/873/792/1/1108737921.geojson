@@ -11,6 +11,9 @@
     "geom:longitude":-74.626239,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "NJ-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":2568289098.0,
     "uscensus:awater":83806960.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"34",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688607
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903846,
-    "wof:geomhash":"2a67224589bc7810b4ead9220d6fbef1",
+    "wof:geomhash":"58f121871db3abf4a547f4a50f061c43",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737921,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108737921,
-    "wof:lastmodified":1478903846,
+    "wof:lastmodified":1493955465,
     "wof:name":"New Jersey Congressional District 5",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

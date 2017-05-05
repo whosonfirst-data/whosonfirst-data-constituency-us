@@ -11,6 +11,9 @@
     "geom:longitude":-81.244715,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "FL-07"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":1017539434.0,
     "uscensus:awater":110537787.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"12",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688651
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903871,
-    "wof:geomhash":"ddb3b695655ac313a8684a89d673f73d",
+    "wof:geomhash":"afb110ce35947eb2c89a6e2d854e0351",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738047,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108738047,
-    "wof:lastmodified":1478903871,
+    "wof:lastmodified":1493955549,
     "wof:name":"Florida Congressional District 7",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

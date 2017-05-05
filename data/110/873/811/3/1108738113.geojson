@@ -11,6 +11,9 @@
     "geom:longitude":-116.811829,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-08"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":85126845926.0,
     "uscensus:awater":450305639.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 8",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903883,
-    "wof:geomhash":"7170e083989d1addc3faf00e077e729c",
+    "wof:geomhash":"f740781a8a5f46cffefb3875449d694b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738113,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738113,
-    "wof:lastmodified":1478903883,
+    "wof:lastmodified":1493955466,
     "wof:name":"California Congressional District 8",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

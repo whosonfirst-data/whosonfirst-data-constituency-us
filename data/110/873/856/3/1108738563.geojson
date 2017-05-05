@@ -11,6 +11,9 @@
     "geom:longitude":-118.22766,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-34"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":123459371.0,
     "uscensus:awater":783650.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 34",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903964,
-    "wof:geomhash":"3003996dbafc33a92c4591b5dff1c3fc",
+    "wof:geomhash":"a6151db84f7cd162de7f8ac0c35abdf1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738563,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738563,
-    "wof:lastmodified":1478903964,
+    "wof:lastmodified":1493955507,
     "wof:name":"California Congressional District 34",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -11,6 +11,9 @@
     "geom:longitude":-82.339065,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "SC-03"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":13644846200.0,
     "uscensus:awater":518870606.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"45",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688683
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903799,
-    "wof:geomhash":"f9cd918e4319dfa5dc3537aa2bb1bff5",
+    "wof:geomhash":"5a75aecdd06eb35f105d4fbed529b65a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737739,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108737739,
-    "wof:lastmodified":1478903799,
+    "wof:lastmodified":1493955399,
     "wof:name":"South Carolina Congressional District 3",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

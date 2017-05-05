@@ -11,6 +11,9 @@
     "geom:longitude":-92.980878,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MN-04"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":861458156.0,
     "uscensus:awater":84670310.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"27",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903818,
-    "wof:geomhash":"54a4b16a4268cef0082c2a14124ceb9d",
+    "wof:geomhash":"76c74cbeffbe51394fd7441816fde13c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737817,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108737817,
-    "wof:lastmodified":1478903818,
+    "wof:lastmodified":1493955424,
     "wof:name":"Minnesota Congressional District 4",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

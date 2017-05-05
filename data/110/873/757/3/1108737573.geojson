@@ -11,6 +11,9 @@
     "geom:longitude":-72.117822,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "MA-02"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":4216351541.0,
     "uscensus:awater":221896001.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"25",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688645
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903761,
-    "wof:geomhash":"793b9a5a685c184b26e9305839368c55",
+    "wof:geomhash":"08cba7924a3c115b75866ecac9c735af",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737573,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108737573,
-    "wof:lastmodified":1478903761,
+    "wof:lastmodified":1493955516,
     "wof:name":"Massachusetts Congressional District 2",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

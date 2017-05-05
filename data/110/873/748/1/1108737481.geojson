@@ -11,6 +11,9 @@
     "geom:longitude":-123.338113,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "OR-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":7786828271.0,
     "uscensus:awater":770914720.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"41",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688513
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903739,
-    "wof:geomhash":"c53cdea1db09f10325994c0e3f6fa7d4",
+    "wof:geomhash":"cd544888590abfae010fa8e16f145703",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737481,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108737481,
-    "wof:lastmodified":1478903739,
+    "wof:lastmodified":1493955523,
     "wof:name":"Oregon Congressional District 1",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",

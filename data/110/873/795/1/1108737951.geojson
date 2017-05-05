@@ -11,6 +11,9 @@
     "geom:longitude":-117.878933,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "WA-05"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":40076069332.0,
     "uscensus:awater":598905520.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"53",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688623
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903853,
-    "wof:geomhash":"18ac01798cf94bbddbed64e32e048652",
+    "wof:geomhash":"6c2ac02b3c3d391c3b403e8b050eded8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737951,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108737951,
-    "wof:lastmodified":1478903853,
+    "wof:lastmodified":1493955464,
     "wof:name":"Washington Congressional District 5",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

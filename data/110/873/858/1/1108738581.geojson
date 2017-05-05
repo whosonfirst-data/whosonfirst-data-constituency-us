@@ -11,6 +11,9 @@
     "geom:longitude":-118.061668,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-38"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":262652191.0,
     "uscensus:awater":3822532.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 38",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903967,
-    "wof:geomhash":"5776fba539dca2dcad99a7f5b9ec1456",
+    "wof:geomhash":"67887c19cb1f48f1507153cddd90aaba",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738581,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108738581,
-    "wof:lastmodified":1478903967,
+    "wof:lastmodified":1493955482,
     "wof:name":"California Congressional District 38",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

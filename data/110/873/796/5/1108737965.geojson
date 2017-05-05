@@ -11,6 +11,9 @@
     "geom:longitude":-121.478852,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "CA-06"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":453511973.0,
     "uscensus:awater":11103487.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903854,
-    "wof:geomhash":"3ba2ca0e57cf2ef57c35ccf37df92d2b",
+    "wof:geomhash":"b7cb323bfd01c4d592c0b53d6768c474",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737965,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108737965,
-    "wof:lastmodified":1478903854,
+    "wof:lastmodified":1493955556,
     "wof:name":"California Congressional District 6",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

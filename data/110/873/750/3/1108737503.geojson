@@ -11,6 +11,9 @@
     "geom:longitude":-76.982763,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "name:eng_x_variant":[
+        "VA-01"
+    ],
     "src:geom":"uscensus",
     "uscensus:aland":10909582912.0,
     "uscensus:awater":1767244527.0,
@@ -25,21 +28,26 @@
     "uscensus:namelsad":"Congressional District 1",
     "uscensus:statefp":"51",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903744,
-    "wof:geomhash":"196244ccb28986259af60747be5bef56",
+    "wof:geomhash":"4de9ece96f935ee3a9ba23ed03377e11",
     "wof:hierarchy":[
         {
+            "constituency_id":1108737503,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108737503,
-    "wof:lastmodified":1478903744,
+    "wof:lastmodified":1493955419,
     "wof:name":"Virginia Congressional District 1",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
