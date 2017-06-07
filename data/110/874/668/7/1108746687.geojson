@@ -200,7 +200,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-GA",
     "wof:abbreviation":"GA",
@@ -220,13 +222,14 @@
     "wof:geomhash":"acc1815797dd6365755c2928b87f83ca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746687,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108746687,
-    "wof:lastmodified":1479231183,
+    "wof:lastmodified":1487197386,
     "wof:name":"Georgia",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

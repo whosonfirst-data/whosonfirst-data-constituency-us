@@ -500,7 +500,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-NE",
     "wof:abbreviation":"NE",
@@ -520,13 +522,14 @@
     "wof:geomhash":"9a5f36ec530e84eda34d1a109ef13902",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746677,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108746677,
-    "wof:lastmodified":1479231179,
+    "wof:lastmodified":1487197382,
     "wof:name":"Nebraska",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

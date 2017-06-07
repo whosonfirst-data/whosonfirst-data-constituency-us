@@ -29,7 +29,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-MS",
     "wk:wordcount":14267,
@@ -51,13 +53,14 @@
     "wof:geomhash":"28f4adace3eee8c080023ee88cfe6ab0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746649,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108746649,
-    "wof:lastmodified":1479231171,
+    "wof:lastmodified":1487197388,
     "wof:name":"Mississippi",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

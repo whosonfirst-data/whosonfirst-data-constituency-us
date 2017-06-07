@@ -29,7 +29,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-DE",
     "wk:wordcount":8401,
@@ -52,13 +54,14 @@
     "wof:geomhash":"a8339af53e1b35b0a1243b0ce49b95ca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746699,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688611
         }
     ],
     "wof:id":1108746699,
-    "wof:lastmodified":1479231188,
+    "wof:lastmodified":1487197416,
     "wof:name":"Delaware",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -500,7 +500,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-MD",
     "wof:abbreviation":"MD",
@@ -520,13 +522,14 @@
     "wof:geomhash":"9b88a7a08a9ed02c478628ab40786469",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746633,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108746633,
-    "wof:lastmodified":1479231165,
+    "wof:lastmodified":1487197423,
     "wof:name":"Maryland",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

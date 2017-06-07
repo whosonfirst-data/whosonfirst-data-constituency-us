@@ -503,7 +503,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-CT",
     "wk:wordcount":15549,
@@ -525,13 +527,14 @@
     "wof:geomhash":"93c7940edbdf6e765981e6fa51655e01",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746653,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108746653,
-    "wof:lastmodified":1479231172,
+    "wof:lastmodified":1487197421,
     "wof:name":"Connecticut",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",
