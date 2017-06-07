@@ -506,7 +506,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-NJ",
     "wk:wordcount":16158,
@@ -528,13 +530,14 @@
     "wof:geomhash":"eafcef4e427c5f1d8cc8b71fb42476de",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746725,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108746725,
-    "wof:lastmodified":1479231196,
+    "wof:lastmodified":1487197421,
     "wof:name":"New Jersey",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

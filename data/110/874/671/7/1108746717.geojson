@@ -542,7 +542,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-AL",
     "wk:wordcount":15915,
@@ -565,13 +567,14 @@
     "wof:geomhash":"dd71a75a59d053f710936420e7587cb9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746717,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108746717,
-    "wof:lastmodified":1479231194,
+    "wof:lastmodified":1487197401,
     "wof:name":"Alabama",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

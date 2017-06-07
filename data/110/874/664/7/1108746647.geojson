@@ -29,7 +29,9 @@
     "qs:source":"US Census",
     "qs:type":"G4000",
     "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom_alt":[
+        "uscensus"
+    ],
     "src:lbl:centroid":"mapshaper",
     "unlc:subdivision":"US-VA",
     "wk:wordcount":15706,
@@ -51,13 +53,14 @@
     "wof:geomhash":"65ac685419f11b8178635f1e1dd0ff82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108746647,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108746647,
-    "wof:lastmodified":1479231170,
+    "wof:lastmodified":1487197407,
     "wof:name":"Virginia",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",
