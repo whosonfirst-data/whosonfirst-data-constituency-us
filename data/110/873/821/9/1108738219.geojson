@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 10",
     "uscensus:statefp":"13",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108738219,
-    "wof:lastmodified":1493955515,
+    "wof:lastmodified":1496952521,
     "wof:name":"Georgia Congressional District 10",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

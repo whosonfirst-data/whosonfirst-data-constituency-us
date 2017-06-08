@@ -37,6 +37,8 @@
     "wk:wordcount":15471,
     "wof:abbreviation":"FL",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231184,
-    "wof:geomhash":"b7be7fa844df6acf32bf170d11568417",
+    "wof:geomhash":"c4643686cd635d7bcf1fdc3b9a3190af",
     "wof:hierarchy":[
         {
             "constituency_id":1108746691,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746691,
-    "wof:lastmodified":1487197414,
+    "wof:lastmodified":1496952588,
     "wof:name":"Florida",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

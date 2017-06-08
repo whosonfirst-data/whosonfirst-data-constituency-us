@@ -37,6 +37,8 @@
     "wk:wordcount":12444,
     "wof:abbreviation":"CO",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231172,
-    "wof:geomhash":"c885347a05d542dfed9f5dd24dd30e55",
+    "wof:geomhash":"6a420f62fe64afc3dfcb04a317001ea5",
     "wof:hierarchy":[
         {
             "constituency_id":1108746651,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746651,
-    "wof:lastmodified":1487197389,
+    "wof:lastmodified":1496952595,
     "wof:name":"Colorado",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

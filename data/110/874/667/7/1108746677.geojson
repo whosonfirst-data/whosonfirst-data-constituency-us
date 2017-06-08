@@ -507,6 +507,8 @@
     "unlc:subdivision":"US-NE",
     "wof:abbreviation":"NE",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -519,7 +521,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231179,
-    "wof:geomhash":"9a5f36ec530e84eda34d1a109ef13902",
+    "wof:geomhash":"33cf069fb48468cd34c4b8a5d836ce82",
     "wof:hierarchy":[
         {
             "constituency_id":1108746677,
@@ -529,7 +531,7 @@
         }
     ],
     "wof:id":1108746677,
-    "wof:lastmodified":1487197382,
+    "wof:lastmodified":1496952610,
     "wof:name":"Nebraska",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

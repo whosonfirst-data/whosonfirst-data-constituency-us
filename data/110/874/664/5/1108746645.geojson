@@ -37,6 +37,8 @@
     "wk:wordcount":13632,
     "wof:abbreviation":"IL",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231169,
-    "wof:geomhash":"815c2417c1b99df6dcf3733c085b0307",
+    "wof:geomhash":"2d108d77e6a6c9fd1efff3a9b79e74bc",
     "wof:hierarchy":[
         {
             "constituency_id":1108746645,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746645,
-    "wof:lastmodified":1487197396,
+    "wof:lastmodified":1496952613,
     "wof:name":"Illinois",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -493,6 +493,8 @@
     "wk:wordcount":13787,
     "wof:abbreviation":"KY",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -506,7 +508,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231177,
-    "wof:geomhash":"e07effa8a95591cbe6fd4e4afa0ae137",
+    "wof:geomhash":"dc73480c1d1c7e0428485e1aa7d7ff25",
     "wof:hierarchy":[
         {
             "constituency_id":1108746669,
@@ -516,7 +518,7 @@
         }
     ],
     "wof:id":1108746669,
-    "wof:lastmodified":1487197385,
+    "wof:lastmodified":1496952622,
     "wof:name":"Kentucky",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

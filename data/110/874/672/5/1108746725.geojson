@@ -514,6 +514,8 @@
     "wk:wordcount":16158,
     "wof:abbreviation":"NJ",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -527,7 +529,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231196,
-    "wof:geomhash":"eafcef4e427c5f1d8cc8b71fb42476de",
+    "wof:geomhash":"6c26303e7288b9d94d9dbc879e86e2cb",
     "wof:hierarchy":[
         {
             "constituency_id":1108746725,
@@ -537,7 +539,7 @@
         }
     ],
     "wof:id":1108746725,
-    "wof:lastmodified":1487197421,
+    "wof:lastmodified":1496952601,
     "wof:name":"New Jersey",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

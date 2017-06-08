@@ -504,6 +504,8 @@
     "unlc:subdivision":"US-WV",
     "wof:abbreviation":"WV",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -516,7 +518,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231179,
-    "wof:geomhash":"ad0bd6de9e61e250cf04c7c5860cc00b",
+    "wof:geomhash":"2ee0b109a0301b89926ebb554b9ef033",
     "wof:hierarchy":[
         {
             "constituency_id":1108746679,
@@ -526,7 +528,7 @@
         }
     ],
     "wof:id":1108746679,
-    "wof:lastmodified":1487197409,
+    "wof:lastmodified":1496952612,
     "wof:name":"West Virginia",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

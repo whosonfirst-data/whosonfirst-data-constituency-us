@@ -550,6 +550,8 @@
     "wk:wordcount":15915,
     "wof:abbreviation":"AL",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -564,7 +566,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231194,
-    "wof:geomhash":"dd71a75a59d053f710936420e7587cb9",
+    "wof:geomhash":"a0132f298418a2bb13466fba211e87f9",
     "wof:hierarchy":[
         {
             "constituency_id":1108746717,
@@ -574,7 +576,7 @@
         }
     ],
     "wof:id":1108746717,
-    "wof:lastmodified":1487197401,
+    "wof:lastmodified":1496952582,
     "wof:name":"Alabama",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

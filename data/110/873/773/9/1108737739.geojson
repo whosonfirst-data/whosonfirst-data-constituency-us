@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 3",
     "uscensus:statefp":"45",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108737739,
-    "wof:lastmodified":1493955399,
+    "wof:lastmodified":1496952388,
     "wof:name":"South Carolina Congressional District 3",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

@@ -207,6 +207,8 @@
     "unlc:subdivision":"US-GA",
     "wof:abbreviation":"GA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -219,7 +221,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231183,
-    "wof:geomhash":"acc1815797dd6365755c2928b87f83ca",
+    "wof:geomhash":"0f79d7b412be5b45f0cfa9592912d707",
     "wof:hierarchy":[
         {
             "constituency_id":1108746687,
@@ -229,7 +231,7 @@
         }
     ],
     "wof:id":1108746687,
-    "wof:lastmodified":1487197386,
+    "wof:lastmodified":1496952597,
     "wof:name":"Georgia",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -37,6 +37,8 @@
     "wk:wordcount":453,
     "wof:abbreviation":"WA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231189,
-    "wof:geomhash":"093b729e3d032d70d9b80af288d91052",
+    "wof:geomhash":"baf090971f31ecd93b18555c94496907",
     "wof:hierarchy":[
         {
             "constituency_id":1108746703,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746703,
-    "wof:lastmodified":1487197383,
+    "wof:lastmodified":1496952606,
     "wof:name":"Washington",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -514,6 +514,8 @@
     "wk:wordcount":16417,
     "wof:abbreviation":"LA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -528,7 +530,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231165,
-    "wof:geomhash":"2d298026586e31563b008c1a2dc6a971",
+    "wof:geomhash":"a05030d6e6847c6b447a6ea123c90043",
     "wof:hierarchy":[
         {
             "constituency_id":1108746631,
@@ -538,7 +540,7 @@
         }
     ],
     "wof:id":1108746631,
-    "wof:lastmodified":1487197410,
+    "wof:lastmodified":1496952591,
     "wof:name":"Louisiana",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

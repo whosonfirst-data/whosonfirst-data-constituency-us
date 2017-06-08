@@ -37,6 +37,8 @@
     "wk:wordcount":13641,
     "wof:abbreviation":"MA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231164,
-    "wof:geomhash":"70dbd18717334ea4b9a83159d5fcddd4",
+    "wof:geomhash":"2c9fd1ddf7d6c15f00b70df3b3bca973",
     "wof:hierarchy":[
         {
             "constituency_id":1108746629,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746629,
-    "wof:lastmodified":1487197412,
+    "wof:lastmodified":1496952594,
     "wof:name":"Massachusetts",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

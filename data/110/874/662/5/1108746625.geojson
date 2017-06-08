@@ -514,6 +514,8 @@
     "wk:wordcount":19295,
     "wof:abbreviation":"VT",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -527,7 +529,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231162,
-    "wof:geomhash":"521f9bd4d5b91c7830d8d80f7e08cdae",
+    "wof:geomhash":"7c7020c34c211047c6a263d52e733a2c",
     "wof:hierarchy":[
         {
             "constituency_id":1108746625,
@@ -537,7 +539,7 @@
         }
     ],
     "wof:id":1108746625,
-    "wof:lastmodified":1487197397,
+    "wof:lastmodified":1496952592,
     "wof:name":"Vermont",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

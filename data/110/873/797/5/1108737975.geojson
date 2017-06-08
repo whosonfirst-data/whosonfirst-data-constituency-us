@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 6",
     "uscensus:statefp":"18",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108737975,
-    "wof:lastmodified":1493955485,
+    "wof:lastmodified":1496952486,
     "wof:name":"Indiana Congressional District 6",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

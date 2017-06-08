@@ -37,6 +37,8 @@
     "wk:wordcount":15706,
     "wof:abbreviation":"VA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231170,
-    "wof:geomhash":"65ac685419f11b8178635f1e1dd0ff82",
+    "wof:geomhash":"46f0154753d54fbacea38704e821cb17",
     "wof:hierarchy":[
         {
             "constituency_id":1108746647,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746647,
-    "wof:lastmodified":1487197407,
+    "wof:lastmodified":1496952614,
     "wof:name":"Virginia",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -37,6 +37,8 @@
     "wk:wordcount":11675,
     "wof:abbreviation":"IA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231190,
-    "wof:geomhash":"fb319a0bf7b36fec59c0a312ceebcc3b",
+    "wof:geomhash":"e5cd0f11f8103518aac246ae26e92351",
     "wof:hierarchy":[
         {
             "constituency_id":1108746707,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746707,
-    "wof:lastmodified":1487197398,
+    "wof:lastmodified":1496952604,
     "wof:name":"Iowa",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -496,6 +496,8 @@
     "wk:wordcount":9030,
     "wof:abbreviation":"NH",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -509,7 +511,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231189,
-    "wof:geomhash":"0712c22a947c10b21c48c37028016350",
+    "wof:geomhash":"3ae46a3b868c45febb8437e1e2b8a24d",
     "wof:hierarchy":[
         {
             "constituency_id":1108746705,
@@ -519,7 +521,7 @@
         }
     ],
     "wof:id":1108746705,
-    "wof:lastmodified":1487197415,
+    "wof:lastmodified":1496952604,
     "wof:name":"New Hampshire",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

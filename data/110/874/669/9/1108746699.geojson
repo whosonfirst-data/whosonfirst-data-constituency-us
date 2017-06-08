@@ -37,6 +37,8 @@
     "wk:wordcount":8401,
     "wof:abbreviation":"DE",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -51,7 +53,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231188,
-    "wof:geomhash":"a8339af53e1b35b0a1243b0ce49b95ca",
+    "wof:geomhash":"717a38443a20c6104a5d6179bc2def1f",
     "wof:hierarchy":[
         {
             "constituency_id":1108746699,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1108746699,
-    "wof:lastmodified":1487197416,
+    "wof:lastmodified":1496952589,
     "wof:name":"Delaware",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

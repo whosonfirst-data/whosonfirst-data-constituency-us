@@ -37,6 +37,8 @@
     "wk:wordcount":7982,
     "wof:abbreviation":"ID",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231167,
-    "wof:geomhash":"dbefbaf459cddb5a4dfc6816b802629b",
+    "wof:geomhash":"419a1aa87920948a0deb400fddc7e123",
     "wof:hierarchy":[
         {
             "constituency_id":1108746641,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746641,
-    "wof:lastmodified":1487197412,
+    "wof:lastmodified":1496952616,
     "wof:name":"Idaho",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -514,6 +514,8 @@
     "wk:wordcount":10733,
     "wof:abbreviation":"WI",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -527,7 +529,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231195,
-    "wof:geomhash":"c9a93f2489b1a75bdee39827ad86ee0d",
+    "wof:geomhash":"573716edb0b303dcbd4c604be58887eb",
     "wof:hierarchy":[
         {
             "constituency_id":1108746721,
@@ -537,7 +539,7 @@
         }
     ],
     "wof:id":1108746721,
-    "wof:lastmodified":1487197402,
+    "wof:lastmodified":1496952603,
     "wof:name":"Wisconsin",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

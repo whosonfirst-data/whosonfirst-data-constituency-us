@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 9",
     "uscensus:statefp":"04",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108738173,
-    "wof:lastmodified":1493955537,
+    "wof:lastmodified":1496952549,
     "wof:name":"Arizona Congressional District 9",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

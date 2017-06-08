@@ -25,14 +25,22 @@
     "uscensus:namelsad":"Delegate District (at Large)",
     "uscensus:statefp":"66",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
+    "wof:belongsto":[
+        "102191583",
+        "85632163",
+        "85633793",
+        85681227
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903972,
-    "wof:geomhash":"a5fa1e65729c3c81b50c484d78d0fe20",
+    "wof:geomhash":"1b68bc3fd6428f42751a702bb23c55e2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738623,
             "continent_id":"102191583",
             "country_id":"85633793",
             "dependency_id":"85632163",
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":1108738623,
-    "wof:lastmodified":1478903972,
+    "wof:lastmodified":1496952449,
     "wof:name":"Guam Delegate District (at Large)",
     "wof:parent_id":85681227,
     "wof:placetype":"constituency",

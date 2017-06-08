@@ -36,6 +36,8 @@
     "unlc:subdivision":"US-MT",
     "wof:abbreviation":"MT",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -48,7 +50,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231167,
-    "wof:geomhash":"8a3fc69d42f4986edc568b3316ae7c9d",
+    "wof:geomhash":"33d474becae21d2aa1c8da78ef064cb8",
     "wof:hierarchy":[
         {
             "constituency_id":1108746637,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108746637,
-    "wof:lastmodified":1487197397,
+    "wof:lastmodified":1496952589,
     "wof:name":"Montana",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

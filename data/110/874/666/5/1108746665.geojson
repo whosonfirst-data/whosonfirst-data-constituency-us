@@ -37,6 +37,8 @@
     "wk:wordcount":6710,
     "wof:abbreviation":"WY",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231175,
-    "wof:geomhash":"6aef88c280be97614ad12b6358822b83",
+    "wof:geomhash":"68c33204425345c77eb41c45a264d301",
     "wof:hierarchy":[
         {
             "constituency_id":1108746665,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746665,
-    "wof:lastmodified":1487197391,
+    "wof:lastmodified":1496952618,
     "wof:name":"Wyoming",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -517,6 +517,8 @@
     "wk:wordcount":11804,
     "wof:abbreviation":"TN",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -530,7 +532,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231185,
-    "wof:geomhash":"6059f33bc09a29543ecad95063630c1c",
+    "wof:geomhash":"edeacd5e05fcc9050243f17b0b65ddab",
     "wof:hierarchy":[
         {
             "constituency_id":1108746695,
@@ -540,7 +542,7 @@
         }
     ],
     "wof:id":1108746695,
-    "wof:lastmodified":1487197390,
+    "wof:lastmodified":1496952585,
     "wof:name":"Tennessee",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

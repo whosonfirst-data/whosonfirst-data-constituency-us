@@ -511,6 +511,8 @@
     "wk:wordcount":10768,
     "wof:abbreviation":"MO",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -524,7 +526,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231196,
-    "wof:geomhash":"b5987eb99091c0a63f7fcf982d2b6f2f",
+    "wof:geomhash":"b036fe907c8bb42e77f514a34bdf5859",
     "wof:hierarchy":[
         {
             "constituency_id":1108746727,
@@ -534,7 +536,7 @@
         }
     ],
     "wof:id":1108746727,
-    "wof:lastmodified":1487197404,
+    "wof:lastmodified":1496952602,
     "wof:name":"Missouri",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

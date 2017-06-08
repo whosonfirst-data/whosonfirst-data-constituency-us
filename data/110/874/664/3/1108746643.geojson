@@ -37,6 +37,8 @@
     "wk:wordcount":14844,
     "wof:abbreviation":"HI",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongs_to":[],
     "wof:belongsto":[
         102191575,
@@ -51,7 +53,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231169,
-    "wof:geomhash":"3036c294824a51ccff2f3740f44e20c3",
+    "wof:geomhash":"2269e892c9657814ee5ba3c504323b86",
     "wof:hierarchy":[
         {
             "constituency_id":1108746643,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1108746643,
-    "wof:lastmodified":1487197425,
+    "wof:lastmodified":1496952616,
     "wof:name":"Hawaii",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

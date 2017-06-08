@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 4",
     "uscensus:statefp":"45",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108737849,
-    "wof:lastmodified":1493955518,
+    "wof:lastmodified":1496952525,
     "wof:name":"South Carolina Congressional District 4",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
