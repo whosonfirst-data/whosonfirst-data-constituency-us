@@ -14,10 +14,45 @@ WOF_EXPAND = $(shell which wof-expand)
 
 WOF_BUNDLE_PLACETYPES = $(shell which wof-bundle-placetypes)
 WOF_CLONE_METAFILES = $(shell which wof-clone-metafiles)
-WOF_PLACETYPE_TO_CSV = $(shell which wof-placetype-to-csv)
+WOF_BUILD_METAFILES = $(WHEREAMI)/bin/wof-build-metafiles
+WOF_BUILD_CONCORDANCES = $(WHEREAMI)/bin/wof-build-concordances
+UNAME_S := $(shell uname -s)
 
 archive: meta-scrub
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
+
+bin:
+	mkdir -p bin
+ifeq ($(UNAME_S),Darwin)
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/darwin/wof-build-metafiles
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/darwin/wof-build-metafiles.sha256
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/darwin/wof-build-concordances
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/darwin/wof-build-concordances.sha256
+	make bin-verify
+else ifeq ($(UNAME_S),Linux)
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/linux/wof-build-metafiles
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/linux/wof-build-metafiles.sha256
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/linux/wof-build-concordances
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/linux/wof-build-concordances.sha256
+	make bin-verify
+else ifeq ($(UNAME_S),Windows)
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/windows/wof-build-metafiles
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/windows/wof-build-metafiles.sha256
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/windows/wof-build-concordances
+	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/windows/wof-build-concordances.sha256
+	@echo "Skipping the SHA-256 verification, because Windows"
+else
+	echo "this OS is not supported yet"
+	exit 1
+endif
+
+bin-verify:
+	cd bin && shasum -a 256 -c wof-build-metafiles.sha256
+	cd bin && shasum -a 256 -c wof-build-concordances.sha256
+	chmod +x bin/wof-build-metafiles
+	chmod +x bin/wof-build-concordances
+	rm bin/wof-build-metafiles.sha256
+	rm bin/wof-build-concordances.sha256
 
 bundles:
 	if test -z "$$BUNDLES"; then echo "missing BUNDLES arg"; exit 1; fi
@@ -37,14 +72,9 @@ endif
 # https://github.com/whosonfirst/whosonfirst-data-utils/issues/2
 
 concordances:
-	wof-concordances-write -processes 100 -source ./data > meta/wof-concordances-tmp.csv
-ifeq ($(WHATAMI),)
-	mv meta/wof-concordances-tmp.csv meta/wof-concordances-$(YMD).csv
-	cp meta/wof-concordances-$(YMD).csv meta/wof-concordances-latest.csv
-else
-	mv meta/wof-concordances-tmp.csv meta/wof-$(WHATAMI_REALLY)-concordances-$(YMD).csv
-	cp meta/wof-$(WHATAMI_REALLY)-concordances-$(YMD).csv meta/wof-$(WHATAMI_REALLY)-concordances-latest.csv
-endif
+	test -s $(WOF_BUILD_CONCORDANCES) || make bin
+	mkdir -p $(WHEREAMI)/meta
+	$(WOF_BUILD_CONCORDANCES) -processes 100 -repo $(WHEREAMI)
 
 count:
 	find ./data -name '*.geojson' -print | wc -l
@@ -52,6 +82,9 @@ count:
 docs:
 	curl -s -o LICENSE.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/LICENSE-SHORT.md
 	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
+
+githash:
+	git log --pretty=format:'%H' -n 1
 
 gitignore:
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore
@@ -85,19 +118,13 @@ internetarchive:
 list-empty:
 	find data -type d -empty -print
 
-makefile:
-	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
-ifeq ($(shell echo $(WHATAMI) | wc -l), 1)
-	if test -f $(WHEREAMI)/Makefile.$(WHATAMI);then  echo "\n# appending Makefile.$(WHATAMI)\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI) >> Makefile; fi
-	if test -f $(WHEREAMI)/Makefile.$(WHATAMI).local;then  echo "\n# appending Makefile.$(WHATAMI).local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI).local >> Makefile; fi
-endif
-	if test -f $(WHEREAMI)/Makefile.local; then echo "\n# appending Makefile.local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.local >> Makefile; fi
-
 metafiles:
+	test -s $(WOF_BUILD_METAFILES) || make bin
+	mkdir -p $(WHEREAMI)/meta
 ifeq ($(WHATAMI),)
-	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -i address,building,metroarea,postalcode,venue
+	$(WOF_BUILD_METAFILES) -repo $(WHEREAMI) -placetypes address,building,constituency,metroarea,postalcode,venue
 else
-	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -p $(WHATAMI)
+	$(WOF_BUILD_METAFILES) -repo $(WHEREAMI) -placetypes $(WHATAMI)
 endif
 
 meta-scrub:
@@ -130,7 +157,7 @@ setup:
 	# Okay, all done with setup!
 
 # https://github.com/whosonfirst/py-mapzen-whosonfirst-search
-# Note that this does not try to be at all intelligent. It is a 
+# Note that this does not try to be at all intelligent. It is a
 # straight clone in to ES for every record.
 # (20160421/thisisaaronland)
 
@@ -147,7 +174,7 @@ sync-pg:
 	wof-spatial-index --source data --config $(config)
 
 # https://github.com/whosonfirst/go-whosonfirst-s3
-# Note that this does not try to be especially intelligent. It is a 
+# Note that this does not try to be especially intelligent. It is a
 # straight clone with only minimal HEAD/lastmodified checks
 # (20160421/thisisaaronland)
 
@@ -158,6 +185,14 @@ sync-pg:
 
 sync-s3:
 	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix "data" -processes 64
+
+update-makefile:
+	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
+ifeq ($(shell echo $(WHATAMI) | wc -l), 1)
+	if test -f $(WHEREAMI)/Makefile.$(WHATAMI);then  echo "\n# appending Makefile.$(WHATAMI)\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI) >> Makefile; fi
+	if test -f $(WHEREAMI)/Makefile.$(WHATAMI).local;then  echo "\n# appending Makefile.$(WHATAMI).local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI).local >> Makefile; fi
+endif
+	if test -f $(WHEREAMI)/Makefile.local; then echo "\n# appending Makefile.local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.local >> Makefile; fi
 
 wof-less:
 	less `$(WOF_EXPAND) -prefix data $(id)`
