@@ -74,7 +74,7 @@ endif
 concordances:
 	test -s $(WOF_BUILD_CONCORDANCES) || make bin
 	mkdir -p $(WHEREAMI)/meta
-	$(WOF_BUILD_CONCORDANCES) -processes 100 -repo $(WHEREAMI)
+	$(WOF_BUILD_CONCORDANCES)
 
 count:
 	find ./data -name '*.geojson' -print | wc -l
