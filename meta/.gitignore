@@ -1,3 +1,2 @@
 *.csv
-!*-latest.csv
 !README.md
