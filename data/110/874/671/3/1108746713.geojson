@@ -501,6 +501,8 @@
     "unlc:subdivision":"US-MI",
     "wof:abbreviation":"MI",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -514,7 +516,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231193,
-    "wof:geomhash":"e2868db35eaa0c564fbc6d2dff152af8",
+    "wof:geomhash":"09fb91b54cdceccde650342b221e4de6",
     "wof:hierarchy":[
         {
             "constituency_id":1108746713,
@@ -524,7 +526,7 @@
         }
     ],
     "wof:id":1108746713,
-    "wof:lastmodified":1487197411,
+    "wof:lastmodified":1496952583,
     "wof:name":"Michigan",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

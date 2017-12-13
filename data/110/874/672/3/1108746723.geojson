@@ -36,6 +36,8 @@
     "unlc:subdivision":"US-NV",
     "wof:abbreviation":"NV",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -48,7 +50,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231196,
-    "wof:geomhash":"4b7b031355a86a655714404aef0e1476",
+    "wof:geomhash":"672212451845edcd54fc8bc286043ed1",
     "wof:hierarchy":[
         {
             "constituency_id":1108746723,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108746723,
-    "wof:lastmodified":1487197396,
+    "wof:lastmodified":1496952602,
     "wof:name":"Nevada",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

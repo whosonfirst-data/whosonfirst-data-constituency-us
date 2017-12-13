@@ -507,6 +507,8 @@
     "unlc:subdivision":"US-MD",
     "wof:abbreviation":"MD",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -519,7 +521,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231165,
-    "wof:geomhash":"9b88a7a08a9ed02c478628ab40786469",
+    "wof:geomhash":"93ac2174e1e318723848a86bc8ebf26e",
     "wof:hierarchy":[
         {
             "constituency_id":1108746633,
@@ -529,7 +531,7 @@
         }
     ],
     "wof:id":1108746633,
-    "wof:lastmodified":1487197423,
+    "wof:lastmodified":1496952590,
     "wof:name":"Maryland",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

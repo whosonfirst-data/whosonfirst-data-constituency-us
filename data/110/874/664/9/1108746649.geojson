@@ -37,6 +37,8 @@
     "wk:wordcount":14267,
     "wof:abbreviation":"MS",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231171,
-    "wof:geomhash":"28f4adace3eee8c080023ee88cfe6ab0",
+    "wof:geomhash":"13d43760485119e40d153815ac806c13",
     "wof:hierarchy":[
         {
             "constituency_id":1108746649,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746649,
-    "wof:lastmodified":1487197388,
+    "wof:lastmodified":1496952617,
     "wof:name":"Mississippi",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

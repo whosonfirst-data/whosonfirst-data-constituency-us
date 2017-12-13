@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"39",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108737611,
-    "wof:lastmodified":1493955556,
+    "wof:lastmodified":1496952572,
     "wof:name":"Ohio Congressional District 2",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

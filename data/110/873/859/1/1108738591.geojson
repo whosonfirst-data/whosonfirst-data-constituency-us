@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 43",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108738591,
-    "wof:lastmodified":1493955557,
+    "wof:lastmodified":1496952574,
     "wof:name":"California Congressional District 43",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

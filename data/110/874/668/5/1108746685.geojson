@@ -37,6 +37,8 @@
     "wk:wordcount":9299,
     "wof:abbreviation":"OH",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231182,
-    "wof:geomhash":"beaec43876a3a0b355c0c82f10debf53",
+    "wof:geomhash":"9139a680a1380f8e709b1de7d58816db",
     "wof:hierarchy":[
         {
             "constituency_id":1108746685,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746685,
-    "wof:lastmodified":1487197401,
+    "wof:lastmodified":1496952596,
     "wof:name":"Ohio",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

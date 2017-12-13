@@ -513,6 +513,8 @@
     "unlc:subdivision":"US-PA",
     "wof:abbreviation":"PA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -525,7 +527,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231194,
-    "wof:geomhash":"9617d3f6128664d24f6f6bb8b579f0a7",
+    "wof:geomhash":"16a0276d8bb56ab5b1d5bb99b8a9bea6",
     "wof:hierarchy":[
         {
             "constituency_id":1108746719,
@@ -535,7 +537,7 @@
         }
     ],
     "wof:id":1108746719,
-    "wof:lastmodified":1487197388,
+    "wof:lastmodified":1496952583,
     "wof:name":"Pennsylvania",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

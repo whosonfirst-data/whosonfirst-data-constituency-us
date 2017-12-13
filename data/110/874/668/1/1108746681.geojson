@@ -496,6 +496,8 @@
     "wk:wordcount":9509,
     "wof:abbreviation":"ME",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -509,7 +511,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231180,
-    "wof:geomhash":"3f779d284a590219df48602214cac88b",
+    "wof:geomhash":"3ec0e992866c412267de00b077c07ed5",
     "wof:hierarchy":[
         {
             "constituency_id":1108746681,
@@ -519,7 +521,7 @@
         }
     ],
     "wof:id":1108746681,
-    "wof:lastmodified":1487197424,
+    "wof:lastmodified":1496952600,
     "wof:name":"Maine",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

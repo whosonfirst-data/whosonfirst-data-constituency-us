@@ -36,6 +36,8 @@
     "unlc:subdivision":"US-MN",
     "wof:abbreviation":"MN",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -48,7 +50,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231186,
-    "wof:geomhash":"b9796d59ed8cb2b9250eaa31549d0646",
+    "wof:geomhash":"8a77131808007dc35a84f11413d350b6",
     "wof:hierarchy":[
         {
             "constituency_id":1108746697,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108746697,
-    "wof:lastmodified":1487197419,
+    "wof:lastmodified":1496952586,
     "wof:name":"Minnesota",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

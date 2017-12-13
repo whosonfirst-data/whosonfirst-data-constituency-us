@@ -37,6 +37,8 @@
     "wk:wordcount":16701,
     "wof:abbreviation":"CA",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231184,
-    "wof:geomhash":"cfba84c1b8b6efd594edbf4fc4f9a4d4",
+    "wof:geomhash":"63106a0cf60f680468bdc298a7ca5e1f",
     "wof:hierarchy":[
         {
             "constituency_id":1108746689,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746689,
-    "wof:lastmodified":1487197426,
+    "wof:lastmodified":1496952601,
     "wof:name":"California",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -37,6 +37,8 @@
     "wk:wordcount":10758,
     "wof:abbreviation":"AZ",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -50,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231173,
-    "wof:geomhash":"8e8ccc32df7bdbb58ebacc0da3e644b8",
+    "wof:geomhash":"d82eab09305ade4a922a7bee26724b6e",
     "wof:hierarchy":[
         {
             "constituency_id":1108746659,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108746659,
-    "wof:lastmodified":1487197400,
+    "wof:lastmodified":1496952596,
     "wof:name":"Arizona",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -496,6 +496,8 @@
     "wk:wordcount":10231,
     "wof:abbreviation":"ND",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -509,7 +511,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231175,
-    "wof:geomhash":"e550947a0783a3e0895d5aef16116dc4",
+    "wof:geomhash":"e7b6bed79a5a86dd77e62a151fca3cde",
     "wof:hierarchy":[
         {
             "constituency_id":1108746667,
@@ -519,7 +521,7 @@
         }
     ],
     "wof:id":1108746667,
-    "wof:lastmodified":1487197421,
+    "wof:lastmodified":1496952619,
     "wof:name":"North Dakota",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 7",
     "uscensus:statefp":"37",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108738081,
-    "wof:lastmodified":1493955409,
+    "wof:lastmodified":1496952399,
     "wof:name":"North Carolina Congressional District 7",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

@@ -36,6 +36,8 @@
     "unlc:subdivision":"US-OK",
     "wof:abbreviation":"OK",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -48,7 +50,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231193,
-    "wof:geomhash":"cc11fb505f50a888c2515e4f156c7624",
+    "wof:geomhash":"602dc54534df05e44e8716ebd5f3dbe4",
     "wof:hierarchy":[
         {
             "constituency_id":1108746715,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108746715,
-    "wof:lastmodified":1487197405,
+    "wof:lastmodified":1496952581,
     "wof:name":"Oklahoma",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

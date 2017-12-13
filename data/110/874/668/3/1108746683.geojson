@@ -490,6 +490,8 @@
     "wk:wordcount":10619,
     "wof:abbreviation":"SD",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -504,7 +506,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231181,
-    "wof:geomhash":"d3128cd8f53e33608aecdacde84e3102",
+    "wof:geomhash":"326e20d782bf7c2b6b09114799d442c6",
     "wof:hierarchy":[
         {
             "constituency_id":1108746683,
@@ -514,7 +516,7 @@
         }
     ],
     "wof:id":1108746683,
-    "wof:lastmodified":1487197384,
+    "wof:lastmodified":1496952599,
     "wof:name":"South Dakota",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

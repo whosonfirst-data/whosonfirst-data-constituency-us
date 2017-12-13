@@ -493,6 +493,8 @@
     "wk:wordcount":12339,
     "wof:abbreviation":"RI",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -506,7 +508,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231177,
-    "wof:geomhash":"83751602c9c8114d8017e6ab7779aeaf",
+    "wof:geomhash":"6eff68d051e2f712145bfa7b58aa3fcb",
     "wof:hierarchy":[
         {
             "constituency_id":1108746671,
@@ -516,7 +518,7 @@
         }
     ],
     "wof:id":1108746671,
-    "wof:lastmodified":1487197426,
+    "wof:lastmodified":1496952611,
     "wof:name":"Rhode Island",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

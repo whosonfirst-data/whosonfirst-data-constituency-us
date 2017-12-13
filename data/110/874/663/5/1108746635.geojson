@@ -36,6 +36,8 @@
     "unlc:subdivision":"US-UT",
     "wof:abbreviation":"UT",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -48,7 +50,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231166,
-    "wof:geomhash":"f8c0dad1b0529d0346ede74614ba9138",
+    "wof:geomhash":"6ad09949331bb60c346be40564db4227",
     "wof:hierarchy":[
         {
             "constituency_id":1108746635,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108746635,
-    "wof:lastmodified":1487197389,
+    "wof:lastmodified":1496952589,
     "wof:name":"Utah",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

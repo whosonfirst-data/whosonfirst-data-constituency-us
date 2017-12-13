@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional Districts not defined",
     "uscensus:statefp":"09",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108738633,
-    "wof:lastmodified":1493955514,
+    "wof:lastmodified":1496952520,
     "wof:name":"Connecticut Congressional Districts not defined",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

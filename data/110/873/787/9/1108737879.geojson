@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 5",
     "uscensus:statefp":"06",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108737879,
-    "wof:lastmodified":1493955417,
+    "wof:lastmodified":1496952408,
     "wof:name":"California Congressional District 5",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -567,6 +567,8 @@
     "unlc:subdivision":"US-AK",
     "wof:abbreviation":"AK",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -579,7 +581,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231188,
-    "wof:geomhash":"5a91329dbbdb0bfbacebdad428f112a1",
+    "wof:geomhash":"4704ca7802862391b22cc51d2a910e4d",
     "wof:hierarchy":[
         {
             "constituency_id":1108746701,
@@ -589,7 +591,7 @@
         }
     ],
     "wof:id":1108746701,
-    "wof:lastmodified":1487197395,
+    "wof:lastmodified":1496952606,
     "wof:name":"Alaska",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

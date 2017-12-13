@@ -523,6 +523,8 @@
     "wk:wordcount":9932,
     "wof:abbreviation":"KS",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -536,7 +538,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231163,
-    "wof:geomhash":"69913c2f875ff91dc3a9bbb3118a2fd5",
+    "wof:geomhash":"bcc85eda56104c4ce8134db72319eda8",
     "wof:hierarchy":[
         {
             "constituency_id":1108746627,
@@ -546,7 +548,7 @@
         }
     ],
     "wof:id":1108746627,
-    "wof:lastmodified":1487197415,
+    "wof:lastmodified":1496952593,
     "wof:name":"Kansas",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -25,14 +25,22 @@
     "uscensus:namelsad":"Delegate District (at Large)",
     "uscensus:statefp":"60",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
+    "wof:belongsto":[
+        "102191583",
+        "85632697",
+        "85633793",
+        85668127
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903972,
-    "wof:geomhash":"32187c5a2e7dc1398863924aa9546e8e",
+    "wof:geomhash":"c7464922bca3d1bebc2403f7d091da62",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738621,
             "continent_id":"102191583",
             "country_id":"85633793",
             "dependency_id":"85632697",
@@ -40,7 +48,7 @@
         }
     ],
     "wof:id":1108738621,
-    "wof:lastmodified":1478903972,
+    "wof:lastmodified":1496952449,
     "wof:name":"Eastern Delegate District (at Large)",
     "wof:parent_id":85668127,
     "wof:placetype":"constituency",

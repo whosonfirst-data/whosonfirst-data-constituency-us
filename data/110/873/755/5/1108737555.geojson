@@ -28,6 +28,8 @@
     "uscensus:namelsad":"Congressional District 2",
     "uscensus:statefp":"20",
     "wof:association":"us-house",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -47,7 +49,7 @@
         }
     ],
     "wof:id":1108737555,
-    "wof:lastmodified":1493955472,
+    "wof:lastmodified":1496952471,
     "wof:name":"Kansas Congressional District 2",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

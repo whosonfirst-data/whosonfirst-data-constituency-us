@@ -511,6 +511,8 @@
     "wk:wordcount":15549,
     "wof:abbreviation":"CT",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -524,7 +526,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231172,
-    "wof:geomhash":"93c7940edbdf6e765981e6fa51655e01",
+    "wof:geomhash":"f7e00c708e86e80c628f83927733dc5b",
     "wof:hierarchy":[
         {
             "constituency_id":1108746653,
@@ -534,7 +536,7 @@
         }
     ],
     "wof:id":1108746653,
-    "wof:lastmodified":1487197421,
+    "wof:lastmodified":1496952595,
     "wof:name":"Connecticut",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

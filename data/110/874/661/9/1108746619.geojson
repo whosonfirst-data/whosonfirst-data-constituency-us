@@ -36,6 +36,8 @@
     "unlc:subdivision":"US-NY",
     "wof:abbreviation":"NY",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -48,7 +50,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231161,
-    "wof:geomhash":"a9b9f4c9635521280e26b6b7692663f2",
+    "wof:geomhash":"b3195572ccf3fb574770d99eeffb55f9",
     "wof:hierarchy":[
         {
             "constituency_id":1108746619,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108746619,
-    "wof:lastmodified":1487197426,
+    "wof:lastmodified":1496952584,
     "wof:name":"New York",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -36,6 +36,8 @@
     "unlc:subdivision":"US-TX",
     "wof:abbreviation":"TX",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -48,7 +50,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231191,
-    "wof:geomhash":"c510ece4367142b5b171707304bf7d1f",
+    "wof:geomhash":"3cf02a1e25df35bf29676a180c75d1c4",
     "wof:hierarchy":[
         {
             "constituency_id":1108746709,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108746709,
-    "wof:lastmodified":1487197417,
+    "wof:lastmodified":1496952607,
     "wof:name":"Texas",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

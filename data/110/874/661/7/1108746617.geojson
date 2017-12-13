@@ -514,6 +514,8 @@
     "wk:wordcount":11017,
     "wof:abbreviation":"NM",
     "wof:association":"us-senate",
+    "wof:association_era":"115th Congress",
+    "wof:association_type":"bicameral",
     "wof:belongsto":[
         102191575,
         85633793,
@@ -527,7 +529,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231160,
-    "wof:geomhash":"66b21ed4770d69ea377bd2ee5a8c15ec",
+    "wof:geomhash":"61f752f934379878f6315e6ec9829555",
     "wof:hierarchy":[
         {
             "constituency_id":1108746617,
@@ -537,7 +539,7 @@
         }
     ],
     "wof:id":1108746617,
-    "wof:lastmodified":1487197383,
+    "wof:lastmodified":1496952584,
     "wof:name":"New Mexico",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",
