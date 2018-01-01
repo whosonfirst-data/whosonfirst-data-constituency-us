@@ -34,9 +34,10 @@
     "wof:hierarchy":[],
     "wof:id":1108761947,
     "wof:lastmodified":1481486056,
+    "wof:name":"California State Senate District 11",
     "wof:parent_id":-1,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
