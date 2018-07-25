@@ -11,6 +11,7 @@
     "geom:longitude":-157.981276,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":185256307.0,
     "uscensus:awater":1338815.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486423,
-    "wof:geomhash":"bd7b7ee9b53674335c885e3b05d6d69d",
+    "wof:geomhash":"ba3ab6df17c0b3049417dfc751427a64",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763875,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763875,
-    "wof:lastmodified":1481486423,
+    "wof:lastmodified":1532444351,
     "wof:name":"Hawaii State Senate District 22",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

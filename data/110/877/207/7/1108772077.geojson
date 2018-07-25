@@ -11,6 +11,7 @@
     "geom:longitude":-95.891523,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":26034146.0,
     "uscensus:awater":68891.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487882,
-    "wof:geomhash":"d285682eaf212d2721221c32d5035d6e",
+    "wof:geomhash":"79e8a5cbc3dff2fe60dd3ab2129920ab",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772077,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772077,
-    "wof:lastmodified":1481487882,
+    "wof:lastmodified":1532444001,
     "wof:name":"Oklahoma State House District 79",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

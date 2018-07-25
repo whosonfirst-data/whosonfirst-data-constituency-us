@@ -11,6 +11,7 @@
     "geom:longitude":-95.687412,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "MN-07"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738067,
-    "wof:lastmodified":1493955428,
+    "wof:lastmodified":1532444719,
     "wof:name":"Minnesota Congressional District 7",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

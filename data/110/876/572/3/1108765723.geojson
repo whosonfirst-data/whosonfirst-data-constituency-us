@@ -11,6 +11,7 @@
     "geom:longitude":-87.90338,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5514469483.0,
     "uscensus:awater":252483597.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486723,
-    "wof:geomhash":"9090f4bc9d3a69220d32b28006e8b54a",
+    "wof:geomhash":"485a5d1856534f00f07a068c390e6fb8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765723,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765723,
-    "wof:lastmodified":1481486723,
+    "wof:lastmodified":1532444139,
     "wof:name":"Kentucky State Senate District 4",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

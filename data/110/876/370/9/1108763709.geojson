@@ -11,6 +11,7 @@
     "geom:longitude":-84.057604,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":236414747.0,
     "uscensus:awater":4481919.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486393,
-    "wof:geomhash":"3f0867643096d949822c12137ba31372",
+    "wof:geomhash":"248215ebe67b60dff95223a0a1cb2d7a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763709,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763709,
-    "wof:lastmodified":1481486393,
+    "wof:lastmodified":1532444502,
     "wof:name":"Georgia State Senate District 55",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-99.811877,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10102142516.0,
     "uscensus:awater":288889853.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488173,
-    "wof:geomhash":"485dbb7fb817c0eb76ab033362f06a86",
+    "wof:geomhash":"5b55de0f310ec84054415c313191c1e6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773833,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688693
         }
     ],
     "wof:id":1108773833,
-    "wof:lastmodified":1481488173,
+    "wof:lastmodified":1532444008,
     "wof:name":"South Dakota State House District 26B",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

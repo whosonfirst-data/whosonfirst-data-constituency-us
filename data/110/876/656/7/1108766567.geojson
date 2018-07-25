@@ -11,6 +11,7 @@
     "geom:longitude":-70.740346,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":369162824.0,
     "uscensus:awater":534785419.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486858,
-    "wof:geomhash":"2db4c70bbae687a1d9e6710ca0d43bf6",
+    "wof:geomhash":"01b68b33f60a618a96b22fa69d0aff6a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766567,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766567,
-    "wof:lastmodified":1481486858,
+    "wof:lastmodified":1532444390,
     "wof:name":"Massachusetts Plymouth & Norfolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

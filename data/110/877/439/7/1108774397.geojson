@@ -11,6 +11,7 @@
     "geom:longitude":-102.796074,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10554633566.0,
     "uscensus:awater":12592560.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488309,
-    "wof:geomhash":"934000354fc78e63f9d9de9b38a47f55",
+    "wof:geomhash":"38fb8ac8516ef69a0cc1bd0ccbfbf618",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774397,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774397,
-    "wof:lastmodified":1481488309,
+    "wof:lastmodified":1532443758,
     "wof:name":"Texas State House District 81",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-81.729503,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2927275489.0,
     "uscensus:awater":35388216.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487812,
-    "wof:geomhash":"93496b51787c068a852f9d90d22a067f",
+    "wof:geomhash":"f62ebfaf204021a03d33de322d5c6e0d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771815,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771815,
-    "wof:lastmodified":1481487812,
+    "wof:lastmodified":1532443994,
     "wof:name":"Ohio State House District 97",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.306275,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":299998547.0,
     "uscensus:awater":72228484.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488496,
-    "wof:geomhash":"529af6826386a7175285b4432d6ab34d",
+    "wof:geomhash":"2eb43250c58ae451dd92770f4a4455d8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775177,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775177,
-    "wof:lastmodified":1481488496,
+    "wof:lastmodified":1532443869,
     "wof:name":"Vermont Addison-3 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

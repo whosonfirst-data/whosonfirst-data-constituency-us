@@ -11,6 +11,7 @@
     "geom:longitude":-87.808554,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":31270574.0,
     "uscensus:awater":24575.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486522,
-    "wof:geomhash":"bd08ed58d4161d49449bb4a6e4792ba6",
+    "wof:geomhash":"147d6d3c544e8bd7bb22de6f1baa766b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764395,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764395,
-    "wof:lastmodified":1481486522,
+    "wof:lastmodified":1532444108,
     "wof:name":"Illinois State House District 8",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

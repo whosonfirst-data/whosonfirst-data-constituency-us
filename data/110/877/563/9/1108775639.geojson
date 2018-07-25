@@ -11,6 +11,7 @@
     "geom:longitude":-121.843384,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5206644356.0,
     "uscensus:awater":935964996.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488565,
-    "wof:geomhash":"b96f234fa2492a3c90a84cd783f0b9bc",
+    "wof:geomhash":"978f602e3fa0f636f0fd6c44fbd19d21",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775639,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775639,
-    "wof:lastmodified":1481488565,
+    "wof:lastmodified":1532444001,
     "wof:name":"Washington State Senate District 42",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

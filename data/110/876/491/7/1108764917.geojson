@@ -11,6 +11,7 @@
     "geom:longitude":-86.529974,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":83937777.0,
     "uscensus:awater":489035.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486612,
-    "wof:geomhash":"1f30d0be1f7beeba7c5cb627e04a83a9",
+    "wof:geomhash":"5e591d797da06778759bd917af678724",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764917,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764917,
-    "wof:lastmodified":1481486612,
+    "wof:lastmodified":1532444389,
     "wof:name":"Indiana State House District 61",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

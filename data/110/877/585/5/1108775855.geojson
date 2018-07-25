@@ -11,6 +11,7 @@
     "geom:longitude":-87.8748,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1232164481.0,
     "uscensus:awater":740108258.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488593,
-    "wof:geomhash":"df7a6ce00af27fd65d00eb05827b0e8b",
+    "wof:geomhash":"05c99c18c629fce5ca57f26694f20e73",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775855,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775855,
-    "wof:lastmodified":1481488593,
+    "wof:lastmodified":1532443893,
     "wof:name":"Wisconsin Assembly District 89",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

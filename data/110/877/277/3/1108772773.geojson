@@ -11,6 +11,7 @@
     "geom:longitude":-75.431935,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":107127532.0,
     "uscensus:awater":1401619.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488002,
-    "wof:geomhash":"3285413498f64b5ec6494eae5350094b",
+    "wof:geomhash":"d39dd503cfaf939c9cf17d1ecd92c22a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772773,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772773,
-    "wof:lastmodified":1481488002,
+    "wof:lastmodified":1532443884,
     "wof:name":"Pennsylvania State House District 150",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

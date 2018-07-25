@@ -11,6 +11,7 @@
     "geom:longitude":-92.375664,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":285283691.0,
     "uscensus:awater":3513002.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485925,
-    "wof:geomhash":"c9cac89f73bdc80bebf261e992184f28",
+    "wof:geomhash":"52a5680f7c20ec34b3f2ee6f14b02437",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761365,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761365,
-    "wof:lastmodified":1481485925,
+    "wof:lastmodified":1532444093,
     "wof:name":"Arkansas State House District 27",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

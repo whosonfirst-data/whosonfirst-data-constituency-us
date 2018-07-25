@@ -11,6 +11,7 @@
     "geom:longitude":-120.99307,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17998844904.0,
     "uscensus:awater":2490907320.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486060,
-    "wof:geomhash":"9b8379c6de6be39f7311a90368a83a5e",
+    "wof:geomhash":"09474194fff8abb0efd5a67c981a263f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761961,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761961,
-    "wof:lastmodified":1481486060,
+    "wof:lastmodified":1532444096,
     "wof:name":"California State Senate District 17",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

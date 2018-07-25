@@ -11,6 +11,7 @@
     "geom:longitude":-70.503179,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":232162268.0,
     "uscensus:awater":19773039.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487003,
-    "wof:geomhash":"5f2cd365f4beb2fe26e4857413941a48",
+    "wof:geomhash":"bfcdacef53793686c4cb0419d5deb495",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767003,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767003,
-    "wof:lastmodified":1481487003,
+    "wof:lastmodified":1532444180,
     "wof:name":"Maine State House District 72",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

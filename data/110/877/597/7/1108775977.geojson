@@ -11,6 +11,7 @@
     "geom:longitude":-81.665368,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":866059325.0,
     "uscensus:awater":10279933.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488627,
-    "wof:geomhash":"1b67ef69dcce6daaef1162034e8db057",
+    "wof:geomhash":"76e9f7ec9aa5fb5b5cc03629a0bbe8ed",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775977,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108775977,
-    "wof:lastmodified":1481488627,
+    "wof:lastmodified":1532443792,
     "wof:name":"West Virginia State House District 12",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-96.793902,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":107950677.0,
     "uscensus:awater":651059.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488304,
-    "wof:geomhash":"3bbc6d5a692069d819aeb5ac4a00577d",
+    "wof:geomhash":"0015c2c9fd97a4c5140fcaf42b2a50a5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774363,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774363,
-    "wof:lastmodified":1481488304,
+    "wof:lastmodified":1532443832,
     "wof:name":"Texas State House District 66",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

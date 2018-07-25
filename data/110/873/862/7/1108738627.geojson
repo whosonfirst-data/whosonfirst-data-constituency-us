@@ -11,6 +11,7 @@
     "geom:longitude":-66.414667,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8868100460.0,
     "uscensus:awater":4923178155.0,
@@ -25,14 +26,20 @@
     "uscensus:namelsad":"Resident Commissioner District (at Large)",
     "uscensus:statefp":"72",
     "wof:association":"us-house",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "102191575",
+        "85633729",
+        "85633793",
+        85687331
+    ],
     "wof:breaches":[],
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903973,
-    "wof:geomhash":"287114d807acb2bc345cf78510566a66",
+    "wof:geomhash":"f6dc43cca03d88f7e7baf1300f2490f7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108738627,
             "continent_id":"102191575",
             "country_id":"85633793",
             "dependency_id":"85633729",
@@ -40,7 +47,7 @@
         }
     ],
     "wof:id":1108738627,
-    "wof:lastmodified":1478903973,
+    "wof:lastmodified":1532444636,
     "wof:name":"Puerto Rico Resident Commissioner District (at Large)",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",

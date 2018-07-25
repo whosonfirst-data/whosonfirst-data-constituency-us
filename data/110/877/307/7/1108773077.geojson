@@ -11,6 +11,7 @@
     "geom:longitude":-66.048929,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":94391496.0,
     "uscensus:awater":269021.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488053,
-    "wof:geomhash":"4cb4300f68b22107b9bcb91940dc6074",
+    "wof:geomhash":"6328dddb7cec8e47cdde9688d12d939c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773077,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773077,
-    "wof:lastmodified":1481488053,
+    "wof:lastmodified":1532443977,
     "wof:name":"Puerto Rico State House District 32",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

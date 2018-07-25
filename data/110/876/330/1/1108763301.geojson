@@ -11,6 +11,7 @@
     "geom:longitude":-84.380888,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":33992479.0,
     "uscensus:awater":256280.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486309,
-    "wof:geomhash":"50fd82f4f10d2cda1fef31f96426f662",
+    "wof:geomhash":"3d22a80be86d7dc47590d81c0fb73838",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763301,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763301,
-    "wof:lastmodified":1481486309,
+    "wof:lastmodified":1532444367,
     "wof:name":"Georgia State House District 54",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-94.789669,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2145084738.0,
     "uscensus:awater":34292166.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487202,
-    "wof:geomhash":"cd84bb687063e5b5b5698fa36b538f90",
+    "wof:geomhash":"fc3b3c47ec1d3b8d2fbd70d2b4b7ab11",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768493,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768493,
-    "wof:lastmodified":1481487202,
+    "wof:lastmodified":1532444469,
     "wof:name":"Missouri State Senate District 34",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

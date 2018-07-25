@@ -11,6 +11,7 @@
     "geom:longitude":-89.512117,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5410422992.0,
     "uscensus:awater":161412417.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488580,
-    "wof:geomhash":"9dad17e7d02675770531277854358d0d",
+    "wof:geomhash":"69efe75d5e42c950330b25fb5284f193",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775733,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775733,
-    "wof:lastmodified":1481488580,
+    "wof:lastmodified":1532444061,
     "wof:name":"Wisconsin Assembly District 35",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-97.663128,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2047868718.0,
     "uscensus:awater":5308725.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486653,
-    "wof:geomhash":"da7e5e1ea4ecfa6c952ce1a7f0190cfd",
+    "wof:geomhash":"2f0515e021ad28a1d905689b691ff149",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765281,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765281,
-    "wof:lastmodified":1481486653,
+    "wof:lastmodified":1532444076,
     "wof:name":"Kansas State House District 73",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -17,6 +17,7 @@
     "mps:latitude":35.387362,
     "mps:longitude":-78.455056,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "North Carolina"
     ],
@@ -50,7 +51,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231174,
-    "wof:geomhash":"68de08921205af592bf39bd969e14842",
+    "wof:geomhash":"847bfebb220d97535f9d8af2901a90a4",
     "wof:hierarchy":[
         {
             "constituency_id":1108746661,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108746661,
-    "wof:lastmodified":1487197405,
+    "wof:lastmodified":1532443706,
     "wof:name":"North Carolina",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-79.090923,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":240973501.0,
     "uscensus:awater":2249310.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487423,
-    "wof:geomhash":"70d0267f4c1a23b8afda174450496797",
+    "wof:geomhash":"2d3d6f0684f461f1956bf242987fd6b0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769549,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769549,
-    "wof:lastmodified":1481487423,
+    "wof:lastmodified":1532444083,
     "wof:name":"North Carolina State House District 56",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

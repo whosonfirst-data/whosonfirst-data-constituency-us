@@ -11,6 +11,7 @@
     "geom:longitude":-79.419552,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2825508949.0,
     "uscensus:awater":18568924.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488155,
-    "wof:geomhash":"275145a5b8c16f9f5b2741fb503c5b97",
+    "wof:geomhash":"384d059764e2e73e86c468b5f2ff6413",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773719,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773719,
-    "wof:lastmodified":1481488155,
+    "wof:lastmodified":1532443929,
     "wof:name":"South Carolina State Senate District 30",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

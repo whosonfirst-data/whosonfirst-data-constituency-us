@@ -11,6 +11,7 @@
     "geom:longitude":-81.196625,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":832878484.0,
     "uscensus:awater":17377237.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487473,
-    "wof:geomhash":"57294bdb4e85769b5f1daa0fdd3947d1",
+    "wof:geomhash":"24975b039dd55dd2553b9935295c6e8f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769791,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769791,
-    "wof:lastmodified":1481487473,
+    "wof:lastmodified":1532444271,
     "wof:name":"North Carolina State Senate District 43",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

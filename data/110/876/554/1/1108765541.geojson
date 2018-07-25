@@ -11,6 +11,7 @@
     "geom:longitude":-85.938552,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1289116501.0,
     "uscensus:awater":32479371.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486690,
-    "wof:geomhash":"4b2fe1afcb31bc7ca7b70647124ab10a",
+    "wof:geomhash":"4e70107eb84b057a2a6cef2d9ddd5063",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765541,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765541,
-    "wof:lastmodified":1481486690,
+    "wof:lastmodified":1532444554,
     "wof:name":"Kentucky State House District 23",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

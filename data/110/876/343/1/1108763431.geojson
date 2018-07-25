@@ -11,6 +11,7 @@
     "geom:longitude":-83.598341,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1356588361.0,
     "uscensus:awater":30971139.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486329,
-    "wof:geomhash":"cf013f28b6935a193adbf5188d18e1b8",
+    "wof:geomhash":"adcf992bccea4e216f2ad2f84206599c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763431,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763431,
-    "wof:lastmodified":1481486329,
+    "wof:lastmodified":1532444099,
     "wof:name":"Georgia State House District 112",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

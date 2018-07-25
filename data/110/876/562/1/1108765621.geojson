@@ -11,6 +11,7 @@
     "geom:longitude":-85.446042,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":435502342.0,
     "uscensus:awater":23111019.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486704,
-    "wof:geomhash":"e232a07c8fe66381ec52e7aa51bbacc3",
+    "wof:geomhash":"b2c838bfa731de652d4413cdaf8eecf5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765621,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765621,
-    "wof:lastmodified":1481486704,
+    "wof:lastmodified":1532444201,
     "wof:name":"Kentucky State House District 59",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

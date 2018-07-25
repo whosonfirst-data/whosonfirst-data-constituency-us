@@ -11,6 +11,7 @@
     "geom:longitude":-71.16945,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10850355.0,
     "uscensus:awater":2230679.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486812,
-    "wof:geomhash":"24712d8b3ab53cf856c3af7ceb386198",
+    "wof:geomhash":"c719018c0efbd0fa7c138e8bd2547c78",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766163,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766163,
-    "wof:lastmodified":1481486812,
+    "wof:lastmodified":1532444418,
     "wof:name":"Massachusetts 7th Bristol District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

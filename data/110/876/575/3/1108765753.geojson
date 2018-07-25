@@ -11,6 +11,7 @@
     "geom:longitude":-82.937793,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2366769797.0,
     "uscensus:awater":38275928.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486728,
-    "wof:geomhash":"7953b6118f13f1ee801e27eb0a11fe19",
+    "wof:geomhash":"42f97ac866ad866ce19e9b6b5b2c6bfe",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765753,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765753,
-    "wof:lastmodified":1481486728,
+    "wof:lastmodified":1532444361,
     "wof:name":"Kentucky State Senate District 18",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

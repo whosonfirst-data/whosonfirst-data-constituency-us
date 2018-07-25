@@ -11,6 +11,7 @@
     "geom:longitude":-156.637683,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2428995753.0,
     "uscensus:awater":2742472586.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486419,
-    "wof:geomhash":"dbf5fc2bcf9ae2a5812c57885ab33f6e",
+    "wof:geomhash":"423ccf200607e6311834f54657e2899d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763841,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763841,
-    "wof:lastmodified":1481486419,
+    "wof:lastmodified":1532444303,
     "wof:name":"Hawaii State Senate District 7",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

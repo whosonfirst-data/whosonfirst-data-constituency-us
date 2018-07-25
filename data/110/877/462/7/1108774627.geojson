@@ -11,6 +11,7 @@
     "geom:longitude":-111.870622,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":462132501.0,
     "uscensus:awater":12734608.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488368,
-    "wof:geomhash":"e109b8a316ee03fa34e81b99eb8b74cf",
+    "wof:geomhash":"4a29eca66ebd8ad2a0f4ae26dd881fca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774627,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774627,
-    "wof:lastmodified":1481488368,
+    "wof:lastmodified":1532443906,
     "wof:name":"Utah State House District 3",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

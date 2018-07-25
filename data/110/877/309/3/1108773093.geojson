@@ -11,6 +11,7 @@
     "geom:longitude":-65.974786,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":44147681.0,
     "uscensus:awater":830032.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488055,
-    "wof:geomhash":"d80771f86f627c39bde760f0759ec6fe",
+    "wof:geomhash":"ddf7cc116bd0ba6a3fbb5b96549eeee3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773093,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773093,
-    "wof:lastmodified":1481488055,
+    "wof:lastmodified":1532443742,
     "wof:name":"Puerto Rico State House District 39",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

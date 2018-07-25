@@ -11,6 +11,7 @@
     "geom:longitude":-118.207516,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":99928126.0,
     "uscensus:awater":794273.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486030,
-    "wof:geomhash":"7b363726c8b8d08b4c29f727d6abb1ea",
+    "wof:geomhash":"69877d7077a91bf0bd11add5961184a3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761857,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761857,
-    "wof:lastmodified":1481486030,
+    "wof:lastmodified":1532444338,
     "wof:name":"California Assembly District 51",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

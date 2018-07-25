@@ -11,6 +11,7 @@
     "geom:longitude":-106.701387,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":23217034.0,
     "uscensus:awater":744288.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487631,
-    "wof:geomhash":"8f3e5486bf020e267329ff328eaa53bb",
+    "wof:geomhash":"c85e9e10c714fe96d5aed1414a338083",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770751,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688493
         }
     ],
     "wof:id":1108770751,
-    "wof:lastmodified":1481487631,
+    "wof:lastmodified":1532443800,
     "wof:name":"New Mexico State House District 12",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nm",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

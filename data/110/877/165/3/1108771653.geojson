@@ -11,6 +11,7 @@
     "geom:longitude":-82.939402,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":89958440.0,
     "uscensus:awater":588896.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487782,
-    "wof:geomhash":"37ffc313d968cc9f11bffc25f4c6f244",
+    "wof:geomhash":"5f88f379ec6189273e24f82199432a00",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771653,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771653,
-    "wof:lastmodified":1481487782,
+    "wof:lastmodified":1532443856,
     "wof:name":"Ohio State House District 25",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

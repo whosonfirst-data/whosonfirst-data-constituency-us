@@ -11,6 +11,7 @@
     "geom:longitude":-100.745233,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6640892375.0,
     "uscensus:awater":28630225.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487531,
-    "wof:geomhash":"d743380b524550e43933d7f3bc04ae0e",
+    "wof:geomhash":"4d1734517e3c26290dd0ac9c330ee8f8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770113,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770113,
-    "wof:lastmodified":1481487531,
+    "wof:lastmodified":1532443914,
     "wof:name":"Nebraska State Senate District 42",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

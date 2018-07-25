@@ -11,6 +11,7 @@
     "geom:longitude":-80.282614,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":93554109.0,
     "uscensus:awater":107168035.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486255,
-    "wof:geomhash":"5e5150d71e78e84aaf9115bc18b34f4b",
+    "wof:geomhash":"412fc2c93a5fb377741ae61196d1bdc9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763077,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763077,
-    "wof:lastmodified":1481486255,
+    "wof:lastmodified":1532444456,
     "wof:name":"Florida State House District 114",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

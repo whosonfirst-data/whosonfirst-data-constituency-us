@@ -11,6 +11,7 @@
     "geom:longitude":-122.402049,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":42185642.0,
     "uscensus:awater":54899431.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488564,
-    "wof:geomhash":"511f4b72ebb89b68208bb980e3584286",
+    "wof:geomhash":"d108db55730d122b9a656b13e5cef216",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775625,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775625,
-    "wof:lastmodified":1481488564,
+    "wof:lastmodified":1532443812,
     "wof:name":"Washington State Senate District 36",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

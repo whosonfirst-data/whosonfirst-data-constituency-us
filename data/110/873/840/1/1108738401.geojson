@@ -11,6 +11,7 @@
     "geom:longitude":-106.281506,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-16"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738401,
-    "wof:lastmodified":1493955503,
+    "wof:lastmodified":1532444678,
     "wof:name":"Texas Congressional District 16",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

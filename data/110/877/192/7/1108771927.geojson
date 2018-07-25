@@ -11,6 +11,7 @@
     "geom:longitude":-95.461727,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1138749066.0,
     "uscensus:awater":16716705.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487853,
-    "wof:geomhash":"9931b5f46c70f57152299be034db0a1b",
+    "wof:geomhash":"1252bf6ee78c96ade354b9048c56c6a8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771927,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771927,
-    "wof:lastmodified":1481487853,
+    "wof:lastmodified":1532444049,
     "wof:name":"Oklahoma State House District 13",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

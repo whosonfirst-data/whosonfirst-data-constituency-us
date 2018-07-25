@@ -11,6 +11,7 @@
     "geom:longitude":-93.570415,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":12688702513.0,
     "uscensus:awater":142198065.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487197,
-    "wof:geomhash":"1a085fdbe7e406a8991a486265911543",
+    "wof:geomhash":"0051d6b3641fa52fa1381f912212705d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768463,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768463,
-    "wof:lastmodified":1481487197,
+    "wof:lastmodified":1532444174,
     "wof:name":"Missouri State Senate District 21",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

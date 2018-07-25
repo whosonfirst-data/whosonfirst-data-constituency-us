@@ -11,6 +11,7 @@
     "geom:longitude":-118.383776,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":108147790.0,
     "uscensus:awater":222526.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486030,
-    "wof:geomhash":"a7d3e9d53fbee15086273297f3f5cdb4",
+    "wof:geomhash":"bbc7109c7839de34ed523e72c3ed1c29",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761863,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761863,
-    "wof:lastmodified":1481486030,
+    "wof:lastmodified":1532444371,
     "wof:name":"California Assembly District 54",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

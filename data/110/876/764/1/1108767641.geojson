@@ -11,6 +11,7 @@
     "geom:longitude":-93.592884,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6691950172.0,
     "uscensus:awater":654052104.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487086,
-    "wof:geomhash":"a7f180ecd478f733cd4d255042c5efd4",
+    "wof:geomhash":"6e51eda544a1a0d2d718f9f87633e9a9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767641,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767641,
-    "wof:lastmodified":1481487086,
+    "wof:lastmodified":1532444066,
     "wof:name":"Minnesota State House District 10B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

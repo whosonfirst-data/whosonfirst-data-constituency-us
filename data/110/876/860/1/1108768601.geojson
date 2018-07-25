@@ -11,6 +11,7 @@
     "geom:longitude":-109.228082,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":14355996.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487221,
-    "wof:geomhash":"2e8a769571878db52a0eda1f1ffee149",
+    "wof:geomhash":"411771c6a9e3e39c081da2244e073a4e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768601,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768601,
-    "wof:lastmodified":1481487221,
+    "wof:lastmodified":1532444299,
     "wof:name":"Wyoming State House District 48",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

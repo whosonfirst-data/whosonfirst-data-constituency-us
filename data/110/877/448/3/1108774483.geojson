@@ -11,6 +11,7 @@
     "geom:longitude":-98.392002,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":154262164.0,
     "uscensus:awater":994535.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488331,
-    "wof:geomhash":"2d7a359a0be616c285247c3e3eb0366e",
+    "wof:geomhash":"fe79511d0c5be6cadec2226fbaf3745d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774483,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774483,
-    "wof:lastmodified":1481488331,
+    "wof:lastmodified":1532443906,
     "wof:name":"Texas State House District 120",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

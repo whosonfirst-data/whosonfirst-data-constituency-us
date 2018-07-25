@@ -11,6 +11,7 @@
     "geom:longitude":-113.242166,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7447792005.0,
     "uscensus:awater":28799283.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487383,
-    "wof:geomhash":"f267437e4ed70ce7663034a251c2523a",
+    "wof:geomhash":"14911e4ab080042646c7ec317489e31e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769399,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769399,
-    "wof:lastmodified":1481487383,
+    "wof:lastmodified":1532444195,
     "wof:name":"Montana State Senate District 39",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

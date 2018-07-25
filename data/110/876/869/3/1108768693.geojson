@@ -11,6 +11,7 @@
     "geom:longitude":-106.36072,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":232177182.0,
     "uscensus:awater":1187149.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487237,
-    "wof:geomhash":"091af3ef6fcd33d6a6f753d8d1012ddf",
+    "wof:geomhash":"dda8587bf8ba37112ae3076810ffd603",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768693,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768693,
-    "wof:lastmodified":1481487237,
+    "wof:lastmodified":1532444560,
     "wof:name":"Wyoming State Senate District 29",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

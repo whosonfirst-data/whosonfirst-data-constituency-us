@@ -11,6 +11,7 @@
     "geom:longitude":-122.056882,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":256502094.0,
     "uscensus:awater":11004397.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488566,
-    "wof:geomhash":"d5ca97a5a43bafc729ec2735cf871412",
+    "wof:geomhash":"d902d84c1142e3153f5004114bff1a0c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775645,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775645,
-    "wof:lastmodified":1481488566,
+    "wof:lastmodified":1532443863,
     "wof:name":"Washington State Senate District 45",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

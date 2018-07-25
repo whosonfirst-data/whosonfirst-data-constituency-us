@@ -11,6 +11,7 @@
     "geom:longitude":-112.748741,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1567786021.0,
     "uscensus:awater":4807102.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487350,
-    "wof:geomhash":"bf5421d91135ac036e64558a09a5bb88",
+    "wof:geomhash":"407d3e57a820c47475e5603e6904646c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769261,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769261,
-    "wof:lastmodified":1481487350,
+    "wof:lastmodified":1532444424,
     "wof:name":"Montana State House District 78",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

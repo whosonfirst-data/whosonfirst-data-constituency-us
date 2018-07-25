@@ -11,6 +11,7 @@
     "geom:longitude":-118.024083,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":183091252.0,
     "uscensus:awater":59445645.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486035,
-    "wof:geomhash":"6c81eb299be3c01364599cfa7ab16dfb",
+    "wof:geomhash":"d67be6ffa571c6bfcace3a23334de12a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761905,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761905,
-    "wof:lastmodified":1481486035,
+    "wof:lastmodified":1532444448,
     "wof:name":"California Assembly District 72",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

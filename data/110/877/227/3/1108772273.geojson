@@ -11,6 +11,7 @@
     "geom:longitude":-122.344265,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5852990542.0,
     "uscensus:awater":52066557.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487917,
-    "wof:geomhash":"6803f973bb643e81037a291a02eeebb7",
+    "wof:geomhash":"0c460263cb8eb612b92f15c05d3d4672",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772273,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772273,
-    "wof:lastmodified":1481487917,
+    "wof:lastmodified":1532444059,
     "wof:name":"Oregon State House District 17",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

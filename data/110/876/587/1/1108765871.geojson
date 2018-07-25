@@ -11,6 +11,7 @@
     "geom:longitude":-93.105312,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4015347589.0,
     "uscensus:awater":29030395.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486751,
-    "wof:geomhash":"a8b8ce61adbac4da4c2cc92c94953e24",
+    "wof:geomhash":"c4e96b20367726d7cbdc06e711eb8429",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765871,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765871,
-    "wof:lastmodified":1481486751,
+    "wof:lastmodified":1532444288,
     "wof:name":"Louisiana State House District 32",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

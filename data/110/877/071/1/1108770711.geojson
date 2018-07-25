@@ -11,6 +11,7 @@
     "geom:longitude":-74.187658,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":61252784.0,
     "uscensus:awater":428451.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487619,
-    "wof:geomhash":"0e21d5a888294a0db7b309f9bb48e66d",
+    "wof:geomhash":"764ec2b77d4f8e6464ceba9479d1b0f1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770711,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770711,
-    "wof:lastmodified":1481487619,
+    "wof:lastmodified":1532443785,
     "wof:name":"New Jersey State Senate District 34",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

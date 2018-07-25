@@ -11,6 +11,7 @@
     "geom:longitude":-122.047056,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7793066070.0,
     "uscensus:awater":448444846.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486047,
-    "wof:geomhash":"7620105c655c99a7d5547fe17e0613df",
+    "wof:geomhash":"56fd4323ff57ef88b54cb7ab69563c04",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761929,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761929,
-    "wof:lastmodified":1481486047,
+    "wof:lastmodified":1532444571,
     "wof:name":"California State Senate District 3",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

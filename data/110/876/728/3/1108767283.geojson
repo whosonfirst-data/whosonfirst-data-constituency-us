@@ -11,6 +11,7 @@
     "geom:longitude":-83.316634,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":53689565.0,
     "uscensus:awater":23399.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487045,
-    "wof:geomhash":"b8d7a1979771876bba3e48d496490f5c",
+    "wof:geomhash":"315c2421828798dce5c552950b9a8659",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767283,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767283,
-    "wof:lastmodified":1481487045,
+    "wof:lastmodified":1532444439,
     "wof:name":"Michigan State House District 11",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

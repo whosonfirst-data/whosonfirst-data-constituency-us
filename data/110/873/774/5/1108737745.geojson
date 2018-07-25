@@ -11,6 +11,7 @@
     "geom:longitude":-96.615104,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-03"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737745,
-    "wof:lastmodified":1493955508,
+    "wof:lastmodified":1532444598,
     "wof:name":"Texas Congressional District 3",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

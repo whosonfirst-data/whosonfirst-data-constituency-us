@@ -11,6 +11,7 @@
     "geom:longitude":-87.495046,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":51215463.0,
     "uscensus:awater":9166181.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486598,
-    "wof:geomhash":"acd39d26d5b9d91a1ee3182c9655529f",
+    "wof:geomhash":"27b119c96e0a3d3e686aa770294db822",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764781,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764781,
-    "wof:lastmodified":1481486598,
+    "wof:lastmodified":1532444465,
     "wof:name":"Indiana State House District 1",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

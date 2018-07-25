@@ -11,6 +11,7 @@
     "geom:longitude":-119.618794,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8557622030.0,
     "uscensus:awater":3034382298.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486025,
-    "wof:geomhash":"99b9bd33a46b1ab55f481f350f1b5bef",
+    "wof:geomhash":"d835777ea05c5076867ab501d6295707",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761825,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761825,
-    "wof:lastmodified":1481486025,
+    "wof:lastmodified":1532444529,
     "wof:name":"California Assembly District 37",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.966711,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17700606154.0,
     "uscensus:awater":969095241.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487761,
-    "wof:geomhash":"e177b09cb069fa3eb2252cc3b30b7976",
+    "wof:geomhash":"8326df4d8fe010bc2916c3601e326223",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771557,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771557,
-    "wof:lastmodified":1481487761,
+    "wof:lastmodified":1532443950,
     "wof:name":"New York State Senate District 45",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

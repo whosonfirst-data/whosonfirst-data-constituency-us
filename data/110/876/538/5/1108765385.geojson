@@ -11,6 +11,7 @@
     "geom:longitude":-100.003289,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":49145845.0,
     "uscensus:awater":64828.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486663,
-    "wof:geomhash":"db79cd195af4fe6224657fd8d139ce00",
+    "wof:geomhash":"91afed2d517b45f0af1274f6814d4585",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765385,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765385,
-    "wof:lastmodified":1481486663,
+    "wof:lastmodified":1532444090,
     "wof:name":"Kansas State House District 119",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

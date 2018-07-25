@@ -11,6 +11,7 @@
     "geom:longitude":-101.313094,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17260416.0,
     "uscensus:awater":29350.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487505,
-    "wof:geomhash":"43376cd9b04f256c6f6146a877b899ee",
+    "wof:geomhash":"00e8e7725f9d59a839d47685511bdb90",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769923,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108769923,
-    "wof:lastmodified":1481487505,
+    "wof:lastmodified":1532444194,
     "wof:name":"North Dakota State Senate District 5",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

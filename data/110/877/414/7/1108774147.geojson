@@ -11,6 +11,7 @@
     "geom:longitude":-82.360977,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1973489883.0,
     "uscensus:awater":25533406.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488233,
-    "wof:geomhash":"bdb0f8f96dd4f435093dc3b53359f702",
+    "wof:geomhash":"127a7da40f896f34f08c083c70081f0c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774147,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774147,
-    "wof:lastmodified":1481488233,
+    "wof:lastmodified":1532444007,
     "wof:name":"Tennessee State Senate District 3",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

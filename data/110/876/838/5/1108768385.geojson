@@ -11,6 +11,7 @@
     "geom:longitude":-89.627168,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2865425292.0,
     "uscensus:awater":103869873.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487180,
-    "wof:geomhash":"4f05972c0ed72d5875815b7059562c65",
+    "wof:geomhash":"5cbb6143507dc39e15c49aa25c389cc8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768385,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768385,
-    "wof:lastmodified":1481487180,
+    "wof:lastmodified":1532444257,
     "wof:name":"Missouri State House District 149",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

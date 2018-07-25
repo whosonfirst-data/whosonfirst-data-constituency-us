@@ -11,6 +11,7 @@
     "geom:longitude":-90.072587,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16475076.0,
     "uscensus:awater":848194.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486769,
-    "wof:geomhash":"3b8bfd43eaae4481723fb210a28a7385",
+    "wof:geomhash":"c85351c6ef1c3a5dab13ed16d37788bd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766009,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766009,
-    "wof:lastmodified":1481486769,
+    "wof:lastmodified":1532444085,
     "wof:name":"Louisiana State House District 93",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

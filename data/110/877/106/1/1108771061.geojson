@@ -11,6 +11,7 @@
     "geom:longitude":-118.552049,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17412965413.0,
     "uscensus:awater":301718240.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487687,
-    "wof:geomhash":"f954efe47ed571a94346abdb7beee886",
+    "wof:geomhash":"bacc26067682863464e91647d157625d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771061,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771061,
-    "wof:lastmodified":1481487687,
+    "wof:lastmodified":1532444059,
     "wof:name":"Nevada Assembly District 38",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

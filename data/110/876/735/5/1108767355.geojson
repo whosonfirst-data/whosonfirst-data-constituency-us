@@ -11,6 +11,7 @@
     "geom:longitude":-83.384586,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":156962036.0,
     "uscensus:awater":16179113.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487051,
-    "wof:geomhash":"79fec2630d24805a3fe542d0e6d777f5",
+    "wof:geomhash":"f1bb68b1fafa8a52710abfc48eb789b4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767355,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767355,
-    "wof:lastmodified":1481487051,
+    "wof:lastmodified":1532444449,
     "wof:name":"Michigan State House District 43",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-111.853175,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":27715314.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488374,
-    "wof:geomhash":"bba8d350b27dc3ce1b26977b3a6c9e96",
+    "wof:geomhash":"0b9c9475571265ba713f532776c1cda7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774693,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774693,
-    "wof:lastmodified":1481488374,
+    "wof:lastmodified":1532443917,
     "wof:name":"Utah State House District 32",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

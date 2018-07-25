@@ -11,6 +11,7 @@
     "geom:longitude":-80.982455,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NC-05"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737925,
-    "wof:lastmodified":1493955464,
+    "wof:lastmodified":1532444619,
     "wof:name":"North Carolina Congressional District 5",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

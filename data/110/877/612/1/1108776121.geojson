@@ -11,6 +11,7 @@
     "geom:longitude":-81.394041,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3018259943.0,
     "uscensus:awater":16812195.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488655,
-    "wof:geomhash":"a59bd0c5165ae4d69f1e7b7f7cdf2db3",
+    "wof:geomhash":"c3bf133db26a12ccf6632e05b51f36a2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776121,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776121,
-    "wof:lastmodified":1481488655,
+    "wof:lastmodified":1532443750,
     "wof:name":"West Virginia State Senate District 9",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

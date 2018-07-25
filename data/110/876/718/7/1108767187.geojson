@@ -11,6 +11,7 @@
     "geom:longitude":-70.001177,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9294607471.0,
     "uscensus:awater":419921500.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487030,
-    "wof:geomhash":"5f788c77c54059759bdebd17901bf5bf",
+    "wof:geomhash":"151c5c9cf6be3e31d6060afaff2331a7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767187,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767187,
-    "wof:lastmodified":1481487030,
+    "wof:lastmodified":1532444308,
     "wof:name":"Maine State Senate District 3",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

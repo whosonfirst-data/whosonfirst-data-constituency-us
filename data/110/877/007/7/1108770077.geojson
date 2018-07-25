@@ -11,6 +11,7 @@
     "geom:longitude":-96.614834,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":33806113.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487527,
-    "wof:geomhash":"5128c3705675a1542ab4efa4ab551723",
+    "wof:geomhash":"d9fbf03123666c0dffb7a22bddced295",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770077,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770077,
-    "wof:lastmodified":1481487527,
+    "wof:lastmodified":1532443982,
     "wof:name":"Nebraska State Senate District 26",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

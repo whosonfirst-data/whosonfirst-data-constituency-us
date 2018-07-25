@@ -11,6 +11,7 @@
     "geom:longitude":-83.159186,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":249843946.0,
     "uscensus:awater":913570.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487070,
-    "wof:geomhash":"970e9373b0ba916249a99d961cbeb378",
+    "wof:geomhash":"002ee91509d8eaa60ac8597487333124",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767539,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767539,
-    "wof:lastmodified":1481487070,
+    "wof:lastmodified":1532444209,
     "wof:name":"Michigan State Senate District 13",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

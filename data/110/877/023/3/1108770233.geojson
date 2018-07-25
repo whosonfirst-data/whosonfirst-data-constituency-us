@@ -11,6 +11,7 @@
     "geom:longitude":-71.766145,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":232206088.0,
     "uscensus:awater":4340095.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487545,
-    "wof:geomhash":"87e6c04b4f5dcf6eeb03cf7f1dca5fc9",
+    "wof:geomhash":"b6a0967d17bf42837131c0ab646d2cf7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770233,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770233,
-    "wof:lastmodified":1481487545,
+    "wof:lastmodified":1532444004,
     "wof:name":"New Hampshire State House District Hillsborough County No. 2",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

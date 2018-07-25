@@ -11,6 +11,7 @@
     "geom:longitude":-70.906222,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":57137028.0,
     "uscensus:awater":1798090.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486813,
-    "wof:geomhash":"ce54bc1320961ac4faf3f81c93d9d351",
+    "wof:geomhash":"1e5e726a529f7883559c2f58c3a2e396",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766173,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766173,
-    "wof:lastmodified":1481486813,
+    "wof:lastmodified":1532444345,
     "wof:name":"Massachusetts 11th Bristol District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

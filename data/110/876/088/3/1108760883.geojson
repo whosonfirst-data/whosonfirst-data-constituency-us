@@ -11,6 +11,7 @@
     "geom:longitude":-149.649874,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":168182770.0,
     "uscensus:awater":81612389.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485785,
-    "wof:geomhash":"72ff35845d656dbd85786c8589f6f148",
+    "wof:geomhash":"d0671001901341be4f3d6936ff781906",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760883,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760883,
-    "wof:lastmodified":1481485785,
+    "wof:lastmodified":1532444404,
     "wof:name":"Alaska State House District 13",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

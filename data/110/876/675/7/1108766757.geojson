@@ -11,6 +11,7 @@
     "geom:longitude":-76.711692,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":165849694.0,
     "uscensus:awater":809585.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486933,
-    "wof:geomhash":"bba4fac8a1843ea12a8c7d6eae59b47f",
+    "wof:geomhash":"3e0aa1f71c5a7ddaa24ad7f724e3ecae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766757,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766757,
-    "wof:lastmodified":1481486933,
+    "wof:lastmodified":1532444415,
     "wof:name":"Maryland State Senate District 11",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

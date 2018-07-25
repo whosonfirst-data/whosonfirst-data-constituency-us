@@ -11,6 +11,7 @@
     "geom:longitude":-95.683259,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-22"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738479,
-    "wof:lastmodified":1493955512,
+    "wof:lastmodified":1532444674,
     "wof:name":"Texas Congressional District 22",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

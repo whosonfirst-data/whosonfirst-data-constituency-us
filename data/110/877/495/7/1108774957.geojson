@@ -11,6 +11,7 @@
     "geom:longitude":-77.061138,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":24792845.0,
     "uscensus:awater":2661312.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488432,
-    "wof:geomhash":"b1eb0095b5d867f2fc5ca44ee446fefb",
+    "wof:geomhash":"dc5ba39a3287e75982d7bf321d2c82bd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774957,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774957,
-    "wof:lastmodified":1481488432,
+    "wof:lastmodified":1532443872,
     "wof:name":"Virginia State House District 45",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

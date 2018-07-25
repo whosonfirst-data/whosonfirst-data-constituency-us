@@ -11,6 +11,7 @@
     "geom:longitude":-121.275439,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":69139943426.0,
     "uscensus:awater":2263743296.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486046,
-    "wof:geomhash":"7448e56a62c13b6fb6c2cabc7eb9c2e9",
+    "wof:geomhash":"a1e1b826de4beceb4513bb14dd7dd35e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761925,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761925,
-    "wof:lastmodified":1481486046,
+    "wof:lastmodified":1532444572,
     "wof:name":"California State Senate District 1",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

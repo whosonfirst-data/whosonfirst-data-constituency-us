@@ -11,6 +11,7 @@
     "geom:longitude":-87.232003,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4440159954.0,
     "uscensus:awater":71731253.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486635,
-    "wof:geomhash":"90a18002aa51bcfa27620a34784727f0",
+    "wof:geomhash":"ff09365dd60ad0019b09e5a2c329ecec",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765113,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765113,
-    "wof:lastmodified":1481486635,
+    "wof:lastmodified":1532444316,
     "wof:name":"Indiana State Senate District 48",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

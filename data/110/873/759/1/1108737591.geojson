@@ -11,6 +11,7 @@
     "geom:longitude":-117.306091,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NV-02"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737591,
-    "wof:lastmodified":1493955451,
+    "wof:lastmodified":1532444633,
     "wof:name":"Nevada Congressional District 2",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",

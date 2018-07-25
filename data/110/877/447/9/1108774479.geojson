@@ -11,6 +11,7 @@
     "geom:longitude":-98.415867,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":911968968.0,
     "uscensus:awater":28528660.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488331,
-    "wof:geomhash":"7c11b74242b2b98b17f64c755cc360b6",
+    "wof:geomhash":"cbfadd17ad048bee03e6d9e8813f3d92",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774479,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774479,
-    "wof:lastmodified":1481488331,
+    "wof:lastmodified":1532443971,
     "wof:name":"Texas State House District 118",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

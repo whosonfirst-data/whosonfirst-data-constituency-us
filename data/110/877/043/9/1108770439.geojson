@@ -11,6 +11,7 @@
     "geom:longitude":-71.145511,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":233679727.0,
     "uscensus:awater":12506032.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487576,
-    "wof:geomhash":"17b74b5ec83a1a87b4f246c238b31627",
+    "wof:geomhash":"162abf5275777031b76e4d0bbe21bb35",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770439,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770439,
-    "wof:lastmodified":1481487576,
+    "wof:lastmodified":1532443936,
     "wof:name":"New Hampshire State House District Strafford County No. 3",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

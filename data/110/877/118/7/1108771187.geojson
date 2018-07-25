@@ -11,6 +11,7 @@
     "geom:longitude":-73.788709,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":38755749.0,
     "uscensus:awater":13212669.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487713,
-    "wof:geomhash":"fb6feb8d3e31892181565e3086e6bcf4",
+    "wof:geomhash":"f10f7689f7a2a25b5710d613dd65cd90",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771187,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771187,
-    "wof:lastmodified":1481487713,
+    "wof:lastmodified":1532443961,
     "wof:name":"New York Assembly District 31",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

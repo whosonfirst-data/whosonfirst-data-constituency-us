@@ -11,6 +11,7 @@
     "geom:longitude":-73.536456,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":142456477.0,
     "uscensus:awater":1988479.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487704,
-    "wof:geomhash":"74256712c28d4d76cf0c596a5897e2cb",
+    "wof:geomhash":"90e9bf0775564056364f32a6b038719a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771151,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771151,
-    "wof:lastmodified":1481487704,
+    "wof:lastmodified":1532443802,
     "wof:name":"New York Assembly District 15",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

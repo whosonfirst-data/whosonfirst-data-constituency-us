@@ -11,6 +11,7 @@
     "geom:longitude":-113.614838,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3057075150.0,
     "uscensus:awater":44587969.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487354,
-    "wof:geomhash":"2bca6df9102a5f435c2e52cf853ccdeb",
+    "wof:geomhash":"3f248665155870c38d7e0d945f1d223b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769293,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769293,
-    "wof:lastmodified":1481487354,
+    "wof:lastmodified":1532444088,
     "wof:name":"Montana State House District 92",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

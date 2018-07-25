@@ -11,6 +11,7 @@
     "geom:longitude":-73.042903,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":433747229.0,
     "uscensus:awater":3675083.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488496,
-    "wof:geomhash":"e3ee8fa14076c0ea0a92ca9c01f3222e",
+    "wof:geomhash":"a168b534e373ba27e1aed144815ac3e7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775179,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775179,
-    "wof:lastmodified":1481488496,
+    "wof:lastmodified":1532443869,
     "wof:name":"Vermont Addison-4 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

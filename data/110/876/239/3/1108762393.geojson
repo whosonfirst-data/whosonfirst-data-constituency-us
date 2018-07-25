@@ -11,6 +11,7 @@
     "geom:longitude":-73.296566,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":293806527.0,
     "uscensus:awater":6580078.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486146,
-    "wof:geomhash":"3b2ab5e237fd9339c8f941d2f621068c",
+    "wof:geomhash":"e779fdad769d996300703e7d45ba5976",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762393,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762393,
-    "wof:lastmodified":1481486146,
+    "wof:lastmodified":1532444200,
     "wof:name":"Connecticut State House District 69",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

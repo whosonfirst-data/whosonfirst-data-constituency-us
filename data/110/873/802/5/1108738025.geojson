@@ -11,6 +11,7 @@
     "geom:longitude":-96.674714,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-06"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738025,
-    "wof:lastmodified":1493955538,
+    "wof:lastmodified":1532444596,
     "wof:name":"Texas Congressional District 6",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

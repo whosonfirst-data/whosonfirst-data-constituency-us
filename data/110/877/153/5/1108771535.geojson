@@ -11,6 +11,7 @@
     "geom:longitude":-73.831473,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":138871803.0,
     "uscensus:awater":20140750.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487757,
-    "wof:geomhash":"ea5c987074e6712195cb528e85ed55fc",
+    "wof:geomhash":"5c3ec0bef65a7d8f94ac9d5c11125d49",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771535,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771535,
-    "wof:lastmodified":1481487757,
+    "wof:lastmodified":1532443991,
     "wof:name":"New York State Senate District 35",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

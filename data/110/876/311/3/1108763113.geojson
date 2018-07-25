@@ -11,6 +11,7 @@
     "geom:longitude":-82.485976,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3872165477.0,
     "uscensus:awater":907474572.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486265,
-    "wof:geomhash":"152607143f7e11b7dc9e5ff6dab25123",
+    "wof:geomhash":"2a9c5f4b5bc08c59f9b8a848869e01cd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763113,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763113,
-    "wof:lastmodified":1481486265,
+    "wof:lastmodified":1532444558,
     "wof:name":"Florida State Senate District 10",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

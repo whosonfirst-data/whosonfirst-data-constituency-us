@@ -11,6 +11,7 @@
     "geom:longitude":-72.39408,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":92628163.0,
     "uscensus:awater":5894451.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487580,
-    "wof:geomhash":"72107ab95b2b7843ed292e63c099777a",
+    "wof:geomhash":"7e878826a5989a88e759c1731a8ab238",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770491,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770491,
-    "wof:lastmodified":1481487580,
+    "wof:lastmodified":1532443958,
     "wof:name":"New Hampshire State House District Sullivan County No. 8",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

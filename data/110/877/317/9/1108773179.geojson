@@ -11,6 +11,7 @@
     "geom:longitude":-71.516448,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":15784745.0,
     "uscensus:awater":1078845.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488078,
-    "wof:geomhash":"a5d2e5f96512d833319564bbb8d7d19d",
+    "wof:geomhash":"0256b7777e6025b7095ef4525e335a9a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773179,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773179,
-    "wof:lastmodified":1481488078,
+    "wof:lastmodified":1532443767,
     "wof:name":"Rhode Island State House District 27",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

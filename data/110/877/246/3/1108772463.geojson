@@ -11,6 +11,7 @@
     "geom:longitude":-79.967417,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":366145196.0,
     "uscensus:awater":341435.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487964,
-    "wof:geomhash":"ca4d4ee312ef7dc0d197ac64d20776a9",
+    "wof:geomhash":"12859f5d711e23a9eff302ecb769632e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772463,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772463,
-    "wof:lastmodified":1481487964,
+    "wof:lastmodified":1532443928,
     "wof:name":"Pennsylvania State House District 12",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

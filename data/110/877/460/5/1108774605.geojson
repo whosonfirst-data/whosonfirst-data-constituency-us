@@ -11,6 +11,7 @@
     "geom:longitude":-98.640663,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":38332032825.0,
     "uscensus:awater":422728088.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488357,
-    "wof:geomhash":"f2a4c96aea0d57da757fe086adf025b6",
+    "wof:geomhash":"cc664316014749f6a49f406822725b32",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774605,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774605,
-    "wof:lastmodified":1481488357,
+    "wof:lastmodified":1532444025,
     "wof:name":"Texas State Senate District 24",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

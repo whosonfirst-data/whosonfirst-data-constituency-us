@@ -11,6 +11,7 @@
     "geom:longitude":-72.685668,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":468532524.0,
     "uscensus:awater":30306884.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486170,
-    "wof:geomhash":"e0447a8e1c31f31b08d63ad72e34e231",
+    "wof:geomhash":"7c1a56845ed06bb1c97c83060e5c3334",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762607,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762607,
-    "wof:lastmodified":1481486170,
+    "wof:lastmodified":1532444081,
     "wof:name":"Connecticut State Senate District 12",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

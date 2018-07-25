@@ -11,6 +11,7 @@
     "geom:longitude":-87.49342,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":88812988.0,
     "uscensus:awater":1394168969.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488577,
-    "wof:geomhash":"6b05af4c53fff6d198cf951e37ba45d1",
+    "wof:geomhash":"71b114f586af7cd2f87569baa0ec93af",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775701,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775701,
-    "wof:lastmodified":1481488577,
+    "wof:lastmodified":1532443783,
     "wof:name":"Wisconsin Assembly District 21",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

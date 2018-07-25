@@ -11,6 +11,7 @@
     "geom:longitude":-91.868884,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2054939052.0,
     "uscensus:awater":4505885.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486445,
-    "wof:geomhash":"5fb195307bec39436f970070fae3db62",
+    "wof:geomhash":"a2e64f1c5889decc9e41bdc6bc7c0587",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764025,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764025,
-    "wof:lastmodified":1481486445,
+    "wof:lastmodified":1532444071,
     "wof:name":"Iowa State House District 64",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

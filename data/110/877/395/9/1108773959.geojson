@@ -11,6 +11,7 @@
     "geom:longitude":-83.810282,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":563428990.0,
     "uscensus:awater":6739321.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488203,
-    "wof:geomhash":"cc269995a67e4ef67be6b687faa8f8ff",
+    "wof:geomhash":"ac3808ab0014383aeef03551b47af86e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773959,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108773959,
-    "wof:lastmodified":1481488203,
+    "wof:lastmodified":1532443752,
     "wof:name":"Tennessee State House District 19",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

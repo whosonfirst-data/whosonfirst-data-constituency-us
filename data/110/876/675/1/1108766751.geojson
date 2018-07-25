@@ -11,6 +11,7 @@
     "geom:longitude":-76.496633,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":73465749.0,
     "uscensus:awater":114195.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486933,
-    "wof:geomhash":"3f0dfcbe7d124506a276309095086e20",
+    "wof:geomhash":"fc24887ec73fcf90bbedeb41f5ae4894",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766751,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766751,
-    "wof:lastmodified":1481486933,
+    "wof:lastmodified":1532444414,
     "wof:name":"Maryland State Senate District 8",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

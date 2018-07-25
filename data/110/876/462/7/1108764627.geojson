@@ -11,6 +11,7 @@
     "geom:longitude":-90.140937,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":424128239.0,
     "uscensus:awater":37076193.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486558,
-    "wof:geomhash":"ee023fa27bf94ef85ce44e9def291e71",
+    "wof:geomhash":"415b02a42e7035a8b858d3f73ea5f634",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764627,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764627,
-    "wof:lastmodified":1481486558,
+    "wof:lastmodified":1532444318,
     "wof:name":"Illinois State House District 111",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

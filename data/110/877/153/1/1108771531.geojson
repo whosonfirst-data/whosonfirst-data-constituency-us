@@ -11,6 +11,7 @@
     "geom:longitude":-73.834821,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":64443713.0,
     "uscensus:awater":39611676.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487757,
-    "wof:geomhash":"fd8e7288864a314795091b5f2be3be4e",
+    "wof:geomhash":"b10583f3dfac99b806a84f6bac773ac4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771531,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771531,
-    "wof:lastmodified":1481487757,
+    "wof:lastmodified":1532443991,
     "wof:name":"New York State Senate District 34",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

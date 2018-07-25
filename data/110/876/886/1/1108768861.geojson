@@ -11,6 +11,7 @@
     "geom:longitude":-89.956192,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":155920727.0,
     "uscensus:awater":438489.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487265,
-    "wof:geomhash":"2da4c0ff3a8e9b5c27b0e93089927a31",
+    "wof:geomhash":"96bcdae485730050d2118ddb3b2c8e56",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768861,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768861,
-    "wof:lastmodified":1481487265,
+    "wof:lastmodified":1532444429,
     "wof:name":"Mississippi State House District 74",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

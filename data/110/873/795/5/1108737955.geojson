@@ -11,6 +11,7 @@
     "geom:longitude":-88.533942,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "WI-05"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737955,
-    "wof:lastmodified":1493955463,
+    "wof:lastmodified":1532444657,
     "wof:name":"Wisconsin Congressional District 5",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

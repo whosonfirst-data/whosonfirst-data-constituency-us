@@ -11,6 +11,7 @@
     "geom:longitude":-156.44552,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":55492007.0,
     "uscensus:awater":4422150.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486400,
-    "wof:geomhash":"8ac8bc8916a5a93b2fd34286dea8e592",
+    "wof:geomhash":"66ababd6e4d6b053cd959c5910eb0aa6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763731,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763731,
-    "wof:lastmodified":1481486400,
+    "wof:lastmodified":1532444584,
     "wof:name":"Hawaii State House District 9",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

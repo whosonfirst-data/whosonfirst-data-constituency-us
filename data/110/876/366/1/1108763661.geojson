@@ -11,6 +11,7 @@
     "geom:longitude":-84.442461,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":302783424.0,
     "uscensus:awater":3924230.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486386,
-    "wof:geomhash":"aff1e21eeca42c459f7eaa8d95b0db8b",
+    "wof:geomhash":"67240deb297fb344155eb6c7bc7fe0c8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763661,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763661,
-    "wof:lastmodified":1481486386,
+    "wof:lastmodified":1532444407,
     "wof:name":"Georgia State Senate District 34",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

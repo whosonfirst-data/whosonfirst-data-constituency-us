@@ -11,6 +11,7 @@
     "geom:longitude":-107.551394,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "WY-00"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737377,
-    "wof:lastmodified":1493955496,
+    "wof:lastmodified":1532444641,
     "wof:name":"Wyoming Congressional District (at Large)",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",

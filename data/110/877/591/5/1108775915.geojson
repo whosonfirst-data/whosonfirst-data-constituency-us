@@ -11,6 +11,7 @@
     "geom:longitude":-90.318589,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11240736923.0,
     "uscensus:awater":230778344.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488610,
-    "wof:geomhash":"bd0697f499b2b9a24be00a900e891fe8",
+    "wof:geomhash":"d2daedb47a0ff275c1dfd2aa9a2ac617",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775915,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775915,
-    "wof:lastmodified":1481488610,
+    "wof:lastmodified":1532443856,
     "wof:name":"Wisconsin State Senate District 17",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

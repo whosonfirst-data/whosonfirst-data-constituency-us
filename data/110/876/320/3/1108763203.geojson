@@ -11,6 +11,7 @@
     "geom:longitude":-83.619773,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":801001164.0,
     "uscensus:awater":6061654.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486296,
-    "wof:geomhash":"85a07f3bf159aac1b916367b2e605fc3",
+    "wof:geomhash":"ea1d8b2bcd95145c2bf7784305638cd3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763203,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763203,
-    "wof:lastmodified":1481486296,
+    "wof:lastmodified":1532444535,
     "wof:name":"Georgia State House District 10",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

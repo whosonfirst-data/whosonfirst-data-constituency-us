@@ -11,6 +11,7 @@
     "geom:longitude":-80.11262,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":89402843.0,
     "uscensus:awater":4378499.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487972,
-    "wof:geomhash":"1cf4b38d0381045b08d8752ec6c168c7",
+    "wof:geomhash":"40646b034aac2046bd7417d23a2ed11c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772537,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772537,
-    "wof:lastmodified":1481487972,
+    "wof:lastmodified":1532443836,
     "wof:name":"Pennsylvania State House District 45",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

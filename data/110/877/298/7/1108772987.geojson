@@ -11,6 +11,7 @@
     "geom:longitude":-80.040842,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":151047549.0,
     "uscensus:awater":9343466.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488038,
-    "wof:geomhash":"208e45235e41e63bc2dfb605b7144066",
+    "wof:geomhash":"8efc19ec0f3200f648d80f4415b25e6c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772987,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772987,
-    "wof:lastmodified":1481488038,
+    "wof:lastmodified":1532443883,
     "wof:name":"Pennsylvania State Senate District 42",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

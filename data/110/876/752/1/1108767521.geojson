@@ -11,6 +11,7 @@
     "geom:longitude":-83.275917,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":132995900.0,
     "uscensus:awater":35139.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487069,
-    "wof:geomhash":"6409e86ee4bdae3bd3ad5af4c05b212b",
+    "wof:geomhash":"faeb41c138929b62cf46a12915f4d87f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767521,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767521,
-    "wof:lastmodified":1481487069,
+    "wof:lastmodified":1532444524,
     "wof:name":"Michigan State Senate District 5",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-103.707946,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1915039163.0,
     "uscensus:awater":15437668.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487533,
-    "wof:geomhash":"427c2fa07b0e0b277b9a584cb4c87206",
+    "wof:geomhash":"b6601714124a24b4d9dca228db22d3a5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770125,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770125,
-    "wof:lastmodified":1481487533,
+    "wof:lastmodified":1532443988,
     "wof:name":"Nebraska State Senate District 48",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

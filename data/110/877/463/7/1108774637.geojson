@@ -11,6 +11,7 @@
     "geom:longitude":-111.954261,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":68453808.0,
     "uscensus:awater":12263.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488369,
-    "wof:geomhash":"b9f7e3a1883eba6468d973ebb237e15c",
+    "wof:geomhash":"2f00ef5995dbdc0239e85eae017d2581",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774637,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774637,
-    "wof:lastmodified":1481488369,
+    "wof:lastmodified":1532443938,
     "wof:name":"Utah State House District 7",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

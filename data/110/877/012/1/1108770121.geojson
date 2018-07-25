@@ -11,6 +11,7 @@
     "geom:longitude":-96.657537,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":48502181.0,
     "uscensus:awater":818004.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487532,
-    "wof:geomhash":"df139144b9c43a92e4a40dce96171db2",
+    "wof:geomhash":"7792272afc427d2109210a24d1e6fd2f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770121,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770121,
-    "wof:lastmodified":1481487532,
+    "wof:lastmodified":1532443988,
     "wof:name":"Nebraska State Senate District 46",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

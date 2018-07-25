@@ -11,6 +11,7 @@
     "geom:longitude":-93.021644,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6805327788.0,
     "uscensus:awater":1736913708.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486792,
-    "wof:geomhash":"6613eece78aafa373110e15fcc6ad702",
+    "wof:geomhash":"7cc9e9d86fe03919b8a6fc29d436a83c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766093,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766093,
-    "wof:lastmodified":1481486792,
+    "wof:lastmodified":1532444225,
     "wof:name":"Louisiana State Senate District 25",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

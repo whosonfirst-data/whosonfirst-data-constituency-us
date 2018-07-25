@@ -11,6 +11,7 @@
     "geom:longitude":-105.545971,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52798845.0,
     "uscensus:awater":16162.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487235,
-    "wof:geomhash":"3da25b9ca4336c50da5b88be2175fa94",
+    "wof:geomhash":"921749fb50d700938e865dd2f812ca15",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768681,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768681,
-    "wof:lastmodified":1481487235,
+    "wof:lastmodified":1532444298,
     "wof:name":"Wyoming State Senate District 24",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-115.405082,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9356865944.0,
     "uscensus:awater":161078674.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487363,
-    "wof:geomhash":"7139363a236ec1b2eeac1dc0bfcab75f",
+    "wof:geomhash":"54a1d4f6d8257749b46e5f77ace60fde",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769313,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769313,
-    "wof:lastmodified":1481487363,
+    "wof:lastmodified":1532444278,
     "wof:name":"Montana State Senate District 1",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

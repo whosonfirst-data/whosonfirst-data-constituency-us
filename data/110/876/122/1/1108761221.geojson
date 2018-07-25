@@ -11,6 +11,7 @@
     "geom:longitude":-88.126614,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":106318446.0,
     "uscensus:awater":6956066.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485886,
-    "wof:geomhash":"94ab1a6ae72fd4b76636930c76204d45",
+    "wof:geomhash":"0477726f6ccb727c9aedffedb308211d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761221,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761221,
-    "wof:lastmodified":1481485886,
+    "wof:lastmodified":1532444269,
     "wof:name":"Alabama State House District 103",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

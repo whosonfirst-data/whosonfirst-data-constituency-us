@@ -11,6 +11,7 @@
     "geom:longitude":-93.269648,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2944619453.0,
     "uscensus:awater":8171111.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487197,
-    "wof:geomhash":"ca8898f40353427d2a01f6289bead551",
+    "wof:geomhash":"709d2fbb2624bfe2738d09c2da433232",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768461,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768461,
-    "wof:lastmodified":1481487197,
+    "wof:lastmodified":1532444173,
     "wof:name":"Missouri State Senate District 20",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-77.668542,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":688882425.0,
     "uscensus:awater":566272.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487986,
-    "wof:geomhash":"490a3fb43c378db786384f79f3dd2646",
+    "wof:geomhash":"10debb56931fc4d4f62e59809a1a658e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772639,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772639,
-    "wof:lastmodified":1481487986,
+    "wof:lastmodified":1532443801,
     "wof:name":"Pennsylvania State House District 90",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

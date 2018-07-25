@@ -11,6 +11,7 @@
     "geom:longitude":-90.214182,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":21146238.0,
     "uscensus:awater":3179241.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486765,
-    "wof:geomhash":"4d6cb3b030340359fa146f4a6cb2b289",
+    "wof:geomhash":"ff19b9e0eec7617b3067b15629f59982",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765975,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765975,
-    "wof:lastmodified":1481486765,
+    "wof:lastmodified":1532444178,
     "wof:name":"Louisiana State House District 78",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

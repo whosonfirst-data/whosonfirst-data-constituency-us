@@ -17,6 +17,7 @@
     "mps:latitude":41.587536,
     "mps:longitude":-71.514739,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Rhode Island"
     ],
@@ -506,7 +507,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231177,
-    "wof:geomhash":"83751602c9c8114d8017e6ab7779aeaf",
+    "wof:geomhash":"6eff68d051e2f712145bfa7b58aa3fcb",
     "wof:hierarchy":[
         {
             "constituency_id":1108746671,
@@ -516,7 +517,7 @@
         }
     ],
     "wof:id":1108746671,
-    "wof:lastmodified":1487197426,
+    "wof:lastmodified":1532443711,
     "wof:name":"Rhode Island",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

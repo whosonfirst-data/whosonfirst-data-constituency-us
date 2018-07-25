@@ -11,6 +11,7 @@
     "geom:longitude":-80.587744,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":948587659.0,
     "uscensus:awater":31695026.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488651,
-    "wof:geomhash":"4f7da8e50c275677ddf26c94915e2091",
+    "wof:geomhash":"223711365879db4dd4f6c9b5cd4a0c78",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776103,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776103,
-    "wof:lastmodified":1481488651,
+    "wof:lastmodified":1532443878,
     "wof:name":"West Virginia State Senate District 1",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

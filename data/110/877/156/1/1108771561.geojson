@@ -11,6 +11,7 @@
     "geom:longitude":-75.313399,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8622607387.0,
     "uscensus:awater":253246356.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487762,
-    "wof:geomhash":"7264beea0cb2f345b5f6aee962f88d52",
+    "wof:geomhash":"3e0ba7d0bebf92388645cbd8cb7802e0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771561,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771561,
-    "wof:lastmodified":1481487762,
+    "wof:lastmodified":1532443737,
     "wof:name":"New York State Senate District 47",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

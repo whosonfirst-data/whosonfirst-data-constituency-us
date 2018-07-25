@@ -11,6 +11,7 @@
     "geom:longitude":-80.036807,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":124494974.0,
     "uscensus:awater":331011729.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486249,
-    "wof:geomhash":"6ba5e6e6485549d39d1890a757bcbb28",
+    "wof:geomhash":"dfe437456eee800ea81a2584e21594ef",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763021,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763021,
-    "wof:lastmodified":1481486249,
+    "wof:lastmodified":1532444584,
     "wof:name":"Florida State House District 89",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

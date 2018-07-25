@@ -11,6 +11,7 @@
     "geom:longitude":-116.320498,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":27874508.0,
     "uscensus:awater":146717.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486489,
-    "wof:geomhash":"e1542fa77e6ee9e72f445cb476cb17b1",
+    "wof:geomhash":"d82ded6634f594f63cffcfc50e45d8c8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764253,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764253,
-    "wof:lastmodified":1481486489,
+    "wof:lastmodified":1532444455,
     "wof:name":"Idaho State House District 15",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

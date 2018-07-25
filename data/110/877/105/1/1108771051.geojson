@@ -11,6 +11,7 @@
     "geom:longitude":-115.262195,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":88020378387.0,
     "uscensus:awater":153186005.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487685,
-    "wof:geomhash":"eba33cff9cf17b1bb1a0fdc1ecc8e5f1",
+    "wof:geomhash":"2eb51c6173e68fde610a408e1ae59027",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771051,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771051,
-    "wof:lastmodified":1481487685,
+    "wof:lastmodified":1532443993,
     "wof:name":"Nevada Assembly District 33",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-123.31271,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4436060406.0,
     "uscensus:awater":17111472.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487942,
-    "wof:geomhash":"3104264571b09455ae17d97f3259a512",
+    "wof:geomhash":"b9dbbde6f0d58131541fd661ebbae0ad",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772395,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772395,
-    "wof:lastmodified":1481487942,
+    "wof:lastmodified":1532443811,
     "wof:name":"Oregon State Senate District 12",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

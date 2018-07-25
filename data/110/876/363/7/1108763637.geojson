@@ -11,6 +11,7 @@
     "geom:longitude":-82.171549,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9904060172.0,
     "uscensus:awater":127286536.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486381,
-    "wof:geomhash":"167159565a70b5a27ff129efdd50b9ca",
+    "wof:geomhash":"a99be96e4e399c4e7ed7eaa3025d2386",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763637,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763637,
-    "wof:lastmodified":1481486381,
+    "wof:lastmodified":1532444119,
     "wof:name":"Georgia State Senate District 23",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

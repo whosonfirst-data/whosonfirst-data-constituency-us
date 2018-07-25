@@ -11,6 +11,7 @@
     "geom:longitude":-87.619026,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3104830536.0,
     "uscensus:awater":116639176.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488247,
-    "wof:geomhash":"db6b0d2d443a66a87ad96f9063cc2e86",
+    "wof:geomhash":"d4420f17e81f0735da80220d23420eb2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774189,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774189,
-    "wof:lastmodified":1481488247,
+    "wof:lastmodified":1532444028,
     "wof:name":"Tennessee State Senate District 22",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

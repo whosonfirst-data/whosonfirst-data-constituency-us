@@ -11,6 +11,7 @@
     "geom:longitude":-72.797135,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":347696765.0,
     "uscensus:awater":3079762.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488510,
-    "wof:geomhash":"55d35aa01d08926cd67fae6a8edc96d3",
+    "wof:geomhash":"bd805ac4f954660bf3a8a7f81e50e2e4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775341,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775341,
-    "wof:lastmodified":1481488510,
+    "wof:lastmodified":1532443767,
     "wof:name":"Vermont Rutland-Windsor-2 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

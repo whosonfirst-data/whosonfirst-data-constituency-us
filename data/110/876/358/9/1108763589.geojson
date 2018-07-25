@@ -11,6 +11,7 @@
     "geom:longitude":-81.1555,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":374826386.0,
     "uscensus:awater":26075426.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486372,
-    "wof:geomhash":"14d9e6bd5afc15d758e797be339f7900",
+    "wof:geomhash":"196936f376daf5ffba56471852eaba6c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763589,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763589,
-    "wof:lastmodified":1481486372,
+    "wof:lastmodified":1532444353,
     "wof:name":"Georgia State Senate District 2",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

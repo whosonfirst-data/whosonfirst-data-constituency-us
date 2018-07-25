@@ -11,6 +11,7 @@
     "geom:longitude":-84.301541,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":50775270.0,
     "uscensus:awater":1359350.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486309,
-    "wof:geomhash":"fd21d0ff10b58a3e3e6a6da9f9f18897",
+    "wof:geomhash":"f8cb21095884536d13b8f25f4a83582c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763295,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763295,
-    "wof:lastmodified":1481486309,
+    "wof:lastmodified":1532444519,
     "wof:name":"Georgia State House District 51",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-79.19098,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "VA-06"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738027,
-    "wof:lastmodified":1493955538,
+    "wof:lastmodified":1532444595,
     "wof:name":"Virginia Congressional District 6",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-77.983467,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2720184638.0,
     "uscensus:awater":47527436.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488479,
-    "wof:geomhash":"2c407bcf6165457b12bf8f1b0eb865bc",
+    "wof:geomhash":"379dc86e92e0732cd1d8f30dc7ff4fd9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775119,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775119,
-    "wof:lastmodified":1481488479,
+    "wof:lastmodified":1532443905,
     "wof:name":"Virginia State Senate District 17",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-80.657599,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":844662909.0,
     "uscensus:awater":17874007.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488625,
-    "wof:geomhash":"91403eaab99f5cbf7f8e73df87420abd",
+    "wof:geomhash":"5af22b6e856079889273a62f58f7fa45",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775959,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108775959,
-    "wof:lastmodified":1481488625,
+    "wof:lastmodified":1532444056,
     "wof:name":"West Virginia State House District 4",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

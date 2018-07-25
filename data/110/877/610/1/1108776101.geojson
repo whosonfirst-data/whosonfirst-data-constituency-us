@@ -11,6 +11,7 @@
     "geom:longitude":-77.799682,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":172268293.0,
     "uscensus:awater":1413316.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488646,
-    "wof:geomhash":"8b68fc73c6da78c9513e76624735519e",
+    "wof:geomhash":"78dd5425642f29d3a48c3c02bdb9d530",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776101,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776101,
-    "wof:lastmodified":1481488646,
+    "wof:lastmodified":1532443878,
     "wof:name":"West Virginia State House District 67",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

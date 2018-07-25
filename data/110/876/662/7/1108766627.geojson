@@ -11,6 +11,7 @@
     "geom:longitude":-76.880633,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":81617758.0,
     "uscensus:awater":518444.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486879,
-    "wof:geomhash":"f93767c5f7d6a42b480b7407577a3fe4",
+    "wof:geomhash":"b01de28374eb44219a84614a8cbdbcf9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766627,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766627,
-    "wof:lastmodified":1481486879,
+    "wof:lastmodified":1532444207,
     "wof:name":"Maryland State Legislative District 22",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

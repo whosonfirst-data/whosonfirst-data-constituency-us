@@ -11,6 +11,7 @@
     "geom:longitude":-68.081424,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":386990252.0,
     "uscensus:awater":4476817.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487026,
-    "wof:geomhash":"a6c200edf25574317c3ac0221df8cf68",
+    "wof:geomhash":"6441eaf11eceb7e172d5529db0254463",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767175,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767175,
-    "wof:lastmodified":1481487026,
+    "wof:lastmodified":1532444288,
     "wof:name":"Maine State House District 149",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

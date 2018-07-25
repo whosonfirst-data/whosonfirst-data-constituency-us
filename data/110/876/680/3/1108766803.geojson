@@ -11,6 +11,7 @@
     "geom:longitude":-76.540933,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":157962332.0,
     "uscensus:awater":1512904.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486942,
-    "wof:geomhash":"404e4145e14a6932743028cab9ec8318",
+    "wof:geomhash":"61cbd855af178fb6e53cd598841d4493",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766803,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766803,
-    "wof:lastmodified":1481486942,
+    "wof:lastmodified":1532444487,
     "wof:name":"Maryland State Senate District 31",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

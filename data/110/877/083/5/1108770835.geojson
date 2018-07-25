@@ -11,6 +11,7 @@
     "geom:longitude":-107.664816,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":35309920124.0,
     "uscensus:awater":21126157.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487643,
-    "wof:geomhash":"94beb4e1ca5a5b1c39be6239bf57b779",
+    "wof:geomhash":"744f989bd44986a8cd5c0797239fd244",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770835,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688493
         }
     ],
     "wof:id":1108770835,
-    "wof:lastmodified":1481487643,
+    "wof:lastmodified":1532443993,
     "wof:name":"New Mexico State House District 49",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nm",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

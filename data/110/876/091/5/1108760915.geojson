@@ -11,6 +11,7 @@
     "geom:longitude":-149.732141,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17916797.0,
     "uscensus:awater":102891.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485788,
-    "wof:geomhash":"5c41111cfc1e211e529112eef8ef94f0",
+    "wof:geomhash":"db26b221b6d583c9a4cfed10d256b97e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760915,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760915,
-    "wof:lastmodified":1481485788,
+    "wof:lastmodified":1532444304,
     "wof:name":"Alaska State House District 27",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

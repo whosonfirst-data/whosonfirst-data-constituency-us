@@ -11,6 +11,7 @@
     "geom:longitude":-81.500144,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1165364420.0,
     "uscensus:awater":10558533.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488635,
-    "wof:geomhash":"be482dceeb313ed684852906c5890715",
+    "wof:geomhash":"aa43853a912c9a3e35a57c5b52e5334e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776031,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776031,
-    "wof:lastmodified":1481488635,
+    "wof:lastmodified":1532443986,
     "wof:name":"West Virginia State House District 36",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

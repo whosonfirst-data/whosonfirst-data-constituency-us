@@ -11,6 +11,7 @@
     "geom:longitude":-71.207744,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":80071880.0,
     "uscensus:awater":1279568.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486857,
-    "wof:geomhash":"1f4727460553e6d5e006ac45dff43d93",
+    "wof:geomhash":"3194a40d24340dfc571d7e6934af91f2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766555,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766555,
-    "wof:lastmodified":1481486857,
+    "wof:lastmodified":1532444564,
     "wof:name":"Massachusetts First Middlesex & Norfolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-89.746538,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1034798409.0,
     "uscensus:awater":10315861.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487273,
-    "wof:geomhash":"3b32987fe4f60c79f0e46c448688e5db",
+    "wof:geomhash":"689c2d31cb17595530372ec58ea955ac",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768919,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768919,
-    "wof:lastmodified":1481487273,
+    "wof:lastmodified":1532444421,
     "wof:name":"Mississippi State House District 100",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

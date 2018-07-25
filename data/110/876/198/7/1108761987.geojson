@@ -11,6 +11,7 @@
     "geom:longitude":-117.846848,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":553302649.0,
     "uscensus:awater":2259954.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486070,
-    "wof:geomhash":"fbe63ba6c9fc3bdfceb388f4579675d9",
+    "wof:geomhash":"f6edc6749d1aa3d8f710f4595333c607",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761987,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761987,
-    "wof:lastmodified":1481486070,
+    "wof:lastmodified":1532444222,
     "wof:name":"California State Senate District 29",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

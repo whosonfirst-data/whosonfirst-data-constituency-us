@@ -11,6 +11,7 @@
     "geom:longitude":-117.190378,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":821518272.0,
     "uscensus:awater":9461876.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488549,
-    "wof:geomhash":"7a2b510a313c185c7a345567e86480ea",
+    "wof:geomhash":"6ddb2ec4044476e7f08fd699c530d88e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775553,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775553,
-    "wof:lastmodified":1481488549,
+    "wof:lastmodified":1532443866,
     "wof:name":"Washington State Senate District 4",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

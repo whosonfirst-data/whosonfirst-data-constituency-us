@@ -11,6 +11,7 @@
     "geom:longitude":-77.904813,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2063733391.0,
     "uscensus:awater":14284017.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487396,
-    "wof:geomhash":"fc0d12798a4a783b6587d66e24f4e501",
+    "wof:geomhash":"62be95e4069d8bf5620c1214bddb4b32",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769433,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769433,
-    "wof:lastmodified":1481487396,
+    "wof:lastmodified":1532444320,
     "wof:name":"North Carolina State House District 4",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-96.978125,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":134352534.0,
     "uscensus:awater":1635311.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488322,
-    "wof:geomhash":"951d81db9ebb2f67e0de7d2ff5e14274",
+    "wof:geomhash":"8bbffecb98d6e6fa1a594dc58941c9c9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774451,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774451,
-    "wof:lastmodified":1481488322,
+    "wof:lastmodified":1532443785,
     "wof:name":"Texas State House District 105",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

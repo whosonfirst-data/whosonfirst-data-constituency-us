@@ -11,6 +11,7 @@
     "geom:longitude":-89.794149,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":112763175.0,
     "uscensus:awater":10994425.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486769,
-    "wof:geomhash":"a475834aca33b3ecc3d9c48374ff9833",
+    "wof:geomhash":"3dc62ebc76d5fee3d50dea83e8fd2d58",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766001,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766001,
-    "wof:lastmodified":1481486769,
+    "wof:lastmodified":1532444084,
     "wof:name":"Louisiana State House District 90",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

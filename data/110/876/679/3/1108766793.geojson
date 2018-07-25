@@ -11,6 +11,7 @@
     "geom:longitude":-76.693656,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":935922450.0,
     "uscensus:awater":9067612.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486938,
-    "wof:geomhash":"79d47dfdbf158f48aea2fbeaa6b4e839",
+    "wof:geomhash":"18502578ff31cdc8918ae5cc1748ed10",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766793,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766793,
-    "wof:lastmodified":1481486938,
+    "wof:lastmodified":1532444326,
     "wof:name":"Maryland State Senate District 27",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

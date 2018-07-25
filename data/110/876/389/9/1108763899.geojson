@@ -11,6 +11,7 @@
     "geom:longitude":-93.873023,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4363205342.0,
     "uscensus:awater":13135373.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486429,
-    "wof:geomhash":"a8811c8a03673f5f425151e8d89f6f20",
+    "wof:geomhash":"97de71dd9dfd1078e22cd6edbe2b563c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763899,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108763899,
-    "wof:lastmodified":1481486429,
+    "wof:lastmodified":1532444521,
     "wof:name":"Iowa State House District 8",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

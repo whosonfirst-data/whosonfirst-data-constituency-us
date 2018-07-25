@@ -11,6 +11,7 @@
     "geom:longitude":-70.920493,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":12522899.0,
     "uscensus:awater":9617783.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486814,
-    "wof:geomhash":"401c82f13fbd5dacbb0c47421bee1e86",
+    "wof:geomhash":"b4c1a130df7a197d9e4c92450d8298a1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766177,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766177,
-    "wof:lastmodified":1481486814,
+    "wof:lastmodified":1532444345,
     "wof:name":"Massachusetts 13th Bristol District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

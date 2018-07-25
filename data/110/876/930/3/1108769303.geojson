@@ -11,6 +11,7 @@
     "geom:longitude":-114.215333,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":162321541.0,
     "uscensus:awater":5760204.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487355,
-    "wof:geomhash":"d11200008d5ff2811dbd94530fe143c6",
+    "wof:geomhash":"5b0c48373a4e9126d1b52003962ac6cd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769303,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769303,
-    "wof:lastmodified":1481487355,
+    "wof:lastmodified":1532444393,
     "wof:name":"Montana State House District 96",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

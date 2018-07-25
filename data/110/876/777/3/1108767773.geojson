@@ -11,6 +11,7 @@
     "geom:longitude":-92.86679,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":207626788.0,
     "uscensus:awater":20513581.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487101,
-    "wof:geomhash":"8cc696dc45b6be2c61e8f51779cce595",
+    "wof:geomhash":"b704cbada271d8d08c9f18e8ec7adb63",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767773,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767773,
-    "wof:lastmodified":1481487101,
+    "wof:lastmodified":1532444446,
     "wof:name":"Minnesota State House District 39B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

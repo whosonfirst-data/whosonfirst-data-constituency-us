@@ -11,6 +11,7 @@
     "geom:longitude":-122.154054,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-18"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738419,
-    "wof:lastmodified":1493955469,
+    "wof:lastmodified":1532444594,
     "wof:name":"California Congressional District 18",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

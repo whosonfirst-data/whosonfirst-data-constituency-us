@@ -11,6 +11,7 @@
     "geom:longitude":-71.597619,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":129582783.0,
     "uscensus:awater":11875414.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487536,
-    "wof:geomhash":"6b72c3dacaa336f74dec46da4768bd20",
+    "wof:geomhash":"b106a6c6910f6754a2d7009a41499d7d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770131,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770131,
-    "wof:lastmodified":1481487536,
+    "wof:lastmodified":1532443828,
     "wof:name":"New Hampshire State House District Belknap County No. 1",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

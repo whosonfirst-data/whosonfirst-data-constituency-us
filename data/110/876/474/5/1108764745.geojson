@@ -11,6 +11,7 @@
     "geom:longitude":-89.52876,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9269534874.0,
     "uscensus:awater":76835231.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486586,
-    "wof:geomhash":"ed48d219e7b561d3989aea210f4eb558",
+    "wof:geomhash":"4353c39a08f925da8f1c30146400f5b2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764745,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764745,
-    "wof:lastmodified":1481486586,
+    "wof:lastmodified":1532444531,
     "wof:name":"Illinois State Senate District 45",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

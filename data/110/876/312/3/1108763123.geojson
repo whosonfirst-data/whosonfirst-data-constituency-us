@@ -11,6 +11,7 @@
     "geom:longitude":-81.18041,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4343070278.0,
     "uscensus:awater":536910036.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486267,
-    "wof:geomhash":"5d3f0244e993c4dbfc0e6482e453e34d",
+    "wof:geomhash":"4fa9f9e844f997b566a1e3947482a784",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763123,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763123,
-    "wof:lastmodified":1481486267,
+    "wof:lastmodified":1532444580,
     "wof:name":"Florida State Senate District 15",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

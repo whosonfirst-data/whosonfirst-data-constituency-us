@@ -11,6 +11,7 @@
     "geom:longitude":-86.525233,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":492748576.0,
     "uscensus:awater":216591.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488208,
-    "wof:geomhash":"3a6bf46f1e6e98facf11848e0bb19a26",
+    "wof:geomhash":"59156b455acc88b26616975616a9d458",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773993,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108773993,
-    "wof:lastmodified":1481488208,
+    "wof:lastmodified":1532443749,
     "wof:name":"Tennessee State House District 34",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

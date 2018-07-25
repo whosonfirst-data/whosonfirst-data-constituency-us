@@ -11,6 +11,7 @@
     "geom:longitude":-122.165262,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":175448517.0,
     "uscensus:awater":4699324.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488526,
-    "wof:geomhash":"ce9e2b239c134c3cd8a06ce044a2c02d",
+    "wof:geomhash":"92928b0d70cd7acd6354babc3107b295",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775435,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775435,
-    "wof:lastmodified":1481488526,
+    "wof:lastmodified":1532443920,
     "wof:name":"Washington State House District 1",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

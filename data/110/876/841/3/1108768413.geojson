@@ -11,6 +11,7 @@
     "geom:longitude":-94.520088,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":171465609.0,
     "uscensus:awater":412167.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487183,
-    "wof:geomhash":"25f80499d00c11828690f009d97312a7",
+    "wof:geomhash":"58fa2a6ebf2a5433c9ded922ae92db95",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768413,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768413,
-    "wof:lastmodified":1481487183,
+    "wof:lastmodified":1532444080,
     "wof:name":"Missouri State House District 162",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

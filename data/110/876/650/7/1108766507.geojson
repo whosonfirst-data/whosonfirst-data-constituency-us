@@ -11,6 +11,7 @@
     "geom:longitude":-72.115017,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2183284600.0,
     "uscensus:awater":107874291.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486852,
-    "wof:geomhash":"26d2d34553fe256ea919d9bfc4a329ea",
+    "wof:geomhash":"87385cf4d61ccab9693142deb6aff52d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766507,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766507,
-    "wof:lastmodified":1481486852,
+    "wof:lastmodified":1532444331,
     "wof:name":"Massachusetts Worcester, Hampden, Hampshire & Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

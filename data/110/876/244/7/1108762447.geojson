@@ -11,6 +11,7 @@
     "geom:longitude":-72.950713,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8187049.0,
     "uscensus:awater":75226.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486152,
-    "wof:geomhash":"598ad47b73b6035132dc3ea483d204aa",
+    "wof:geomhash":"b6f69c5d0ba6555b3b34fa26fc23d64d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762447,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762447,
-    "wof:lastmodified":1481486152,
+    "wof:lastmodified":1532444463,
     "wof:name":"Connecticut State House District 93",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-80.234202,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":100217648.0,
     "uscensus:awater":1600021.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487427,
-    "wof:geomhash":"75cf1705ba907beee853319e327dd0a0",
+    "wof:geomhash":"7e9a186a6c7c671e95fc8843fc80d2ff",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769583,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769583,
-    "wof:lastmodified":1481487427,
+    "wof:lastmodified":1532444202,
     "wof:name":"North Carolina State House District 71",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

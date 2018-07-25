@@ -11,6 +11,7 @@
     "geom:longitude":-82.864394,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":81519804.0,
     "uscensus:awater":24783137.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487047,
-    "wof:geomhash":"e29d31d263bba45df5a5f59b8c2a2c61",
+    "wof:geomhash":"c4468bf29b0da5aca4998dee6274a641",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767313,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767313,
-    "wof:lastmodified":1481487047,
+    "wof:lastmodified":1532444289,
     "wof:name":"Michigan State House District 24",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

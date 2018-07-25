@@ -11,6 +11,7 @@
     "geom:longitude":-77.210353,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":982266420.0,
     "uscensus:awater":80409500.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488475,
-    "wof:geomhash":"2a7239046d1bd947e83fc3d88b295514",
+    "wof:geomhash":"6c289b71dcaee4177d4fad9c86df6cbc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775101,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775101,
-    "wof:lastmodified":1481488475,
+    "wof:lastmodified":1532443971,
     "wof:name":"Virginia State Senate District 9",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

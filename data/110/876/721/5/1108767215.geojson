@@ -11,6 +11,7 @@
     "geom:longitude":-69.671024,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":562533154.0,
     "uscensus:awater":49681847.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487035,
-    "wof:geomhash":"2da8c6fb0bf75b45818aa835cc1faeb0",
+    "wof:geomhash":"aaad78bebfd7f7ec3e4c0251a8318c16",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767215,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767215,
-    "wof:lastmodified":1481487035,
+    "wof:lastmodified":1532444288,
     "wof:name":"Maine State Senate District 15",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

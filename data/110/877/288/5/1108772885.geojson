@@ -11,6 +11,7 @@
     "geom:longitude":-77.283884,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":592998588.0,
     "uscensus:awater":5812935.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488018,
-    "wof:geomhash":"c89321ac6483856993efa5999a175e94",
+    "wof:geomhash":"7afb050e5b0a5941cd1382f5b2f1a148",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772885,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772885,
-    "wof:lastmodified":1481488018,
+    "wof:lastmodified":1532444024,
     "wof:name":"Pennsylvania State House District 199",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

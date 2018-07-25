@@ -11,6 +11,7 @@
     "geom:longitude":-76.513789,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":80420879.0,
     "uscensus:awater":6296552.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486891,
-    "wof:geomhash":"ebabebc2daf290e624fdbe5e0f0c20dc",
+    "wof:geomhash":"1630aa13655f56373c5c5657c9e287c5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766689,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766689,
-    "wof:lastmodified":1481486891,
+    "wof:lastmodified":1532444248,
     "wof:name":"Maryland State Legislative Subdistrict 30A",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

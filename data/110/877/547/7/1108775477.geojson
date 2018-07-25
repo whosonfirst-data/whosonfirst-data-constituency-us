@@ -11,6 +11,7 @@
     "geom:longitude":-123.581073,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5725379166.0,
     "uscensus:awater":1033890519.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488533,
-    "wof:geomhash":"8f1c2f6404e3e0416652cb0b4d43ffb6",
+    "wof:geomhash":"0b09c2f300c73b523d762cff910952b2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775477,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775477,
-    "wof:lastmodified":1481488533,
+    "wof:lastmodified":1532443851,
     "wof:name":"Washington State House District 19",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

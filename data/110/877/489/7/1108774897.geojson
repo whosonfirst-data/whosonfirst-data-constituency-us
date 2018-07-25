@@ -11,6 +11,7 @@
     "geom:longitude":-79.84454,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3179574113.0,
     "uscensus:awater":25194286.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488417,
-    "wof:geomhash":"b9e96105a7e7795a85b42c4e28483b4d",
+    "wof:geomhash":"b141d9c00f7bfedca846a664575af248",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774897,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774897,
-    "wof:lastmodified":1481488417,
+    "wof:lastmodified":1532443772,
     "wof:name":"Virginia State House District 19",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

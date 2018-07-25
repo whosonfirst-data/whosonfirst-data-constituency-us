@@ -11,6 +11,7 @@
     "geom:longitude":-85.851721,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11479992374.0,
     "uscensus:awater":1820518666.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486261,
-    "wof:geomhash":"66c03c6c52537a1ffbc921603ae9323e",
+    "wof:geomhash":"e09778b0c26d686d39119e89899585e8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763095,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763095,
-    "wof:lastmodified":1481486261,
+    "wof:lastmodified":1532444078,
     "wof:name":"Florida State Senate District 2",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

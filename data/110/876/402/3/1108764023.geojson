@@ -11,6 +11,7 @@
     "geom:longitude":-92.303565,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1644884530.0,
     "uscensus:awater":13532382.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486445,
-    "wof:geomhash":"59515b386385550f4a2a6fb98ad15df8",
+    "wof:geomhash":"e0d2a05a2b33b146a5160ed327bb3328",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764023,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764023,
-    "wof:lastmodified":1481486445,
+    "wof:lastmodified":1532444071,
     "wof:name":"Iowa State House District 63",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

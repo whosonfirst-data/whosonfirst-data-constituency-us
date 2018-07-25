@@ -11,6 +11,7 @@
     "geom:longitude":-114.591506,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1787662007.0,
     "uscensus:awater":31677850.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487363,
-    "wof:geomhash":"510846dc5f033ec4d33f5a8470406ee8",
+    "wof:geomhash":"a5465e41a6665f475e24b878562f4f67",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769317,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769317,
-    "wof:lastmodified":1481487363,
+    "wof:lastmodified":1532444278,
     "wof:name":"Montana State Senate District 3",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

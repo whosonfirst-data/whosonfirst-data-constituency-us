@@ -11,6 +11,7 @@
     "geom:longitude":-81.402179,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":359883465.0,
     "uscensus:awater":9002490.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488626,
-    "wof:geomhash":"8d20c2cb819238c2133dc82f3ba249da",
+    "wof:geomhash":"48b005a928bd8b3da062bd8d33621486",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775969,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108775969,
-    "wof:lastmodified":1481488626,
+    "wof:lastmodified":1532443998,
     "wof:name":"West Virginia State House District 8",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

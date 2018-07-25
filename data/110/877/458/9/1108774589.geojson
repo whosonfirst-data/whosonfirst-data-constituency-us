@@ -11,6 +11,7 @@
     "geom:longitude":-95.586161,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2894418886.0,
     "uscensus:awater":335905296.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488352,
-    "wof:geomhash":"7d8f2e8580255a06b89522b97c89fbe6",
+    "wof:geomhash":"adf2ebf4c9f45b88c58c3f70169844c4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774589,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774589,
-    "wof:lastmodified":1481488352,
+    "wof:lastmodified":1532444044,
     "wof:name":"Texas State Senate District 17",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

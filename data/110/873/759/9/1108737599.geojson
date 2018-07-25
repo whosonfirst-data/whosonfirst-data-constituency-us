@@ -11,6 +11,7 @@
     "geom:longitude":-106.297358,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NM-02"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737599,
-    "wof:lastmodified":1493955451,
+    "wof:lastmodified":1532444635,
     "wof:name":"New Mexico Congressional District 2",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",

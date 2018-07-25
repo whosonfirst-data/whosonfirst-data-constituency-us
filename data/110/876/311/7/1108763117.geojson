@@ -11,6 +11,7 @@
     "geom:longitude":-81.8892,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4705018508.0,
     "uscensus:awater":606358134.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486266,
-    "wof:geomhash":"6ef2adf6c34912b55d4183472545acc0",
+    "wof:geomhash":"2a5104d7054f26e8464f06814bbe0876",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763117,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763117,
-    "wof:lastmodified":1481486266,
+    "wof:lastmodified":1532444559,
     "wof:name":"Florida State Senate District 12",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

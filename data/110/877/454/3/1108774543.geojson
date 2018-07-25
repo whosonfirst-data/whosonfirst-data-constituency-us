@@ -11,6 +11,7 @@
     "geom:longitude":-95.426989,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":91050778.0,
     "uscensus:awater":570739.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488337,
-    "wof:geomhash":"5f85ad9e28abc330a0b4ce854d0e4e9b",
+    "wof:geomhash":"56394093d322299986cb6594fb784f8c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774543,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774543,
-    "wof:lastmodified":1481488337,
+    "wof:lastmodified":1532443927,
     "wof:name":"Texas State House District 146",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

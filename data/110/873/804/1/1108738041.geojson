@@ -11,6 +11,7 @@
     "geom:longitude":-112.119054,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "AZ-07"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738041,
-    "wof:lastmodified":1493955550,
+    "wof:lastmodified":1532444725,
     "wof:name":"Arizona Congressional District 7",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

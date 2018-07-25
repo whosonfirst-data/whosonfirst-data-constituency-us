@@ -11,6 +11,7 @@
     "geom:longitude":-121.836308,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-15"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738367,
-    "wof:lastmodified":1493955540,
+    "wof:lastmodified":1532444715,
     "wof:name":"California Congressional District 15",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

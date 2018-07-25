@@ -11,6 +11,7 @@
     "geom:longitude":-89.028611,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1214637274.0,
     "uscensus:awater":62899049.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488582,
-    "wof:geomhash":"11419f5fc76fe7607507995619dd7c80",
+    "wof:geomhash":"799b7d551935aa816d7ccc2fcb20b09b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775751,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775751,
-    "wof:lastmodified":1481488582,
+    "wof:lastmodified":1532443926,
     "wof:name":"Wisconsin Assembly District 43",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

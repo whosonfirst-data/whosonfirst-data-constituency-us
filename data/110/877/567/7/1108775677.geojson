@@ -11,6 +11,7 @@
     "geom:longitude":-87.917047,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":19831043.0,
     "uscensus:awater":1104302.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488575,
-    "wof:geomhash":"8ca60bdb0d9d1ac0782d2c7d65807f83",
+    "wof:geomhash":"1ef188895c3e247f2db8bee1126b2f7f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775677,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775677,
-    "wof:lastmodified":1481488575,
+    "wof:lastmodified":1532443997,
     "wof:name":"Wisconsin Assembly District 10",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-104.952042,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":70162421.0,
     "uscensus:awater":636519.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486084,
-    "wof:geomhash":"c03209483eb227a9ba10eb32e251140f",
+    "wof:geomhash":"b718c6e014dbfe41c22ef21632231979",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762019,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762019,
-    "wof:lastmodified":1481486084,
+    "wof:lastmodified":1532444108,
     "wof:name":"Colorado State House District 3",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-94.81491,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52016851.0,
     "uscensus:awater":714477.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486641,
-    "wof:geomhash":"f3fa0a12b76960b9301a4e273711b232",
+    "wof:geomhash":"1c97f8f414b2b2a31ef4b794e3bc6edc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765149,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765149,
-    "wof:lastmodified":1481486641,
+    "wof:lastmodified":1532444220,
     "wof:name":"Kansas State House District 14",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

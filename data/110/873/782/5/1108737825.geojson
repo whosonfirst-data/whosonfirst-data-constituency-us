@@ -11,6 +11,7 @@
     "geom:longitude":-116.000725,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NV-04"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737825,
-    "wof:lastmodified":1493955453,
+    "wof:lastmodified":1532444603,
     "wof:name":"Nevada Congressional District 4",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",

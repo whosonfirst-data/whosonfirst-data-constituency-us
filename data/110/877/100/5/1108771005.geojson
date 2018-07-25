@@ -11,6 +11,7 @@
     "geom:longitude":-115.24948,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":55732018.0,
     "uscensus:awater":8791.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487681,
-    "wof:geomhash":"f3bc294c3b39a21dc3e14d01f7004a50",
+    "wof:geomhash":"c0eb2c56e692e5b06a27b737aeacd029",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771005,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771005,
-    "wof:lastmodified":1481487681,
+    "wof:lastmodified":1532443820,
     "wof:name":"Nevada Assembly District 13",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

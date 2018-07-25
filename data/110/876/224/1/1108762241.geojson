@@ -11,6 +11,7 @@
     "geom:longitude":-73.410304,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":102645830.0,
     "uscensus:awater":994843.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486132,
-    "wof:geomhash":"083b11ca913f28f8dc5aec4c1798dcd9",
+    "wof:geomhash":"239b965ebb2683cee740d62a456154a8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762241,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762241,
-    "wof:lastmodified":1481486132,
+    "wof:lastmodified":1532444576,
     "wof:name":"Connecticut State House District 2",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

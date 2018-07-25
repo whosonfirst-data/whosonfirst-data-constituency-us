@@ -11,6 +11,7 @@
     "geom:longitude":-158.127917,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":113163682.0,
     "uscensus:awater":158027862.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486410,
-    "wof:geomhash":"1bd74f8c6842bc64866c9b7f8259bb30",
+    "wof:geomhash":"e020ff7f0682ac180301d93a95ef424a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763807,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763807,
-    "wof:lastmodified":1481486410,
+    "wof:lastmodified":1532444176,
     "wof:name":"Hawaii State House District 43",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

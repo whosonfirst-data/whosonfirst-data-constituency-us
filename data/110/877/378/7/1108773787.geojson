@@ -11,6 +11,7 @@
     "geom:longitude":-96.67474,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":21713555.0,
     "uscensus:awater":109407.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488167,
-    "wof:geomhash":"fd195324eca2062babdcd80da0b36352",
+    "wof:geomhash":"d8a5b06abbbb5c797ef0513c45897362",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773787,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688693
         }
     ],
     "wof:id":1108773787,
-    "wof:lastmodified":1481488167,
+    "wof:lastmodified":1532443945,
     "wof:name":"South Dakota State House District 14",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

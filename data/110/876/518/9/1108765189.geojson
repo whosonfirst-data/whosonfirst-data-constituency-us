@@ -11,6 +11,7 @@
     "geom:longitude":-94.636273,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":19426656.0,
     "uscensus:awater":778461.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486644,
-    "wof:geomhash":"99cd2805373f11085aeeb474caec9fa5",
+    "wof:geomhash":"70a6e54308d21b07b51ef72015ec30ab",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765189,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765189,
-    "wof:lastmodified":1481486644,
+    "wof:lastmodified":1532444113,
     "wof:name":"Kansas State House District 32",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

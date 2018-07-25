@@ -11,6 +11,7 @@
     "geom:longitude":-71.753725,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":367418915.0,
     "uscensus:awater":14074107.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486852,
-    "wof:geomhash":"bc965d2f02ff181b1ace07c6a9b7a836",
+    "wof:geomhash":"0abfe0507538ded6d07f5d5c1cd0125a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766515,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766515,
-    "wof:lastmodified":1481486852,
+    "wof:lastmodified":1532444176,
     "wof:name":"Massachusetts Second Worcester District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

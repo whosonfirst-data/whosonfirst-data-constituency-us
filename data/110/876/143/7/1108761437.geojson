@@ -11,6 +11,7 @@
     "geom:longitude":-90.829692,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":411633568.0,
     "uscensus:awater":2371789.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485941,
-    "wof:geomhash":"bf07d749e06602e7eb687072a78fbc3a",
+    "wof:geomhash":"6f66681243c68707da5092ed925cb7c3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761437,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761437,
-    "wof:lastmodified":1481485941,
+    "wof:lastmodified":1532444428,
     "wof:name":"Arkansas State House District 59",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

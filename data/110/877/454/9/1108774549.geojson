@@ -11,6 +11,7 @@
     "geom:longitude":-95.650287,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":112154071.0,
     "uscensus:awater":1342303.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488338,
-    "wof:geomhash":"be4ebfa4f77f3d84d8d285a5a44ca4a7",
+    "wof:geomhash":"25d184375b2fe8c3d2506b562d11e29e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774549,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774549,
-    "wof:lastmodified":1481488338,
+    "wof:lastmodified":1532443927,
     "wof:name":"Texas State House District 149",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

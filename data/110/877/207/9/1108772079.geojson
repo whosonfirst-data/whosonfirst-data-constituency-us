@@ -11,6 +11,7 @@
     "geom:longitude":-95.804155,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":127512602.0,
     "uscensus:awater":9508849.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487882,
-    "wof:geomhash":"891454ece3e44e954c453a840612cd6c",
+    "wof:geomhash":"9259fd225fabebc6b6f73d98de2903c5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772079,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772079,
-    "wof:lastmodified":1481487882,
+    "wof:lastmodified":1532444001,
     "wof:name":"Oklahoma State House District 80",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

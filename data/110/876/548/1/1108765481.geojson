@@ -11,6 +11,7 @@
     "geom:longitude":-94.828523,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1262115021.0,
     "uscensus:awater":33305814.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486674,
-    "wof:geomhash":"fb8fa2b8c4839a96bc805563f54d99d0",
+    "wof:geomhash":"f3acc355462dfb9060ae2345814cd83e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765481,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765481,
-    "wof:lastmodified":1481486674,
+    "wof:lastmodified":1532444296,
     "wof:name":"Kansas State Senate District 37",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-71.449135,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10204892.0,
     "uscensus:awater":233121.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488090,
-    "wof:geomhash":"d534a555a85f0058733d13f6eddbffb6",
+    "wof:geomhash":"8de533c7bbad293f316cb0756eb3edfa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773295,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773295,
-    "wof:lastmodified":1481488090,
+    "wof:lastmodified":1532444008,
     "wof:name":"Rhode Island State Senate District 4",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

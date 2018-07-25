@@ -11,6 +11,7 @@
     "geom:longitude":-83.928356,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":133233611.0,
     "uscensus:awater":1704599.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486330,
-    "wof:geomhash":"b9c6b883d5b7e8ca87b7a738cf741b2f",
+    "wof:geomhash":"b66020bef52bf434f36367563c5f23b8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763435,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763435,
-    "wof:lastmodified":1481486330,
+    "wof:lastmodified":1532444100,
     "wof:name":"Georgia State House District 113",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

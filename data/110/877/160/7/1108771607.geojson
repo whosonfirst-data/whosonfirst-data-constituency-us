@@ -11,6 +11,7 @@
     "geom:longitude":-84.105778,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1042470095.0,
     "uscensus:awater":11266164.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487776,
-    "wof:geomhash":"47ea9f9b35c1524faddd861b7883931d",
+    "wof:geomhash":"f7e0b63a88cdf632008fcf33cd9f7344",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771607,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771607,
-    "wof:lastmodified":1481487776,
+    "wof:lastmodified":1532443882,
     "wof:name":"Ohio State House District 4",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

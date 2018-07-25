@@ -11,6 +11,7 @@
     "geom:longitude":-71.732499,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":127549215.0,
     "uscensus:awater":219607267.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488097,
-    "wof:geomhash":"7f99e3867cbf39c237b407e0054cf30e",
+    "wof:geomhash":"fc01a1d9a466fe8cca8345881f0979e8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773373,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773373,
-    "wof:lastmodified":1481488097,
+    "wof:lastmodified":1532444004,
     "wof:name":"Rhode Island State Senate District 38",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

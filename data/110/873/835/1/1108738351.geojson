@@ -11,6 +11,7 @@
     "geom:longitude":-85.094524,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "GA-14"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738351,
-    "wof:lastmodified":1493955424,
+    "wof:lastmodified":1532444616,
     "wof:name":"Georgia Congressional District 14",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-88.764363,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":633043053.0,
     "uscensus:awater":5653531.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487253,
-    "wof:geomhash":"9f4535713835f11dbe43b5713d7b6ed3",
+    "wof:geomhash":"f7d7fa8083a03a45067f0b092201d284",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768781,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768781,
-    "wof:lastmodified":1481487253,
+    "wof:lastmodified":1532444100,
     "wof:name":"Mississippi State House District 38",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

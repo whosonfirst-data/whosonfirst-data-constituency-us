@@ -11,6 +11,7 @@
     "geom:longitude":-123.645269,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4617274570.0,
     "uscensus:awater":859637190.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487921,
-    "wof:geomhash":"727a12cf004ae5e7a73ad1f35576ff8f",
+    "wof:geomhash":"b67a7312002825ec2f7a4d26a19233e3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772305,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772305,
-    "wof:lastmodified":1481487921,
+    "wof:lastmodified":1532443963,
     "wof:name":"Oregon State House District 32",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

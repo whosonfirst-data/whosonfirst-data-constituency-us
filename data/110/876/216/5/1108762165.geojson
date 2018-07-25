@@ -11,6 +11,7 @@
     "geom:longitude":-104.689252,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1082622783.0,
     "uscensus:awater":4205359.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486112,
-    "wof:geomhash":"d675af4fb7faf6f37ae8f95324e6ba13",
+    "wof:geomhash":"6bc0b126a06c2119a16cecef8419e927",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762165,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762165,
-    "wof:lastmodified":1481486112,
+    "wof:lastmodified":1532444118,
     "wof:name":"Colorado State Senate District 3",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

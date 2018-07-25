@@ -11,6 +11,7 @@
     "geom:longitude":-84.705909,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":347914084.0,
     "uscensus:awater":9538422.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487783,
-    "wof:geomhash":"3250d12b70a8139cecbfa66fcd673d36",
+    "wof:geomhash":"0cf3d7d459179e83d751242e2bd34c9a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771663,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771663,
-    "wof:lastmodified":1481487783,
+    "wof:lastmodified":1532444010,
     "wof:name":"Ohio State House District 29",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-75.099003,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":65276133.0,
     "uscensus:awater":25832.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488002,
-    "wof:geomhash":"3663b8461fc489233b0702377b9c019e",
+    "wof:geomhash":"fccfa0c1b4b18121f5ce420df78cfa21",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772779,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772779,
-    "wof:lastmodified":1481488002,
+    "wof:lastmodified":1532443884,
     "wof:name":"Pennsylvania State House District 152",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-86.284283,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":53666182.0,
     "uscensus:awater":198591.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486619,
-    "wof:geomhash":"9e7bbf291d6eafba41d350cbceb4a5e3",
+    "wof:geomhash":"3218d6c620c5305a68413c343352c28d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764987,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764987,
-    "wof:lastmodified":1481486619,
+    "wof:lastmodified":1532444237,
     "wof:name":"Indiana State House District 92",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-107.23763,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CO-03"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737661,
-    "wof:lastmodified":1493955501,
+    "wof:lastmodified":1532444649,
     "wof:name":"Colorado Congressional District 3",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",

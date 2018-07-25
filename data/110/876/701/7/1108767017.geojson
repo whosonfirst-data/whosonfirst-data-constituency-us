@@ -11,6 +11,7 @@
     "geom:longitude":-69.577262,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":99080229.0,
     "uscensus:awater":5809787.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487005,
-    "wof:geomhash":"18840dd744b46ff060af1cb3381fbee9",
+    "wof:geomhash":"f7f02e981c30c6afcdbf0a748ba30942",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767017,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767017,
-    "wof:lastmodified":1481487005,
+    "wof:lastmodified":1532444107,
     "wof:name":"Maine State House District 78",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

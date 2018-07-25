@@ -11,6 +11,7 @@
     "geom:longitude":-82.078954,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":61452937.0,
     "uscensus:awater":1632862.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486333,
-    "wof:geomhash":"876cd0c4ac1fe080869d24058d396514",
+    "wof:geomhash":"23d94781a52457f1a7d38a1389ab651b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763457,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763457,
-    "wof:lastmodified":1481486333,
+    "wof:lastmodified":1532444067,
     "wof:name":"Georgia State House District 123",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

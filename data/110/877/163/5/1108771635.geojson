@@ -11,6 +11,7 @@
     "geom:longitude":-83.034946,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":122617688.0,
     "uscensus:awater":8521333.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487779,
-    "wof:geomhash":"d4974e93e3d17f76cc47d9acfda0b0e5",
+    "wof:geomhash":"75c22ff919d39f05a4996c7ad57adcb1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771635,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771635,
-    "wof:lastmodified":1481487779,
+    "wof:lastmodified":1532444045,
     "wof:name":"Ohio State House District 17",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

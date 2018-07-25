@@ -11,6 +11,7 @@
     "geom:longitude":-104.864814,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":275694016.0,
     "uscensus:awater":5282159.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486119,
-    "wof:geomhash":"d19fe5c2e9b8b74d24d9417b08ccafcf",
+    "wof:geomhash":"a561d3e3ff6cdae3a75d72361c601990",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762205,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762205,
-    "wof:lastmodified":1481486119,
+    "wof:lastmodified":1532444354,
     "wof:name":"Colorado State Senate District 21",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-66.16943,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":349148975.0,
     "uscensus:awater":3308194.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488051,
-    "wof:geomhash":"42c2915ddfb228afae0c247d0551981d",
+    "wof:geomhash":"53407f0a7b7d416fb6db3fd2aa5ce513",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773073,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773073,
-    "wof:lastmodified":1481488051,
+    "wof:lastmodified":1532443977,
     "wof:name":"Puerto Rico State House District 30",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

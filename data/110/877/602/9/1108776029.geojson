@@ -11,6 +11,7 @@
     "geom:longitude":-81.78135,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":157167012.0,
     "uscensus:awater":6932935.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488634,
-    "wof:geomhash":"0dd7558aa8c2dc1f9fd65378eb4fa4a5",
+    "wof:geomhash":"e25e751c2ae07b5b7fb63a74fda083a9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776029,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776029,
-    "wof:lastmodified":1481488634,
+    "wof:lastmodified":1532443805,
     "wof:name":"West Virginia State House District 35",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

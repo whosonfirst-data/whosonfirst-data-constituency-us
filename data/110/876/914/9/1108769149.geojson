@@ -11,6 +11,7 @@
     "geom:longitude":-109.652626,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":32194822.0,
     "uscensus:awater":1241.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487335,
-    "wof:geomhash":"6c2beaf39d626a11910e5c70faf6e745",
+    "wof:geomhash":"57f359fd93c325b20958b6296e8ce723",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769149,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769149,
-    "wof:lastmodified":1481487335,
+    "wof:lastmodified":1532444211,
     "wof:name":"Montana State House District 28",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

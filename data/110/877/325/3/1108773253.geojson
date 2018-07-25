@@ -11,6 +11,7 @@
     "geom:longitude":-71.369788,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3824283.0,
     "uscensus:awater":34426.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488084,
-    "wof:geomhash":"18deb09850aa71481c29207d62aed128",
+    "wof:geomhash":"1bb586b45416dc69cefa6628c95ec9ca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773253,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773253,
-    "wof:lastmodified":1481488084,
+    "wof:lastmodified":1532444024,
     "wof:name":"Rhode Island State House District 60",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

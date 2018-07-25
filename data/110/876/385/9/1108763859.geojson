@@ -11,6 +11,7 @@
     "geom:longitude":-157.919368,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":47264991.0,
     "uscensus:awater":79976774.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486420,
-    "wof:geomhash":"86494be7922abbf36eb9f7b911dbef81",
+    "wof:geomhash":"8b8e2347f6f31a2d6f0de9c4a47549e7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763859,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763859,
-    "wof:lastmodified":1481486420,
+    "wof:lastmodified":1532444443,
     "wof:name":"Hawaii State Senate District 15",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

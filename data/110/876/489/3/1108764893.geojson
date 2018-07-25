@@ -11,6 +11,7 @@
     "geom:longitude":-85.413478,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1471005636.0,
     "uscensus:awater":15487945.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486609,
-    "wof:geomhash":"b3d2bedc2280f470d7b187f840a7dfcf",
+    "wof:geomhash":"bc42cded699fa8e79c16c3d05f848b39",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764893,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764893,
-    "wof:lastmodified":1481486609,
+    "wof:lastmodified":1532444131,
     "wof:name":"Indiana State House District 50",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

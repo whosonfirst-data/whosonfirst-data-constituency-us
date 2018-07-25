@@ -11,6 +11,7 @@
     "geom:longitude":-92.35667,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":619020254.0,
     "uscensus:awater":45174369.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485952,
-    "wof:geomhash":"c7a08146282467ec54d4b940bc5a3316",
+    "wof:geomhash":"da79b1f09a6325ba099785bedb005e93",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761529,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761529,
-    "wof:lastmodified":1481485952,
+    "wof:lastmodified":1532444399,
     "wof:name":"Arkansas State House District 100",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

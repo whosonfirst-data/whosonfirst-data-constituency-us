@@ -11,6 +11,7 @@
     "geom:longitude":-85.128073,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2420476825.0,
     "uscensus:awater":32983410.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486392,
-    "wof:geomhash":"156842be7bb5e6b9f88ebabf9bcf545b",
+    "wof:geomhash":"3d794a8de9d7a7576dd897f9d6c09c41",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763701,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763701,
-    "wof:lastmodified":1481486392,
+    "wof:lastmodified":1532444502,
     "wof:name":"Georgia State Senate District 52",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

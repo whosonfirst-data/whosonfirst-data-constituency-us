@@ -11,6 +11,7 @@
     "geom:longitude":-99.458271,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9509586861.0,
     "uscensus:awater":35585646.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487874,
-    "wof:geomhash":"f646bffc73ff59116aac8e2ecfd8fb49",
+    "wof:geomhash":"add3ab881f43045bda101fc83e5fa97f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772023,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772023,
-    "wof:lastmodified":1481487874,
+    "wof:lastmodified":1532443868,
     "wof:name":"Oklahoma State House District 55",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

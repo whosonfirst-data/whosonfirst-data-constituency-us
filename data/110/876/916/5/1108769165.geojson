@@ -11,6 +11,7 @@
     "geom:longitude":-104.561414,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5398317072.0,
     "uscensus:awater":49588405.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487338,
-    "wof:geomhash":"c5d01fe5de6778aece767d90501daddc",
+    "wof:geomhash":"69180f8185276cec7b52a9722075e9b0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769165,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769165,
-    "wof:lastmodified":1481487338,
+    "wof:lastmodified":1532444090,
     "wof:name":"Montana State House District 35",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

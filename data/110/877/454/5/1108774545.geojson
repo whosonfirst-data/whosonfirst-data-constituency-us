@@ -11,6 +11,7 @@
     "geom:longitude":-95.315856,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":107273964.0,
     "uscensus:awater":750945.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488337,
-    "wof:geomhash":"28b4eaad571c3fea03b180f8f8de0a9e",
+    "wof:geomhash":"a00dfc19c929f5b8c27b7a34e98e77b1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774545,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774545,
-    "wof:lastmodified":1481488337,
+    "wof:lastmodified":1532443927,
     "wof:name":"Texas State House District 147",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

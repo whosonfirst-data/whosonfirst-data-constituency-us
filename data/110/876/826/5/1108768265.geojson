@@ -11,6 +11,7 @@
     "geom:longitude":-90.411544,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":65112799.0,
     "uscensus:awater":1664654.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487166,
-    "wof:geomhash":"c9c8dacd402e24052febe6605b7afa49",
+    "wof:geomhash":"1b4c49a24a93631bfe5b1a9f72769316",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768265,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768265,
-    "wof:lastmodified":1481487166,
+    "wof:lastmodified":1532444452,
     "wof:name":"Missouri State House District 96",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

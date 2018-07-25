@@ -11,6 +11,7 @@
     "geom:longitude":-71.331187,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":533910262.0,
     "uscensus:awater":10264008.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487542,
-    "wof:geomhash":"9c60f38efede197e60fedf374150a0fc",
+    "wof:geomhash":"0a2814dd8f9a3b57bfb7e1adada40357",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770191,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770191,
-    "wof:lastmodified":1481487542,
+    "wof:lastmodified":1532443879,
     "wof:name":"New Hampshire State House District Coos County No. 2",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-83.984697,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":296173190.0,
     "uscensus:awater":6104575.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486389,
-    "wof:geomhash":"5e93936c16d7b3e5eb45d71e588bbfa5",
+    "wof:geomhash":"ff623dfa19d3c90c5c6bca86f041b764",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763687,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763687,
-    "wof:lastmodified":1481486389,
+    "wof:lastmodified":1532444456,
     "wof:name":"Georgia State Senate District 45",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

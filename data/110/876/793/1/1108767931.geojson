@@ -11,6 +11,7 @@
     "geom:longitude":-93.712058,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4019603403.0,
     "uscensus:awater":340362867.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487124,
-    "wof:geomhash":"c88c8fae6d9a82a65a3eda65c5d30ad3",
+    "wof:geomhash":"20bdf8c6fe0ebb8b5e4034d84d04dcac",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767931,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767931,
-    "wof:lastmodified":1481487124,
+    "wof:lastmodified":1532444393,
     "wof:name":"Minnesota State Senate District 15",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

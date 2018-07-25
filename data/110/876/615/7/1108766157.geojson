@@ -11,6 +11,7 @@
     "geom:longitude":-71.253839,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":233146920.0,
     "uscensus:awater":3565023.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486811,
-    "wof:geomhash":"8bd3a339440d5a4e1f246bb09b20c14b",
+    "wof:geomhash":"bb1ca501139f97a54e1b2c408804a497",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766157,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766157,
-    "wof:lastmodified":1481486811,
+    "wof:lastmodified":1532444312,
     "wof:name":"Massachusetts 4th Bristol District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

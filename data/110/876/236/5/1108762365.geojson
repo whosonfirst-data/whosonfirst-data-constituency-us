@@ -11,6 +11,7 @@
     "geom:longitude":-72.487848,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":137329120.0,
     "uscensus:awater":2191596.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486144,
-    "wof:geomhash":"987bc728c1d79e9d8b2b06641b1f9c83",
+    "wof:geomhash":"071c07bed19ea7e29908779dc22a699a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762365,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762365,
-    "wof:lastmodified":1481486144,
+    "wof:lastmodified":1532444287,
     "wof:name":"Connecticut State House District 57",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

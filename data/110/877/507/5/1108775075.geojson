@@ -11,6 +11,7 @@
     "geom:longitude":-76.660536,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2735122986.0,
     "uscensus:awater":940735626.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488461,
-    "wof:geomhash":"14c8cd63ae5a696c6ecb10a8f5f9f52f",
+    "wof:geomhash":"b092ea67dd738d852c73e9ea014e5716",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775075,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775075,
-    "wof:lastmodified":1481488461,
+    "wof:lastmodified":1532443782,
     "wof:name":"Virginia State House District 98",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

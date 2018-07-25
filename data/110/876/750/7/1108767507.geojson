@@ -11,6 +11,7 @@
     "geom:longitude":-88.750113,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16230866572.0,
     "uscensus:awater":23184908427.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487065,
-    "wof:geomhash":"e704852de4e94c4d242cefc96def7781",
+    "wof:geomhash":"f44d88b91693f77c38b45cc958d717ef",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767507,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767507,
-    "wof:lastmodified":1481487065,
+    "wof:lastmodified":1532444562,
     "wof:name":"Michigan State House District 110",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

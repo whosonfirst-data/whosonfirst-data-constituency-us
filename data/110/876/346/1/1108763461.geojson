@@ -11,6 +11,7 @@
     "geom:longitude":-81.974521,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":324113518.0,
     "uscensus:awater":5957118.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486334,
-    "wof:geomhash":"59d78f249ae1a26d9ee4e221ab4e10be",
+    "wof:geomhash":"84abf8a46fd03a0b78712dde94977c05",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763461,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763461,
-    "wof:lastmodified":1481486334,
+    "wof:lastmodified":1532444259,
     "wof:name":"Georgia State House District 125",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

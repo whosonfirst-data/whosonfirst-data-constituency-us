@@ -11,6 +11,7 @@
     "geom:longitude":-81.455761,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":14179793114.0,
     "uscensus:awater":1492210644.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486270,
-    "wof:geomhash":"ba0d46541851434c8b15e8cca809671f",
+    "wof:geomhash":"664a53a9e827701330d421f1305e637e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763149,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763149,
-    "wof:lastmodified":1481486270,
+    "wof:lastmodified":1532444335,
     "wof:name":"Florida State Senate District 26",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

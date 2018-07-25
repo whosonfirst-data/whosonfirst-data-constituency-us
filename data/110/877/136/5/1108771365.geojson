@@ -11,6 +11,7 @@
     "geom:longitude":-73.813404,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":196766488.0,
     "uscensus:awater":7662192.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487732,
-    "wof:geomhash":"e3137aa2d345846a56be65efe5c88a7b",
+    "wof:geomhash":"8ab2e3fb225cf0e7579b9377d6812088",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771365,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771365,
-    "wof:lastmodified":1481487732,
+    "wof:lastmodified":1532443751,
     "wof:name":"New York Assembly District 110",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

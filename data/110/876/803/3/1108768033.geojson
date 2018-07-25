@@ -11,6 +11,7 @@
     "geom:longitude":-93.241291,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":33870243.0,
     "uscensus:awater":1580450.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487136,
-    "wof:geomhash":"1c2e7588cb293d4b5d3e3963b69ec3ee",
+    "wof:geomhash":"cdbecfc83e42520a29208815ce2c5894",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768033,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108768033,
-    "wof:lastmodified":1481487136,
+    "wof:lastmodified":1532444237,
     "wof:name":"Minnesota State Senate District 60",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

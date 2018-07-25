@@ -11,6 +11,7 @@
     "geom:longitude":-77.370347,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1404690750.0,
     "uscensus:awater":11435215.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486871,
-    "wof:geomhash":"47b81c98b16aa28e0d62634596d3717a",
+    "wof:geomhash":"b31087b0b881d2f98b42668eb913a341",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766581,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766581,
-    "wof:lastmodified":1481486871,
+    "wof:lastmodified":1532444391,
     "wof:name":"Maryland State Legislative District 4",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

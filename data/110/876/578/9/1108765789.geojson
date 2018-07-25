@@ -11,6 +11,7 @@
     "geom:longitude":-84.301125,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2124015149.0,
     "uscensus:awater":21029225.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486735,
-    "wof:geomhash":"4b75b18ea0ad68ade22fad2034832132",
+    "wof:geomhash":"7cd37b71a41d364e0808539f5332e0d9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765789,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765789,
-    "wof:lastmodified":1481486735,
+    "wof:lastmodified":1532444317,
     "wof:name":"Kentucky State Senate District 34",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

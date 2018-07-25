@@ -11,6 +11,7 @@
     "geom:longitude":-80.016619,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11554836927.0,
     "uscensus:awater":37384496.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488656,
-    "wof:geomhash":"e7770a7ebf54c848402a9086f57c68ec",
+    "wof:geomhash":"e2e559a0a34cac86762742694a5c8938",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776127,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776127,
-    "wof:lastmodified":1481488656,
+    "wof:lastmodified":1532443750,
     "wof:name":"West Virginia State Senate District 11",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

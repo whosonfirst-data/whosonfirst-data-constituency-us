@@ -11,6 +11,7 @@
     "geom:longitude":-93.56474,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6687637821.0,
     "uscensus:awater":194132301.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485959,
-    "wof:geomhash":"1000cfda76d2bec9ac9a0533e5d6ad43",
+    "wof:geomhash":"d7d22ebbf62525297eaaeac07a756a84",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761541,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761541,
-    "wof:lastmodified":1481485959,
+    "wof:lastmodified":1532444302,
     "wof:name":"Arkansas State Senate District 6",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-86.389148,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":494660887.0,
     "uscensus:awater":16499603.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487058,
-    "wof:geomhash":"18b6b1e7a6561644b1b80f7afcefd2cd",
+    "wof:geomhash":"6e41b9e839cd3ac5f76e74ff407cc7aa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767437,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767437,
-    "wof:lastmodified":1481487058,
+    "wof:lastmodified":1532444280,
     "wof:name":"Michigan State House District 79",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

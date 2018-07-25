@@ -11,6 +11,7 @@
     "geom:longitude":-89.068949,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":358442625.0,
     "uscensus:awater":4976848.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486582,
-    "wof:geomhash":"6ed44b0b38a51e27deca363987002c0a",
+    "wof:geomhash":"9818e9c84a453fe58bf67118fa121df1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764721,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764721,
-    "wof:lastmodified":1481486582,
+    "wof:lastmodified":1532444130,
     "wof:name":"Illinois State Senate District 34",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.595788,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4398098981.0,
     "uscensus:awater":95588301.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487760,
-    "wof:geomhash":"ae82aba255fcc409cad6531ce075699f",
+    "wof:geomhash":"5464686303250ceb51723377517df15d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771553,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771553,
-    "wof:lastmodified":1481487760,
+    "wof:lastmodified":1532443949,
     "wof:name":"New York State Senate District 43",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

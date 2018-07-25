@@ -11,6 +11,7 @@
     "geom:longitude":-91.028091,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2680822705.0,
     "uscensus:awater":27663788.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487199,
-    "wof:geomhash":"aa89fe548a740f27dd15ddb6f1827367",
+    "wof:geomhash":"d217ecb847edc576902e09d9245e4bcd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768475,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768475,
-    "wof:lastmodified":1481487199,
+    "wof:lastmodified":1532444389,
     "wof:name":"Missouri State Senate District 26",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

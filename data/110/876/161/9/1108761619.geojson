@@ -11,6 +11,7 @@
     "geom:longitude":-113.831612,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":43758235028.0,
     "uscensus:awater":419546130.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485978,
-    "wof:geomhash":"27678da08a6d6ed3edf986aa60becb41",
+    "wof:geomhash":"d1425525a96b0653b22a3627d02548c1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761619,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108761619,
-    "wof:lastmodified":1481485978,
+    "wof:lastmodified":1532444081,
     "wof:name":"Arizona State House District 5",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-az",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

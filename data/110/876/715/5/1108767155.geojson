@@ -11,6 +11,7 @@
     "geom:longitude":-67.294525,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":637994589.0,
     "uscensus:awater":130030279.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487024,
-    "wof:geomhash":"33d2734c4d1f1a0ab2569caaaa4e8491",
+    "wof:geomhash":"4509edbad8aec4ba47848d9dc56cc4b9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767155,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767155,
-    "wof:lastmodified":1481487024,
+    "wof:lastmodified":1532444241,
     "wof:name":"Maine State House District 140",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

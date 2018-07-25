@@ -11,6 +11,7 @@
     "geom:longitude":-93.15985,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":455189677.0,
     "uscensus:awater":26567980.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487097,
-    "wof:geomhash":"3e3b7cc5a8fe72d917c40f876c2cc2bb",
+    "wof:geomhash":"84b0766fcbd1dcc3485f49bcbb1ae489",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767737,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767737,
-    "wof:lastmodified":1481487097,
+    "wof:lastmodified":1532444236,
     "wof:name":"Minnesota State House District 31B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

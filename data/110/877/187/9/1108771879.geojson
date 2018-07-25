@@ -11,6 +11,7 @@
     "geom:longitude":-81.458818,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":296746756.0,
     "uscensus:awater":2577633.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487838,
-    "wof:geomhash":"94d9b82ec15a530510577d6b5ca821ed",
+    "wof:geomhash":"b01ff90f770d7fe9ab8fe1f082280963",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771879,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771879,
-    "wof:lastmodified":1481487838,
+    "wof:lastmodified":1532443774,
     "wof:name":"Ohio State Senate District 25",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

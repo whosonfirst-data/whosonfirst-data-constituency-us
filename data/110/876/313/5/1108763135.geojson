@@ -11,6 +11,7 @@
     "geom:longitude":-82.185476,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1807042719.0,
     "uscensus:awater":39478113.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486268,
-    "wof:geomhash":"e400a8d5dec26e327669a0b6655c838a",
+    "wof:geomhash":"dba62f53dc20330369e01a5520468701",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763135,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763135,
-    "wof:lastmodified":1481486268,
+    "wof:lastmodified":1532444453,
     "wof:name":"Florida State Senate District 20",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-97.378518,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2995217124.0,
     "uscensus:awater":35395252.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487526,
-    "wof:geomhash":"6f1187bce4223e4dcd688bfe786c0a41",
+    "wof:geomhash":"27740260a7b424ba3b6c3b09182f9a56",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770067,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770067,
-    "wof:lastmodified":1481487526,
+    "wof:lastmodified":1532443896,
     "wof:name":"Nebraska State Senate District 22",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-85.756419,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1552763606.0,
     "uscensus:awater":9006937.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486614,
-    "wof:geomhash":"099b5ccb30cb11384a00fcc4e9d7d0c9",
+    "wof:geomhash":"3ed614799af2188a28b09d747769e4ce",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764935,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764935,
-    "wof:lastmodified":1481486614,
+    "wof:lastmodified":1532444215,
     "wof:name":"Indiana State House District 69",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-71.29789,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "MA-05"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737911,
-    "wof:lastmodified":1493955485,
+    "wof:lastmodified":1532444721,
     "wof:name":"Massachusetts Congressional District 5",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

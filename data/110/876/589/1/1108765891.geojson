@@ -11,6 +11,7 @@
     "geom:longitude":-92.403456,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1371449172.0,
     "uscensus:awater":4532247.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486754,
-    "wof:geomhash":"923944e6e60660aa128263e874601639",
+    "wof:geomhash":"0ae6915888bd3693e793dc4eb87d9ffb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765891,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765891,
-    "wof:lastmodified":1481486754,
+    "wof:lastmodified":1532444202,
     "wof:name":"Louisiana State House District 41",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

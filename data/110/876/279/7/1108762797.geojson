@@ -11,6 +11,7 @@
     "geom:longitude":-75.699512,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":32871093.0,
     "uscensus:awater":198472.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486209,
-    "wof:geomhash":"a119b87eacaf883816364615ddce7828",
+    "wof:geomhash":"2da818504988104226f840d95671d3d7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762797,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688611
         }
     ],
     "wof:id":1108762797,
-    "wof:lastmodified":1481486209,
+    "wof:lastmodified":1532444150,
     "wof:name":"Delaware State Senate District 11",
     "wof:parent_id":85688611,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-de",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

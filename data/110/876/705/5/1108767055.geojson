@@ -11,6 +11,7 @@
     "geom:longitude":-69.241271,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":298559495.0,
     "uscensus:awater":17759112.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487008,
-    "wof:geomhash":"33c5eb2f79ece378d947dadcc9c6e376",
+    "wof:geomhash":"1a5776739163887f11d105b5e8cd2e92",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767055,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767055,
-    "wof:lastmodified":1481487008,
+    "wof:lastmodified":1532444225,
     "wof:name":"Maine State House District 95",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

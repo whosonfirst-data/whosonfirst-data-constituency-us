@@ -11,6 +11,7 @@
     "geom:longitude":-104.908147,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CO-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737395,
-    "wof:lastmodified":1493955460,
+    "wof:lastmodified":1532444709,
     "wof:name":"Colorado Congressional District 1",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",

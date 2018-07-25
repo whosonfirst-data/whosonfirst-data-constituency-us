@@ -11,6 +11,7 @@
     "geom:longitude":-87.011144,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3371759435.0,
     "uscensus:awater":29365754.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485899,
-    "wof:geomhash":"888d4c14dfb22f235c3883a20fccaedf",
+    "wof:geomhash":"2b95a6c28fc931aa785ec3c7676e3bd7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761257,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761257,
-    "wof:lastmodified":1481485899,
+    "wof:lastmodified":1532444485,
     "wof:name":"Alabama State Senate District 14",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

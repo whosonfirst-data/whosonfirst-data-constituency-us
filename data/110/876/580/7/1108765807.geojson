@@ -11,6 +11,7 @@
     "geom:longitude":-93.846875,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":159005661.0,
     "uscensus:awater":27889995.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486742,
-    "wof:geomhash":"43116b329f181731af8c3c5d76ba2686",
+    "wof:geomhash":"300029591978414f78f5739bbb0d5472",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765807,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765807,
-    "wof:lastmodified":1481486742,
+    "wof:lastmodified":1532444536,
     "wof:name":"Louisiana State House District 4",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

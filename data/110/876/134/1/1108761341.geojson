@@ -11,6 +11,7 @@
     "geom:longitude":-92.033135,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":83053430.0,
     "uscensus:awater":8175886.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485921,
-    "wof:geomhash":"d25c6868c8139ac1c4757bc7077443a4",
+    "wof:geomhash":"153580af8ef005c0318b321f1f77bd8b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761341,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761341,
-    "wof:lastmodified":1481485921,
+    "wof:lastmodified":1532444335,
     "wof:name":"Arkansas State House District 17",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

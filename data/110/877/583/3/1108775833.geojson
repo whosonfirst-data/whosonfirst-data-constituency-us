@@ -11,6 +11,7 @@
     "geom:longitude":-89.717399,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1942899350.0,
     "uscensus:awater":2881078.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488591,
-    "wof:geomhash":"2725f907bd0847f753c89ba93073ef95",
+    "wof:geomhash":"4d067ba9656091ca02782f3cf3c2b9f6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775833,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775833,
-    "wof:lastmodified":1481488591,
+    "wof:lastmodified":1532443892,
     "wof:name":"Wisconsin Assembly District 80",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-116.187827,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":247396168.0,
     "uscensus:awater":552294.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486509,
-    "wof:geomhash":"bfa66141c1ba3d1808e290e15fd87fd3",
+    "wof:geomhash":"c3795ba2904458702d3a0da55acf6efa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764341,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764341,
-    "wof:lastmodified":1481486509,
+    "wof:lastmodified":1532444180,
     "wof:name":"Idaho State Senate District 19",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-70.984612,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":14042120.0,
     "uscensus:awater":16131009.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486834,
-    "wof:geomhash":"10758f1383d4ae88cbf11306417a520e",
+    "wof:geomhash":"4f8d9254d2e987969583331c5035704a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766351,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766351,
-    "wof:lastmodified":1481486834,
+    "wof:lastmodified":1532444483,
     "wof:name":"Massachusetts 2nd Norfolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

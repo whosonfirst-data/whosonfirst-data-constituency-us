@@ -11,6 +11,7 @@
     "geom:longitude":-73.202479,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":859733.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488500,
-    "wof:geomhash":"54cab257c18d36b6670b14810e4a23b9",
+    "wof:geomhash":"0f13d953c2e00dfbacd4429c7e373f85",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775229,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775229,
-    "wof:lastmodified":1481488500,
+    "wof:lastmodified":1532443778,
     "wof:name":"Vermont Chittenden-6-6 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-85.262327,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":470042938.0,
     "uscensus:awater":6610786.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488206,
-    "wof:geomhash":"1701a60931702307f4582989a990ff7a",
+    "wof:geomhash":"c0c1d9296a952f7571d34c1924083066",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773977,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108773977,
-    "wof:lastmodified":1481488206,
+    "wof:lastmodified":1532443936,
     "wof:name":"Tennessee State House District 27",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

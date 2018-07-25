@@ -11,6 +11,7 @@
     "geom:longitude":-81.703295,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3096212779.0,
     "uscensus:awater":540634876.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486262,
-    "wof:geomhash":"8dcbca10b40d962f8c4b3d9d0f7338a5",
+    "wof:geomhash":"3b60766771fb82902019b70c0c7d49a6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763099,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763099,
-    "wof:lastmodified":1481486262,
+    "wof:lastmodified":1532444078,
     "wof:name":"Florida State Senate District 4",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

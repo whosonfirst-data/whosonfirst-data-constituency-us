@@ -11,6 +11,7 @@
     "geom:longitude":-72.340454,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":444709460.0,
     "uscensus:awater":4494793.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488515,
-    "wof:geomhash":"8d16585221d6a0b0c83c08d84d4d3ac4",
+    "wof:geomhash":"ebf3e99a8a613ce49829ea0e54c2f2ce",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775405,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775405,
-    "wof:lastmodified":1481488515,
+    "wof:lastmodified":1532443756,
     "wof:name":"Vermont Windsor-Orange-2 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-118.186942,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":96367348604.0,
     "uscensus:awater":917273074.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487685,
-    "wof:geomhash":"45af8bb691c1a8ae2806a7e64ea0cc33",
+    "wof:geomhash":"5af3b67b9a452f224c8131281a2e39e0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771049,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771049,
-    "wof:lastmodified":1481487685,
+    "wof:lastmodified":1532443940,
     "wof:name":"Nevada Assembly District 32",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

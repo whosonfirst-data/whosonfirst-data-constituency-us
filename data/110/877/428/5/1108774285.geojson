@@ -11,6 +11,7 @@
     "geom:longitude":-97.274973,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":518025295.0,
     "uscensus:awater":767535156.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488287,
-    "wof:geomhash":"8db42b60157d0d88b3f3cb1b3e15a460",
+    "wof:geomhash":"d18d4d7fffa1d35997d68949b02d70dc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774285,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774285,
-    "wof:lastmodified":1481488287,
+    "wof:lastmodified":1532443838,
     "wof:name":"Texas State House District 32",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

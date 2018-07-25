@@ -11,6 +11,7 @@
     "geom:longitude":-118.001421,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":306711283.0,
     "uscensus:awater":80780167.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486072,
-    "wof:geomhash":"683e77443dab0d1bbdcb515ead78caf0",
+    "wof:geomhash":"2a8c4d34532355cc5cf1c1b72f9ce45f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761999,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761999,
-    "wof:lastmodified":1481486072,
+    "wof:lastmodified":1532444352,
     "wof:name":"California State Senate District 34",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

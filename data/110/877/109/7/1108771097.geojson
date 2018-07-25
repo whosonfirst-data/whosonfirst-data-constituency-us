@@ -11,6 +11,7 @@
     "geom:longitude":-114.655173,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8000420210.0,
     "uscensus:awater":433264077.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487695,
-    "wof:geomhash":"9519b4d3e2452942ab6f90b886133c9f",
+    "wof:geomhash":"ba88a3e58c8d06d7d73d8803ea3f8d3a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771097,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108771097,
-    "wof:lastmodified":1481487695,
+    "wof:lastmodified":1532443923,
     "wof:name":"Arizona State Senate District 12",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

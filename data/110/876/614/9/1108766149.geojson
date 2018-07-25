@@ -11,6 +11,7 @@
     "geom:longitude":-71.209318,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":116925736.0,
     "uscensus:awater":6273811.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486811,
-    "wof:geomhash":"1eb2ac9ee8f808fa8709a5703e9cc978",
+    "wof:geomhash":"85eda1db8cd1a869f6f371ce58d6584f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766149,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766149,
-    "wof:lastmodified":1481486811,
+    "wof:lastmodified":1532444259,
     "wof:name":"Massachusetts 1st Bristol District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

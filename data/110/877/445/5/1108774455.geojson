@@ -11,6 +11,7 @@
     "geom:longitude":-96.641419,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":106744999.0,
     "uscensus:awater":4340896.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488322,
-    "wof:geomhash":"c317b20c97af62a377d55db38fa0b33e",
+    "wof:geomhash":"c44c84f38156aeaee1ea3725065d1607",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774455,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774455,
-    "wof:lastmodified":1481488322,
+    "wof:lastmodified":1532443785,
     "wof:name":"Texas State House District 107",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

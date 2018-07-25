@@ -11,6 +11,7 @@
     "geom:longitude":-71.403157,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4203018.0,
     "uscensus:awater":969606.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488068,
-    "wof:geomhash":"e56664f6c05a9433cbd95c111c2bebe6",
+    "wof:geomhash":"598eb2dbfc05d83ab90bf42319bdfeab",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773123,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773123,
-    "wof:lastmodified":1481488068,
+    "wof:lastmodified":1532444057,
     "wof:name":"Rhode Island State House District 2",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

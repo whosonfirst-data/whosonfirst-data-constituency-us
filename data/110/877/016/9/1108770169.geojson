@@ -11,6 +11,7 @@
     "geom:longitude":-72.254698,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":31180501.0,
     "uscensus:awater":310893.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487539,
-    "wof:geomhash":"3d4216b019aefbe114c09762b3759e81",
+    "wof:geomhash":"b8f430a7be6d557ad38fe916bd2dacd0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770169,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770169,
-    "wof:lastmodified":1481487539,
+    "wof:lastmodified":1532443977,
     "wof:name":"New Hampshire State House District Cheshire County No. 5",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

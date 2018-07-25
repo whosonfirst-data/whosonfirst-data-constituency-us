@@ -11,6 +11,7 @@
     "geom:longitude":-97.289489,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":36968527.0,
     "uscensus:awater":445821.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486656,
-    "wof:geomhash":"f1a257774daf3206ca18966ea6f5e832",
+    "wof:geomhash":"11474a7cd4297f228fe93e45879b6bc0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765317,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765317,
-    "wof:lastmodified":1481486656,
+    "wof:lastmodified":1532444248,
     "wof:name":"Kansas State House District 89",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

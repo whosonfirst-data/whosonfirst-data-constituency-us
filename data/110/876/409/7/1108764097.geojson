@@ -11,6 +11,7 @@
     "geom:longitude":-91.335927,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1971497638.0,
     "uscensus:awater":4164320.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486454,
-    "wof:geomhash":"5e5e56db2ae89a8ef167ae0e66bb1dca",
+    "wof:geomhash":"f5286d86323335e1e86d18999bded635",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764097,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764097,
-    "wof:lastmodified":1481486454,
+    "wof:lastmodified":1532444519,
     "wof:name":"Iowa State House District 96",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

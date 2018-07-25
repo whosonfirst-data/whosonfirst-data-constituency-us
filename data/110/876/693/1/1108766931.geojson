@@ -11,6 +11,7 @@
     "geom:longitude":-70.268586,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2295969.0,
     "uscensus:awater":1009144.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486995,
-    "wof:geomhash":"9e8f22893166b60ff488e3214894bb58",
+    "wof:geomhash":"492fea3d043df6792fdeebb255dc1a94",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766931,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108766931,
-    "wof:lastmodified":1481486995,
+    "wof:lastmodified":1532444135,
     "wof:name":"Maine State House District 40",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

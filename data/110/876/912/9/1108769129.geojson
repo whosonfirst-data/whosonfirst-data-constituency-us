@@ -11,6 +11,7 @@
     "geom:longitude":-111.505979,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4698805000.0,
     "uscensus:awater":21547854.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487325,
-    "wof:geomhash":"bef3594d7bea75c911b7c1e45b142600",
+    "wof:geomhash":"49f1eb6f876a4b6206270a55d6720765",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769129,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769129,
-    "wof:lastmodified":1481487325,
+    "wof:lastmodified":1532444341,
     "wof:name":"Montana State House District 19",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

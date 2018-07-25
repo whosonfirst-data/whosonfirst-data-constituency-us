@@ -11,6 +11,7 @@
     "geom:longitude":-111.956314,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52564661.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488390,
-    "wof:geomhash":"62c6a23e4a276c93441f174a2de5f4d9",
+    "wof:geomhash":"accc3e12261d73f8ad65a4c3d48a1e76",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774803,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774803,
-    "wof:lastmodified":1481488390,
+    "wof:lastmodified":1532443832,
     "wof:name":"Utah State Senate District 6",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-90.442155,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":923407318.0,
     "uscensus:awater":10305109.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487171,
-    "wof:geomhash":"1bd5c5bb74a370d27752120bdedea467",
+    "wof:geomhash":"a047e935e2cc51d285b4e464f1d745e7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768307,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768307,
-    "wof:lastmodified":1481487171,
+    "wof:lastmodified":1532444129,
     "wof:name":"Missouri State House District 115",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

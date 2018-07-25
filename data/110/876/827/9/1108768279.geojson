@@ -11,6 +11,7 @@
     "geom:longitude":-90.768224,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":211292631.0,
     "uscensus:awater":8534223.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487167,
-    "wof:geomhash":"29b765de15e8823340738c06f2e7d9ba",
+    "wof:geomhash":"0be2a6c744df1e099b1583d68949056a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768279,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768279,
-    "wof:lastmodified":1481487167,
+    "wof:lastmodified":1532444389,
     "wof:name":"Missouri State House District 102",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

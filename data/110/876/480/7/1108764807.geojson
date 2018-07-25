@@ -11,6 +11,7 @@
     "geom:longitude":-87.479045,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":47567724.0,
     "uscensus:awater":284703.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486601,
-    "wof:geomhash":"549d19c0c5874e466376ecf737df4b0a",
+    "wof:geomhash":"4fde97dd716e723adb49d8c9f6a135b4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764807,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764807,
-    "wof:lastmodified":1481486601,
+    "wof:lastmodified":1532444224,
     "wof:name":"Indiana State House District 12",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-85.881668,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2706566622.0,
     "uscensus:awater":24344164.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485898,
-    "wof:geomhash":"2869f087eca47f1af439a9f99c12ad89",
+    "wof:geomhash":"870d70ad8cc81630983d517f09935a27",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761251,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761251,
-    "wof:lastmodified":1481485898,
+    "wof:lastmodified":1532444484,
     "wof:name":"Alabama State Senate District 12",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

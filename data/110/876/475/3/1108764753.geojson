@@ -11,6 +11,7 @@
     "geom:longitude":-89.496526,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5830811367.0,
     "uscensus:awater":57170703.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486587,
-    "wof:geomhash":"be883f8a4921da514573fdd7103aa32a",
+    "wof:geomhash":"843db20958914d54caebd288f0938cf7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764753,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764753,
-    "wof:lastmodified":1481486587,
+    "wof:lastmodified":1532444226,
     "wof:name":"Illinois State Senate District 48",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

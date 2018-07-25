@@ -11,6 +11,7 @@
     "geom:longitude":-87.882068,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":33406290018.0,
     "uscensus:awater":42811086990.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487076,
-    "wof:geomhash":"68dc2914e7b5306f18d756bc9fabd9a1",
+    "wof:geomhash":"628204bb1d1b17747f17ef2796738ad4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767595,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767595,
-    "wof:lastmodified":1481487076,
+    "wof:lastmodified":1532444231,
     "wof:name":"Michigan State Senate District 38",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

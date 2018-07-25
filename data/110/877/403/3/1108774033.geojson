@@ -11,6 +11,7 @@
     "geom:longitude":-86.654082,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":88697611.0,
     "uscensus:awater":20968442.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488214,
-    "wof:geomhash":"3dafc32d92d51657e3cf0da1138db206",
+    "wof:geomhash":"4e66bb9db21339487ac8ab7f615bb931",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774033,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774033,
-    "wof:lastmodified":1481488214,
+    "wof:lastmodified":1532443757,
     "wof:name":"Tennessee State House District 52",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

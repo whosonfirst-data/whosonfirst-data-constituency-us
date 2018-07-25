@@ -17,6 +17,7 @@
     "mps:latitude":35.820245,
     "mps:longitude":-86.343764,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Tennessee"
     ],
@@ -530,7 +531,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231185,
-    "wof:geomhash":"6059f33bc09a29543ecad95063630c1c",
+    "wof:geomhash":"edeacd5e05fcc9050243f17b0b65ddab",
     "wof:hierarchy":[
         {
             "constituency_id":1108746695,
@@ -540,7 +541,7 @@
         }
     ],
     "wof:id":1108746695,
-    "wof:lastmodified":1487197390,
+    "wof:lastmodified":1532443723,
     "wof:name":"Tennessee",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

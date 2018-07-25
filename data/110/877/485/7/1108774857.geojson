@@ -11,6 +11,7 @@
     "geom:longitude":-82.803791,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3202780837.0,
     "uscensus:awater":16074182.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488410,
-    "wof:geomhash":"e48a5f29c1f56043e9c7c589bc4c9d63",
+    "wof:geomhash":"3215da103bc289975bcdb4ec3154651d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774857,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774857,
-    "wof:lastmodified":1481488410,
+    "wof:lastmodified":1532444051,
     "wof:name":"Virginia State House District 1",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

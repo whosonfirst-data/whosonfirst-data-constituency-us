@@ -11,6 +11,7 @@
     "geom:longitude":-84.110178,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":34242554.0,
     "uscensus:awater":326346.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486325,
-    "wof:geomhash":"3ba5d2aa244cd63db8db63affe24805c",
+    "wof:geomhash":"d418ad7bbb9764f6b3edca8c7f4292b4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763405,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763405,
-    "wof:lastmodified":1481486325,
+    "wof:lastmodified":1532444257,
     "wof:name":"Georgia State House District 100",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

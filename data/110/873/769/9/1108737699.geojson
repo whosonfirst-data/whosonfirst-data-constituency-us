@@ -11,6 +11,7 @@
     "geom:longitude":-85.244233,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "MI-03"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737699,
-    "wof:lastmodified":1493955439,
+    "wof:lastmodified":1532444676,
     "wof:name":"Michigan Congressional District 3",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

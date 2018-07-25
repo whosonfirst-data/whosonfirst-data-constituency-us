@@ -11,6 +11,7 @@
     "geom:longitude":-85.126879,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1594308854.0,
     "uscensus:awater":71492269.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486312,
-    "wof:geomhash":"d459b5750e4d1ffda1be290abb1aec3a",
+    "wof:geomhash":"11508d1bfd21213794bfb18d577d7127",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763335,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763335,
-    "wof:lastmodified":1481486312,
+    "wof:lastmodified":1532444269,
     "wof:name":"Georgia State House District 69",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

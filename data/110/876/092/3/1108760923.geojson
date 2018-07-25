@@ -11,6 +11,7 @@
     "geom:longitude":-151.083729,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6651972892.0,
     "uscensus:awater":2897021446.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485789,
-    "wof:geomhash":"e9af34a9450ff9bd5892d88c04e755db",
+    "wof:geomhash":"b05066682bbda511a883153d1e9bf3fa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760923,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760923,
-    "wof:lastmodified":1481485789,
+    "wof:lastmodified":1532444248,
     "wof:name":"Alaska State House District 31",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

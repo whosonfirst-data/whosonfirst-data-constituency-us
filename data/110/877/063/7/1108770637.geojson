@@ -11,6 +11,7 @@
     "geom:longitude":-74.974884,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1953492768.0,
     "uscensus:awater":1464564877.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487607,
-    "wof:geomhash":"4ccfdabce05602c645deffd13edb551e",
+    "wof:geomhash":"527ee304ad3aa7701c3cff9013d88e90",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770637,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770637,
-    "wof:lastmodified":1481487607,
+    "wof:lastmodified":1532444063,
     "wof:name":"New Jersey State Senate District 1",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

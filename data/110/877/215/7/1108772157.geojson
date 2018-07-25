@@ -11,6 +11,7 @@
     "geom:longitude":-97.12998,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5607052636.0,
     "uscensus:awater":116136565.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487896,
-    "wof:geomhash":"f402601aab59d46c78453ac313880cc8",
+    "wof:geomhash":"a7b1814907ea5c0f6fe945bdfdbec2c3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772157,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772157,
-    "wof:lastmodified":1481487896,
+    "wof:lastmodified":1532443979,
     "wof:name":"Oklahoma State Senate District 14",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

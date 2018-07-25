@@ -11,6 +11,7 @@
     "geom:longitude":-85.415885,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1140755364.0,
     "uscensus:awater":4618349.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486606,
-    "wof:geomhash":"42fd2e5f7c97f749a07ecc14ec2af2ba",
+    "wof:geomhash":"a1f456a579ac560372f7be8dc8eefab9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764849,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764849,
-    "wof:lastmodified":1481486606,
+    "wof:lastmodified":1532444463,
     "wof:name":"Indiana State House District 31",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

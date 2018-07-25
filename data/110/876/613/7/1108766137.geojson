@@ -11,6 +11,7 @@
     "geom:longitude":-70.032078,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":323215337.0,
     "uscensus:awater":179529273.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486809,
-    "wof:geomhash":"a7e08c79ea737802009e143b99208eed",
+    "wof:geomhash":"2056499d1ae430aa364ce7e89477dd89",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766137,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766137,
-    "wof:lastmodified":1481486809,
+    "wof:lastmodified":1532444570,
     "wof:name":"Massachusetts 4th Barnstable District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

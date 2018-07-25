@@ -11,6 +11,7 @@
     "geom:longitude":-73.861147,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":39484611.0,
     "uscensus:awater":2835146.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487726,
-    "wof:geomhash":"296b7d0d8a48ea9045a7adeeda78fd6b",
+    "wof:geomhash":"24d68fc994768c2eae2082ed151054a7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771321,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771321,
-    "wof:lastmodified":1481487726,
+    "wof:lastmodified":1532443793,
     "wof:name":"New York Assembly District 90",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

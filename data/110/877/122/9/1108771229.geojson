@@ -11,6 +11,7 @@
     "geom:longitude":-74.001592,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5679818.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487718,
-    "wof:geomhash":"60794de382ef1f6e7eef01ee9f9f2cfb",
+    "wof:geomhash":"41dbbcf4d15fea9b19ed01a6196aab15",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771229,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771229,
-    "wof:lastmodified":1481487718,
+    "wof:lastmodified":1532443863,
     "wof:name":"New York Assembly District 49",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

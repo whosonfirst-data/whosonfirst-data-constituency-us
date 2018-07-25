@@ -17,6 +17,7 @@
     "mps:latitude":39.66502,
     "mps:longitude":-74.738208,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "New Jersey"
     ],
@@ -527,7 +528,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231196,
-    "wof:geomhash":"eafcef4e427c5f1d8cc8b71fb42476de",
+    "wof:geomhash":"6c26303e7288b9d94d9dbc879e86e2cb",
     "wof:hierarchy":[
         {
             "constituency_id":1108746725,
@@ -537,7 +538,7 @@
         }
     ],
     "wof:id":1108746725,
-    "wof:lastmodified":1487197421,
+    "wof:lastmodified":1532443730,
     "wof:name":"New Jersey",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

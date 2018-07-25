@@ -11,6 +11,7 @@
     "geom:longitude":-77.530174,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NC-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737471,
-    "wof:lastmodified":1493955422,
+    "wof:lastmodified":1532444712,
     "wof:name":"North Carolina Congressional District 1",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

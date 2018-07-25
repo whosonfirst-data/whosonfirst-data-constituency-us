@@ -11,6 +11,7 @@
     "geom:longitude":-76.205588,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "PA-16"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738399,
-    "wof:lastmodified":1493955431,
+    "wof:lastmodified":1532444622,
     "wof:name":"Pennsylvania Congressional District 16",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

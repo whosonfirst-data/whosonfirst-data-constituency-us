@@ -11,6 +11,7 @@
     "geom:longitude":-76.385701,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":69905587.0,
     "uscensus:awater":9655732.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488445,
-    "wof:geomhash":"12fd50dfc45e1ba513ae8e5650145314",
+    "wof:geomhash":"d449758624de38ddc9c82a129fb53221",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775035,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775035,
-    "wof:lastmodified":1481488445,
+    "wof:lastmodified":1532443882,
     "wof:name":"Virginia State House District 80",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

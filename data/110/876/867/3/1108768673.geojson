@@ -11,6 +11,7 @@
     "geom:longitude":-108.131028,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":20950091484.0,
     "uscensus:awater":86108341.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487234,
-    "wof:geomhash":"bfae56bcb92afe4ef9a98bf552f0c312",
+    "wof:geomhash":"81d6b7d3a9cb035d0da3a2e99a6ab0e3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768673,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768673,
-    "wof:lastmodified":1481487234,
+    "wof:lastmodified":1532444296,
     "wof:name":"Wyoming State Senate District 20",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

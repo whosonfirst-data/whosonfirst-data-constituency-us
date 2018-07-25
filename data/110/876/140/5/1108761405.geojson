@@ -11,6 +11,7 @@
     "geom:longitude":-91.728044,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":842435307.0,
     "uscensus:awater":5785377.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485929,
-    "wof:geomhash":"51e5a07adbacfa897bc17c545382971e",
+    "wof:geomhash":"7d2113ff38015394762b3a89bffc217d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761405,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761405,
-    "wof:lastmodified":1481485929,
+    "wof:lastmodified":1532444204,
     "wof:name":"Arkansas State House District 45",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

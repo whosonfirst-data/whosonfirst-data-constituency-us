@@ -11,6 +11,7 @@
     "geom:longitude":-77.861526,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":147936601.0,
     "uscensus:awater":302022729.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487408,
-    "wof:geomhash":"73e3e129214f335d00c809e522bc82d1",
+    "wof:geomhash":"2cac8d8efb2ec731d0aa5dcff3a20a35",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769467,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769467,
-    "wof:lastmodified":1481487408,
+    "wof:lastmodified":1532444154,
     "wof:name":"North Carolina State House District 19",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

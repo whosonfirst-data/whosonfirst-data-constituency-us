@@ -11,6 +11,7 @@
     "geom:longitude":-75.832289,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5047481703.0,
     "uscensus:awater":57699451.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487764,
-    "wof:geomhash":"1377e28a7c45186c6041414dab80bc04",
+    "wof:geomhash":"f1a990baa4281972eb400120cb128dd1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771573,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771573,
-    "wof:lastmodified":1481487764,
+    "wof:lastmodified":1532443778,
     "wof:name":"New York State Senate District 52",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

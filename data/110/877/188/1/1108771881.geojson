@@ -11,6 +11,7 @@
     "geom:longitude":-83.121009,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7795261309.0,
     "uscensus:awater":35267570.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487838,
-    "wof:geomhash":"299356b65dc0b84501b62a0530d523ed",
+    "wof:geomhash":"6d38f31c13f31dfa242a6ab8a63ccb71",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771881,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771881,
-    "wof:lastmodified":1481487838,
+    "wof:lastmodified":1532444020,
     "wof:name":"Ohio State Senate District 26",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-66.066647,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":25940664.0,
     "uscensus:awater":1268890.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488044,
-    "wof:geomhash":"cf40b5071ffbf120e751c4c1e6e262f1",
+    "wof:geomhash":"4c04b300b23660b9ed5f2325b771e52f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773011,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773011,
-    "wof:lastmodified":1481488044,
+    "wof:lastmodified":1532443798,
     "wof:name":"Puerto Rico State House District 2",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

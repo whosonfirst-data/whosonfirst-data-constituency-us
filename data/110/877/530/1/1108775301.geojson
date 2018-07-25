@@ -11,6 +11,7 @@
     "geom:longitude":-72.28732,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":340006410.0,
     "uscensus:awater":12345439.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488506,
-    "wof:geomhash":"45a00e04196709ee73ab2cba1dbfe227",
+    "wof:geomhash":"c00a20a060b017caf73d11957d1141a4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775301,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775301,
-    "wof:lastmodified":1481488506,
+    "wof:lastmodified":1532443823,
     "wof:name":"Vermont Orleans-2 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

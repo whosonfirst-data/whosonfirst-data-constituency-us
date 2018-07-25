@@ -11,6 +11,7 @@
     "geom:longitude":-73.946612,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5117790.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487717,
-    "wof:geomhash":"4b619e6a3c56d5cf9ab7a4322d7fbe81",
+    "wof:geomhash":"136324c61804d8b29800b6fbdab5f2ad",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771215,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771215,
-    "wof:lastmodified":1481487717,
+    "wof:lastmodified":1532443784,
     "wof:name":"New York Assembly District 43",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

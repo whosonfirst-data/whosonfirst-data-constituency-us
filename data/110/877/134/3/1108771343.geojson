@@ -11,6 +11,7 @@
     "geom:longitude":-74.752234,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2532180515.0,
     "uscensus:awater":67903450.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487728,
-    "wof:geomhash":"c4387a40d01847521289b47e4df284d5",
+    "wof:geomhash":"36127c5e2c279adbee7ce766f6c8f5b0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771343,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771343,
-    "wof:lastmodified":1481487728,
+    "wof:lastmodified":1532443912,
     "wof:name":"New York Assembly District 100",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

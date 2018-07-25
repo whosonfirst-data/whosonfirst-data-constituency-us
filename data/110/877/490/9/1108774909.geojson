@@ -11,6 +11,7 @@
     "geom:longitude":-79.430173,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4715241879.0,
     "uscensus:awater":32981110.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488420,
-    "wof:geomhash":"6f6d8119c9c509f8c41cce0f48832b45",
+    "wof:geomhash":"962587f50c4857d04608e68faa0caa39",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774909,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774909,
-    "wof:lastmodified":1481488420,
+    "wof:lastmodified":1532443914,
     "wof:name":"Virginia State House District 24",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

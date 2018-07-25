@@ -11,6 +11,7 @@
     "geom:longitude":-68.673419,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":12844284.0,
     "uscensus:awater":1708802.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487019,
-    "wof:geomhash":"c1bbd20a58e490122d3ba3a9db9ca6e5",
+    "wof:geomhash":"cac746db6caf7dfa89ef6beea138ad07",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767117,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767117,
-    "wof:lastmodified":1481487019,
+    "wof:lastmodified":1532444523,
     "wof:name":"Maine State House District 123",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

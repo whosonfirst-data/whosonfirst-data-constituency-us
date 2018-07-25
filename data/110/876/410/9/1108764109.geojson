@@ -11,6 +11,7 @@
     "geom:longitude":-95.365955,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6469896463.0,
     "uscensus:awater":90964793.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486459,
-    "wof:geomhash":"ce43340982e286692f4346da585d6726",
+    "wof:geomhash":"711089447290ce5b8593d35e4863764d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764109,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764109,
-    "wof:lastmodified":1481486459,
+    "wof:lastmodified":1532444528,
     "wof:name":"Iowa State Senate District 1",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

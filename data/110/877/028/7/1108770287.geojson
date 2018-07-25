@@ -11,6 +11,7 @@
     "geom:longitude":-71.7132,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":113363383.0,
     "uscensus:awater":1077835.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487551,
-    "wof:geomhash":"b776080b7daa0970cc84ce8d98082f74",
+    "wof:geomhash":"1894e9f2f22e818c7d26226235d840ca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770287,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770287,
-    "wof:lastmodified":1481487551,
+    "wof:lastmodified":1532443737,
     "wof:name":"New Hampshire State House District Hillsborough County No. 26",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

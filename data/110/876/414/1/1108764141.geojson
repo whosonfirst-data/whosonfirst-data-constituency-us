@@ -11,6 +11,7 @@
     "geom:longitude":-93.177452,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2018444542.0,
     "uscensus:awater":10397350.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486463,
-    "wof:geomhash":"54b1a840141081299e0f2cd80c954e66",
+    "wof:geomhash":"b93946751a7a1d1816329425049c027c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764141,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764141,
-    "wof:lastmodified":1481486463,
+    "wof:lastmodified":1532444518,
     "wof:name":"Iowa State Senate District 15",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

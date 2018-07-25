@@ -11,6 +11,7 @@
     "geom:longitude":-112.245824,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":118762583.0,
     "uscensus:awater":393285.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486000,
-    "wof:geomhash":"fdd773cb4eb36e423e1a054f2795fd40",
+    "wof:geomhash":"c6b8cb6f5afb1e2e1adddf382c993439",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761739,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108761739,
-    "wof:lastmodified":1481486000,
+    "wof:lastmodified":1532444231,
     "wof:name":"Arizona State Senate District 29",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-az",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

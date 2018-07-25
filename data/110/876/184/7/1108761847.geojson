@@ -11,6 +11,7 @@
     "geom:longitude":-117.394853,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":339244494.0,
     "uscensus:awater":5617378.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486029,
-    "wof:geomhash":"802a720c05abc4524f93fb0ae3b0710e",
+    "wof:geomhash":"7fca3d691f718f3a59a2c2e4e789fa36",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761847,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761847,
-    "wof:lastmodified":1481486029,
+    "wof:lastmodified":1532444313,
     "wof:name":"California Assembly District 47",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

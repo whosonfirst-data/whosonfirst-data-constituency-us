@@ -11,6 +11,7 @@
     "geom:longitude":-74.626724,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":544212926.0,
     "uscensus:awater":12844942.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487599,
-    "wof:geomhash":"06e6050455a5f1beb8083ac8a68e9589",
+    "wof:geomhash":"e6b3009b669f8bf7d45a77765aa5a0dd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770601,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770601,
-    "wof:lastmodified":1481487599,
+    "wof:lastmodified":1532443861,
     "wof:name":"New Jersey General Assembly District 25",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

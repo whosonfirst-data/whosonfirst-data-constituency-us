@@ -11,6 +11,7 @@
     "geom:longitude":-84.137514,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1509489097.0,
     "uscensus:awater":11982171.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486732,
-    "wof:geomhash":"364fa8ed7e81e933a54ac4bebd6b8aa3",
+    "wof:geomhash":"c46d8ce6effb450bd2c5f99006439c72",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765777,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765777,
-    "wof:lastmodified":1481486732,
+    "wof:lastmodified":1532444522,
     "wof:name":"Kentucky State Senate District 28",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

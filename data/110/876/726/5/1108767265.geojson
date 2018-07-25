@@ -11,6 +11,7 @@
     "geom:longitude":-83.058721,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":44510216.0,
     "uscensus:awater":20627.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487043,
-    "wof:geomhash":"79e208ff0011e8978fb1fff626e4f3e3",
+    "wof:geomhash":"03ae9b0ac61acdbe695b93bcf2fe6415",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767265,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767265,
-    "wof:lastmodified":1481487043,
+    "wof:lastmodified":1532444530,
     "wof:name":"Michigan State House District 3",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

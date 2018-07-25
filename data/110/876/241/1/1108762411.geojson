@@ -11,6 +11,7 @@
     "geom:longitude":-72.917932,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":20538118.0,
     "uscensus:awater":18358.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486148,
-    "wof:geomhash":"782aa237442e41d53aa4dc1e85a2e74f",
+    "wof:geomhash":"e01efcb411f5cd8085ffaa2da9fa296a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762411,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762411,
-    "wof:lastmodified":1481486148,
+    "wof:lastmodified":1532444129,
     "wof:name":"Connecticut State House District 77",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

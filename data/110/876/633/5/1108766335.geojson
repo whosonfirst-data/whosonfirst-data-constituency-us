@@ -11,6 +11,7 @@
     "geom:longitude":-71.106793,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7681158.0,
     "uscensus:awater":450579.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486832,
-    "wof:geomhash":"db45a420c14441f81c4e8d36d69ec6f9",
+    "wof:geomhash":"7ab33f724b50bd7584e26358de2f3299",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766335,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766335,
-    "wof:lastmodified":1481486832,
+    "wof:lastmodified":1532444538,
     "wof:name":"Massachusetts 34th Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-98.57788,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":44359085955.0,
     "uscensus:awater":461097252.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488356,
-    "wof:geomhash":"afa7226e3bcffab16f9f0b2fd9621e96",
+    "wof:geomhash":"280018e09d6b44e1bad6fb8924801adf",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774599,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774599,
-    "wof:lastmodified":1481488356,
+    "wof:lastmodified":1532443902,
     "wof:name":"Texas State Senate District 21",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

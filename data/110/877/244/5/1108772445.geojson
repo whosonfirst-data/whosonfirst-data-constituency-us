@@ -11,6 +11,7 @@
     "geom:longitude":-79.851447,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1095417451.0,
     "uscensus:awater":6271142.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487961,
-    "wof:geomhash":"d3fbfc00659a7f663f3b553f5882d478",
+    "wof:geomhash":"44bd5964fbbc1a0d31c8c85b6196f598",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772445,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772445,
-    "wof:lastmodified":1481487961,
+    "wof:lastmodified":1532443981,
     "wof:name":"Pennsylvania State House District 4",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-95.647979,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":376703754.0,
     "uscensus:awater":4615800.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487851,
-    "wof:geomhash":"c4245a173c7ab64dad4e744f0b82d8ed",
+    "wof:geomhash":"4f9b2bdaf2511da975931d394fc511b0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771919,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771919,
-    "wof:lastmodified":1481487851,
+    "wof:lastmodified":1532443789,
     "wof:name":"Oklahoma State House District 9",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

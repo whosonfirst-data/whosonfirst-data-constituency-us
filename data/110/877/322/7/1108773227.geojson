@@ -11,6 +11,7 @@
     "geom:longitude":-71.570596,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":87869410.0,
     "uscensus:awater":3139036.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488081,
-    "wof:geomhash":"2e9e897efe989c63ae3c74856f3a2173",
+    "wof:geomhash":"b0dfb196c139a0577a196faa84fb7304",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773227,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773227,
-    "wof:lastmodified":1481488081,
+    "wof:lastmodified":1532444023,
     "wof:name":"Rhode Island State House District 48",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

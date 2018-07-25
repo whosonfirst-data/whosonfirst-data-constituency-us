@@ -11,6 +11,7 @@
     "geom:longitude":-90.28898,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":364894778.0,
     "uscensus:awater":4361657.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487294,
-    "wof:geomhash":"49e3672d0605c39afcf83e7857aed1a8",
+    "wof:geomhash":"1627a4ff4d05a3ca4fcbf1cf0f0532cc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769035,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108769035,
-    "wof:lastmodified":1481487294,
+    "wof:lastmodified":1532444391,
     "wof:name":"Mississippi State Senate District 29",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

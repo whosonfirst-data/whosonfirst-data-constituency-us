@@ -11,6 +11,7 @@
     "geom:longitude":-81.553641,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "OH-06"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738011,
-    "wof:lastmodified":1493955495,
+    "wof:lastmodified":1532444631,
     "wof:name":"Ohio Congressional District 6",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

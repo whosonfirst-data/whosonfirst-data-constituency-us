@@ -11,6 +11,7 @@
     "geom:longitude":-122.161103,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":96056215.0,
     "uscensus:awater":15705692.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488541,
-    "wof:geomhash":"0788552ed3d86083151e639357bd66d6",
+    "wof:geomhash":"dc0ad46ff36f8bfd7025dd664a2b8efc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775541,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775541,
-    "wof:lastmodified":1481488541,
+    "wof:lastmodified":1532444031,
     "wof:name":"Washington State House District 48",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

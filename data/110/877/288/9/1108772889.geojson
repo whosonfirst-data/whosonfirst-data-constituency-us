@@ -11,6 +11,7 @@
     "geom:longitude":-75.15683,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9566477.0,
     "uscensus:awater":2704.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488019,
-    "wof:geomhash":"ab7d0ad2e78ddbbb65baf55d0738e977",
+    "wof:geomhash":"6a684333d50c3c2b87cbd691f024c3fe",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772889,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772889,
-    "wof:lastmodified":1481488019,
+    "wof:lastmodified":1532444024,
     "wof:name":"Pennsylvania State House District 201",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

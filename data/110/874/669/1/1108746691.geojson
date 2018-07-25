@@ -17,6 +17,7 @@
     "mps:latitude":27.97762,
     "mps:longitude":-81.769611,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Florida"
     ],
@@ -50,7 +51,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231184,
-    "wof:geomhash":"b7be7fa844df6acf32bf170d11568417",
+    "wof:geomhash":"c4643686cd635d7bcf1fdc3b9a3190af",
     "wof:hierarchy":[
         {
             "constituency_id":1108746691,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108746691,
-    "wof:lastmodified":1487197414,
+    "wof:lastmodified":1532443721,
     "wof:name":"Florida",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

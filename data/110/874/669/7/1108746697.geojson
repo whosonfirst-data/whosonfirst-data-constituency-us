@@ -17,6 +17,7 @@
     "mps:latitude":46.63636,
     "mps:longitude":-94.579641,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Minnesota"
     ],
@@ -48,7 +49,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231186,
-    "wof:geomhash":"b9796d59ed8cb2b9250eaa31549d0646",
+    "wof:geomhash":"8a77131808007dc35a84f11413d350b6",
     "wof:hierarchy":[
         {
             "constituency_id":1108746697,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108746697,
-    "wof:lastmodified":1487197419,
+    "wof:lastmodified":1532443722,
     "wof:name":"Minnesota",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

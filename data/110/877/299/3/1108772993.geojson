@@ -11,6 +11,7 @@
     "geom:longitude":-75.679896,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":975241764.0,
     "uscensus:awater":15531602.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488038,
-    "wof:geomhash":"e31f6cc807c5c690e9821e5f7b26b316",
+    "wof:geomhash":"4b62388fcf1637a706cd3e01a508d340",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772993,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772993,
-    "wof:lastmodified":1481488038,
+    "wof:lastmodified":1532443964,
     "wof:name":"Pennsylvania State Senate District 44",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

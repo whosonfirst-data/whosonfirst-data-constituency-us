@@ -11,6 +11,7 @@
     "geom:longitude":-118.423363,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":499833659.0,
     "uscensus:awater":1241286492.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486035,
-    "wof:geomhash":"d4a37f9c62fb8013fc7d2b08d8d25959",
+    "wof:geomhash":"44291d15fb3e861a6f3ead84616c3dc5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761899,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761899,
-    "wof:lastmodified":1481486035,
+    "wof:lastmodified":1532444250,
     "wof:name":"California Assembly District 70",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-70.894467,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":93215295.0,
     "uscensus:awater":16144450.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486814,
-    "wof:geomhash":"f8d13e50c4a64f1c9d768cb68f527b22",
+    "wof:geomhash":"3f33f55402db053e77c702f152068552",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766181,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766181,
-    "wof:lastmodified":1481486814,
+    "wof:lastmodified":1532444516,
     "wof:name":"Massachusetts 1st Essex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

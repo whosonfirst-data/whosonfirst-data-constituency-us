@@ -11,6 +11,7 @@
     "geom:longitude":-70.66934,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":163872438.0,
     "uscensus:awater":33102856.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486987,
-    "wof:geomhash":"50cf3e2634ebf2a1290fe578d344f1e6",
+    "wof:geomhash":"16d36b499fe040c7e5164a8f1737adec",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766849,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108766849,
-    "wof:lastmodified":1481486987,
+    "wof:lastmodified":1532444386,
     "wof:name":"Maine State House District 4",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

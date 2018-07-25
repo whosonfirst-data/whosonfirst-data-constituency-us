@@ -11,6 +11,7 @@
     "geom:longitude":-73.234113,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":109361474.0,
     "uscensus:awater":23609125.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488498,
-    "wof:geomhash":"023d4f3f9c13912defe4fd52d0a32889",
+    "wof:geomhash":"a9a6755a02baeefd486ab113cea46e9d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775209,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775209,
-    "wof:lastmodified":1481488498,
+    "wof:lastmodified":1532443762,
     "wof:name":"Vermont Chittenden-4-1 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

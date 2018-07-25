@@ -11,6 +11,7 @@
     "geom:longitude":-123.825973,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4781932970.0,
     "uscensus:awater":897565164.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487915,
-    "wof:geomhash":"3e9c85f28432344e0eb8cdd732cbd689",
+    "wof:geomhash":"d097024973d191d7ffb1ee3de0b6369c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772257,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772257,
-    "wof:lastmodified":1481487915,
+    "wof:lastmodified":1532443911,
     "wof:name":"Oregon State House District 10",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

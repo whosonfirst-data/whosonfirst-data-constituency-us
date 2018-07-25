@@ -11,6 +11,7 @@
     "geom:longitude":-96.524983,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":423555652.0,
     "uscensus:awater":79348351.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488312,
-    "wof:geomhash":"eee6b518959d0a026def6cd107d9cf9e",
+    "wof:geomhash":"2479f62c8b161bf976bd22b6eb44e513",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774415,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774415,
-    "wof:lastmodified":1481488312,
+    "wof:lastmodified":1532443939,
     "wof:name":"Texas State House District 89",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

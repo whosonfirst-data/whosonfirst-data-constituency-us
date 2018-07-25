@@ -11,6 +11,7 @@
     "geom:longitude":-95.76925,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5475291362.0,
     "uscensus:awater":1983057541.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488285,
-    "wof:geomhash":"4ff6155aa81da9750d856dd68ae2641b",
+    "wof:geomhash":"b4c6cf655141136c9a36591f8609227f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774271,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774271,
-    "wof:lastmodified":1481488285,
+    "wof:lastmodified":1532443996,
     "wof:name":"Texas State House District 25",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

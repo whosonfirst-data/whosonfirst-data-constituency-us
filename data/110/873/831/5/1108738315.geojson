@@ -11,6 +11,7 @@
     "geom:longitude":-97.66951,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-12"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738315,
-    "wof:lastmodified":1493955411,
+    "wof:lastmodified":1532444714,
     "wof:name":"Texas Congressional District 12",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

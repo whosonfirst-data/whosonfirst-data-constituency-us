@@ -11,6 +11,7 @@
     "geom:longitude":-89.819809,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":82021871.0,
     "uscensus:awater":21578.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488228,
-    "wof:geomhash":"ee09e0a841c6e6d4f21cbe8c8000661a",
+    "wof:geomhash":"734e3d997accefb79e76334d56d166fd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774135,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774135,
-    "wof:lastmodified":1481488228,
+    "wof:lastmodified":1532443836,
     "wof:name":"Tennessee State House District 97",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

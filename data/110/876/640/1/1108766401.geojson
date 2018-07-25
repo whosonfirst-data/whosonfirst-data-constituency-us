@@ -11,6 +11,7 @@
     "geom:longitude":-71.00978,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":71854128.0,
     "uscensus:awater":995782.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486839,
-    "wof:geomhash":"cd10f92cad3bb4c86acfe64ff43334fe",
+    "wof:geomhash":"55d009370bf8d71e7e6b813c12c207d2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766401,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766401,
-    "wof:lastmodified":1481486839,
+    "wof:lastmodified":1532444258,
     "wof:name":"Massachusetts 10th Plymouth District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

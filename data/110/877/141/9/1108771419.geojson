@@ -11,6 +11,7 @@
     "geom:longitude":-77.712805,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":326400674.0,
     "uscensus:awater":448768738.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487738,
-    "wof:geomhash":"93bf64dcc2b8cb0ab3e38cfad5b8e726",
+    "wof:geomhash":"b846f5a806d8c1d927bdb7fea6d87f93",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771419,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771419,
-    "wof:lastmodified":1481487738,
+    "wof:lastmodified":1532443740,
     "wof:name":"New York Assembly District 134",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

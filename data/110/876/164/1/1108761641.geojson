@@ -11,6 +11,7 @@
     "geom:longitude":-112.059981,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":381752265.0,
     "uscensus:awater":674618.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485983,
-    "wof:geomhash":"24db13e1d3a1093d41e2a79c80f70ccf",
+    "wof:geomhash":"312a6a33b1a7bd1bf6aadb04260ff706",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761641,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108761641,
-    "wof:lastmodified":1481485983,
+    "wof:lastmodified":1532444179,
     "wof:name":"Arizona State House District 15",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-az",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

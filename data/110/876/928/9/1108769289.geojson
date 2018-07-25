@@ -11,6 +11,7 @@
     "geom:longitude":-114.013759,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11339321.0,
     "uscensus:awater":6309.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487354,
-    "wof:geomhash":"8acb4068baed01b4cca2cf539986ba0b",
+    "wof:geomhash":"0b973a501f2d5a8120665bca3e34c75b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769289,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769289,
-    "wof:lastmodified":1481487354,
+    "wof:lastmodified":1532444320,
     "wof:name":"Montana State House District 90",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

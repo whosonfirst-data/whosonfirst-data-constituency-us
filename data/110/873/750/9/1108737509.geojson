@@ -11,6 +11,7 @@
     "geom:longitude":-80.267261,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "WV-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737509,
-    "wof:lastmodified":1493955420,
+    "wof:lastmodified":1532444728,
     "wof:name":"West Virginia Congressional District 1",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",

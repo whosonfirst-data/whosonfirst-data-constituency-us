@@ -11,6 +11,7 @@
     "geom:longitude":-91.512886,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":26870282.0,
     "uscensus:awater":464746.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486452,
-    "wof:geomhash":"f20eb35913fa225b6176c70b05104e89",
+    "wof:geomhash":"e1752fe86663052a2defcfeebbec6c87",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764073,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764073,
-    "wof:lastmodified":1481486452,
+    "wof:lastmodified":1532444556,
     "wof:name":"Iowa State House District 85",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-94.858487,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1101912678.0,
     "uscensus:awater":17582020.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487146,
-    "wof:geomhash":"3e95426bb563f76c5308f707f9b7ac32",
+    "wof:geomhash":"7a07e470bb1768d79cf3f2a4582ad758",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768073,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768073,
-    "wof:lastmodified":1481487146,
+    "wof:lastmodified":1532444120,
     "wof:name":"Missouri State House District 11",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-81.086725,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":906831686.0,
     "uscensus:awater":3030349.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488632,
-    "wof:geomhash":"42fee700c6dc6ab25161106b7f7f3aff",
+    "wof:geomhash":"8afc44ba47f77b3b715da442cb837e15",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776011,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776011,
-    "wof:lastmodified":1481488632,
+    "wof:lastmodified":1532443997,
     "wof:name":"West Virginia State House District 27",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

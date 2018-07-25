@@ -11,6 +11,7 @@
     "geom:longitude":-104.851372,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":253545568.0,
     "uscensus:awater":101107.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486093,
-    "wof:geomhash":"0b30ce5685ca7043f72f4518c3c4fa63",
+    "wof:geomhash":"e012e36702ca76229400b4d8d3f7d72f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762113,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762113,
-    "wof:lastmodified":1481486093,
+    "wof:lastmodified":1532444279,
     "wof:name":"Colorado State House District 45",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

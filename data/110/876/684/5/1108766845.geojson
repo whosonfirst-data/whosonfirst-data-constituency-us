@@ -11,6 +11,7 @@
     "geom:longitude":-70.781261,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":79324361.0,
     "uscensus:awater":4968473.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486986,
-    "wof:geomhash":"f6c50685750c8596b970e9043f30074d",
+    "wof:geomhash":"f8bc53be24f65e86fa777d8fa38be795",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766845,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108766845,
-    "wof:lastmodified":1481486986,
+    "wof:lastmodified":1532444386,
     "wof:name":"Maine State House District 2",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

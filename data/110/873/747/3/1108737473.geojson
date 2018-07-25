@@ -11,6 +11,7 @@
     "geom:longitude":-84.345541,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "OH-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737473,
-    "wof:lastmodified":1493955422,
+    "wof:lastmodified":1532444713,
     "wof:name":"Ohio Congressional District 1",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

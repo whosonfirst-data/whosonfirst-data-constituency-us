@@ -11,6 +11,7 @@
     "geom:longitude":-80.079757,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1407242295.0,
     "uscensus:awater":24991706.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487962,
-    "wof:geomhash":"797b2ff142106998490bff80cc01d472",
+    "wof:geomhash":"067ac24bb10daafd8f0cba0bd262a0fa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772455,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772455,
-    "wof:lastmodified":1481487962,
+    "wof:lastmodified":1532443841,
     "wof:name":"Pennsylvania State House District 8",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

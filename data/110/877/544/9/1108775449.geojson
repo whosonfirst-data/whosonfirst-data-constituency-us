@@ -11,6 +11,7 @@
     "geom:longitude":-118.278525,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":21832101760.0,
     "uscensus:awater":424156417.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488528,
-    "wof:geomhash":"91234df4ec553305dad7190f5b256b11",
+    "wof:geomhash":"7396e8192d972b5cd3b5c7bd3f4855f4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775449,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775449,
-    "wof:lastmodified":1481488528,
+    "wof:lastmodified":1532444057,
     "wof:name":"Washington State House District 7",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-86.584762,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2108415625.0,
     "uscensus:awater":19571259.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486626,
-    "wof:geomhash":"b8c3425ee2ef24cf7d8d8d2cb2255a3d",
+    "wof:geomhash":"0869e76fc92f10645d1e848163565ca9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765023,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765023,
-    "wof:lastmodified":1481486626,
+    "wof:lastmodified":1532444298,
     "wof:name":"Indiana State Senate District 8",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

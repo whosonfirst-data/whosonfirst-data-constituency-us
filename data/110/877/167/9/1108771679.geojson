@@ -11,6 +11,7 @@
     "geom:longitude":-81.46623,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":209808221.0,
     "uscensus:awater":7965331.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487790,
-    "wof:geomhash":"7264156c88c4d398282d80424293d798",
+    "wof:geomhash":"3f0cf214b74a318f3344e90c4048cd53",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771679,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771679,
-    "wof:lastmodified":1481487790,
+    "wof:lastmodified":1532443941,
     "wof:name":"Ohio State House District 36",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

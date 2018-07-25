@@ -11,6 +11,7 @@
     "geom:longitude":-71.69106,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":222178014.0,
     "uscensus:awater":18149885.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486846,
-    "wof:geomhash":"6f8e3a221ce0201ff3fd79329dc30fdf",
+    "wof:geomhash":"34cb6a20a41ccb41641665e4c5db7ad0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766477,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766477,
-    "wof:lastmodified":1481486846,
+    "wof:lastmodified":1532444463,
     "wof:name":"Massachusetts 12th Worcester District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-88.874626,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":35732248.0,
     "uscensus:awater":315051097.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487277,
-    "wof:geomhash":"88cfb7b042ee34f29afeda12cfa02703",
+    "wof:geomhash":"05936505dcc5861accc24f6f67245f68",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768953,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768953,
-    "wof:lastmodified":1481487277,
+    "wof:lastmodified":1532444073,
     "wof:name":"Mississippi State House District 115",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

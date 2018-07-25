@@ -11,6 +11,7 @@
     "geom:longitude":-75.336939,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":577200363.0,
     "uscensus:awater":4581251.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487734,
-    "wof:geomhash":"e9774506417903b18057dd1e68cbc3ad",
+    "wof:geomhash":"5436db8a7e6fcdb6f9e7396567d22c6d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771385,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771385,
-    "wof:lastmodified":1481487734,
+    "wof:lastmodified":1532443787,
     "wof:name":"New York Assembly District 119",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

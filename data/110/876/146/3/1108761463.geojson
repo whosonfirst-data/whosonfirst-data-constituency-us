@@ -11,6 +11,7 @@
     "geom:longitude":-93.138903,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":117929184.0,
     "uscensus:awater":15641779.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485945,
-    "wof:geomhash":"ea8c22e0451a144d8603289fcc357a6a",
+    "wof:geomhash":"ccecb15d47b64ab2dbf477f9897951da",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761463,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761463,
-    "wof:lastmodified":1481485945,
+    "wof:lastmodified":1532444077,
     "wof:name":"Arkansas State House District 71",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

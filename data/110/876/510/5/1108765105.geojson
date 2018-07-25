@@ -11,6 +11,7 @@
     "geom:longitude":-85.5332,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3208232101.0,
     "uscensus:awater":27934303.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486634,
-    "wof:geomhash":"9118cbbb4f78b6bf146c28baf2d9f98f",
+    "wof:geomhash":"079eacb6efde31f159ba39c4a0da04e7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765105,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765105,
-    "wof:lastmodified":1481486634,
+    "wof:lastmodified":1532444453,
     "wof:name":"Indiana State Senate District 45",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

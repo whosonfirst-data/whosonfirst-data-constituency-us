@@ -11,6 +11,7 @@
     "geom:longitude":-73.407222,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":163800308.0,
     "uscensus:awater":7607341.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487703,
-    "wof:geomhash":"8de94f175ff3bef4b0d9fc046cb472d4",
+    "wof:geomhash":"31cecd279769ac1ee9928fac506b5ccc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771141,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771141,
-    "wof:lastmodified":1481487703,
+    "wof:lastmodified":1532443911,
     "wof:name":"New York Assembly District 10",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-85.712652,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":43011749.0,
     "uscensus:awater":234412.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486698,
-    "wof:geomhash":"6860e042ae2fd9989af767936794e9ae",
+    "wof:geomhash":"de8898314866dc1ed51c844ae999595f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765567,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765567,
-    "wof:lastmodified":1481486698,
+    "wof:lastmodified":1532444186,
     "wof:name":"Kentucky State House District 35",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

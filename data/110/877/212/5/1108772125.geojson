@@ -11,6 +11,7 @@
     "geom:longitude":-97.262034,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":166990306.0,
     "uscensus:awater":3054.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487887,
-    "wof:geomhash":"e994a19f729ebe20e02638a74d80feb5",
+    "wof:geomhash":"13d0835c0bd1a0bafaa6ab7982d8a795",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772125,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772125,
-    "wof:lastmodified":1481487887,
+    "wof:lastmodified":1532443865,
     "wof:name":"Oklahoma State House District 101",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

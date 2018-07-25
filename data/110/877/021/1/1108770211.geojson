@@ -11,6 +11,7 @@
     "geom:longitude":-71.564513,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":821871872.0,
     "uscensus:awater":3635065.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487543,
-    "wof:geomhash":"1027dc51db50e2bb8656a5bdef1d7347",
+    "wof:geomhash":"db822e191e053d4a75248c2c0034304b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770211,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770211,
-    "wof:lastmodified":1481487543,
+    "wof:lastmodified":1532443768,
     "wof:name":"New Hampshire State House District Grafton County No. 5",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

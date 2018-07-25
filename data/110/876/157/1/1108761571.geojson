@@ -11,6 +11,7 @@
     "geom:longitude":-91.519896,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7026305973.0,
     "uscensus:awater":43443249.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485965,
-    "wof:geomhash":"789f2cdfcaff40547cf60b82d587334f",
+    "wof:geomhash":"1715b57dc9a7c4f71960267e05e6c757",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761571,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761571,
-    "wof:lastmodified":1481485965,
+    "wof:lastmodified":1532444138,
     "wof:name":"Arkansas State Senate District 19",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

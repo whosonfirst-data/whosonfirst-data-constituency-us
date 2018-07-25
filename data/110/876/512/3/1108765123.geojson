@@ -11,6 +11,7 @@
     "geom:longitude":-94.707918,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":195709190.0,
     "uscensus:awater":3295770.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486639,
-    "wof:geomhash":"a05c667efdba9db251e382e051a1b5ff",
+    "wof:geomhash":"0501b6f237d8338bd3131a67f5a8ed82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765123,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765123,
-    "wof:lastmodified":1481486639,
+    "wof:lastmodified":1532444216,
     "wof:name":"Kansas State House District 3",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

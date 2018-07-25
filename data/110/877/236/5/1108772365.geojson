@@ -11,6 +11,7 @@
     "geom:longitude":-117.909202,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":20296273798.0,
     "uscensus:awater":24232854.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487933,
-    "wof:geomhash":"e02a3087d497c9333bf2c5022671edb3",
+    "wof:geomhash":"1333810cde944f27f68cac08bdc3e632",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772365,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772365,
-    "wof:lastmodified":1481487933,
+    "wof:lastmodified":1532443881,
     "wof:name":"Oregon State House District 58",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

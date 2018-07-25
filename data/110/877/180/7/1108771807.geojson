@@ -11,6 +11,7 @@
     "geom:longitude":-82.49642,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4003563578.0,
     "uscensus:awater":24934543.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487809,
-    "wof:geomhash":"aa749a98e84ec3e236c1aa8288c36649",
+    "wof:geomhash":"cf7bbc0eb2b642943b6fdcf8bc63fa26",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771807,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771807,
-    "wof:lastmodified":1481487809,
+    "wof:lastmodified":1532443978,
     "wof:name":"Ohio State House District 93",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

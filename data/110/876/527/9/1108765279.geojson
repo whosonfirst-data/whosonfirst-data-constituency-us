@@ -11,6 +11,7 @@
     "geom:longitude":-97.249086,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":299075186.0,
     "uscensus:awater":1015060.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486653,
-    "wof:geomhash":"5c589034b5248c9812b6bcf084dbf784",
+    "wof:geomhash":"a36da5ed5f2be25b0d8d7503ab5cf997",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765279,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765279,
-    "wof:lastmodified":1481486653,
+    "wof:lastmodified":1532444153,
     "wof:name":"Kansas State House District 72",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

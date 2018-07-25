@@ -11,6 +11,7 @@
     "geom:longitude":-72.034291,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":41172513.0,
     "uscensus:awater":42018598.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486140,
-    "wof:geomhash":"c01195278b79c74111cb00a3c295d17b",
+    "wof:geomhash":"c01aeea11fba64275c0e4909393849f4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762329,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762329,
-    "wof:lastmodified":1481486140,
+    "wof:lastmodified":1532444079,
     "wof:name":"Connecticut State House District 41",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

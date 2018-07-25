@@ -11,6 +11,7 @@
     "geom:longitude":-89.503516,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":486060614.0,
     "uscensus:awater":16428756.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488591,
-    "wof:geomhash":"24cf713e2385ab9e3089d581d26ec9cc",
+    "wof:geomhash":"a0828d2c7b9a74000d5c21902df24132",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775831,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775831,
-    "wof:lastmodified":1481488591,
+    "wof:lastmodified":1532443892,
     "wof:name":"Wisconsin Assembly District 79",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

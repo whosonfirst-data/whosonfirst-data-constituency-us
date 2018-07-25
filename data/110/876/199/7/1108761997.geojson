@@ -11,6 +11,7 @@
     "geom:longitude":-118.185474,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":208007700.0,
     "uscensus:awater":58460996.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486071,
-    "wof:geomhash":"2360bdf6623ce6297f188a642ca5ca71",
+    "wof:geomhash":"6ad5a1bc2709b588ac9b980281bd5b16",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761997,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761997,
-    "wof:lastmodified":1481486071,
+    "wof:lastmodified":1532444352,
     "wof:name":"California State Senate District 33",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

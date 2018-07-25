@@ -11,6 +11,7 @@
     "geom:longitude":-73.135139,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17001521.0,
     "uscensus:awater":4405844.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486158,
-    "wof:geomhash":"6b4f1ecabb4c360b3f84387712183d06",
+    "wof:geomhash":"0301a435b8218ae46b02aa6ca26519dd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762509,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762509,
-    "wof:lastmodified":1481486158,
+    "wof:lastmodified":1532444077,
     "wof:name":"Connecticut State House District 121",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

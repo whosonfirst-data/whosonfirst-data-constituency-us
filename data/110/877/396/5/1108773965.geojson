@@ -11,6 +11,7 @@
     "geom:longitude":-84.344433,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":965226064.0,
     "uscensus:awater":52982732.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488203,
-    "wof:geomhash":"54c28e9b48e2333fb0629cd9662652f4",
+    "wof:geomhash":"5b3c317ce2122ad368aaa729861029c6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773965,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108773965,
-    "wof:lastmodified":1481488203,
+    "wof:lastmodified":1532444011,
     "wof:name":"Tennessee State House District 21",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

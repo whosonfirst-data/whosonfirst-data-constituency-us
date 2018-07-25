@@ -11,6 +11,7 @@
     "geom:longitude":-97.714449,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":489735845.0,
     "uscensus:awater":8933149.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487900,
-    "wof:geomhash":"1140b415c3a1a395dd10fbd5b878db12",
+    "wof:geomhash":"032e63ab35511ca6a512a53379be8f4c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772175,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772175,
-    "wof:lastmodified":1481487900,
+    "wof:lastmodified":1532443757,
     "wof:name":"Oklahoma State Senate District 22",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

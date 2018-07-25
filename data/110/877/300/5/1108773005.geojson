@@ -11,6 +11,7 @@
     "geom:longitude":-80.086595,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5587909467.0,
     "uscensus:awater":96556331.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488040,
-    "wof:geomhash":"c60768799367385e59654fe545413a1a",
+    "wof:geomhash":"6bfeaae20b2a459be4583d02239654f6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773005,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108773005,
-    "wof:lastmodified":1481488040,
+    "wof:lastmodified":1532443769,
     "wof:name":"Pennsylvania State Senate District 50",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

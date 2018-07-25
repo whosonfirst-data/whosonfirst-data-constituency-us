@@ -11,6 +11,7 @@
     "geom:longitude":-86.025274,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":118071345.0,
     "uscensus:awater":74743.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486619,
-    "wof:geomhash":"3348e25e3339581b6538c679d692996e",
+    "wof:geomhash":"1114e5b0bac099d4d03a796b13c1a975",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764983,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764983,
-    "wof:lastmodified":1481486619,
+    "wof:lastmodified":1532444237,
     "wof:name":"Indiana State House District 90",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

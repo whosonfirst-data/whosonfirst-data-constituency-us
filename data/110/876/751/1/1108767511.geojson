@@ -11,6 +11,7 @@
     "geom:longitude":-83.107796,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":209577790.0,
     "uscensus:awater":45849848.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487068,
-    "wof:geomhash":"b9f6c9ec069635fa9dd5c9c1a06c58f2",
+    "wof:geomhash":"f5e395fae909e08da930e34aca30faaa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767511,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85682057
         }
     ],
     "wof:id":1108767511,
-    "wof:lastmodified":1481487068,
+    "wof:lastmodified":1532444217,
     "wof:name":"Ontario State Senate District 1",
     "wof:parent_id":85682057,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

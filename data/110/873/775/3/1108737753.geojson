@@ -11,6 +11,7 @@
     "geom:longitude":-76.571342,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "VA-03"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737753,
-    "wof:lastmodified":1493955457,
+    "wof:lastmodified":1532444630,
     "wof:name":"Virginia Congressional District 3",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

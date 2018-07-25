@@ -11,6 +11,7 @@
     "geom:longitude":-120.183291,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3489038701.0,
     "uscensus:awater":17876968.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488531,
-    "wof:geomhash":"8c10a7dad251e4baa6b26dc4deaedc71",
+    "wof:geomhash":"5b46a8dc2159bc9953d4ba78bf685141",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775467,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775467,
-    "wof:lastmodified":1481488531,
+    "wof:lastmodified":1532443788,
     "wof:name":"Washington State House District 15",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

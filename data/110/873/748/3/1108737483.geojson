@@ -11,6 +11,7 @@
     "geom:longitude":-75.212944,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "PA-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737483,
-    "wof:lastmodified":1493955523,
+    "wof:lastmodified":1532444610,
     "wof:name":"Pennsylvania Congressional District 1",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

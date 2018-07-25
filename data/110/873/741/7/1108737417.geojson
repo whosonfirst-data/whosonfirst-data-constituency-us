@@ -11,6 +11,7 @@
     "geom:longitude":-87.169254,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "IN-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737417,
-    "wof:lastmodified":1493955533,
+    "wof:lastmodified":1532444718,
     "wof:name":"Indiana Congressional District 1",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

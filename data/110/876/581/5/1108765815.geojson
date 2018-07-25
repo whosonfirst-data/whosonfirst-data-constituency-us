@@ -11,6 +11,7 @@
     "geom:longitude":-93.760125,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2375176226.0,
     "uscensus:awater":147604243.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486743,
-    "wof:geomhash":"7ad6be07cba5a97af09593e932b66992",
+    "wof:geomhash":"3446da1d1885b884ffb16cb235466edb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765815,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765815,
-    "wof:lastmodified":1481486743,
+    "wof:lastmodified":1532444196,
     "wof:name":"Louisiana State House District 7",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

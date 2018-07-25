@@ -11,6 +11,7 @@
     "geom:longitude":-111.459568,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6069766379.0,
     "uscensus:awater":171877567.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487381,
-    "wof:geomhash":"8b6d7af7f04460864ff481da36bb80d2",
+    "wof:geomhash":"4a25cf6471f8ec7a4d2cfa37a89ee404",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769389,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769389,
-    "wof:lastmodified":1481487381,
+    "wof:lastmodified":1532444256,
     "wof:name":"Montana State Senate District 35",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

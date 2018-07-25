@@ -11,6 +11,7 @@
     "geom:longitude":-68.299723,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":251089159.0,
     "uscensus:awater":119423620.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487022,
-    "wof:geomhash":"23d27db1087e11d4d76a68c178817617",
+    "wof:geomhash":"0ce05c6d7589bc3946fd63d82e8ed138",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767145,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767145,
-    "wof:lastmodified":1481487022,
+    "wof:lastmodified":1532444279,
     "wof:name":"Maine State House District 135",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

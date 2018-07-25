@@ -11,6 +11,7 @@
     "geom:longitude":-91.82491,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "LA-05"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737903,
-    "wof:lastmodified":1493955561,
+    "wof:lastmodified":1532444613,
     "wof:name":"Louisiana Congressional District 5",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",

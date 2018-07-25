@@ -11,6 +11,7 @@
     "geom:longitude":-93.960545,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":88092787.0,
     "uscensus:awater":562950.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487092,
-    "wof:geomhash":"1d2708087b14f2e4b8b8992571e96e2d",
+    "wof:geomhash":"5a760cbd9f121a2d3fdd9654ce69e7d9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767683,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767683,
-    "wof:lastmodified":1481487092,
+    "wof:lastmodified":1532444329,
     "wof:name":"Minnesota State House District 19B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

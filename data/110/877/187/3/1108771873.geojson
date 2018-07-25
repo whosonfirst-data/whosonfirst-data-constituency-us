@@ -11,6 +11,7 @@
     "geom:longitude":-81.765861,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":209849768.0,
     "uscensus:awater":883940.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487837,
-    "wof:geomhash":"8c6850b76268d994eee6c2d87bdb8d1d",
+    "wof:geomhash":"d9700d7b2e2a0d037e11cc0ef05cf908",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771873,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771873,
-    "wof:lastmodified":1481487837,
+    "wof:lastmodified":1532443774,
     "wof:name":"Ohio State Senate District 23",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

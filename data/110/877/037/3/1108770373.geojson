@@ -11,6 +11,7 @@
     "geom:longitude":-71.199465,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":74603467.0,
     "uscensus:awater":2062596.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487564,
-    "wof:geomhash":"9dadabbf6b45ac7064b5307df5f7ad81",
+    "wof:geomhash":"9d3be21e8f0b6e90a85bb86b12472b4d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770373,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770373,
-    "wof:lastmodified":1481487564,
+    "wof:lastmodified":1532443757,
     "wof:name":"New Hampshire State House District Rockingham County No. 3",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

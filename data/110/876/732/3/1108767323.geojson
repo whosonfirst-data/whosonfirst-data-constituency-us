@@ -11,6 +11,7 @@
     "geom:longitude":-83.046434,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":59885846.0,
     "uscensus:awater":186393.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487048,
-    "wof:geomhash":"f3de530cd3d9d4145bb8d52ac4c5585d",
+    "wof:geomhash":"2ac2f21af4b3148d1ac32c6240ead0e4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767323,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767323,
-    "wof:lastmodified":1481487048,
+    "wof:lastmodified":1532444476,
     "wof:name":"Michigan State House District 28",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

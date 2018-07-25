@@ -11,6 +11,7 @@
     "geom:longitude":-76.2289,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":692426007.0,
     "uscensus:awater":20982320.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486894,
-    "wof:geomhash":"cbf4ff46a789a4c73fa8264adff5ae60",
+    "wof:geomhash":"c29bf028ecd15ab2a85acefbc7ee0fa6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766705,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766705,
-    "wof:lastmodified":1481486894,
+    "wof:lastmodified":1532444304,
     "wof:name":"Maryland State Legislative Subdistrict 35B",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

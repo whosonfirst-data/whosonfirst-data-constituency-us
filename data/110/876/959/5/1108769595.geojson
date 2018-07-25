@@ -11,6 +11,7 @@
     "geom:longitude":-80.418238,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":870069699.0,
     "uscensus:awater":30750576.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487429,
-    "wof:geomhash":"0e106476b67ab6c82fc07195a483d846",
+    "wof:geomhash":"fe88d90b97838a2cd58282e7012c57d2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769595,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769595,
-    "wof:lastmodified":1481487429,
+    "wof:lastmodified":1532444297,
     "wof:name":"North Carolina State House District 76",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

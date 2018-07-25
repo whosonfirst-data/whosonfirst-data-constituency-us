@@ -11,6 +11,7 @@
     "geom:longitude":-71.56757,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":165508346.0,
     "uscensus:awater":4144460.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486846,
-    "wof:geomhash":"0f6450b2dcffd92f4a4b49f01180ef2b",
+    "wof:geomhash":"1e2cfb9b8e71d2d03ab0757b24df74de",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766467,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766467,
-    "wof:lastmodified":1481486846,
+    "wof:lastmodified":1532444149,
     "wof:name":"Massachusetts 8th Worcester District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

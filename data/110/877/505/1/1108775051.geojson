@@ -11,6 +11,7 @@
     "geom:longitude":-77.541635,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":236909094.0,
     "uscensus:awater":2424686.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488456,
-    "wof:geomhash":"2afc8078bb0401350b2656ca6c585f1f",
+    "wof:geomhash":"b8cfb61367cffac7fad989e3f8a55466",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775051,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775051,
-    "wof:lastmodified":1481488456,
+    "wof:lastmodified":1532443733,
     "wof:name":"Virginia State House District 87",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

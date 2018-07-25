@@ -11,6 +11,7 @@
     "geom:longitude":-122.714054,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2196991798.0,
     "uscensus:awater":841077503.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486014,
-    "wof:geomhash":"1b6e33fc7bfed4b8a622bfa96d9c2f80",
+    "wof:geomhash":"739481866b60acafb1e9b2eed3e592d5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761765,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761765,
-    "wof:lastmodified":1481486014,
+    "wof:lastmodified":1532444216,
     "wof:name":"California Assembly District 10",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

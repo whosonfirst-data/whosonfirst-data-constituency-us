@@ -11,6 +11,7 @@
     "geom:longitude":-86.116189,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":151866472.0,
     "uscensus:awater":4137268.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486631,
-    "wof:geomhash":"9981d3032187735c25e74bb943e9bb2c",
+    "wof:geomhash":"9c3aa798505f366c963cd15c149d0755",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765073,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765073,
-    "wof:lastmodified":1481486631,
+    "wof:lastmodified":1532444145,
     "wof:name":"Indiana State Senate District 30",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-99.451528,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":22117527004.0,
     "uscensus:awater":29349054.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486673,
-    "wof:geomhash":"c9a584d5c9fadb690d1102b18a51e260",
+    "wof:geomhash":"b265001b95d2a7060b62916ccd5c2e89",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765473,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765473,
-    "wof:lastmodified":1481486673,
+    "wof:lastmodified":1532444244,
     "wof:name":"Kansas State Senate District 33",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -17,6 +17,7 @@
     "mps:latitude":33.702857,
     "mps:longitude":-80.627523,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Suid-Carolina"
     ],
@@ -506,7 +507,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231172,
-    "wof:geomhash":"0681a819c7c1604653f07065744b97e7",
+    "wof:geomhash":"c4b44eb374cdef00753c4d8ca705af0b",
     "wof:hierarchy":[
         {
             "constituency_id":1108746655,
@@ -516,7 +517,7 @@
         }
     ],
     "wof:id":1108746655,
-    "wof:lastmodified":1487197399,
+    "wof:lastmodified":1532443703,
     "wof:name":"South Carolina",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

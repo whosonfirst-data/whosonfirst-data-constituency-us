@@ -11,6 +11,7 @@
     "geom:longitude":-89.40821,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2479117666.0,
     "uscensus:awater":4143226.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487266,
-    "wof:geomhash":"f06b3de95bfc7966ea5e931a66527c74",
+    "wof:geomhash":"55150bc2c9ae531950491a708e93f099",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768873,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768873,
-    "wof:lastmodified":1481487266,
+    "wof:lastmodified":1532444104,
     "wof:name":"Mississippi State House District 79",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

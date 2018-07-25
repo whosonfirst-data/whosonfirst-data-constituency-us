@@ -11,6 +11,7 @@
     "geom:longitude":-80.398622,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4099432559.0,
     "uscensus:awater":50695070.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488154,
-    "wof:geomhash":"5b34fba645efeea9299b6d67ff7da8ee",
+    "wof:geomhash":"76b56425d172a5374d70739e379b291b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773713,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773713,
-    "wof:lastmodified":1481488154,
+    "wof:lastmodified":1532443928,
     "wof:name":"South Carolina State Senate District 27",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-96.637489,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3486153291.0,
     "uscensus:awater":68842124.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487862,
-    "wof:geomhash":"83ec9d3a1126f548bb397dced5325316",
+    "wof:geomhash":"277a8492f8ef647e119170731542105d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771949,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771949,
-    "wof:lastmodified":1481487862,
+    "wof:lastmodified":1532443819,
     "wof:name":"Oklahoma State House District 22",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

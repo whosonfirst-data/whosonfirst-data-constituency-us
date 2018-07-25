@@ -11,6 +11,7 @@
     "geom:longitude":-122.856705,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":209063092.0,
     "uscensus:awater":1051637.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487920,
-    "wof:geomhash":"fdd9194bec0cbc522da797e5853dd051",
+    "wof:geomhash":"71b05035db0a697a5980fc0fa8334599",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772293,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772293,
-    "wof:lastmodified":1481487920,
+    "wof:lastmodified":1532443806,
     "wof:name":"Oregon State House District 26",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

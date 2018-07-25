@@ -11,6 +11,7 @@
     "geom:longitude":-80.91608,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2776580786.0,
     "uscensus:awater":15940593.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487811,
-    "wof:geomhash":"b347346c471973ae0a048b68788f6d04",
+    "wof:geomhash":"1c3f58d72801e922e39b77f7cc45cd42",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771813,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771813,
-    "wof:lastmodified":1481487811,
+    "wof:lastmodified":1532443994,
     "wof:name":"Ohio State House District 96",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

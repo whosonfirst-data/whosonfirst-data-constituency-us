@@ -11,6 +11,7 @@
     "geom:longitude":-72.542879,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":166443130.0,
     "uscensus:awater":9069069.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486139,
-    "wof:geomhash":"c98b97c465109a730e1643d832d082ad",
+    "wof:geomhash":"2ad3b4fd156feb47606f85f63c406e98",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762315,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762315,
-    "wof:lastmodified":1481486139,
+    "wof:lastmodified":1532444418,
     "wof:name":"Connecticut State House District 35",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

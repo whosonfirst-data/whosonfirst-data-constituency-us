@@ -11,6 +11,7 @@
     "geom:longitude":-117.1928,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":619408435.0,
     "uscensus:awater":403032519.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486074,
-    "wof:geomhash":"63cfd1a589b66c966e3ab01ccedb5e86",
+    "wof:geomhash":"5a15a2e37ecb9b7206992157db5da020",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762009,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108762009,
-    "wof:lastmodified":1481486074,
+    "wof:lastmodified":1532444082,
     "wof:name":"California State Senate District 39",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

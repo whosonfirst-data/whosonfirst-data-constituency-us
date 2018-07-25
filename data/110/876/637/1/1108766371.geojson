@@ -11,6 +11,7 @@
     "geom:longitude":-71.20375,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":64738502.0,
     "uscensus:awater":2618945.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486835,
-    "wof:geomhash":"8ca3eb19b4125b85e4276861e58d9cc5",
+    "wof:geomhash":"43c91cf6aea6097d508986b01245da92",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766371,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766371,
-    "wof:lastmodified":1481486835,
+    "wof:lastmodified":1532444558,
     "wof:name":"Massachusetts 11th Norfolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

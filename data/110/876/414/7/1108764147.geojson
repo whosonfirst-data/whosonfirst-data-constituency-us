@@ -11,6 +11,7 @@
     "geom:longitude":-93.660245,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":37475092.0,
     "uscensus:awater":762947.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486464,
-    "wof:geomhash":"8b514854527a7297ee39571219f8e6ad",
+    "wof:geomhash":"c4254d2002540d7d3141ae1ed48a4c32",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764147,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764147,
-    "wof:lastmodified":1481486464,
+    "wof:lastmodified":1532444518,
     "wof:name":"Iowa State Senate District 18",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-72.470636,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":25169871.0,
     "uscensus:awater":182548.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486144,
-    "wof:geomhash":"770f70b412c69b68af5acff8c4fd9d62",
+    "wof:geomhash":"0f300d113aed38aad7361f3c6ace7421",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762363,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762363,
-    "wof:lastmodified":1481486144,
+    "wof:lastmodified":1532444287,
     "wof:name":"Connecticut State House District 56",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

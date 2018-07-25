@@ -11,6 +11,7 @@
     "geom:longitude":-81.086737,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1379639960.0,
     "uscensus:awater":83214006.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487474,
-    "wof:geomhash":"37015c3ed2ace7781dd144ad669eb050",
+    "wof:geomhash":"b7e8216b5e450afcab123e97e14db440",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769793,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769793,
-    "wof:lastmodified":1481487474,
+    "wof:lastmodified":1532444271,
     "wof:name":"North Carolina State Senate District 44",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

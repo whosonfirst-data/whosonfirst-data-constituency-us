@@ -11,6 +11,7 @@
     "geom:longitude":-83.273844,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":127568177.0,
     "uscensus:awater":3390159.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486358,
-    "wof:geomhash":"db0f379b41525c5f81da46d2a615b0d6",
+    "wof:geomhash":"8677a0499e58fda65c453e700963a398",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763579,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763579,
-    "wof:lastmodified":1481486358,
+    "wof:lastmodified":1532444109,
     "wof:name":"Georgia State House District 177",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

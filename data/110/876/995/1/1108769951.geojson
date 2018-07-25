@@ -11,6 +11,7 @@
     "geom:longitude":-97.136943,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":139214383.0,
     "uscensus:awater":447870.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487510,
-    "wof:geomhash":"54ba936cb76d0f13840e2bdf7bff76e5",
+    "wof:geomhash":"9cb00b9f6ddba45b990dbb2207c64a05",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769951,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108769951,
-    "wof:lastmodified":1481487510,
+    "wof:lastmodified":1532444509,
     "wof:name":"North Dakota State Senate District 17",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.265252,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":33029533.0,
     "uscensus:awater":51861648.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488498,
-    "wof:geomhash":"947596b9eb0941e9e1aef913a1fe5a22",
+    "wof:geomhash":"2ed4f9c4f818cc70d5c9a2328519f493",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775213,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775213,
-    "wof:lastmodified":1481488498,
+    "wof:lastmodified":1532443986,
     "wof:name":"Vermont Chittenden-5-1 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-86.778731,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":286294071.0,
     "uscensus:awater":3893982.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488246,
-    "wof:geomhash":"a31a93950c263f099df631d618e26129",
+    "wof:geomhash":"9efd3b7ad77d27e5cb20f4d5df470ca0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774183,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774183,
-    "wof:lastmodified":1481488246,
+    "wof:lastmodified":1532444028,
     "wof:name":"Tennessee State Senate District 19",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

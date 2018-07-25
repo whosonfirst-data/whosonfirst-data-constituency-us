@@ -11,6 +11,7 @@
     "geom:longitude":-95.611876,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1809749826.0,
     "uscensus:awater":14783807.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486435,
-    "wof:geomhash":"5300b810b8ff43befded12e54717b147",
+    "wof:geomhash":"9ed68f7b792106b5f0895742813903ac",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763931,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108763931,
-    "wof:lastmodified":1481486435,
+    "wof:lastmodified":1532444192,
     "wof:name":"Iowa State House District 22",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

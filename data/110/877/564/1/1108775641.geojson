@@ -11,6 +11,7 @@
     "geom:longitude":-122.318033,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":30123135.0,
     "uscensus:awater":7888181.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488566,
-    "wof:geomhash":"d2a8349ef5e0741f70be1a01794b0098",
+    "wof:geomhash":"e342a519174692ad0efb1c4f2f63d684",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775641,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775641,
-    "wof:lastmodified":1481488566,
+    "wof:lastmodified":1532443862,
     "wof:name":"Washington State Senate District 43",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

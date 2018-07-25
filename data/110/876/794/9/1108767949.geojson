@@ -11,6 +11,7 @@
     "geom:longitude":-94.285969,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8225824166.0,
     "uscensus:awater":173992121.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487127,
-    "wof:geomhash":"e2ffc36cdd3910d9226c033a41eef17c",
+    "wof:geomhash":"2e27248523c3884855889d58bc31121c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767949,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767949,
-    "wof:lastmodified":1481487127,
+    "wof:lastmodified":1532444125,
     "wof:name":"Minnesota State Senate District 23",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

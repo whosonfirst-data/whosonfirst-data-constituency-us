@@ -11,6 +11,7 @@
     "geom:longitude":-96.553903,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":14444275571.0,
     "uscensus:awater":216284254.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488275,
-    "wof:geomhash":"aa720fb31a645ec25224ba57c7d90912",
+    "wof:geomhash":"97a06e1c6cf61174c21bf67c383f2da4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774243,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774243,
-    "wof:lastmodified":1481488275,
+    "wof:lastmodified":1532443951,
     "wof:name":"Texas State House District 13",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

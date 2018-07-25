@@ -11,6 +11,7 @@
     "geom:longitude":-105.106508,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":67576690.0,
     "uscensus:awater":679342.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486095,
-    "wof:geomhash":"9297f30d0eac18664cc159e11f9fbf6f",
+    "wof:geomhash":"f2e88d028a527dcf7a817c59ae451812",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762131,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762131,
-    "wof:lastmodified":1481486095,
+    "wof:lastmodified":1532444065,
     "wof:name":"Colorado State House District 53",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

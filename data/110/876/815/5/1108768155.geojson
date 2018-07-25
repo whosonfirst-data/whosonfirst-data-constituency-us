@@ -11,6 +11,7 @@
     "geom:longitude":-92.480093,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1182286888.0,
     "uscensus:awater":10470078.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487154,
-    "wof:geomhash":"c1b72a6ed2e2774bc8a46caf3e03ff14",
+    "wof:geomhash":"0e5740f7fd8e5bca7e96fb6d14d9e8e5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768155,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768155,
-    "wof:lastmodified":1481487154,
+    "wof:lastmodified":1532444533,
     "wof:name":"Missouri State House District 47",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

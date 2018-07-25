@@ -11,6 +11,7 @@
     "geom:longitude":-98.715062,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":743634351.0,
     "uscensus:awater":5269226.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488330,
-    "wof:geomhash":"69ed5eccf0399c9080745178e1ffb70f",
+    "wof:geomhash":"3f2de9b83fdf68af4ed37294380a6dfa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774477,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774477,
-    "wof:lastmodified":1481488330,
+    "wof:lastmodified":1532443971,
     "wof:name":"Texas State House District 117",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-85.411201,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1533677691.0,
     "uscensus:awater":8563232.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486611,
-    "wof:geomhash":"da7fec1375275393bad0d38ea9db0153",
+    "wof:geomhash":"f210d6d22228e1198683e21d017008e0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764901,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764901,
-    "wof:lastmodified":1481486611,
+    "wof:lastmodified":1532444336,
     "wof:name":"Indiana State House District 54",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

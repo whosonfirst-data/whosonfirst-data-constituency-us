@@ -11,6 +11,7 @@
     "geom:longitude":-89.823181,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":84660616.0,
     "uscensus:awater":115637.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488225,
-    "wof:geomhash":"0daac175360c0b30c89330dd67d19428",
+    "wof:geomhash":"46e68d0b71786ffa0cc2ba99f6aff7fe",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774103,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774103,
-    "wof:lastmodified":1481488225,
+    "wof:lastmodified":1532444014,
     "wof:name":"Tennessee State House District 83",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

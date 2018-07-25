@@ -11,6 +11,7 @@
     "geom:longitude":-86.121427,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1322197325.0,
     "uscensus:awater":80376790.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485864,
-    "wof:geomhash":"4b87cf2849997803cd004668342a3210",
+    "wof:geomhash":"67f24edaeaef5b5ce190453dcafba69a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761059,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761059,
-    "wof:lastmodified":1481485864,
+    "wof:lastmodified":1532444477,
     "wof:name":"Alabama State House District 31",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-77.365946,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2491198008.0,
     "uscensus:awater":4463693.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487410,
-    "wof:geomhash":"c0aca5cfe69b057cd6651cd5436f55f0",
+    "wof:geomhash":"ef3c1566836eb25c72b7fce4d7f0f5f8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769475,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769475,
-    "wof:lastmodified":1481487410,
+    "wof:lastmodified":1532444292,
     "wof:name":"North Carolina State House District 23",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

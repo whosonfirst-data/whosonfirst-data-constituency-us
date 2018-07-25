@@ -11,6 +11,7 @@
     "geom:longitude":-88.620158,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":828471627.0,
     "uscensus:awater":144262067.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488611,
-    "wof:geomhash":"d6966a1be6fa0f130d249460f97b2fc1",
+    "wof:geomhash":"9e5b7898ffc02531fa6a9f40b925db8a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775919,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775919,
-    "wof:lastmodified":1481488611,
+    "wof:lastmodified":1532443856,
     "wof:name":"Wisconsin State Senate District 19",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

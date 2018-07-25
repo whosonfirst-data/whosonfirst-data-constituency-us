@@ -11,6 +11,7 @@
     "geom:longitude":-80.664415,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":946682027.0,
     "uscensus:awater":199297420.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486235,
-    "wof:geomhash":"a3840e208379b4fca8dbe5918274aee6",
+    "wof:geomhash":"84bb23fa6b4767faf51a80288bf3b1bb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762939,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762939,
-    "wof:lastmodified":1481486235,
+    "wof:lastmodified":1532444201,
     "wof:name":"Florida State House District 53",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

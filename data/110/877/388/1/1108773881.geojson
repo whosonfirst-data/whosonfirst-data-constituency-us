@@ -11,6 +11,7 @@
     "geom:longitude":-97.782472,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6737676779.0,
     "uscensus:awater":46729104.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488181,
-    "wof:geomhash":"155d0cdeccb0726bd53fb71d12ff88e2",
+    "wof:geomhash":"f88a7630e246ed9bae933b312e73ba9c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773881,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688693
         }
     ],
     "wof:id":1108773881,
-    "wof:lastmodified":1481488181,
+    "wof:lastmodified":1532443817,
     "wof:name":"South Dakota State Senate District 19",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

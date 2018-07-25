@@ -11,6 +11,7 @@
     "geom:longitude":-72.117822,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "MA-02"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737573,
-    "wof:lastmodified":1493955516,
+    "wof:lastmodified":1532444609,
     "wof:name":"Massachusetts Congressional District 2",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

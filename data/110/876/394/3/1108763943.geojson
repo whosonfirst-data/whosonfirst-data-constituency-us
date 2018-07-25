@@ -11,6 +11,7 @@
     "geom:longitude":-93.604855,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4334372846.0,
     "uscensus:awater":10876708.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486436,
-    "wof:geomhash":"2d0aa36fcb0f7c2ea271197b6330ab12",
+    "wof:geomhash":"0cc65a42ff076ad8112ca26dd809a7bf",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763943,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108763943,
-    "wof:lastmodified":1481486436,
+    "wof:lastmodified":1532444299,
     "wof:name":"Iowa State House District 27",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

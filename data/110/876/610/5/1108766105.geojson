@@ -11,6 +11,7 @@
     "geom:longitude":-93.306901,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7973622252.0,
     "uscensus:awater":75565002.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486795,
-    "wof:geomhash":"5f9e03ecd644396c5e5b7f39fc7ee71d",
+    "wof:geomhash":"059751ef982c990c48a43889caea9915",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766105,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766105,
-    "wof:lastmodified":1481486795,
+    "wof:lastmodified":1532444287,
     "wof:name":"Louisiana State Senate District 30",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

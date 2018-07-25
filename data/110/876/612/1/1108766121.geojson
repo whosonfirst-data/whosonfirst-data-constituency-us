@@ -11,6 +11,7 @@
     "geom:longitude":-93.655173,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":300180533.0,
     "uscensus:awater":18635130.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486800,
-    "wof:geomhash":"b952ad0a0c6bcd2323658dd203a0e771",
+    "wof:geomhash":"c48dcfad6fe5af3ba241d795d0ac3ec8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766121,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766121,
-    "wof:lastmodified":1481486800,
+    "wof:lastmodified":1532444091,
     "wof:name":"Louisiana State Senate District 37",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

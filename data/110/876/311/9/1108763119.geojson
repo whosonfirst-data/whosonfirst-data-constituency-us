@@ -11,6 +11,7 @@
     "geom:longitude":-81.153082,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":787289475.0,
     "uscensus:awater":38674169.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486266,
-    "wof:geomhash":"a2aa4ddf85a0f466e2155e4a39864df5",
+    "wof:geomhash":"612dd637c0d8910823c20ae49808c379",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763119,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763119,
-    "wof:lastmodified":1481486266,
+    "wof:lastmodified":1532444559,
     "wof:name":"Florida State Senate District 13",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-99.402528,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "KS-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737421,
-    "wof:lastmodified":1493955525,
+    "wof:lastmodified":1532444671,
     "wof:name":"Kansas Congressional District 1",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

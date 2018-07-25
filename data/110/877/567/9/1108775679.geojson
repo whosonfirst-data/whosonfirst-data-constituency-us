@@ -11,6 +11,7 @@
     "geom:longitude":-87.967547,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":36225272.0,
     "uscensus:awater":479861.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488575,
-    "wof:geomhash":"382ee12fd48f54cbededac4670c26f8d",
+    "wof:geomhash":"fa86d56f9a7f63eef20bc6c7b41e0f0b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775679,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775679,
-    "wof:lastmodified":1481488575,
+    "wof:lastmodified":1532443997,
     "wof:name":"Wisconsin Assembly District 11",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

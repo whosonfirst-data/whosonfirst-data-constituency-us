@@ -11,6 +11,7 @@
     "geom:longitude":-74.142943,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NJ-06"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738003,
-    "wof:lastmodified":1493955446,
+    "wof:lastmodified":1532444685,
     "wof:name":"New Jersey Congressional District 6",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

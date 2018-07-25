@@ -11,6 +11,7 @@
     "geom:longitude":-111.526994,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3257032713.0,
     "uscensus:awater":25339722.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488393,
-    "wof:geomhash":"2182d15d77e348f0d5c0f72e531563ef",
+    "wof:geomhash":"f859496522a9cd6ad513de25394ca1fc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774833,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774833,
-    "wof:lastmodified":1481488393,
+    "wof:lastmodified":1532443941,
     "wof:name":"Utah State Senate District 19",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

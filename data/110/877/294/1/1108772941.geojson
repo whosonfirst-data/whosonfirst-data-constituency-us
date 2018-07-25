@@ -11,6 +11,7 @@
     "geom:longitude":-79.486607,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7145156528.0,
     "uscensus:awater":97508107.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488030,
-    "wof:geomhash":"99622a725183e82014196ac446cf307e",
+    "wof:geomhash":"da2e0dae84ed22beb2bb1f452df54c98",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772941,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772941,
-    "wof:lastmodified":1481488030,
+    "wof:lastmodified":1532443825,
     "wof:name":"Pennsylvania State Senate District 21",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

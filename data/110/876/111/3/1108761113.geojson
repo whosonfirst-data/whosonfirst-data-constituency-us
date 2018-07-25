@@ -11,6 +11,7 @@
     "geom:longitude":-86.935758,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":91794649.0,
     "uscensus:awater":216221.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485872,
-    "wof:geomhash":"96961f4ad1cad239c3fe860083b17779",
+    "wof:geomhash":"40f822c787e300821a6b1e07b1dc9752",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761113,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761113,
-    "wof:lastmodified":1481485872,
+    "wof:lastmodified":1532444215,
     "wof:name":"Alabama State House District 55",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

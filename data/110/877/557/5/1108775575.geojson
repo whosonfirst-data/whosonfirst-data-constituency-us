@@ -11,6 +11,7 @@
     "geom:longitude":-121.187188,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16831428265.0,
     "uscensus:awater":181085094.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488553,
-    "wof:geomhash":"61eca67aa5f472b64ccc2a8672fa8f0a",
+    "wof:geomhash":"bdf6a099af3bc4320d4a7330ba0c92f4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775575,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775575,
-    "wof:lastmodified":1481488553,
+    "wof:lastmodified":1532443822,
     "wof:name":"Washington State Senate District 14",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

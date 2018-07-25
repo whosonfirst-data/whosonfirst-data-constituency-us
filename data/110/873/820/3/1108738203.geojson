@@ -11,6 +11,7 @@
     "geom:longitude":-78.673402,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "PA-09"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738203,
-    "wof:lastmodified":1493955541,
+    "wof:lastmodified":1532444653,
     "wof:name":"Pennsylvania Congressional District 9",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

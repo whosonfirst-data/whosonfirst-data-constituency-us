@@ -11,6 +11,7 @@
     "geom:longitude":-88.701614,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2608512004.0,
     "uscensus:awater":44281770.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488574,
-    "wof:geomhash":"e1770a863d5000287dda47c8fb4633b1",
+    "wof:geomhash":"83963ce3b1d4302b8cf5bcbd8cd8398b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775667,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775667,
-    "wof:lastmodified":1481488574,
+    "wof:lastmodified":1532443849,
     "wof:name":"Wisconsin Assembly District 6",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

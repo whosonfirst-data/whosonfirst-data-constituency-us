@@ -11,6 +11,7 @@
     "geom:longitude":-84.903562,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":534244971.0,
     "uscensus:awater":3069345.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486299,
-    "wof:geomhash":"3a9141e70feaade60a49b66f5be4ae5a",
+    "wof:geomhash":"2e3fecb7535274309e663b8d7e2f1f94",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763219,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763219,
-    "wof:lastmodified":1481486299,
+    "wof:lastmodified":1532444408,
     "wof:name":"Georgia State House District 17",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

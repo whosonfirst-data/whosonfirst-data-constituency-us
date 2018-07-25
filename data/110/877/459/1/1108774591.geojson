@@ -11,6 +11,7 @@
     "geom:longitude":-96.707584,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":38493415446.0,
     "uscensus:awater":4613890439.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488353,
-    "wof:geomhash":"fd0f77cd871b39cfed2ce1e2ceedc1a9",
+    "wof:geomhash":"7417be8a13002c4416b315aadc68fdc0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774591,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774591,
-    "wof:lastmodified":1481488353,
+    "wof:lastmodified":1532443901,
     "wof:name":"Texas State Senate District 18",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

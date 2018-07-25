@@ -11,6 +11,7 @@
     "geom:longitude":-70.816227,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":302695520.0,
     "uscensus:awater":196525954.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487588,
-    "wof:geomhash":"802a18dc926a8c5faf5c5122f3dbe82e",
+    "wof:geomhash":"77caea4c4817017f8a676cb09311de20",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770545,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770545,
-    "wof:lastmodified":1481487588,
+    "wof:lastmodified":1532443809,
     "wof:name":"New Hampshire State Senate District 24",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

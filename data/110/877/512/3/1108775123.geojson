@@ -11,6 +11,7 @@
     "geom:longitude":-80.273055,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4683190846.0,
     "uscensus:awater":94573478.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488481,
-    "wof:geomhash":"ee266ebad613e5bb73862627dd32371c",
+    "wof:geomhash":"60c0d3bff808bff596b4f5513008361e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775123,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775123,
-    "wof:lastmodified":1481488481,
+    "wof:lastmodified":1532443826,
     "wof:name":"Virginia State Senate District 19",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-93.78636,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2912147618.0,
     "uscensus:awater":11962156.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486462,
-    "wof:geomhash":"3a997225674ad1bd907c78a520d9013d",
+    "wof:geomhash":"b33a90bb18485a3f71241d66945c824d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764137,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764137,
-    "wof:lastmodified":1481486462,
+    "wof:lastmodified":1532444228,
     "wof:name":"Iowa State Senate District 13",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

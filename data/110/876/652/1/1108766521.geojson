@@ -11,6 +11,7 @@
     "geom:longitude":-71.541106,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":521264492.0,
     "uscensus:awater":20802176.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486853,
-    "wof:geomhash":"79c2403b462ba5d6b4b46f041ab6912b",
+    "wof:geomhash":"3b6bd4806847e0570b8c6d092f32a9c8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766521,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766521,
-    "wof:lastmodified":1481486853,
+    "wof:lastmodified":1532444270,
     "wof:name":"Massachusetts Middlesex & Worcester District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

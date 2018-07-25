@@ -11,6 +11,7 @@
     "geom:longitude":-76.948333,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":22068279.0,
     "uscensus:awater":948090.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486185,
-    "wof:geomhash":"90a9942fb77ce17e8aa4734d765fab86",
+    "wof:geomhash":"d20f4035c3049c8c2df6f330a6ada8c1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762679,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688741
         }
     ],
     "wof:id":1108762679,
-    "wof:lastmodified":1481486185,
+    "wof:lastmodified":1532444347,
     "wof:name":"District of Columbia Ward 7",
     "wof:parent_id":85688741,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-dc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

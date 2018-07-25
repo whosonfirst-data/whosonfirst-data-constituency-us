@@ -11,6 +11,7 @@
     "geom:longitude":-84.502857,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4638317933.0,
     "uscensus:awater":127070930.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488235,
-    "wof:geomhash":"5308654ebcc3aa1ee752ba9a99c900f9",
+    "wof:geomhash":"09af80d5266930ea2673637b0dc6a151",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774159,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774159,
-    "wof:lastmodified":1481488235,
+    "wof:lastmodified":1532444047,
     "wof:name":"Tennessee State Senate District 9",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

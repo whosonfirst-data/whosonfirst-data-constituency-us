@@ -11,6 +11,7 @@
     "geom:longitude":-71.168684,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":101253272.0,
     "uscensus:awater":3627386.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486835,
-    "wof:geomhash":"27290ee5a5071c12c38ef953372a00bb",
+    "wof:geomhash":"48c51013e2e134796adabd03151174ac",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766363,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766363,
-    "wof:lastmodified":1481486835,
+    "wof:lastmodified":1532444526,
     "wof:name":"Massachusetts 8th Norfolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

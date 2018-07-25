@@ -11,6 +11,7 @@
     "geom:longitude":-92.047263,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":316653343.0,
     "uscensus:awater":689047.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486753,
-    "wof:geomhash":"16c454fed8ffbe6d5ef9d9f7c60454ac",
+    "wof:geomhash":"0a3e957fbc0701903e93216918fc9472",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765887,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765887,
-    "wof:lastmodified":1481486753,
+    "wof:lastmodified":1532444288,
     "wof:name":"Louisiana State House District 39",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

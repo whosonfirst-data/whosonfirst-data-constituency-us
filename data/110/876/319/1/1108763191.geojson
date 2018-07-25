@@ -11,6 +11,7 @@
     "geom:longitude":-84.923509,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":777980709.0,
     "uscensus:awater":4921347.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486295,
-    "wof:geomhash":"68a262c31ad1fe15e9260a60ce4465a2",
+    "wof:geomhash":"f083acaf7f6ed1a45a81ca1010a4a40a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763191,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763191,
-    "wof:lastmodified":1481486295,
+    "wof:lastmodified":1532444265,
     "wof:name":"Georgia State House District 5",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

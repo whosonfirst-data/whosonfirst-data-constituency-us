@@ -11,6 +11,7 @@
     "geom:longitude":-72.623042,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":64941542.0,
     "uscensus:awater":3142108.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486153,
-    "wof:geomhash":"92ea56428f25a21a0aad4a141d3ec617",
+    "wof:geomhash":"a2ecab3268b25cbc8e866ed0b88a948c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762463,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762463,
-    "wof:lastmodified":1481486153,
+    "wof:lastmodified":1532444363,
     "wof:name":"Connecticut State House District 100",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

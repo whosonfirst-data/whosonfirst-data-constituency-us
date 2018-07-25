@@ -11,6 +11,7 @@
     "geom:longitude":-96.035745,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7163590706.0,
     "uscensus:awater":68852607.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486641,
-    "wof:geomhash":"771718caffc12a7d4be1a126703cee19",
+    "wof:geomhash":"b0904df573f358a253ade1ab3bcf1391",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765147,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765147,
-    "wof:lastmodified":1481486641,
+    "wof:lastmodified":1532444220,
     "wof:name":"Kansas State House District 13",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

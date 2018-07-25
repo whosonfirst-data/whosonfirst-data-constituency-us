@@ -11,6 +11,7 @@
     "geom:longitude":-84.451361,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":40513472.0,
     "uscensus:awater":9596087.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486706,
-    "wof:geomhash":"7963e45fe1159fd9c21cc798376df8aa",
+    "wof:geomhash":"6c78d33a081b6d0941451073a676b4be",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765639,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765639,
-    "wof:lastmodified":1481486706,
+    "wof:lastmodified":1532444507,
     "wof:name":"Kentucky State House District 67",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

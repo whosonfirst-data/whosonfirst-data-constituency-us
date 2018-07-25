@@ -11,6 +11,7 @@
     "geom:longitude":-98.546461,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":476713343.0,
     "uscensus:awater":2557695.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488358,
-    "wof:geomhash":"917e06df39c38c2b7b20a860c96f5c6b",
+    "wof:geomhash":"8605e9d45b32285e72b21444e59b9c2e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774609,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774609,
-    "wof:lastmodified":1481488358,
+    "wof:lastmodified":1532444025,
     "wof:name":"Texas State Senate District 26",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

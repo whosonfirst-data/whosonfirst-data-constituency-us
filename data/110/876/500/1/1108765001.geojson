@@ -11,6 +11,7 @@
     "geom:longitude":-86.043121,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52167934.0,
     "uscensus:awater":20008.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486621,
-    "wof:geomhash":"cacac6dec36abe3132cdaa439900d4f7",
+    "wof:geomhash":"2acf01c61f45d503b6497f8f36e7826d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765001,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765001,
-    "wof:lastmodified":1481486621,
+    "wof:lastmodified":1532444472,
     "wof:name":"Indiana State House District 98",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

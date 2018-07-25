@@ -11,6 +11,7 @@
     "geom:longitude":-81.540291,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":95342204.0,
     "uscensus:awater":174637.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487790,
-    "wof:geomhash":"2e59a6905e7a1623cce50c3b8b47e90c",
+    "wof:geomhash":"4362513b4e7c4ea79b6dd85c639862c1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771673,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771673,
-    "wof:lastmodified":1481487790,
+    "wof:lastmodified":1532443941,
     "wof:name":"Ohio State House District 34",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-158.007653,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4401020.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486408,
-    "wof:geomhash":"aff867fcef1805d4ebccd812fd1b3b83",
+    "wof:geomhash":"6ffa6fd47f31629fb040a1c4dfee576a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763797,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763797,
-    "wof:lastmodified":1481486408,
+    "wof:lastmodified":1532444436,
     "wof:name":"Hawaii State House District 38",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

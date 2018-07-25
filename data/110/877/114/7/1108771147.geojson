@@ -11,6 +11,7 @@
     "geom:longitude":-73.551554,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":101365429.0,
     "uscensus:awater":140418846.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487704,
-    "wof:geomhash":"dbe08f73580374e39f2f3ddde50fcd5c",
+    "wof:geomhash":"5b097b2d5d0db3c04ffc08b347ad4910",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771147,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771147,
-    "wof:lastmodified":1481487704,
+    "wof:lastmodified":1532443911,
     "wof:name":"New York Assembly District 13",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

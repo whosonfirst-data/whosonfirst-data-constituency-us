@@ -11,6 +11,7 @@
     "geom:longitude":-150.126496,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8017817686.0,
     "uscensus:awater":2512904712.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485800,
-    "wof:geomhash":"c326f6e82cb2e09fc37d5be6c1524fae",
+    "wof:geomhash":"08df626ac99e7a45c2665301aaf8eade",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760977,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760977,
-    "wof:lastmodified":1481485800,
+    "wof:lastmodified":1532444515,
     "wof:name":"Alaska State Senate District O",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

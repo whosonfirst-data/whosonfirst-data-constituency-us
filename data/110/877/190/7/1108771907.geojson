@@ -11,6 +11,7 @@
     "geom:longitude":-94.97945,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1101357742.0,
     "uscensus:awater":42741399.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487849,
-    "wof:geomhash":"61d5806085a254e3d8c6b7262ff06cde",
+    "wof:geomhash":"92b64e261179709333a11f974a8a3f7c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771907,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771907,
-    "wof:lastmodified":1481487849,
+    "wof:lastmodified":1532443969,
     "wof:name":"Oklahoma State House District 4",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

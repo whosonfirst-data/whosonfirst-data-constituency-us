@@ -11,6 +11,7 @@
     "geom:longitude":-122.493115,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":659158928.0,
     "uscensus:awater":9165602.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487951,
-    "wof:geomhash":"9e85d5e73e5d810c0d44e07cdcc29961",
+    "wof:geomhash":"6befabb26b1bca71551f25d2aebf2f10",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772413,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772413,
-    "wof:lastmodified":1481487951,
+    "wof:lastmodified":1532443771,
     "wof:name":"Oregon State Senate District 20",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-77.465963,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":226928546.0,
     "uscensus:awater":2284519.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488488,
-    "wof:geomhash":"e2a4f18b46aaec508c2313a9549d9a84",
+    "wof:geomhash":"6cddebb654bcc8295808298dce8b3969",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775155,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775155,
-    "wof:lastmodified":1481488488,
+    "wof:lastmodified":1532443960,
     "wof:name":"Virginia State Senate District 33",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

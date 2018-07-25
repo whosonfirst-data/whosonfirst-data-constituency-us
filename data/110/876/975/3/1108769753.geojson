@@ -11,6 +11,7 @@
     "geom:longitude":-79.799199,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1891255781.0,
     "uscensus:awater":33492900.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487468,
-    "wof:geomhash":"694777c032c07ad4ff317cd5df6adba9",
+    "wof:geomhash":"0432a168395820111628bd029a674567",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769753,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769753,
-    "wof:lastmodified":1481487468,
+    "wof:lastmodified":1532444112,
     "wof:name":"North Carolina State Senate District 26",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.018255,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":78049400.0,
     "uscensus:awater":1440877.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486156,
-    "wof:geomhash":"bbf0ec7642dd0494a5b08bdde7564e9c",
+    "wof:geomhash":"85ed98dc4f62a0f664ce6e17cd1aea4d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762493,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762493,
-    "wof:lastmodified":1481486156,
+    "wof:lastmodified":1532444584,
     "wof:name":"Connecticut State House District 114",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

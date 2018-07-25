@@ -11,6 +11,7 @@
     "geom:longitude":-89.21232,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2207157477.0,
     "uscensus:awater":14097805.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487306,
-    "wof:geomhash":"ff6960b4574cf3eacc51291cd54d82cd",
+    "wof:geomhash":"f2f2dade6c1895b412671fb13a460e9b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769075,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108769075,
-    "wof:lastmodified":1481487306,
+    "wof:lastmodified":1532444437,
     "wof:name":"Mississippi State Senate District 47",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

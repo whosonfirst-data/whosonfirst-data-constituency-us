@@ -11,6 +11,7 @@
     "geom:longitude":-133.194311,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":55987498920.0,
     "uscensus:awater":33965929252.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485802,
-    "wof:geomhash":"be1bba577eb59bbb4b0e0d3d9ab26d5d",
+    "wof:geomhash":"4ef035fd915fe9ce36ee2eab8c504d1d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760983,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760983,
-    "wof:lastmodified":1481485802,
+    "wof:lastmodified":1532444454,
     "wof:name":"Alaska State Senate District R",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

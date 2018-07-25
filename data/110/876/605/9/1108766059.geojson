@@ -11,6 +11,7 @@
     "geom:longitude":-90.224165,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":67319373.0,
     "uscensus:awater":4102918.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486786,
-    "wof:geomhash":"2e57c3b2ac3e111d935cb266fa6f63ca",
+    "wof:geomhash":"94dec2fc9949530a24ac56bde31a7fbe",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766059,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766059,
-    "wof:lastmodified":1481486786,
+    "wof:lastmodified":1532444273,
     "wof:name":"Louisiana State Senate District 10",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

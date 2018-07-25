@@ -11,6 +11,7 @@
     "geom:longitude":-87.946751,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1648741935.0,
     "uscensus:awater":14936708.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486544,
-    "wof:geomhash":"594f75588ebc24f3a9b9d3899065f53c",
+    "wof:geomhash":"3a2b1fcc1e58a0eb3398b46ad43096aa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764555,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764555,
-    "wof:lastmodified":1481486544,
+    "wof:lastmodified":1532444367,
     "wof:name":"Illinois State House District 79",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

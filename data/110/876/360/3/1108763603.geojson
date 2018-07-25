@@ -11,6 +11,7 @@
     "geom:longitude":-83.139347,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7243642684.0,
     "uscensus:awater":184458254.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486375,
-    "wof:geomhash":"36fad20c43dfe32ec2e83bf438344571",
+    "wof:geomhash":"e32c7175fd34252186e082998d971e47",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763603,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763603,
-    "wof:lastmodified":1481486375,
+    "wof:lastmodified":1532444122,
     "wof:name":"Georgia State Senate District 8",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

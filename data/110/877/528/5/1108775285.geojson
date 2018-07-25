@@ -11,6 +11,7 @@
     "geom:longitude":-73.148126,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":89676119.0,
     "uscensus:awater":60890547.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488505,
-    "wof:geomhash":"4150517610b6bb18f2f9245b81855b50",
+    "wof:geomhash":"77e161e5298836e8a3a65ab9f6fd8636",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775285,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775285,
-    "wof:lastmodified":1481488505,
+    "wof:lastmodified":1532443742,
     "wof:name":"Vermont Franklin-3-2 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

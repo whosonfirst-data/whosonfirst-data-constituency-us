@@ -11,6 +11,7 @@
     "geom:longitude":-87.43679,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":425045080.0,
     "uscensus:awater":5618938.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486636,
-    "wof:geomhash":"7b933bce2cdd339bd86f12608d08476f",
+    "wof:geomhash":"9f79934b8cc8b9b6c3ba77c22d7510c2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765117,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765117,
-    "wof:lastmodified":1481486636,
+    "wof:lastmodified":1532444316,
     "wof:name":"Indiana State Senate District 50",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

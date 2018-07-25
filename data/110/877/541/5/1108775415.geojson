@@ -11,6 +11,7 @@
     "geom:longitude":-73.076131,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1184539348.0,
     "uscensus:awater":156361179.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488518,
-    "wof:geomhash":"9fcc61ef54613edd7d828a2e15fd6d57",
+    "wof:geomhash":"194bef304538492021bb699848e62550",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775415,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775415,
-    "wof:lastmodified":1481488518,
+    "wof:lastmodified":1532444041,
     "wof:name":"Vermont Chittenden State Senate District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

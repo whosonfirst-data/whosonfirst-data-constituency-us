@@ -11,6 +11,7 @@
     "geom:longitude":-97.333531,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":24576248.0,
     "uscensus:awater":507209.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486658,
-    "wof:geomhash":"c757b98e4536245f873fb92ab8ee829b",
+    "wof:geomhash":"1975b6335f70c221aed2fad2412694f6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765349,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765349,
-    "wof:lastmodified":1481486658,
+    "wof:lastmodified":1532444120,
     "wof:name":"Kansas State House District 103",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

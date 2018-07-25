@@ -11,6 +11,7 @@
     "geom:longitude":-66.407613,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":442902915.0,
     "uscensus:awater":4110191.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488050,
-    "wof:geomhash":"8f4bc4d7290a816287d5915a53b0159a",
+    "wof:geomhash":"e7a6e6a997a32954ac071d4f49657911",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773065,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773065,
-    "wof:lastmodified":1481488050,
+    "wof:lastmodified":1532444052,
     "wof:name":"Puerto Rico State House District 26",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

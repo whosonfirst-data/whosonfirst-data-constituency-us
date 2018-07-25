@@ -11,6 +11,7 @@
     "geom:longitude":-78.565263,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3600364038.0,
     "uscensus:awater":23368139.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487981,
-    "wof:geomhash":"efb50b10e07e8243e65321b13b289bf8",
+    "wof:geomhash":"a43fca2077e4bff066b8adf7b0b96392",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772605,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772605,
-    "wof:lastmodified":1481487981,
+    "wof:lastmodified":1532443746,
     "wof:name":"Pennsylvania State House District 75",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

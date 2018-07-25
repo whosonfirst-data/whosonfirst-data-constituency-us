@@ -11,6 +11,7 @@
     "geom:longitude":-94.366433,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4898989420.0,
     "uscensus:awater":32306823.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486461,
-    "wof:geomhash":"2758d1e9aa6e4994df80937c71bdad00",
+    "wof:geomhash":"cd69b4a79492518693e59e78f80af759",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764129,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764129,
-    "wof:lastmodified":1481486461,
+    "wof:lastmodified":1532444435,
     "wof:name":"Iowa State Senate District 10",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

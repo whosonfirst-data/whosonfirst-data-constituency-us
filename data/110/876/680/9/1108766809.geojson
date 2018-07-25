@@ -11,6 +11,7 @@
     "geom:longitude":-76.217087,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":326516622.0,
     "uscensus:awater":49379002.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486948,
-    "wof:geomhash":"d4e5b091f43a08be12e2d721d0921ac7",
+    "wof:geomhash":"85ce185357f797aff809987fe42452e1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766809,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766809,
-    "wof:lastmodified":1481486948,
+    "wof:lastmodified":1532444487,
     "wof:name":"Maryland State Senate District 34",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

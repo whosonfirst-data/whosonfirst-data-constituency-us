@@ -11,6 +11,7 @@
     "geom:longitude":-91.583534,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":77732809.0,
     "uscensus:awater":4646097.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486449,
-    "wof:geomhash":"aee2dc89cc7c979d235704714b41948c",
+    "wof:geomhash":"0118c8747dc16d5a8989600a27664b04",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764049,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764049,
-    "wof:lastmodified":1481486449,
+    "wof:lastmodified":1532444100,
     "wof:name":"Iowa State House District 74",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

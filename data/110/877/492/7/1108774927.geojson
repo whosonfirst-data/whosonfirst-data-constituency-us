@@ -11,6 +11,7 @@
     "geom:longitude":-77.480577,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":71684243.0,
     "uscensus:awater":867871.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488427,
-    "wof:geomhash":"e1c6ac34c8377b21728d4331b53b5335",
+    "wof:geomhash":"ff6855870a45e04305aa4fb1b8ab79ad",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774927,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774927,
-    "wof:lastmodified":1481488427,
+    "wof:lastmodified":1532444054,
     "wof:name":"Virginia State House District 32",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-115.909309,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":29396926258.0,
     "uscensus:awater":156819801.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486510,
-    "wof:geomhash":"33679fcb10a28ed652fc7980be1bfa07",
+    "wof:geomhash":"713202bef4a1f5b1dea67b57959eed11",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764349,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764349,
-    "wof:lastmodified":1481486510,
+    "wof:lastmodified":1532444181,
     "wof:name":"Idaho State Senate District 23",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

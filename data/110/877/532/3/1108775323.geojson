@@ -11,6 +11,7 @@
     "geom:longitude":-72.978305,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":49641190.0,
     "uscensus:awater":436715.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488508,
-    "wof:geomhash":"4782f4015af22649e836f30d2ed0c9df",
+    "wof:geomhash":"b8fe47ec5934a657bd76ba6b2965a7fd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775323,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775323,
-    "wof:lastmodified":1481488508,
+    "wof:lastmodified":1532443779,
     "wof:name":"Vermont Rutland-4 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

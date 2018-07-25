@@ -11,6 +11,7 @@
     "geom:longitude":-72.95471,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":78846395.0,
     "uscensus:awater":2048989.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486149,
-    "wof:geomhash":"72446a3aff43be7168408513ba3b0e58",
+    "wof:geomhash":"b5a6c4ff6a642055259eae24ace6a526",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762417,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762417,
-    "wof:lastmodified":1481486149,
+    "wof:lastmodified":1532444129,
     "wof:name":"Connecticut State House District 80",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

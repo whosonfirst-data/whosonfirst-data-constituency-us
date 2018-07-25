@@ -11,6 +11,7 @@
     "geom:longitude":-90.207137,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2870771365.0,
     "uscensus:awater":150523272.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486583,
-    "wof:geomhash":"c60a8a177108bf8dc5186fcbb2138a70",
+    "wof:geomhash":"b087703f4f15f933268e1ebe9da4ddf7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764725,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764725,
-    "wof:lastmodified":1481486583,
+    "wof:lastmodified":1532444131,
     "wof:name":"Illinois State Senate District 36",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

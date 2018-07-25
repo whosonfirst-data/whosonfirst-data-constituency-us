@@ -11,6 +11,7 @@
     "geom:longitude":-120.85771,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7183130637.0,
     "uscensus:awater":124759827.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486018,
-    "wof:geomhash":"101aa8b6537373f13814ac65b4a3b235",
+    "wof:geomhash":"5cca9d6b2571d9c874ed0b3c19193402",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761789,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761789,
-    "wof:lastmodified":1481486018,
+    "wof:lastmodified":1532444368,
     "wof:name":"California Assembly District 21",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

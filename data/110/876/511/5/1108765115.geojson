@@ -11,6 +11,7 @@
     "geom:longitude":-87.741396,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2220269521.0,
     "uscensus:awater":52688994.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486635,
-    "wof:geomhash":"ecd6f3f46ade33d3b61d3d9e48dfe4ed",
+    "wof:geomhash":"8b472c11d42830dd855de61c9e38a95f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765115,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765115,
-    "wof:lastmodified":1481486635,
+    "wof:lastmodified":1532444316,
     "wof:name":"Indiana State Senate District 49",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

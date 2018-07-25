@@ -11,6 +11,7 @@
     "geom:longitude":-75.126819,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9708983.0,
     "uscensus:awater":56646.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488019,
-    "wof:geomhash":"f56c54772b60ffd54620bc2663133c0d",
+    "wof:geomhash":"fa3e130513c07e196a14bbe0c734ec7c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772893,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772893,
-    "wof:lastmodified":1481488019,
+    "wof:lastmodified":1532443773,
     "wof:name":"Pennsylvania State House District 203",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-71.994466,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":288885385.0,
     "uscensus:awater":1784865.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488503,
-    "wof:geomhash":"62355f17eaa5989a150e8b222ab3cef7",
+    "wof:geomhash":"a21eef5ab0520479a4ca9293effafad6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775261,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775261,
-    "wof:lastmodified":1481488503,
+    "wof:lastmodified":1532443937,
     "wof:name":"Vermont Caledonia-4 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

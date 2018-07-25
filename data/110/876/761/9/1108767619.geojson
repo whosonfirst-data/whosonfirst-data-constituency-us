@@ -11,6 +11,7 @@
     "geom:longitude":-93.853945,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3745192791.0,
     "uscensus:awater":434714970.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487084,
-    "wof:geomhash":"6c60c42a63bdbed544053b386557af65",
+    "wof:geomhash":"c891e296f6104ff54954f169c13bd274",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767619,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767619,
-    "wof:lastmodified":1481487084,
+    "wof:lastmodified":1532444563,
     "wof:name":"Minnesota State House District 5B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

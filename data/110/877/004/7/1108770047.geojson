@@ -11,6 +11,7 @@
     "geom:longitude":-95.981471,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":101274195.0,
     "uscensus:awater":6225390.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487524,
-    "wof:geomhash":"dfee0711d905742669f2765c5ef3ea27",
+    "wof:geomhash":"6ad7086caeed287e16057d0b5524eb80",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770047,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770047,
-    "wof:lastmodified":1481487524,
+    "wof:lastmodified":1532443785,
     "wof:name":"Nebraska State Senate District 13",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

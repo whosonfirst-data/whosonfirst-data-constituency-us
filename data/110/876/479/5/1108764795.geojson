@@ -11,6 +11,7 @@
     "geom:longitude":-86.309014,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":764076239.0,
     "uscensus:awater":3200489.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486599,
-    "wof:geomhash":"e9706b4f5797f566512846bba910b61b",
+    "wof:geomhash":"bbbf5b0eeee11924b3faad24e14bca54",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764795,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764795,
-    "wof:lastmodified":1481486599,
+    "wof:lastmodified":1532444418,
     "wof:name":"Indiana State House District 7",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-84.729777,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":360795722.0,
     "uscensus:awater":11761730.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486704,
-    "wof:geomhash":"214cdeeee4756152c4076e0d2a48d642",
+    "wof:geomhash":"833f272ef871355d72523a79bba0141a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765623,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765623,
-    "wof:lastmodified":1481486704,
+    "wof:lastmodified":1532444201,
     "wof:name":"Kentucky State House District 60",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

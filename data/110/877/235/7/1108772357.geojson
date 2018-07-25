@@ -11,6 +11,7 @@
     "geom:longitude":-121.055206,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":38800786592.0,
     "uscensus:awater":810918816.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487931,
-    "wof:geomhash":"18d346c849cdf4cda16c897f8570ade9",
+    "wof:geomhash":"190bde5ecac938e0c935a7ea92e04876",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772357,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772357,
-    "wof:lastmodified":1481487931,
+    "wof:lastmodified":1532443909,
     "wof:name":"Oregon State House District 55",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

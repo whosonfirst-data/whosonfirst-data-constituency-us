@@ -11,6 +11,7 @@
     "geom:longitude":-76.595346,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1005202243.0,
     "uscensus:awater":19841127.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486940,
-    "wof:geomhash":"1b8955bb4652e3901ad2c908e1c2badd",
+    "wof:geomhash":"e3859552e93dfb7815f66c711a8c8460",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766797,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766797,
-    "wof:lastmodified":1481486940,
+    "wof:lastmodified":1532444327,
     "wof:name":"Maryland State Senate District 29",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

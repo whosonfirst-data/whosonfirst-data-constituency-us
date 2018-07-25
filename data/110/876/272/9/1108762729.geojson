@@ -11,6 +11,7 @@
     "geom:longitude":-75.711399,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":29694188.0,
     "uscensus:awater":27.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486202,
-    "wof:geomhash":"295daf66df13c7400420abbc5bf566ca",
+    "wof:geomhash":"40e2a413452d9a474a8ffb3247d5437a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762729,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688611
         }
     ],
     "wof:id":1108762729,
-    "wof:lastmodified":1481486202,
+    "wof:lastmodified":1532444325,
     "wof:name":"Delaware State House District 22",
     "wof:parent_id":85688611,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-de",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

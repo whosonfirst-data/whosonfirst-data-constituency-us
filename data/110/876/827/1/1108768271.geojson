@@ -11,6 +11,7 @@
     "geom:longitude":-90.499005,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":34264141.0,
     "uscensus:awater":633554.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487167,
-    "wof:geomhash":"4bc67f9414e25320a7d17ebae8aa0b7b",
+    "wof:geomhash":"c8b9297d21e17e266fc90164d52c1fd5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768271,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768271,
-    "wof:lastmodified":1481487167,
+    "wof:lastmodified":1532444389,
     "wof:name":"Missouri State House District 99",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

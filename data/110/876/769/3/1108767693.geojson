@@ -11,6 +11,7 @@
     "geom:longitude":-96.064592,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6596091946.0,
     "uscensus:awater":82755229.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487093,
-    "wof:geomhash":"a198984e9c95fcbfd9813f17341e9fcd",
+    "wof:geomhash":"b348684eceaa3b8dd98dd550039c7c0b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767693,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767693,
-    "wof:lastmodified":1481487093,
+    "wof:lastmodified":1532444393,
     "wof:name":"Minnesota State House District 22A",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

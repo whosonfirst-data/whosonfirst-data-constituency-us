@@ -11,6 +11,7 @@
     "geom:longitude":-80.100434,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":226960577.0,
     "uscensus:awater":2411377.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488160,
-    "wof:geomhash":"1331d3dfb93ad0af9c680fa5f12e88b3",
+    "wof:geomhash":"751702c91f346f32a70604fd2cd0d4a6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773751,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773751,
-    "wof:lastmodified":1481488160,
+    "wof:lastmodified":1532443870,
     "wof:name":"South Carolina State Senate District 44",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

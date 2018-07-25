@@ -11,6 +11,7 @@
     "geom:longitude":-89.945142,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":205774206.0,
     "uscensus:awater":3169522.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488251,
-    "wof:geomhash":"cbd470c19af1c53a3dbc7918a07b1d13",
+    "wof:geomhash":"74eb6d61a427bceb1431a67a5e2b9967",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774207,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774207,
-    "wof:lastmodified":1481488251,
+    "wof:lastmodified":1532443875,
     "wof:name":"Tennessee State Senate District 30",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-92.182484,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":755944191.0,
     "uscensus:awater":62441624.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485969,
-    "wof:geomhash":"71769043d6af93438e5f0de51139494e",
+    "wof:geomhash":"015636694b1caa907a0f22ea98549d3e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761595,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761595,
-    "wof:lastmodified":1481485969,
+    "wof:lastmodified":1532444558,
     "wof:name":"Arkansas State Senate District 30",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

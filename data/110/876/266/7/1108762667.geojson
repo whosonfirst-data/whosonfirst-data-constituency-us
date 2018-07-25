@@ -11,6 +11,7 @@
     "geom:longitude":-77.043332,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16548998.0,
     "uscensus:awater":5927835.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486178,
-    "wof:geomhash":"ea842ede0f2a9c7005b25bb3281add22",
+    "wof:geomhash":"c23f319def188150f41912a58c2ec026",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762667,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688741
         }
     ],
     "wof:id":1108762667,
-    "wof:lastmodified":1481486178,
+    "wof:lastmodified":1532444250,
     "wof:name":"District of Columbia Ward 2",
     "wof:parent_id":85688741,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-dc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

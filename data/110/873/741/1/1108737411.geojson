@@ -11,6 +11,7 @@
     "geom:longitude":-116.032728,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "ID-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737411,
-    "wof:lastmodified":1493955533,
+    "wof:lastmodified":1532444717,
     "wof:name":"Idaho Congressional District 1",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",

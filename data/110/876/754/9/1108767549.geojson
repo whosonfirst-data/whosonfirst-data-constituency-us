@@ -11,6 +11,7 @@
     "geom:longitude":-83.655051,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":653727901.0,
     "uscensus:awater":9985018.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487071,
-    "wof:geomhash":"b66f38267191cb68e877030199151d6e",
+    "wof:geomhash":"f0bba63d054043b2ede725813e32c5e4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767549,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767549,
-    "wof:lastmodified":1481487071,
+    "wof:lastmodified":1532444507,
     "wof:name":"Michigan State Senate District 18",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-72.479442,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":123625970.0,
     "uscensus:awater":1095893.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488514,
-    "wof:geomhash":"79cfc69ae4b0359cd2ee66960145e4a2",
+    "wof:geomhash":"4ab3748c2e37c5a6a768c474b4eec830",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775395,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775395,
-    "wof:lastmodified":1481488514,
+    "wof:lastmodified":1532443966,
     "wof:name":"Vermont Windsor-3-2 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-84.929546,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2819228328.0,
     "uscensus:awater":84827806.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486384,
-    "wof:geomhash":"2aee142a49fa2a93b2d086c5e0db20c3",
+    "wof:geomhash":"895039173cd39a4755e84adf5ec36cc5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763647,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763647,
-    "wof:lastmodified":1481486384,
+    "wof:lastmodified":1532444301,
     "wof:name":"Georgia State Senate District 28",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

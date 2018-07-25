@@ -11,6 +11,7 @@
     "geom:longitude":-93.224963,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":15828314.0,
     "uscensus:awater":838669.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487114,
-    "wof:geomhash":"b0638c7995c7946c4e24420e3d9cee30",
+    "wof:geomhash":"840d706170e88664f17c374acc01853e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767877,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767877,
-    "wof:lastmodified":1481487114,
+    "wof:lastmodified":1532444579,
     "wof:name":"Minnesota State House District 63A",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

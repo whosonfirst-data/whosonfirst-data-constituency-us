@@ -11,6 +11,7 @@
     "geom:longitude":-89.747781,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "WI-02"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737649,
-    "wof:lastmodified":1493955408,
+    "wof:lastmodified":1532444586,
     "wof:name":"Wisconsin Congressional District 2",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

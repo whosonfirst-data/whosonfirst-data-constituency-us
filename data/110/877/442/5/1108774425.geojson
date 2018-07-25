@@ -11,6 +11,7 @@
     "geom:longitude":-97.156869,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":121895473.0,
     "uscensus:awater":8229636.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488313,
-    "wof:geomhash":"c5eb7934bdab9194c2ee551114a66092",
+    "wof:geomhash":"41c5f341fe6aec05ce7d5af9062e8d6e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774425,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774425,
-    "wof:lastmodified":1481488313,
+    "wof:lastmodified":1532444036,
     "wof:name":"Texas State House District 94",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

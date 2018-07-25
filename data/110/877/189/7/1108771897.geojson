@@ -11,6 +11,7 @@
     "geom:longitude":-80.77679,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2443497343.0,
     "uscensus:awater":42672113.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487841,
-    "wof:geomhash":"b68df9713f136177546727373500f95a",
+    "wof:geomhash":"8d2d4bb65a53b56cb778a11c73ed4131",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771897,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771897,
-    "wof:lastmodified":1481487841,
+    "wof:lastmodified":1532443854,
     "wof:name":"Ohio State Senate District 33",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

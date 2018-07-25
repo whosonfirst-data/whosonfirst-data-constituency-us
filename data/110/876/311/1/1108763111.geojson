@@ -11,6 +11,7 @@
     "geom:longitude":-81.24231,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":981937149.0,
     "uscensus:awater":130614464.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486265,
-    "wof:geomhash":"61daa606023c420f43487bd009c4967a",
+    "wof:geomhash":"3fdbc949098aac30afb212dfb7203adc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763111,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763111,
-    "wof:lastmodified":1481486265,
+    "wof:lastmodified":1532444558,
     "wof:name":"Florida State Senate District 9",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-114.117016,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1338367036.0,
     "uscensus:awater":6246345.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487385,
-    "wof:geomhash":"e693855a0f62da7f8dd08174095e5de7",
+    "wof:geomhash":"ea2f725379177651be5a02b37c653d70",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769411,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769411,
-    "wof:lastmodified":1481487385,
+    "wof:lastmodified":1532444563,
     "wof:name":"Montana State Senate District 44",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-74.007414,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5467174.0,
     "uscensus:awater":6837954.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487721,
-    "wof:geomhash":"0bc459b33f5c4f935eae6cfaa850ce81",
+    "wof:geomhash":"17d2872b62579ac1cd59f6bae8302c2e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771265,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771265,
-    "wof:lastmodified":1481487721,
+    "wof:lastmodified":1532443739,
     "wof:name":"New York Assembly District 65",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-95.774249,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3920103349.0,
     "uscensus:awater":9662644.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486651,
-    "wof:geomhash":"858f10b19dfa81397514dcbfc9e0e72b",
+    "wof:geomhash":"fa7b08a6d8b22449e288fc8fb998140d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765257,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765257,
-    "wof:lastmodified":1481486651,
+    "wof:lastmodified":1532444559,
     "wof:name":"Kansas State House District 62",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

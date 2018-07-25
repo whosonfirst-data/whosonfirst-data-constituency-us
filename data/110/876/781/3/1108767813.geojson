@@ -11,6 +11,7 @@
     "geom:longitude":-93.460039,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":54111959.0,
     "uscensus:awater":5492235.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487109,
-    "wof:geomhash":"6c83b1e356d31a2dac1f2150618cb9ad",
+    "wof:geomhash":"891068ff4e3db1b6c6861f416850bcd8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767813,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767813,
-    "wof:lastmodified":1481487109,
+    "wof:lastmodified":1532444103,
     "wof:name":"Minnesota State House District 48B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

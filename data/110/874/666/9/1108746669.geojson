@@ -17,6 +17,7 @@
     "mps:latitude":37.696825,
     "mps:longitude":-84.924095,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Kentucky"
     ],
@@ -506,7 +507,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231177,
-    "wof:geomhash":"e07effa8a95591cbe6fd4e4afa0ae137",
+    "wof:geomhash":"dc73480c1d1c7e0428485e1aa7d7ff25",
     "wof:hierarchy":[
         {
             "constituency_id":1108746669,
@@ -516,7 +517,7 @@
         }
     ],
     "wof:id":1108746669,
-    "wof:lastmodified":1487197385,
+    "wof:lastmodified":1532443708,
     "wof:name":"Kentucky",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-87.818947,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":90400232.0,
     "uscensus:awater":3749861.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486529,
-    "wof:geomhash":"01050086e1e0e19903344832d193c619",
+    "wof:geomhash":"d007ac729541292abd10d490b6c002df",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764457,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764457,
-    "wof:lastmodified":1481486529,
+    "wof:lastmodified":1532444151,
     "wof:name":"Illinois State House District 36",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-122.238678,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-13"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738317,
-    "wof:lastmodified":1493955411,
+    "wof:lastmodified":1532444714,
     "wof:name":"California Congressional District 13",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

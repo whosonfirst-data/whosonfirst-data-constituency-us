@@ -11,6 +11,7 @@
     "geom:longitude":-95.433267,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":543213493.0,
     "uscensus:awater":5233220.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488351,
-    "wof:geomhash":"7aa46ccd27797975465aaf9cd94885dc",
+    "wof:geomhash":"c1ececca59662f0a2e211b9fccd4f74c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774581,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774581,
-    "wof:lastmodified":1481488351,
+    "wof:lastmodified":1532444044,
     "wof:name":"Texas State Senate District 13",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

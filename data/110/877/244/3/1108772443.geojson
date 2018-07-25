@@ -11,6 +11,7 @@
     "geom:longitude":-80.162333,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":291904403.0,
     "uscensus:awater":1955839449.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487961,
-    "wof:geomhash":"97e8500018607c48067289522e950fe2",
+    "wof:geomhash":"546ca04f3e282a29168d36efd63bfc88",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772443,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772443,
-    "wof:lastmodified":1481487961,
+    "wof:lastmodified":1532443981,
     "wof:name":"Pennsylvania State House District 3",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

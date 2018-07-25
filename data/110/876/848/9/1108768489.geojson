@@ -11,6 +11,7 @@
     "geom:longitude":-92.039584,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16464000106.0,
     "uscensus:awater":53673356.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487202,
-    "wof:geomhash":"f1df57aae5904ef94097c61109c0d478",
+    "wof:geomhash":"e70d48f5ed0009a5027c1897ae9324e4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768489,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768489,
-    "wof:lastmodified":1481487202,
+    "wof:lastmodified":1532444340,
     "wof:name":"Missouri State Senate District 33",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

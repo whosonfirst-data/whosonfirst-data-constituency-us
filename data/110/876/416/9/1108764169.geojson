@@ -11,6 +11,7 @@
     "geom:longitude":-91.524527,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5891558667.0,
     "uscensus:awater":88889685.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486471,
-    "wof:geomhash":"f0f1d2c4a98fb0dbd3bb0455b3f618ac",
+    "wof:geomhash":"c8a34b6bfeb382cd715f9e7f324962fb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764169,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764169,
-    "wof:lastmodified":1481486471,
+    "wof:lastmodified":1532444148,
     "wof:name":"Iowa State Senate District 28",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

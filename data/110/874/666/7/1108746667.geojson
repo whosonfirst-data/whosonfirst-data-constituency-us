@@ -17,6 +17,7 @@
     "mps:latitude":47.471495,
     "mps:longitude":-100.469096,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Noord-Dakota"
     ],
@@ -509,7 +510,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231175,
-    "wof:geomhash":"e550947a0783a3e0895d5aef16116dc4",
+    "wof:geomhash":"e7b6bed79a5a86dd77e62a151fca3cde",
     "wof:hierarchy":[
         {
             "constituency_id":1108746667,
@@ -519,7 +520,7 @@
         }
     ],
     "wof:id":1108746667,
-    "wof:lastmodified":1487197421,
+    "wof:lastmodified":1532443707,
     "wof:name":"North Dakota",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

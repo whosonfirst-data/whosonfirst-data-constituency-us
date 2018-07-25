@@ -11,6 +11,7 @@
     "geom:longitude":-117.379435,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1003737330.0,
     "uscensus:awater":15190560.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486071,
-    "wof:geomhash":"ed864c6e30402ad9a047180d12da182a",
+    "wof:geomhash":"d03ae60db02988635a54aedcba0d2633",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761991,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761991,
-    "wof:lastmodified":1481486071,
+    "wof:lastmodified":1532444352,
     "wof:name":"California State Senate District 31",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

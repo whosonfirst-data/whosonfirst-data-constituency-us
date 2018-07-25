@@ -11,6 +11,7 @@
     "geom:longitude":-70.397243,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":65022068.0,
     "uscensus:awater":312089.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486993,
-    "wof:geomhash":"f4182fcd03ab8c617cf139db7cdf12fe",
+    "wof:geomhash":"b8ec23af4db84ba27900f21e1e827bd3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766903,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108766903,
-    "wof:lastmodified":1481486993,
+    "wof:lastmodified":1532444396,
     "wof:name":"Maine State House District 28",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

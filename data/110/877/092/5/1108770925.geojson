@@ -11,6 +11,7 @@
     "geom:longitude":-106.107916,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2820974128.0,
     "uscensus:awater":743747.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487668,
-    "wof:geomhash":"f0cee00ea51805eaf3637a614e4e973a",
+    "wof:geomhash":"6a026918d393a0d1472cff7652f4eb13",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770925,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688493
         }
     ],
     "wof:id":1108770925,
-    "wof:lastmodified":1481487668,
+    "wof:lastmodified":1532443853,
     "wof:name":"New Mexico State Senate District 19",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nm",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

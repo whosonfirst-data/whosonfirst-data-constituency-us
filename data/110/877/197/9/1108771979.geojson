@@ -11,6 +11,7 @@
     "geom:longitude":-96.299239,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2842100306.0,
     "uscensus:awater":74288202.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487867,
-    "wof:geomhash":"75dc078d0381f3bfcbee7476f197bd4e",
+    "wof:geomhash":"382b6379ab4ba6e3f62eff013d6ff2b3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771979,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771979,
-    "wof:lastmodified":1481487867,
+    "wof:lastmodified":1532444035,
     "wof:name":"Oklahoma State House District 36",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

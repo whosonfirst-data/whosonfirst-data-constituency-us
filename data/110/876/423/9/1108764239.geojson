@@ -11,6 +11,7 @@
     "geom:longitude":-116.646987,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8617844437.0,
     "uscensus:awater":82600497.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486487,
-    "wof:geomhash":"97e91d4759baf9ec0578ad7e7928da41",
+    "wof:geomhash":"9f3590134e1bdcd1ba8b64fcca73f6e7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764239,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764239,
-    "wof:lastmodified":1481486487,
+    "wof:lastmodified":1532444094,
     "wof:name":"Idaho State House District 9",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-93.380318,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":23446248.0,
     "uscensus:awater":234778.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487108,
-    "wof:geomhash":"798ce382c754c32c5bb1bccd981aa7ab",
+    "wof:geomhash":"fb7fd70ab40671a08246be054df260bc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767803,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767803,
-    "wof:lastmodified":1481487108,
+    "wof:lastmodified":1532444408,
     "wof:name":"Minnesota State House District 46B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

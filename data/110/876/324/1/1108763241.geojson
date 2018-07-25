@@ -11,6 +11,7 @@
     "geom:longitude":-83.78876,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":605416641.0,
     "uscensus:awater":33627676.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486301,
-    "wof:geomhash":"cb25ef6db244b0ac8858c16b557ab763",
+    "wof:geomhash":"14d25f5c6f46087a4928de2753e246b4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763241,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763241,
-    "wof:lastmodified":1481486301,
+    "wof:lastmodified":1532444434,
     "wof:name":"Georgia State House District 27",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

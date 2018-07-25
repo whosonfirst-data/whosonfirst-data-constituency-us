@@ -11,6 +11,7 @@
     "geom:longitude":-105.604874,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5876744475.0,
     "uscensus:awater":44069275.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487209,
-    "wof:geomhash":"69757808ff99ee2697f5dfe35880de59",
+    "wof:geomhash":"049ef753e7696752425a0c11d062a68f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768523,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768523,
-    "wof:lastmodified":1481487209,
+    "wof:lastmodified":1532444438,
     "wof:name":"Wyoming State House District 14",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

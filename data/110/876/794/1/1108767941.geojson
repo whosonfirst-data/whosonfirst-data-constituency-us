@@ -11,6 +11,7 @@
     "geom:longitude":-94.208374,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1346274068.0,
     "uscensus:awater":53496452.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487126,
-    "wof:geomhash":"4706b6a8a34f4326d351da5fa5e61dc4",
+    "wof:geomhash":"4b1960ccea357521c8b3d865340417e2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767941,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767941,
-    "wof:lastmodified":1481487126,
+    "wof:lastmodified":1532444125,
     "wof:name":"Minnesota State Senate District 19",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

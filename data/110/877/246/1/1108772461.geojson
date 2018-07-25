@@ -11,6 +11,7 @@
     "geom:longitude":-79.834923,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":507707054.0,
     "uscensus:awater":1437827.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487964,
-    "wof:geomhash":"5a6ea40c523a46b21eb63df8089cfda9",
+    "wof:geomhash":"ba9d370b2074745479e5d48c87c56c41",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772461,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772461,
-    "wof:lastmodified":1481487964,
+    "wof:lastmodified":1532443928,
     "wof:name":"Pennsylvania State House District 11",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

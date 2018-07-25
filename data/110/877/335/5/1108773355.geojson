@@ -11,6 +11,7 @@
     "geom:longitude":-71.401402,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":29645801.0,
     "uscensus:awater":29666089.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488095,
-    "wof:geomhash":"3a10445a1cbe5c4409cffce7b785607a",
+    "wof:geomhash":"bce9adf77c9a154c2420a977c67eea05",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773355,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773355,
-    "wof:lastmodified":1481488095,
+    "wof:lastmodified":1532443965,
     "wof:name":"Rhode Island State Senate District 30",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

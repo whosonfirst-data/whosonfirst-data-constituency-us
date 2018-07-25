@@ -11,6 +11,7 @@
     "geom:longitude":-147.748396,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":20591630.0,
     "uscensus:awater":854156.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485780,
-    "wof:geomhash":"8f2925d0818ca4145789131cbd260bae",
+    "wof:geomhash":"2d3379e554a1560a1dd3b5228b8e177d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760855,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760855,
-    "wof:lastmodified":1481485780,
+    "wof:lastmodified":1532444470,
     "wof:name":"Alaska State House District 1",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

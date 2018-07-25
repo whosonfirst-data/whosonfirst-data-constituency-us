@@ -11,6 +11,7 @@
     "geom:longitude":-73.823023,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NY-05"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737923,
-    "wof:lastmodified":1493955465,
+    "wof:lastmodified":1532444618,
     "wof:name":"New York Congressional District 5",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

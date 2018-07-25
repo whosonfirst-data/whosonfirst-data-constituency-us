@@ -11,6 +11,7 @@
     "geom:longitude":-89.575735,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":126224562.0,
     "uscensus:awater":6425032.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487179,
-    "wof:geomhash":"f36d9b0b1fadf22d3346c75ea526f453",
+    "wof:geomhash":"7b51126972b92daf5dab589387861c7e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768379,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768379,
-    "wof:lastmodified":1481487179,
+    "wof:lastmodified":1532444504,
     "wof:name":"Missouri State House District 147",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

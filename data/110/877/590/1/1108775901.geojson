@@ -11,6 +11,7 @@
     "geom:longitude":-88.635991,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2582549821.0,
     "uscensus:awater":70348157.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488608,
-    "wof:geomhash":"7aed3505ff5c3a61de932d056e4d9f9c",
+    "wof:geomhash":"63566415b2bc4a4d3e35b0ed3f3d2cf1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775901,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775901,
-    "wof:lastmodified":1481488608,
+    "wof:lastmodified":1532443763,
     "wof:name":"Wisconsin State Senate District 11",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-77.432972,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":42046525.0,
     "uscensus:awater":561663.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488441,
-    "wof:geomhash":"7f021f7cf77c8705b82ae9bad46f6ceb",
+    "wof:geomhash":"5409fc81eba72468598a5b1ad8d5e191",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775015,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775015,
-    "wof:lastmodified":1481488441,
+    "wof:lastmodified":1532443957,
     "wof:name":"Virginia State House District 71",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

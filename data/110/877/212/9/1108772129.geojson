@@ -11,6 +11,7 @@
     "geom:longitude":-95.052122,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4868183229.0,
     "uscensus:awater":198694534.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487891,
-    "wof:geomhash":"5a16140af0cbfdd3efb2df26c2e264fe",
+    "wof:geomhash":"55145b1d1d995544559b8ab5a30f9ee3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772129,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772129,
-    "wof:lastmodified":1481487891,
+    "wof:lastmodified":1532443865,
     "wof:name":"Oklahoma State Senate District 1",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

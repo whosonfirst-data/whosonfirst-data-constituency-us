@@ -11,6 +11,7 @@
     "geom:longitude":-74.732559,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":763663872.0,
     "uscensus:awater":7279078.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487613,
-    "wof:geomhash":"1abbf62cde70c612a139cae67c28bb36",
+    "wof:geomhash":"bd91ab37867767afe8585274116953c2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770671,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770671,
-    "wof:lastmodified":1481487613,
+    "wof:lastmodified":1532443935,
     "wof:name":"New Jersey State Senate District 16",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

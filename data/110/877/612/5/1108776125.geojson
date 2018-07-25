@@ -11,6 +11,7 @@
     "geom:longitude":-80.695895,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6512707337.0,
     "uscensus:awater":50903075.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488656,
-    "wof:geomhash":"fbd0b78edabb03a97c308ec3ff2925e0",
+    "wof:geomhash":"69b3b3d57d4850c4654c299b0c3b2df4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776125,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776125,
-    "wof:lastmodified":1481488656,
+    "wof:lastmodified":1532443751,
     "wof:name":"West Virginia State Senate District 10",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

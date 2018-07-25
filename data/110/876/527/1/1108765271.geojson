@@ -11,6 +11,7 @@
     "geom:longitude":-96.636381,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4037196945.0,
     "uscensus:awater":35255186.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486652,
-    "wof:geomhash":"b7e42083aa5180fb5a426c7cedbab90f",
+    "wof:geomhash":"75df323cfe3c332da7f65e3f3e425d68",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765271,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765271,
-    "wof:lastmodified":1481486652,
+    "wof:lastmodified":1532444153,
     "wof:name":"Kansas State House District 68",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

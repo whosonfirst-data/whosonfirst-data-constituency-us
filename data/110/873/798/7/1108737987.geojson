@@ -11,6 +11,7 @@
     "geom:longitude":-78.387413,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "MD-06"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737987,
-    "wof:lastmodified":1493955434,
+    "wof:lastmodified":1532444658,
     "wof:name":"Maryland Congressional District 6",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

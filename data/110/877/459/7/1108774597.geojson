@@ -11,6 +11,7 @@
     "geom:longitude":-98.061899,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9722442384.0,
     "uscensus:awater":180404703.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488355,
-    "wof:geomhash":"b28f18507dc2d8f6c15441139c536653",
+    "wof:geomhash":"2fad69dac1aa7327849a578903d96a1a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774597,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774597,
-    "wof:lastmodified":1481488355,
+    "wof:lastmodified":1532443901,
     "wof:name":"Texas State Senate District 20",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

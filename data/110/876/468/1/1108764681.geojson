@@ -11,6 +11,7 @@
     "geom:longitude":-87.772716,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":86672557.0,
     "uscensus:awater":424914.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486577,
-    "wof:geomhash":"d4a0d75b45ea28580e529ea77ef63c06",
+    "wof:geomhash":"396380d0ac91d768ec72c7bdf16396f8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764681,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764681,
-    "wof:lastmodified":1481486577,
+    "wof:lastmodified":1532444116,
     "wof:name":"Illinois State Senate District 16",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

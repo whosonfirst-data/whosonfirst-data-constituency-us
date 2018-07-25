@@ -11,6 +11,7 @@
     "geom:longitude":-81.33139,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":627950070.0,
     "uscensus:awater":8047025.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487439,
-    "wof:geomhash":"f87cb502b803e002094be057517a45e4",
+    "wof:geomhash":"1198e8f56501b6a9bde8720c449ba1f8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769671,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769671,
-    "wof:lastmodified":1481487439,
+    "wof:lastmodified":1532444464,
     "wof:name":"North Carolina State House District 110",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

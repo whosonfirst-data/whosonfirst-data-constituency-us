@@ -11,6 +11,7 @@
     "geom:longitude":-85.719596,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":15972682460.0,
     "uscensus:awater":11223137514.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487075,
-    "wof:geomhash":"c07b16a6af0add8f0e76c54673e4ccdb",
+    "wof:geomhash":"8738ce8414eca3f3a9f778c754dc9012",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767587,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767587,
-    "wof:lastmodified":1481487075,
+    "wof:lastmodified":1532444444,
     "wof:name":"Michigan State Senate District 35",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-79.53427,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1054430764.0,
     "uscensus:awater":39518307.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488418,
-    "wof:geomhash":"ef47cccb570c7ddc9d37d1f9f5a1e721",
+    "wof:geomhash":"8a087e0a289874f84bbbd76a441a1b49",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774905,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774905,
-    "wof:lastmodified":1481488418,
+    "wof:lastmodified":1532443914,
     "wof:name":"Virginia State House District 22",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

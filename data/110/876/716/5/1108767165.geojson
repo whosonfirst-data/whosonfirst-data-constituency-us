@@ -11,6 +11,7 @@
     "geom:longitude":-68.075617,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1990826366.0,
     "uscensus:awater":68774852.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487025,
-    "wof:geomhash":"a99043a561adfd2ec7013bd260103acd",
+    "wof:geomhash":"ce22a5674a3e1da14fde225ffc9b0a89",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767165,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767165,
-    "wof:lastmodified":1481487025,
+    "wof:lastmodified":1532444432,
     "wof:name":"Maine State House District 144",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

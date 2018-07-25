@@ -11,6 +11,7 @@
     "geom:longitude":-85.795788,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":31810380.0,
     "uscensus:awater":50194.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486699,
-    "wof:geomhash":"5771c72de2169325ce71047af8c62bd0",
+    "wof:geomhash":"5ecaf5ae410a0da70f1a870cdccd91b7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765579,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765579,
-    "wof:lastmodified":1481486699,
+    "wof:lastmodified":1532444213,
     "wof:name":"Kentucky State House District 40",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

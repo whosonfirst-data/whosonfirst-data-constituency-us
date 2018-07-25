@@ -11,6 +11,7 @@
     "geom:longitude":-87.04295,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":213214074.0,
     "uscensus:awater":2400659.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485852,
-    "wof:geomhash":"5aab2e07c3ef3d7efc3e4a7d008e66a3",
+    "wof:geomhash":"77e710ac742939a46c72f18200e121ed",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761007,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761007,
-    "wof:lastmodified":1481485852,
+    "wof:lastmodified":1532444211,
     "wof:name":"Alabama State House District 8",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

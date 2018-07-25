@@ -17,6 +17,7 @@
     "mps:latitude":19.647634,
     "mps:longitude":-155.533256,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Hawaii"
     ],
@@ -51,7 +52,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231169,
-    "wof:geomhash":"3036c294824a51ccff2f3740f44e20c3",
+    "wof:geomhash":"2269e892c9657814ee5ba3c504323b86",
     "wof:hierarchy":[
         {
             "constituency_id":1108746643,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1108746643,
-    "wof:lastmodified":1487197425,
+    "wof:lastmodified":1532443718,
     "wof:name":"Hawaii",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

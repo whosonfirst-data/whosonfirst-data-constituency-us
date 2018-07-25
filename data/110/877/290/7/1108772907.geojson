@@ -11,6 +11,7 @@
     "geom:longitude":-74.957927,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":288950046.0,
     "uscensus:awater":9649535.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488024,
-    "wof:geomhash":"dc51c74a0d2087df94cec759f99a2796",
+    "wof:geomhash":"16c064757e446424ad4cda0a084ddf3f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772907,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772907,
-    "wof:lastmodified":1481488024,
+    "wof:lastmodified":1532444017,
     "wof:name":"Pennsylvania State Senate District 6",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-92.580698,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3123044930.0,
     "uscensus:awater":43125861.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487145,
-    "wof:geomhash":"08c88a09ad7385a71e652fa1770bade6",
+    "wof:geomhash":"65ac14e0a5a4f956ed9af84204090898",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768063,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768063,
-    "wof:lastmodified":1481487145,
+    "wof:lastmodified":1532444523,
     "wof:name":"Missouri State House District 6",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

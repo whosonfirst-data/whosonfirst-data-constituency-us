@@ -11,6 +11,7 @@
     "geom:longitude":-73.479229,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":227528981.0,
     "uscensus:awater":21931576.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486173,
-    "wof:geomhash":"5b0abb6d9326b94121fe9d030cf33a9d",
+    "wof:geomhash":"3b4307b4f96b7401706c1f20eceeb0ba",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762633,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762633,
-    "wof:lastmodified":1481486173,
+    "wof:lastmodified":1532444189,
     "wof:name":"Connecticut State Senate District 24",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

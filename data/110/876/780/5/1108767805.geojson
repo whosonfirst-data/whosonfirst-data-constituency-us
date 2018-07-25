@@ -11,6 +11,7 @@
     "geom:longitude":-93.832918,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":806369895.0,
     "uscensus:awater":44304344.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487109,
-    "wof:geomhash":"385b38b8dc8091db4fb53c693980e46a",
+    "wof:geomhash":"774c09b3a52667e976f1b67378cfe386",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767805,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767805,
-    "wof:lastmodified":1481487109,
+    "wof:lastmodified":1532444409,
     "wof:name":"Minnesota State House District 47A",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

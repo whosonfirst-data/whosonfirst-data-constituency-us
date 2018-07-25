@@ -11,6 +11,7 @@
     "geom:longitude":-88.622414,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8499709370.0,
     "uscensus:awater":230119976.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488247,
-    "wof:geomhash":"232e7bd4b9747cabd284702c99046fd8",
+    "wof:geomhash":"8c6fe583c3a16326402fd742e73063c2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774193,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774193,
-    "wof:lastmodified":1481488247,
+    "wof:lastmodified":1532444023,
     "wof:name":"Tennessee State Senate District 24",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

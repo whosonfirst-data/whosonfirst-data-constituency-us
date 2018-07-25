@@ -11,6 +11,7 @@
     "geom:longitude":-83.054636,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52266472.0,
     "uscensus:awater":26408.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487044,
-    "wof:geomhash":"8c3b02523a684e69cd463769d255b444",
+    "wof:geomhash":"a303af648fc91d0fe4f782bda7e283e6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767269,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767269,
-    "wof:lastmodified":1481487044,
+    "wof:lastmodified":1532444530,
     "wof:name":"Michigan State House District 4",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

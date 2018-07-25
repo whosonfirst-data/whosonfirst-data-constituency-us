@@ -17,6 +17,7 @@
     "mps:latitude":40.860198,
     "mps:longitude":-77.838617,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Pennsilvani\u00eb"
     ],
@@ -525,7 +526,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231194,
-    "wof:geomhash":"9617d3f6128664d24f6f6bb8b579f0a7",
+    "wof:geomhash":"16a0276d8bb56ab5b1d5bb99b8a9bea6",
     "wof:hierarchy":[
         {
             "constituency_id":1108746719,
@@ -535,7 +536,7 @@
         }
     ],
     "wof:id":1108746719,
-    "wof:lastmodified":1487197388,
+    "wof:lastmodified":1532443732,
     "wof:name":"Pennsylvania",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

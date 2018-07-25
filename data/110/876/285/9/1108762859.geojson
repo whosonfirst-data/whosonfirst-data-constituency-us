@@ -11,6 +11,7 @@
     "geom:longitude":-81.42928,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":924190091.0,
     "uscensus:awater":434597968.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486226,
-    "wof:geomhash":"9cbf86c3a7a5e476f1f18a5cde6dd055",
+    "wof:geomhash":"f6f460b4bccfc00f99c00c659827cfe9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762859,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762859,
-    "wof:lastmodified":1481486226,
+    "wof:lastmodified":1532444076,
     "wof:name":"Florida State House District 17",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

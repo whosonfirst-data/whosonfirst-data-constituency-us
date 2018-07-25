@@ -11,6 +11,7 @@
     "geom:longitude":-82.720212,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5302932892.0,
     "uscensus:awater":28404876.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486734,
-    "wof:geomhash":"6b5f8da4dfde98a85f452a37c0e9bc4c",
+    "wof:geomhash":"0982a96438326d04b9cb9cd10e971090",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765783,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765783,
-    "wof:lastmodified":1481486734,
+    "wof:lastmodified":1532444317,
     "wof:name":"Kentucky State Senate District 31",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

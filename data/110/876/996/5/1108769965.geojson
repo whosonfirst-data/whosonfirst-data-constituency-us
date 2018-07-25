@@ -11,6 +11,7 @@
     "geom:longitude":-97.943969,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5715623564.0,
     "uscensus:awater":62478808.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487514,
-    "wof:geomhash":"7e29b2635bb31f75b2bc763c6c2bb847",
+    "wof:geomhash":"1183d1e5a1ae43290ac796263bc11cc3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769965,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108769965,
-    "wof:lastmodified":1481487514,
+    "wof:lastmodified":1532444419,
     "wof:name":"North Dakota State Senate District 24",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

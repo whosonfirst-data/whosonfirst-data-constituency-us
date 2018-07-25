@@ -11,6 +11,7 @@
     "geom:longitude":-93.372946,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":88687525.0,
     "uscensus:awater":5160262.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487134,
-    "wof:geomhash":"f560a3c3ba7c974885e1add278e3cf8c",
+    "wof:geomhash":"1801d13bf383ce17f81bb8128c4d23e4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768009,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108768009,
-    "wof:lastmodified":1481487134,
+    "wof:lastmodified":1532444436,
     "wof:name":"Minnesota State Senate District 49",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

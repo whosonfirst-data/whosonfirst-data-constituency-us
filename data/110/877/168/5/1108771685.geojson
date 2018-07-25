@@ -11,6 +11,7 @@
     "geom:longitude":-84.267693,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":149310061.0,
     "uscensus:awater":975324.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487791,
-    "wof:geomhash":"61572e3365236f911d51b478136b21ed",
+    "wof:geomhash":"0d6751c7c392068c9312a2d361278d23",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771685,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771685,
-    "wof:lastmodified":1481487791,
+    "wof:lastmodified":1532443763,
     "wof:name":"Ohio State House District 39",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

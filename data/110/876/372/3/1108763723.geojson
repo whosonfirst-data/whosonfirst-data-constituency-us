@@ -11,6 +11,7 @@
     "geom:longitude":-155.723152,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3141365697.0,
     "uscensus:awater":708926952.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486398,
-    "wof:geomhash":"0c66e8ab12edb7d156a7a1940c3a079a",
+    "wof:geomhash":"c6b7c36a0256011971e246b4e68104ae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763723,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763723,
-    "wof:lastmodified":1481486398,
+    "wof:lastmodified":1532444207,
     "wof:name":"Hawaii State House District 5",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

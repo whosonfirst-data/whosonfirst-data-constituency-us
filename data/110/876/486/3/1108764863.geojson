@@ -11,6 +11,7 @@
     "geom:longitude":-85.967477,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":101493479.0,
     "uscensus:awater":2049768.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486607,
-    "wof:geomhash":"a07fe3e3fa2b1d295ef6f14096a88230",
+    "wof:geomhash":"15b73c90767a6da187153192f350ee82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764863,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764863,
-    "wof:lastmodified":1481486607,
+    "wof:lastmodified":1532444109,
     "wof:name":"Indiana State House District 37",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

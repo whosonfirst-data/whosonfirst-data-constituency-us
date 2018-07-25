@@ -11,6 +11,7 @@
     "geom:longitude":-74.524822,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9742054702.0,
     "uscensus:awater":510969885.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487763,
-    "wof:geomhash":"f975e5c0da174f1d4d9f64541ec2fe0c",
+    "wof:geomhash":"c92ca34c69fe213ec433e1a5433bbc27",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771565,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771565,
-    "wof:lastmodified":1481487763,
+    "wof:lastmodified":1532443738,
     "wof:name":"New York State Senate District 49",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

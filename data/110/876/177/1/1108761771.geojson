@@ -11,6 +11,7 @@
     "geom:longitude":-121.417287,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1792343026.0,
     "uscensus:awater":64331450.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486015,
-    "wof:geomhash":"60e1031003107819c4d4b7372ccab9a0",
+    "wof:geomhash":"c37cc8bd1a10a49c75e24f3ca5b78342",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761771,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761771,
-    "wof:lastmodified":1481486015,
+    "wof:lastmodified":1532444482,
     "wof:name":"California Assembly District 13",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-96.239324,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3660724550.0,
     "uscensus:awater":53258486.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487863,
-    "wof:geomhash":"13f29ed7abaf2cdd93f955322b31c2eb",
+    "wof:geomhash":"abb951faf7375d9ba262eb7294ddcc2e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771953,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771953,
-    "wof:lastmodified":1481487863,
+    "wof:lastmodified":1532443755,
     "wof:name":"Oklahoma State House District 24",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

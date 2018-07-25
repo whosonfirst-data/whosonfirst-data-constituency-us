@@ -11,6 +11,7 @@
     "geom:longitude":-93.385774,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":29357227.0,
     "uscensus:awater":616973.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487108,
-    "wof:geomhash":"0f48434dedfbf073e7de381283dfa239",
+    "wof:geomhash":"907c53635638188eb330db5b3ac63010",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767797,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767797,
-    "wof:lastmodified":1481487108,
+    "wof:lastmodified":1532444503,
     "wof:name":"Minnesota State House District 45A",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

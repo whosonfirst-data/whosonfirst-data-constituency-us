@@ -11,6 +11,7 @@
     "geom:longitude":-120.083152,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":22061111976.0,
     "uscensus:awater":462596103.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488551,
-    "wof:geomhash":"ab7a755d03677eb2f695b0c95a65ef3a",
+    "wof:geomhash":"b342fd2d354f1d06887df3398074c208",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775571,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775571,
-    "wof:lastmodified":1481488551,
+    "wof:lastmodified":1532443821,
     "wof:name":"Washington State Senate District 12",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

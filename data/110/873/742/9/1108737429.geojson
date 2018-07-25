@@ -11,6 +11,7 @@
     "geom:longitude":-89.889271,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "LA-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737429,
-    "wof:lastmodified":1493955525,
+    "wof:lastmodified":1532444672,
     "wof:name":"Louisiana Congressional District 1",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",

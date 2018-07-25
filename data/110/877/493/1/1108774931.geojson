@@ -11,6 +11,7 @@
     "geom:longitude":-77.278432,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":152704923.0,
     "uscensus:awater":1493961.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488428,
-    "wof:geomhash":"6818e30062cb3a64c698ec8144f84e51",
+    "wof:geomhash":"959ec2ba42b8503186cadca0af077120",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774931,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774931,
-    "wof:lastmodified":1481488428,
+    "wof:lastmodified":1532443824,
     "wof:name":"Virginia State House District 34",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

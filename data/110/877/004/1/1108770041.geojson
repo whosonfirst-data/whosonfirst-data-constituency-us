@@ -11,6 +11,7 @@
     "geom:longitude":-96.129588,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":134496383.0,
     "uscensus:awater":576664.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487523,
-    "wof:geomhash":"7505e2576ec8b9732b075a89f2116083",
+    "wof:geomhash":"4659139b21245a43e57935c2309b4153",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770041,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770041,
-    "wof:lastmodified":1481487523,
+    "wof:lastmodified":1532443785,
     "wof:name":"Nebraska State Senate District 10",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

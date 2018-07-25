@@ -11,6 +11,7 @@
     "geom:longitude":-121.585614,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-19"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738437,
-    "wof:lastmodified":1493955410,
+    "wof:lastmodified":1532444662,
     "wof:name":"California Congressional District 19",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-83.878975,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":504590142.0,
     "uscensus:awater":118688241.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487061,
-    "wof:geomhash":"ff1e7e5ef4729285e12d2bc19bb613e6",
+    "wof:geomhash":"12fc7f2f333141995a95d636f33a352d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767475,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767475,
-    "wof:lastmodified":1481487061,
+    "wof:lastmodified":1532444514,
     "wof:name":"Michigan State House District 96",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-97.759632,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8599150993.0,
     "uscensus:awater":587604983.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488291,
-    "wof:geomhash":"f1416e5c5f94219b50dc46a03a8eb93c",
+    "wof:geomhash":"be8989371a2b1d85ae15c05a6fe5228f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774311,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774311,
-    "wof:lastmodified":1481488291,
+    "wof:lastmodified":1532443797,
     "wof:name":"Texas State House District 43",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

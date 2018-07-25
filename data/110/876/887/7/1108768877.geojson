@@ -11,6 +11,7 @@
     "geom:longitude":-88.653436,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1200463113.0,
     "uscensus:awater":5127864.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487267,
-    "wof:geomhash":"d14d53b6c49ce6b001d69eb83bb4807a",
+    "wof:geomhash":"011ab297bcc57d46101e3da520d197b2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768877,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768877,
-    "wof:lastmodified":1481487267,
+    "wof:lastmodified":1532444104,
     "wof:name":"Mississippi State House District 81",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-71.218929,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":330570007.0,
     "uscensus:awater":8984405.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487564,
-    "wof:geomhash":"a628026291b2f498ea19a9b01a44c73c",
+    "wof:geomhash":"f67c9db210cf82bad031a73d68a40e93",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770371,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770371,
-    "wof:lastmodified":1481487564,
+    "wof:lastmodified":1532443757,
     "wof:name":"New Hampshire State House District Rockingham County No. 2",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

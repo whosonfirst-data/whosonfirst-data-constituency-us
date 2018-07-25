@@ -11,6 +11,7 @@
     "geom:longitude":-87.701143,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":25478930.0,
     "uscensus:awater":250403.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486522,
-    "wof:geomhash":"a3703a788fd1964e8e3859e6585bb5eb",
+    "wof:geomhash":"786697af5ae26d56f86c8d9d879fee71",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764399,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764399,
-    "wof:lastmodified":1481486522,
+    "wof:lastmodified":1532444108,
     "wof:name":"Illinois State House District 10",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

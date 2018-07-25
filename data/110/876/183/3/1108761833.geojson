@@ -11,6 +11,7 @@
     "geom:longitude":-117.423633,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":926135115.0,
     "uscensus:awater":1889130.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486026,
-    "wof:geomhash":"550741c10b111dc09b0f7edcdad22c22",
+    "wof:geomhash":"63396748e302e2b14612b6068017197c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761833,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761833,
-    "wof:lastmodified":1481486026,
+    "wof:lastmodified":1532444240,
     "wof:name":"California Assembly District 40",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

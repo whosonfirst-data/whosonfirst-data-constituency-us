@@ -11,6 +11,7 @@
     "geom:longitude":-118.784126,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":34547907390.0,
     "uscensus:awater":184628461.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487954,
-    "wof:geomhash":"566c54c703e38af66ef15100e7759205",
+    "wof:geomhash":"470ecf0ef6560175955b545b159e8ab3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772435,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772435,
-    "wof:lastmodified":1481487954,
+    "wof:lastmodified":1532443860,
     "wof:name":"Oregon State Senate District 29",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

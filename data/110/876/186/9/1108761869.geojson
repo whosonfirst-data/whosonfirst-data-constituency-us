@@ -11,6 +11,7 @@
     "geom:longitude":-115.394242,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":22324430636.0,
     "uscensus:awater":977343937.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486031,
-    "wof:geomhash":"1c126b3218419c23b2890d3349681009",
+    "wof:geomhash":"c65fa94eca8823d729612c3f6be458b9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761869,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761869,
-    "wof:lastmodified":1481486031,
+    "wof:lastmodified":1532444371,
     "wof:name":"California Assembly District 56",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

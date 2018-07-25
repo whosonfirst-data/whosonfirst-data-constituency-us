@@ -11,6 +11,7 @@
     "geom:longitude":-75.64291,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":19720649.0,
     "uscensus:awater":11967.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486196,
-    "wof:geomhash":"10c0a689c01b7f6c952ad9fed234d9f4",
+    "wof:geomhash":"317533dc31467d98714f8f14e19683ff",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762723,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688611
         }
     ],
     "wof:id":1108762723,
-    "wof:lastmodified":1481486196,
+    "wof:lastmodified":1532444325,
     "wof:name":"Delaware State House District 19",
     "wof:parent_id":85688611,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-de",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

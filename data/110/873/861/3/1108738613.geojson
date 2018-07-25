@@ -11,6 +11,7 @@
     "geom:longitude":-117.155374,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-52"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738613,
-    "wof:lastmodified":1493955487,
+    "wof:lastmodified":1532444650,
     "wof:name":"California Congressional District 52",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

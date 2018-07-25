@@ -11,6 +11,7 @@
     "geom:longitude":-105.222636,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":101584119.0,
     "uscensus:awater":6844662.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486085,
-    "wof:geomhash":"e028cec076228869b8e9ae5021abc819",
+    "wof:geomhash":"a79743c14c221055d89a0164e73eb8f9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762035,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762035,
-    "wof:lastmodified":1481486085,
+    "wof:lastmodified":1532444135,
     "wof:name":"Colorado State House District 10",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

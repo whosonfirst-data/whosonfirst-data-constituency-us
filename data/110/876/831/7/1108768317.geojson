@@ -11,6 +11,7 @@
     "geom:longitude":-91.015648,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1522673799.0,
     "uscensus:awater":3920836.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487172,
-    "wof:geomhash":"a03ad971035b1a09ff02688240ddae4f",
+    "wof:geomhash":"5bdaddc32ad55146dfa4cbbd1aa425d5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768317,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768317,
-    "wof:lastmodified":1481487172,
+    "wof:lastmodified":1532444514,
     "wof:name":"Missouri State House District 119",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

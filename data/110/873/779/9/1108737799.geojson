@@ -11,6 +11,7 @@
     "geom:longitude":-97.739811,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "KS-04"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737799,
-    "wof:lastmodified":1493955505,
+    "wof:lastmodified":1532444706,
     "wof:name":"Kansas Congressional District 4",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-84.690788,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2342171843.0,
     "uscensus:awater":24109804.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487062,
-    "wof:geomhash":"990c2bd5d0d3bec7035f0b7466126418",
+    "wof:geomhash":"fc1bfa88639ea78e30501d8520a1d62d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767481,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767481,
-    "wof:lastmodified":1481487062,
+    "wof:lastmodified":1532444126,
     "wof:name":"Michigan State House District 99",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

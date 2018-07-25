@@ -11,6 +11,7 @@
     "geom:longitude":-76.940847,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8963506769.0,
     "uscensus:awater":1056147198.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487456,
-    "wof:geomhash":"a33483ae595c95bd299aca731f6926e5",
+    "wof:geomhash":"6b9a156e5c62a91fd42af76966762937",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769701,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769701,
-    "wof:lastmodified":1481487456,
+    "wof:lastmodified":1532444509,
     "wof:name":"North Carolina State Senate District 3",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

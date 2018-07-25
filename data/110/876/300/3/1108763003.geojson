@@ -11,6 +11,7 @@
     "geom:longitude":-80.582669,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3322282098.0,
     "uscensus:awater":615669694.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486246,
-    "wof:geomhash":"a6d6cfa6b299723287f43691c0af3545",
+    "wof:geomhash":"f0aba1ba177de15190a35486b4a190a7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763003,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763003,
-    "wof:lastmodified":1481486246,
+    "wof:lastmodified":1532444122,
     "wof:name":"Florida State House District 81",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

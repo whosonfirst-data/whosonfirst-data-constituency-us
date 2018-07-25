@@ -11,6 +11,7 @@
     "geom:longitude":-92.70568,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1859593543.0,
     "uscensus:awater":50948547.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485943,
-    "wof:geomhash":"1d03fc8d2a38b54c30bd773482785191",
+    "wof:geomhash":"587689f58dcc0845445220110775fa05",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761449,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761449,
-    "wof:lastmodified":1481485943,
+    "wof:lastmodified":1532444405,
     "wof:name":"Arkansas State House District 65",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

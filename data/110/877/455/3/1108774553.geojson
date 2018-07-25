@@ -11,6 +11,7 @@
     "geom:longitude":-94.831664,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":26807850832.0,
     "uscensus:awater":814576525.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488346,
-    "wof:geomhash":"76615cc3e24cc800dfc2c094318b9d65",
+    "wof:geomhash":"d9b5e81650d60c1d256ae0b31698e5ca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774553,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774553,
-    "wof:lastmodified":1481488346,
+    "wof:lastmodified":1532443930,
     "wof:name":"Texas State Senate District 1",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

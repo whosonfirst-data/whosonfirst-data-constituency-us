@@ -11,6 +11,7 @@
     "geom:longitude":-98.336146,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":300615587.0,
     "uscensus:awater":2890809.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488331,
-    "wof:geomhash":"5d5d53995d4528902f3c1c1c1be3e3c9",
+    "wof:geomhash":"90b1c66471282ff51e8dbc5bab5825b9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774481,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774481,
-    "wof:lastmodified":1481488331,
+    "wof:lastmodified":1532443906,
     "wof:name":"Texas State House District 119",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-80.56085,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1472438998.0,
     "uscensus:awater":650949613.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488133,
-    "wof:geomhash":"7372f7d2aa4aa14d40c645d3482ce6d3",
+    "wof:geomhash":"d0a1e566ab00ea1df03e77fe931e13cd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773645,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773645,
-    "wof:lastmodified":1481488133,
+    "wof:lastmodified":1532443887,
     "wof:name":"South Carolina State House District HD-121",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

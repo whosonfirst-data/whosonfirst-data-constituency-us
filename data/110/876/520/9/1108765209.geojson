@@ -11,6 +11,7 @@
     "geom:longitude":-94.931602,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":24787805.0,
     "uscensus:awater":501570.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486646,
-    "wof:geomhash":"d91384af50545012a5765d538ccfab46",
+    "wof:geomhash":"b6fccc7f255538b9abc42681a7f91bda",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765209,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765209,
-    "wof:lastmodified":1481486646,
+    "wof:lastmodified":1532444110,
     "wof:name":"Kansas State House District 41",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

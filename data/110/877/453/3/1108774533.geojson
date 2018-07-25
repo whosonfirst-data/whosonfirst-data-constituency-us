@@ -11,6 +11,7 @@
     "geom:longitude":-95.212385,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":279274340.0,
     "uscensus:awater":12386311.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488336,
-    "wof:geomhash":"f925a9f12e41690578215bbb26a54671",
+    "wof:geomhash":"007abe7bc96c432c705b33ffd872a2b1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774533,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774533,
-    "wof:lastmodified":1481488336,
+    "wof:lastmodified":1532443987,
     "wof:name":"Texas State House District 142",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

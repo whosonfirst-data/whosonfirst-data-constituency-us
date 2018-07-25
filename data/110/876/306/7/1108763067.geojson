@@ -11,6 +11,7 @@
     "geom:longitude":-80.307689,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":37750096.0,
     "uscensus:awater":3235205.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486254,
-    "wof:geomhash":"d1f3cb9a8fb81c49fc80cafbf7e093a9",
+    "wof:geomhash":"0ca8d5d269c41302cea3469e6361524f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763067,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763067,
-    "wof:lastmodified":1481486254,
+    "wof:lastmodified":1532444574,
     "wof:name":"Florida State House District 110",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

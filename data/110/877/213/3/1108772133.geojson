@@ -11,6 +11,7 @@
     "geom:longitude":-94.838955,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4256202563.0,
     "uscensus:awater":87159298.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487891,
-    "wof:geomhash":"5be8c12c6cbe4b10dfe0f0519c4c25d3",
+    "wof:geomhash":"0d69c2f18ff198e430c511c6c3dba903",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772133,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772133,
-    "wof:lastmodified":1481487891,
+    "wof:lastmodified":1532443735,
     "wof:name":"Oklahoma State Senate District 3",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

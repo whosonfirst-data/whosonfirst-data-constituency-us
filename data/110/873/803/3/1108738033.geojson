@@ -11,6 +11,7 @@
     "geom:longitude":-88.280936,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "WI-06"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738033,
-    "wof:lastmodified":1493955551,
+    "wof:lastmodified":1532444639,
     "wof:name":"Wisconsin Congressional District 6",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

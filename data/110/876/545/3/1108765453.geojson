@@ -11,6 +11,7 @@
     "geom:longitude":-97.471703,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2923649800.0,
     "uscensus:awater":9426691.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486672,
-    "wof:geomhash":"500a271b57ed90a9f0ada7178caa197f",
+    "wof:geomhash":"dfd7797cd6193e1e411998009d880aae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765453,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765453,
-    "wof:lastmodified":1481486672,
+    "wof:lastmodified":1532444127,
     "wof:name":"Kansas State Senate District 24",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

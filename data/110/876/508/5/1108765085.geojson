@@ -11,6 +11,7 @@
     "geom:longitude":-86.165477,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":145684739.0,
     "uscensus:awater":1787338.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486632,
-    "wof:geomhash":"f4e4fd5d2ab30e7128d0f3af22a74125",
+    "wof:geomhash":"882aa5455349a6cc56df3aa125f2f1e3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765085,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765085,
-    "wof:lastmodified":1481486632,
+    "wof:lastmodified":1532444242,
     "wof:name":"Indiana State Senate District 36",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

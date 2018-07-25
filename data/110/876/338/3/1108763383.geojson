@@ -11,6 +11,7 @@
     "geom:longitude":-84.156997,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":174851242.0,
     "uscensus:awater":2698240.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486323,
-    "wof:geomhash":"551583f37896b2fd7c475b11560d8865",
+    "wof:geomhash":"0c0ea6355a0e1d88e7ebbde4b0802619",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763383,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763383,
-    "wof:lastmodified":1481486323,
+    "wof:lastmodified":1532444188,
     "wof:name":"Georgia State House District 90",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

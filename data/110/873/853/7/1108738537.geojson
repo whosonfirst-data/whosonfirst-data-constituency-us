@@ -11,6 +11,7 @@
     "geom:longitude":-118.430953,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-29"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738537,
-    "wof:lastmodified":1493955498,
+    "wof:lastmodified":1532444635,
     "wof:name":"California Congressional District 29",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

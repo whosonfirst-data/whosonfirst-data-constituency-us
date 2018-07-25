@@ -11,6 +11,7 @@
     "geom:longitude":-66.314947,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":19573.0,
     "uscensus:awater":4850205806.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488064,
-    "wof:geomhash":"80bad708af2f96df7479bcc036214b73",
+    "wof:geomhash":"54cf9846fb85c9caec59c5046b726672",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773119,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773119,
-    "wof:lastmodified":1481488064,
+    "wof:lastmodified":1532444038,
     "wof:name":"Puerto Rico State Senate Districts not defined",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

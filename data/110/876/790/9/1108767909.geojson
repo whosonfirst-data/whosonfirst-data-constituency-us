@@ -11,6 +11,7 @@
     "geom:longitude":-94.094903,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8477142301.0,
     "uscensus:awater":1613406946.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487121,
-    "wof:geomhash":"5bb8e45cfbcadd9e805960fb36b8a749",
+    "wof:geomhash":"d3c67837b20bab9b9996b8347bae9846",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767909,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767909,
-    "wof:lastmodified":1481487121,
+    "wof:lastmodified":1532444142,
     "wof:name":"Minnesota State Senate District 5",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

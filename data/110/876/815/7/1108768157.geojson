@@ -11,6 +11,7 @@
     "geom:longitude":-92.917765,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4065702060.0,
     "uscensus:awater":60175903.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487155,
-    "wof:geomhash":"ece5257faef139a69d00aca87f45c81d",
+    "wof:geomhash":"4efcaa3615c5eec60dc7f8534c9b0ca7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768157,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768157,
-    "wof:lastmodified":1481487155,
+    "wof:lastmodified":1532444533,
     "wof:name":"Missouri State House District 48",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

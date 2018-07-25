@@ -11,6 +11,7 @@
     "geom:longitude":-79.242357,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1862796376.0,
     "uscensus:awater":24314068.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486878,
-    "wof:geomhash":"4b59a8b3b105c0b852538dd0e92646dc",
+    "wof:geomhash":"132817834e4a100997cca723ed66511a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766615,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766615,
-    "wof:lastmodified":1481486878,
+    "wof:lastmodified":1532444471,
     "wof:name":"Maryland State Legislative Subdistrict 1A",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

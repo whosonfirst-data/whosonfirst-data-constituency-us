@@ -11,6 +11,7 @@
     "geom:longitude":-93.379652,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":56202491.0,
     "uscensus:awater":4081389.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487109,
-    "wof:geomhash":"1512b459665dd6341b1c079302f3a9a9",
+    "wof:geomhash":"2a24f51aab2b371e4950add262e54566",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767817,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767817,
-    "wof:lastmodified":1481487109,
+    "wof:lastmodified":1532444103,
     "wof:name":"Minnesota State House District 49B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

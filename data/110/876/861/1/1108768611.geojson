@@ -11,6 +11,7 @@
     "geom:longitude":-105.494854,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":12904608.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487222,
-    "wof:geomhash":"3246f73116038ae9a266c2d9c02f3efc",
+    "wof:geomhash":"a7eee3387c862b3d23dacde90415ad56",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768611,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768611,
-    "wof:lastmodified":1481487222,
+    "wof:lastmodified":1532444279,
     "wof:name":"Wyoming State House District 53",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

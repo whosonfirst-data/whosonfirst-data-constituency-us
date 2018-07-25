@@ -11,6 +11,7 @@
     "geom:longitude":-85.966219,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":179461970.0,
     "uscensus:awater":9172667.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486631,
-    "wof:geomhash":"3c777fa518e196ea5e6457119578d29c",
+    "wof:geomhash":"2c9d0a0cc6e588c80f100c516d53a4f2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765075,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765075,
-    "wof:lastmodified":1481486631,
+    "wof:lastmodified":1532444145,
     "wof:name":"Indiana State Senate District 31",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

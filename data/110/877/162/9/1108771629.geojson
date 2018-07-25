@@ -11,6 +11,7 @@
     "geom:longitude":-81.804301,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":97576599.0,
     "uscensus:awater":144408.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487778,
-    "wof:geomhash":"40bfcf3f3cd0571592cd1bf06feca76a",
+    "wof:geomhash":"d629b44bbec284a74a328195c4f42dfd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771629,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771629,
-    "wof:lastmodified":1481487778,
+    "wof:lastmodified":1532443924,
     "wof:name":"Ohio State House District 14",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-90.059854,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2257641364.0,
     "uscensus:awater":107299185.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486542,
-    "wof:geomhash":"cc57e3d772d185ac9373768c1f367650",
+    "wof:geomhash":"642730b7ca8ee7093c7ca74025ebf284",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764537,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764537,
-    "wof:lastmodified":1481486542,
+    "wof:lastmodified":1532444468,
     "wof:name":"Illinois State House District 71",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

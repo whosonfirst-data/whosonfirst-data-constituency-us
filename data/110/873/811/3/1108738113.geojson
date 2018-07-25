@@ -11,6 +11,7 @@
     "geom:longitude":-116.811829,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-08"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738113,
-    "wof:lastmodified":1493955466,
+    "wof:lastmodified":1532444660,
     "wof:name":"California Congressional District 8",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

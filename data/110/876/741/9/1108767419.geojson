@@ -11,6 +11,7 @@
     "geom:longitude":-84.861833,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1215617583.0,
     "uscensus:awater":9102595.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487056,
-    "wof:geomhash":"82906e5263e289764ad3f803b6473b46",
+    "wof:geomhash":"af1af6162a12dffe45745f98e197339a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767419,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767419,
-    "wof:lastmodified":1481487056,
+    "wof:lastmodified":1532444519,
     "wof:name":"Michigan State House District 71",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

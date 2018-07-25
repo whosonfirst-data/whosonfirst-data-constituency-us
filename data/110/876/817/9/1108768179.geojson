@@ -11,6 +11,7 @@
     "geom:longitude":-92.801451,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2313778656.0,
     "uscensus:awater":46193877.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487157,
-    "wof:geomhash":"300a7c0f662d2beb1ef11c028ebf5cf4",
+    "wof:geomhash":"2fdb49148cbc1e23e6f8adfcd3985a8c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768179,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768179,
-    "wof:lastmodified":1481487157,
+    "wof:lastmodified":1532444339,
     "wof:name":"Missouri State House District 58",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

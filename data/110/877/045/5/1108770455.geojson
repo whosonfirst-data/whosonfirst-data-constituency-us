@@ -11,6 +11,7 @@
     "geom:longitude":-70.970327,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":25518613.0,
     "uscensus:awater":39616.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487577,
-    "wof:geomhash":"6bc7edcf11f3c4fd36aec719ffaf879e",
+    "wof:geomhash":"ef82343262a2275670645c62a65eecf8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770455,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770455,
-    "wof:lastmodified":1481487577,
+    "wof:lastmodified":1532443764,
     "wof:name":"New Hampshire State House District Strafford County No. 10",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

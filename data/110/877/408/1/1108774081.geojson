@@ -11,6 +11,7 @@
     "geom:longitude":-88.797045,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1039673402.0,
     "uscensus:awater":3308678.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488221,
-    "wof:geomhash":"a543aded376c1b3d74b69cb5251c08b8",
+    "wof:geomhash":"38990a874727a8d7432b00fa8bad06de",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774081,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774081,
-    "wof:lastmodified":1481488221,
+    "wof:lastmodified":1532443747,
     "wof:name":"Tennessee State House District 73",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

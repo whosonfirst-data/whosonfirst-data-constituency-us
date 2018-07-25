@@ -11,6 +11,7 @@
     "geom:longitude":-84.96115,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":452364293.0,
     "uscensus:awater":5235379.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486312,
-    "wof:geomhash":"a4e9c8fa0edded4f6ef9582a385f0e73",
+    "wof:geomhash":"7b4a82ae13919a129a590db91e7a9068",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763333,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763333,
-    "wof:lastmodified":1481486312,
+    "wof:lastmodified":1532444269,
     "wof:name":"Georgia State House District 68",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-71.00393,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":123617973.0,
     "uscensus:awater":3675630.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486838,
-    "wof:geomhash":"d7ca53ead27235618e0ff7b266892c87",
+    "wof:geomhash":"869e422e48d68bf105e486c5cc80b5d0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766397,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766397,
-    "wof:lastmodified":1481486838,
+    "wof:lastmodified":1532444362,
     "wof:name":"Massachusetts 8th Plymouth District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

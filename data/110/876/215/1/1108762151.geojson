@@ -11,6 +11,7 @@
     "geom:longitude":-105.960284,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":25706153309.0,
     "uscensus:awater":38236244.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486099,
-    "wof:geomhash":"4823c05a6c676e96ba4ee39e0f3a2181",
+    "wof:geomhash":"99946f9b175bc1f6f2811fa770b7a8e8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762151,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762151,
-    "wof:lastmodified":1481486099,
+    "wof:lastmodified":1532444459,
     "wof:name":"Colorado State House District 62",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

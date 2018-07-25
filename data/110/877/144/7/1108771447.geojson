@@ -11,6 +11,7 @@
     "geom:longitude":-78.760144,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":207931023.0,
     "uscensus:awater":1702687.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487740,
-    "wof:geomhash":"69a1db9f2957b3160e638f3f38dfc808",
+    "wof:geomhash":"8ce85545ec343a4617aab684d84b9aa6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771447,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771447,
-    "wof:lastmodified":1481487740,
+    "wof:lastmodified":1532443944,
     "wof:name":"New York Assembly District 146",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

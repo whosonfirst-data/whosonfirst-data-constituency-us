@@ -11,6 +11,7 @@
     "geom:longitude":-104.954468,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":965276604.0,
     "uscensus:awater":22357249.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486120,
-    "wof:geomhash":"981fb79d7505da59abf58e90db18a215",
+    "wof:geomhash":"ce04c49012e37e383f99fd3ad45b8932",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762211,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762211,
-    "wof:lastmodified":1481486120,
+    "wof:lastmodified":1532444427,
     "wof:name":"Colorado State Senate District 23",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

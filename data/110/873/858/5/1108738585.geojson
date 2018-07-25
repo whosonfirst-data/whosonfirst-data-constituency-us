@@ -11,6 +11,7 @@
     "geom:longitude":-118.177825,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-40"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738585,
-    "wof:lastmodified":1493955481,
+    "wof:lastmodified":1532444684,
     "wof:name":"California Congressional District 40",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

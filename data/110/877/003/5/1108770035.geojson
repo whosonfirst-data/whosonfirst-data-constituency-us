@@ -11,6 +11,7 @@
     "geom:longitude":-96.004845,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16948703.0,
     "uscensus:awater":24314.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487523,
-    "wof:geomhash":"e4a019dc388bf43daaaf63649b1d11c9",
+    "wof:geomhash":"9e14f5081acd84cf094917e11a16d9fd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770035,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770035,
-    "wof:lastmodified":1481487523,
+    "wof:lastmodified":1532443958,
     "wof:name":"Nebraska State Senate District 8",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-88.045475,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":75814730.0,
     "uscensus:awater":85002409.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485885,
-    "wof:geomhash":"1c2d7b9fe5f7640bfbd20273fc537dbb",
+    "wof:geomhash":"f840557016d4edc507b617592d98ce8b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761207,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761207,
-    "wof:lastmodified":1481485885,
+    "wof:lastmodified":1532444434,
     "wof:name":"Alabama State House District 97",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

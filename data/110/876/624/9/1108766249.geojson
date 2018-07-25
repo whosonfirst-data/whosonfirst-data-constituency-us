@@ -11,6 +11,7 @@
     "geom:longitude":-72.450945,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":75584776.0,
     "uscensus:awater":952995.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486824,
-    "wof:geomhash":"ca96c3bb9f7c09b843be424e55d9ad09",
+    "wof:geomhash":"7532756f4507fb86122821d4303c473b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766249,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766249,
-    "wof:lastmodified":1481486824,
+    "wof:lastmodified":1532444226,
     "wof:name":"Massachusetts 12th Hampden District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

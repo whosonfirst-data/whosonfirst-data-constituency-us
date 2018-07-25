@@ -11,6 +11,7 @@
     "geom:longitude":-89.121072,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1439560924.0,
     "uscensus:awater":11835878.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487304,
-    "wof:geomhash":"c72f1557308b82dc7bf2a2096275c5b4",
+    "wof:geomhash":"9a0d6c8ff06ba9c3a52357137be8b306",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769063,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108769063,
-    "wof:lastmodified":1481487304,
+    "wof:lastmodified":1532444076,
     "wof:name":"Mississippi State Senate District 42",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

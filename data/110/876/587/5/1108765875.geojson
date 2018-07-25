@@ -11,6 +11,7 @@
     "geom:longitude":-93.169076,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":122003216.0,
     "uscensus:awater":5740573.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486752,
-    "wof:geomhash":"3499e0f17400fe240651a8032b4e88b8",
+    "wof:geomhash":"234074f4416fa506c5f18f10dab910d9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765875,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765875,
-    "wof:lastmodified":1481486752,
+    "wof:lastmodified":1532444289,
     "wof:name":"Louisiana State House District 34",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

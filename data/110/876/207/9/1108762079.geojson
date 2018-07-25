@@ -11,6 +11,7 @@
     "geom:longitude":-104.616212,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":708602639.0,
     "uscensus:awater":12123188.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486090,
-    "wof:geomhash":"b50ea42b56ca48beeb933dacd0d13e7c",
+    "wof:geomhash":"348fe3209bdb2d305de860dc71fdf9a8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762079,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762079,
-    "wof:lastmodified":1481486090,
+    "wof:lastmodified":1532444503,
     "wof:name":"Colorado State House District 30",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

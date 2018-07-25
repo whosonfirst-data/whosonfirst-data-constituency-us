@@ -11,6 +11,7 @@
     "geom:longitude":-84.428479,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":200093161.0,
     "uscensus:awater":636455.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487796,
-    "wof:geomhash":"5c10e0272b5b3ec732b658ac524912a8",
+    "wof:geomhash":"84b1858b98aa05e7b09e2ac0fc280c91",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771715,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771715,
-    "wof:lastmodified":1481487796,
+    "wof:lastmodified":1532443804,
     "wof:name":"Ohio State House District 52",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

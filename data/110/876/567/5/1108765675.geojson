@@ -11,6 +11,7 @@
     "geom:longitude":-85.154999,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2240793906.0,
     "uscensus:awater":120918606.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486710,
-    "wof:geomhash":"774af0039ef93e9680652c60c2ce3327",
+    "wof:geomhash":"4d0c4fab15b733914d6f756800b7169f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765675,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765675,
-    "wof:lastmodified":1481486710,
+    "wof:lastmodified":1532444500,
     "wof:name":"Kentucky State House District 83",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

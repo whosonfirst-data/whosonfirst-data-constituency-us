@@ -11,6 +11,7 @@
     "geom:longitude":-108.515473,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":64405221.0,
     "uscensus:awater":664071.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487341,
-    "wof:geomhash":"07935d7010f8cddfb2984e36c7afc83e",
+    "wof:geomhash":"34265397150ba0c8543a529b6ee68f3c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769187,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769187,
-    "wof:lastmodified":1481487341,
+    "wof:lastmodified":1532444413,
     "wof:name":"Montana State House District 45",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

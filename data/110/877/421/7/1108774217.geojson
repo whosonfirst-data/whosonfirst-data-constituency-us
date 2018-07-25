@@ -11,6 +11,7 @@
     "geom:longitude":-95.037241,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8081973044.0,
     "uscensus:awater":225603465.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488268,
-    "wof:geomhash":"0dc52dbf1dd569b925015bd0eb829adf",
+    "wof:geomhash":"e52739009f0d408128195df2034ae6fc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774217,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774217,
-    "wof:lastmodified":1481488268,
+    "wof:lastmodified":1532443766,
     "wof:name":"Texas State House District 1",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

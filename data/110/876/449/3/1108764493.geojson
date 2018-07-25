@@ -11,6 +11,7 @@
     "geom:longitude":-88.217749,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":282689414.0,
     "uscensus:awater":11655070.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486533,
-    "wof:geomhash":"98f4373762116f800f8313fa1d15e7c1",
+    "wof:geomhash":"70b8503b81fa8186bb8b39ce8059e92b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764493,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764493,
-    "wof:lastmodified":1481486533,
+    "wof:lastmodified":1532444482,
     "wof:name":"Illinois State House District 52",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

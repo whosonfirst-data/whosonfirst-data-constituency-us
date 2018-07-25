@@ -11,6 +11,7 @@
     "geom:longitude":-92.66104,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3990830824.0,
     "uscensus:awater":7068146.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486443,
-    "wof:geomhash":"84a82d34825fa0682ae88463328fe349",
+    "wof:geomhash":"cec508edce5e745502900de3008f3314",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763997,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108763997,
-    "wof:lastmodified":1481486443,
+    "wof:lastmodified":1532444087,
     "wof:name":"Iowa State House District 51",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-70.774975,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4150253.0,
     "uscensus:awater":873608.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487574,
-    "wof:geomhash":"27d3fa37d6acdade11ce452c64d0a43b",
+    "wof:geomhash":"9c1e3aae47ee0b5895ba170da57b640a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770423,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770423,
-    "wof:lastmodified":1481487574,
+    "wof:lastmodified":1532443831,
     "wof:name":"New Hampshire State House District Rockingham County No. 25",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

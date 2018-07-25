@@ -11,6 +11,7 @@
     "geom:longitude":-90.128661,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":164824498.0,
     "uscensus:awater":21613054.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487293,
-    "wof:geomhash":"a1c9a987dc0bfa25f15b572643b194f9",
+    "wof:geomhash":"ffc3a7da617531420e32ccfb6c1f3024",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769025,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108769025,
-    "wof:lastmodified":1481487293,
+    "wof:lastmodified":1532444478,
     "wof:name":"Mississippi State Senate District 25",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

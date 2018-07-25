@@ -11,6 +11,7 @@
     "geom:longitude":-161.993825,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":78727824446.0,
     "uscensus:awater":12923738297.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485791,
-    "wof:geomhash":"28c20c66057b50f934d3b4357ae7ec71",
+    "wof:geomhash":"753f592f235249c060f2951247119bff",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760939,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760939,
-    "wof:lastmodified":1481485791,
+    "wof:lastmodified":1532444275,
     "wof:name":"Alaska State House District 38",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

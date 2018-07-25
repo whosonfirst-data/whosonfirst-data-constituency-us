@@ -17,6 +17,7 @@
     "mps:latitude":34.255149,
     "mps:longitude":-111.62621,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Arizona"
     ],
@@ -50,7 +51,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231173,
-    "wof:geomhash":"8e8ccc32df7bdbb58ebacc0da3e644b8",
+    "wof:geomhash":"d82eab09305ade4a922a7bee26724b6e",
     "wof:hierarchy":[
         {
             "constituency_id":1108746659,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108746659,
-    "wof:lastmodified":1487197400,
+    "wof:lastmodified":1532443702,
     "wof:name":"Arizona",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

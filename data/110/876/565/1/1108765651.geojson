@@ -11,6 +11,7 @@
     "geom:longitude":-84.02213,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2122031079.0,
     "uscensus:awater":23238348.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486708,
-    "wof:geomhash":"de0c58b547851e5d4bf4b6591f00d33b",
+    "wof:geomhash":"28cfa5b9f945e3a48598fc8985c4f1ae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765651,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765651,
-    "wof:lastmodified":1481486708,
+    "wof:lastmodified":1532444220,
     "wof:name":"Kentucky State House District 72",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

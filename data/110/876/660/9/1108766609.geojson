@@ -11,6 +11,7 @@
     "geom:longitude":-77.182816,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":68792030.0,
     "uscensus:awater":523126.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486877,
-    "wof:geomhash":"ae122bf8037be075a509c12b651fea41",
+    "wof:geomhash":"b24d82a7c317a466127ad4710492e14b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766609,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766609,
-    "wof:lastmodified":1481486877,
+    "wof:lastmodified":1532444319,
     "wof:name":"Maryland State Legislative District 17",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

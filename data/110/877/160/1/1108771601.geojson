@@ -11,6 +11,7 @@
     "geom:longitude":-82.536484,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1282720855.0,
     "uscensus:awater":12470884.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487775,
-    "wof:geomhash":"7e3d87aade5747658310f3b3e1487edd",
+    "wof:geomhash":"d5d1f377440991cffd2248248642e447",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771601,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771601,
-    "wof:lastmodified":1481487775,
+    "wof:lastmodified":1532443882,
     "wof:name":"Ohio State House District 2",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-80.023869,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":39578734.0,
     "uscensus:awater":1539212.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487966,
-    "wof:geomhash":"5c4ff4f69918ab292ce472f25e1cd79e",
+    "wof:geomhash":"17d90ec727d92a7ce685bafbcb8fa1b7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772481,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772481,
-    "wof:lastmodified":1481487966,
+    "wof:lastmodified":1532443995,
     "wof:name":"Pennsylvania State House District 20",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

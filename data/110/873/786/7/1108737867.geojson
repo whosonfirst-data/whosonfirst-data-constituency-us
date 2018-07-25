@@ -11,6 +11,7 @@
     "geom:longitude":-119.704713,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "WA-04"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737867,
-    "wof:lastmodified":1493955415,
+    "wof:lastmodified":1532444664,
     "wof:name":"Washington Congressional District 4",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

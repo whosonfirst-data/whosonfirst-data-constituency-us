@@ -11,6 +11,7 @@
     "geom:longitude":-81.873568,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1300506697.0,
     "uscensus:awater":4988453.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488630,
-    "wof:geomhash":"410c1f75e99b2d57ea114604cac4e7f1",
+    "wof:geomhash":"05bdaa768479e9a8f7e868573b8f0360",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776005,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776005,
-    "wof:lastmodified":1481488630,
+    "wof:lastmodified":1532443749,
     "wof:name":"West Virginia State House District 24",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

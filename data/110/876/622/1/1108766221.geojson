@@ -11,6 +11,7 @@
     "geom:longitude":-72.270612,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":964034402.0,
     "uscensus:awater":93869510.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486820,
-    "wof:geomhash":"646e76a8788b62f71050ec232a0cca02",
+    "wof:geomhash":"8e3e7bb0cbf5754d618a001cfce33173",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766221,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766221,
-    "wof:lastmodified":1481486820,
+    "wof:lastmodified":1532444423,
     "wof:name":"Massachusetts 2nd Franklin District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

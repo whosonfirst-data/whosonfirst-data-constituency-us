@@ -11,6 +11,7 @@
     "geom:longitude":-100.851149,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1099011260.0,
     "uscensus:awater":2427834.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486664,
-    "wof:geomhash":"a34f49a5219012768a5bfa38d0065706",
+    "wof:geomhash":"d8de2fa7619b06a329c2622be7db647f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765399,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765399,
-    "wof:lastmodified":1481486664,
+    "wof:lastmodified":1532444444,
     "wof:name":"Kansas State House District 125",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

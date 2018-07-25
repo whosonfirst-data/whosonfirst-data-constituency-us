@@ -11,6 +11,7 @@
     "geom:longitude":-93.032478,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":27280257.0,
     "uscensus:awater":5139492.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487116,
-    "wof:geomhash":"fecbf2a6e4b38c453462b78bcf92dd9e",
+    "wof:geomhash":"a3ab0d2c379105fdb0b9093444b4f1ed",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767899,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767899,
-    "wof:lastmodified":1481487116,
+    "wof:lastmodified":1532444153,
     "wof:name":"Minnesota State House District 67B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

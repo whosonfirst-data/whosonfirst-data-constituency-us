@@ -11,6 +11,7 @@
     "geom:longitude":-81.241147,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":522717391.0,
     "uscensus:awater":13515801.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486348,
-    "wof:geomhash":"df949da96e09939f1c71379b33a97971",
+    "wof:geomhash":"848709374f2dc97d4adbc905b5bed3d1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763543,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763543,
-    "wof:lastmodified":1481486348,
+    "wof:lastmodified":1532444116,
     "wof:name":"Georgia State House District 161",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

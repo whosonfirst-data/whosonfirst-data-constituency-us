@@ -11,6 +11,7 @@
     "geom:longitude":-73.869683,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11339379.0,
     "uscensus:awater":82983.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487715,
-    "wof:geomhash":"25d02f1889cfd3c2b805aae3800a285b",
+    "wof:geomhash":"d6eb8532baa175f0f070b833d687d459",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771203,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771203,
-    "wof:lastmodified":1481487715,
+    "wof:lastmodified":1532443960,
     "wof:name":"New York Assembly District 38",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

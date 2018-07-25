@@ -11,6 +11,7 @@
     "geom:longitude":-71.071703,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":29200214.0,
     "uscensus:awater":3101761.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486856,
-    "wof:geomhash":"eba137dc79d6404d7860d0d88071ed8b",
+    "wof:geomhash":"7912d350f7a11ea453454ef70c9d46e8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766549,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766549,
-    "wof:lastmodified":1481486856,
+    "wof:lastmodified":1532444190,
     "wof:name":"Massachusetts Middlesex & Suffolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

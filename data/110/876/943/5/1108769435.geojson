@@ -11,6 +11,7 @@
     "geom:longitude":-76.869853,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3865050477.0,
     "uscensus:awater":141254401.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487396,
-    "wof:geomhash":"17ae8c60383394f88bfbb195c35e235b",
+    "wof:geomhash":"8f8029e3d91475ba9001b0c082b2f975",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769435,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769435,
-    "wof:lastmodified":1481487396,
+    "wof:lastmodified":1532444322,
     "wof:name":"North Carolina State House District 5",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

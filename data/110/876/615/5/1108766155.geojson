@@ -11,6 +11,7 @@
     "geom:longitude":-71.124452,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":96744839.0,
     "uscensus:awater":3037547.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486811,
-    "wof:geomhash":"abf756bf97505971cd3e347d4aa5a93d",
+    "wof:geomhash":"9b6ee9900f8011ee588b873371313dfc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766155,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766155,
-    "wof:lastmodified":1481486811,
+    "wof:lastmodified":1532444312,
     "wof:name":"Massachusetts 3rd Bristol District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

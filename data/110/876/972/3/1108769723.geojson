@@ -11,6 +11,7 @@
     "geom:longitude":-78.879439,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4883471148.0,
     "uscensus:awater":48756744.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487462,
-    "wof:geomhash":"440caba9306143891861442c80f453dc",
+    "wof:geomhash":"34748080c8ebf113a758cfc056b8a6f8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769723,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769723,
-    "wof:lastmodified":1481487462,
+    "wof:lastmodified":1532444484,
     "wof:name":"North Carolina State Senate District 13",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

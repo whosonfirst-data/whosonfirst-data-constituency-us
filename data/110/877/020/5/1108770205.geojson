@@ -11,6 +11,7 @@
     "geom:longitude":-71.809188,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":413165809.0,
     "uscensus:awater":7013818.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487543,
-    "wof:geomhash":"d62737dd6a8a6d3b92f5a56657092ca4",
+    "wof:geomhash":"63a4478e626ba84a527f8708486c5652",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770205,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770205,
-    "wof:lastmodified":1481487543,
+    "wof:lastmodified":1532443756,
     "wof:name":"New Hampshire State House District Grafton County No. 2",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

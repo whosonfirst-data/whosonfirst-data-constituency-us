@@ -11,6 +11,7 @@
     "geom:longitude":-86.688411,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":0.0,
     "uscensus:awater":15460848026.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487066,
-    "wof:geomhash":"18214548ccc1198ffc1d8da97efe6eb2",
+    "wof:geomhash":"2962f6a01d95ec905e832e23697b8265",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767509,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767509,
-    "wof:lastmodified":1481487066,
+    "wof:lastmodified":1532444562,
     "wof:name":"Michigan State House Districts not defined",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

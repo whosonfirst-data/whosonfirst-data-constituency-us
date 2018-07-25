@@ -11,6 +11,7 @@
     "geom:longitude":-70.556686,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":170580017.0,
     "uscensus:awater":46394245.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486806,
-    "wof:geomhash":"f763bbf9975ce2515ecacea0de6c72e1",
+    "wof:geomhash":"9e89e8b18285d77754040be8fe20c6c8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766135,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766135,
-    "wof:lastmodified":1481486806,
+    "wof:lastmodified":1532444570,
     "wof:name":"Massachusetts 3rd Barnstable District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

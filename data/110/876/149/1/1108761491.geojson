@@ -11,6 +11,7 @@
     "geom:longitude":-93.089181,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5125459054.0,
     "uscensus:awater":11126677.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485948,
-    "wof:geomhash":"ccb2842e582038b6a287a3fea91e698e",
+    "wof:geomhash":"b8fe28fdea257a228b71aa177fc8f8a6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761491,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761491,
-    "wof:lastmodified":1481485948,
+    "wof:lastmodified":1532444468,
     "wof:name":"Arkansas State House District 83",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-96.742247,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2778750261.0,
     "uscensus:awater":108972539.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487866,
-    "wof:geomhash":"f09d92768e96b299bf00171964fa0384",
+    "wof:geomhash":"2e9cf686ab70e8f7f0c3a981ea413a2d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771977,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771977,
-    "wof:lastmodified":1481487866,
+    "wof:lastmodified":1532444035,
     "wof:name":"Oklahoma State House District 35",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

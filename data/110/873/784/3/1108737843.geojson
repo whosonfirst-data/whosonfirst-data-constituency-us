@@ -11,6 +11,7 @@
     "geom:longitude":-123.261011,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "OR-04"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737843,
-    "wof:lastmodified":1493955517,
+    "wof:lastmodified":1532444648,
     "wof:name":"Oregon Congressional District 4",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-83.812203,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4977469528.0,
     "uscensus:awater":37398751.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486731,
-    "wof:geomhash":"d2593dc191ea0322bf47ee25858d7042",
+    "wof:geomhash":"ae5763a07a62c5d4c9eb73f31ebfa48b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765769,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765769,
-    "wof:lastmodified":1481486731,
+    "wof:lastmodified":1532444445,
     "wof:name":"Kentucky State Senate District 25",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

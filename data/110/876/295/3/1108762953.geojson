@@ -11,6 +11,7 @@
     "geom:longitude":-82.307666,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":161505269.0,
     "uscensus:awater":11326531.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486237,
-    "wof:geomhash":"531c1a4fab407dda3321581bc6a2c8f5",
+    "wof:geomhash":"093a603fa0cca34494abe1a9ffd632b8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762953,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762953,
-    "wof:lastmodified":1481486237,
+    "wof:lastmodified":1532444514,
     "wof:name":"Florida State House District 59",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

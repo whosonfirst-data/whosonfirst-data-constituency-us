@@ -11,6 +11,7 @@
     "geom:longitude":-104.876346,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16318543340.0,
     "uscensus:awater":37338452.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487227,
-    "wof:geomhash":"1ad0947abfb52bb5f69d67ab2ef14156",
+    "wof:geomhash":"1d258e5b27bdf9ac73019c991dbe13d6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768629,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768629,
-    "wof:lastmodified":1481487227,
+    "wof:lastmodified":1532444235,
     "wof:name":"Wyoming State Senate District 1",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

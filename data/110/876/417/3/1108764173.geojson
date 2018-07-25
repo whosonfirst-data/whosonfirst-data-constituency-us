@@ -11,6 +11,7 @@
     "geom:longitude":-90.81181,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4127403435.0,
     "uscensus:awater":54584893.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486471,
-    "wof:geomhash":"70851a3c28ad6f38cbab8033144c51b8",
+    "wof:geomhash":"2e019a4ab2f395957dd819bbe7d1a63b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764173,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764173,
-    "wof:lastmodified":1481486471,
+    "wof:lastmodified":1532444534,
     "wof:name":"Iowa State Senate District 29",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

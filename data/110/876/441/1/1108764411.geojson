@@ -11,6 +11,7 @@
     "geom:longitude":-87.786498,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":47446736.0,
     "uscensus:awater":3028.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486523,
-    "wof:geomhash":"28985cf7b77c777b83309cb88831cb78",
+    "wof:geomhash":"109629ca441f2bf24a7aa131eb65db6d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764411,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764411,
-    "wof:lastmodified":1481486523,
+    "wof:lastmodified":1532444395,
     "wof:name":"Illinois State House District 15",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

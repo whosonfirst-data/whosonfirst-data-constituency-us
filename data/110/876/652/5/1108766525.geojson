@@ -11,6 +11,7 @@
     "geom:longitude":-71.33005,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":366530822.0,
     "uscensus:awater":13591234.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486854,
-    "wof:geomhash":"7c4cd9b3bae3fe2fa264e85ff09430bc",
+    "wof:geomhash":"73a0bb3722b9d2371812441b5a86d53b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766525,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766525,
-    "wof:lastmodified":1481486854,
+    "wof:lastmodified":1532444271,
     "wof:name":"Massachusetts Third Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

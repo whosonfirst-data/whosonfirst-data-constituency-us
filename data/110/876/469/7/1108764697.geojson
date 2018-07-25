@@ -11,6 +11,7 @@
     "geom:longitude":-88.084771,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":185661558.0,
     "uscensus:awater":5590956.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486579,
-    "wof:geomhash":"93297e279fe15915bb8fcb4a1d7e3cb6",
+    "wof:geomhash":"69af717926c6cbd0a817321ed5c14638",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764697,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764697,
-    "wof:lastmodified":1481486579,
+    "wof:lastmodified":1532444338,
     "wof:name":"Illinois State Senate District 23",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.446495,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8307126.0,
     "uscensus:awater":27.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486155,
-    "wof:geomhash":"cb488ac9d0673f28a94636d1ecec7a48",
+    "wof:geomhash":"e2070d0f09ee8d661d5d214b0c97bc3a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762485,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762485,
-    "wof:lastmodified":1481486155,
+    "wof:lastmodified":1532444483,
     "wof:name":"Connecticut State House District 110",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

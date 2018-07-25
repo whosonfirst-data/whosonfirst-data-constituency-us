@@ -11,6 +11,7 @@
     "geom:longitude":-122.264191,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":512335428.0,
     "uscensus:awater":252939754.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486050,
-    "wof:geomhash":"0ebf124b711aa86da33fdae2cb2ddf05",
+    "wof:geomhash":"63c5746de0e2f98065cd69201485d953",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761943,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761943,
-    "wof:lastmodified":1481486050,
+    "wof:lastmodified":1532444210,
     "wof:name":"California State Senate District 9",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

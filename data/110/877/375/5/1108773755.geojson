@@ -11,6 +11,7 @@
     "geom:longitude":-80.831446,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":766875414.0,
     "uscensus:awater":343955195.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488161,
-    "wof:geomhash":"1d9bfe347f66d52e0741254ee8e52b8b",
+    "wof:geomhash":"15669ed32c67ac185da5343b545dff85",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773755,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773755,
-    "wof:lastmodified":1481488161,
+    "wof:lastmodified":1532443871,
     "wof:name":"South Carolina State Senate District 46",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

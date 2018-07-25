@@ -11,6 +11,7 @@
     "geom:longitude":-100.232207,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NE-03"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737713,
-    "wof:lastmodified":1493955443,
+    "wof:lastmodified":1532444697,
     "wof:name":"Nebraska Congressional District 3",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",

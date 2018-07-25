@@ -11,6 +11,7 @@
     "geom:longitude":-91.319809,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3180335806.0,
     "uscensus:awater":1594681031.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486790,
-    "wof:geomhash":"8ee02580e95a023e1b74d26c2f0b3b8c",
+    "wof:geomhash":"f5f613f82111d245c4dcb77d25c24d3d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766085,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766085,
-    "wof:lastmodified":1481486790,
+    "wof:lastmodified":1532444198,
     "wof:name":"Louisiana State Senate District 21",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

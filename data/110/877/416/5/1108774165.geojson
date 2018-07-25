@@ -11,6 +11,7 @@
     "geom:longitude":-85.144329,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1086101745.0,
     "uscensus:awater":77139273.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488236,
-    "wof:geomhash":"83f03dce2e274a96b93a895b058e7a5e",
+    "wof:geomhash":"d5bcf710673ac56d2494555feec93bc2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774165,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774165,
-    "wof:lastmodified":1481488236,
+    "wof:lastmodified":1532443784,
     "wof:name":"Tennessee State Senate District 11",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

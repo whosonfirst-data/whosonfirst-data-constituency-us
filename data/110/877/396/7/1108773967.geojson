@@ -11,6 +11,7 @@
     "geom:longitude":-84.67917,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2254278395.0,
     "uscensus:awater":82616561.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488204,
-    "wof:geomhash":"4baa5c4e63774bdac2ec9c11753ebd02",
+    "wof:geomhash":"2dfb8413b61638125dfedb4a3816ef4a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773967,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108773967,
-    "wof:lastmodified":1481488204,
+    "wof:lastmodified":1532444011,
     "wof:name":"Tennessee State House District 22",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

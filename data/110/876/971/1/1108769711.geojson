@@ -11,6 +11,7 @@
     "geom:longitude":-78.220977,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6726863677.0,
     "uscensus:awater":715745767.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487459,
-    "wof:geomhash":"5c2dae0214d22fbab3d823440a6719de",
+    "wof:geomhash":"456e8017b1c4bfbc479cef5529dbf755",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769711,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769711,
-    "wof:lastmodified":1481487459,
+    "wof:lastmodified":1532444524,
     "wof:name":"North Carolina State Senate District 8",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

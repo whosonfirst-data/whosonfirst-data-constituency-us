@@ -11,6 +11,7 @@
     "geom:longitude":-91.888183,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10616527434.0,
     "uscensus:awater":463169942.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486796,
-    "wof:geomhash":"14096e903e7756bd735673cafc7617cb",
+    "wof:geomhash":"7f1a5ed42a7131676f266f0043613995",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766109,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766109,
-    "wof:lastmodified":1481486796,
+    "wof:lastmodified":1532444287,
     "wof:name":"Louisiana State Senate District 32",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

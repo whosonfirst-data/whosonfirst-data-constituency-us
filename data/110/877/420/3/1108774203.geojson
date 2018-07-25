@@ -11,6 +11,7 @@
     "geom:longitude":-87.4247,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8474792934.0,
     "uscensus:awater":35280199.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488250,
-    "wof:geomhash":"be09cbb8423cab8dd1e4c5eaf0e6572e",
+    "wof:geomhash":"1cde64297dfd5417a01c4e1295e0fce1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774203,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774203,
-    "wof:lastmodified":1481488250,
+    "wof:lastmodified":1532443874,
     "wof:name":"Tennessee State Senate District 28",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

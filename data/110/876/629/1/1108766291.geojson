@@ -11,6 +11,7 @@
     "geom:longitude":-71.220483,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52218336.0,
     "uscensus:awater":1107996.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486829,
-    "wof:geomhash":"50692428c54f0b6f9982e592a4447e06",
+    "wof:geomhash":"0c34d61598c1e1b46df748d7e32e5ec3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766291,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766291,
-    "wof:lastmodified":1481486829,
+    "wof:lastmodified":1532444394,
     "wof:name":"Massachusetts 15th Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

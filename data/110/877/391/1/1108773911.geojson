@@ -11,6 +11,7 @@
     "geom:longitude":-103.22031,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":63950480.0,
     "uscensus:awater":5442.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488185,
-    "wof:geomhash":"cd340fe1b6d2bba05965675829f94370",
+    "wof:geomhash":"638c8916b45690b4368c42be5c6d7dae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773911,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688693
         }
     ],
     "wof:id":1108773911,
-    "wof:lastmodified":1481488185,
+    "wof:lastmodified":1532443966,
     "wof:name":"South Dakota State Senate District 32",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

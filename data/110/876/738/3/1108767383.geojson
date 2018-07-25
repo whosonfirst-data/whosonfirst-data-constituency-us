@@ -11,6 +11,7 @@
     "geom:longitude":-83.682075,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":322933193.0,
     "uscensus:awater":2500880.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487053,
-    "wof:geomhash":"beec623b4162736fffe8fadf27ce30d9",
+    "wof:geomhash":"099de0cab98bed81d1dc6548d5913678",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767383,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767383,
-    "wof:lastmodified":1481487053,
+    "wof:lastmodified":1532444071,
     "wof:name":"Michigan State House District 55",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

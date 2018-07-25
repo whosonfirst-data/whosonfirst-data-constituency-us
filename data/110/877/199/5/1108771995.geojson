@@ -11,6 +11,7 @@
     "geom:longitude":-97.72081,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":56813246.0,
     "uscensus:awater":5154232.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487869,
-    "wof:geomhash":"f873e0ffe95aca89df948a19500a2175",
+    "wof:geomhash":"60e1a375aae91ac82f26a4632540aad1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771995,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771995,
-    "wof:lastmodified":1481487869,
+    "wof:lastmodified":1532443922,
     "wof:name":"Oklahoma State House District 43",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-91.691786,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10788340437.0,
     "uscensus:awater":280855172.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485967,
-    "wof:geomhash":"f68cb2f99c8ae0aece793c00f7e710d3",
+    "wof:geomhash":"37cb6a8b03bd1d8fd8d12c0fd1056e47",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761587,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761587,
-    "wof:lastmodified":1481485967,
+    "wof:lastmodified":1532444397,
     "wof:name":"Arkansas State Senate District 26",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

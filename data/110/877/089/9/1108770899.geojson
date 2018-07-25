@@ -11,6 +11,7 @@
     "geom:longitude":-104.574174,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":38269866920.0,
     "uscensus:awater":105348235.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487664,
-    "wof:geomhash":"8a39dbc0b890507ca80cf2e5e3b54fad",
+    "wof:geomhash":"f81e77db024afc46cb160443c6c9893f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770899,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688493
         }
     ],
     "wof:id":1108770899,
-    "wof:lastmodified":1481487664,
+    "wof:lastmodified":1532443877,
     "wof:name":"New Mexico State Senate District 8",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nm",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

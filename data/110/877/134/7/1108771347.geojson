@@ -11,6 +11,7 @@
     "geom:longitude":-74.330799,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5225080279.0,
     "uscensus:awater":73479503.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487729,
-    "wof:geomhash":"0042b2fcc19366187174baac545ca1d6",
+    "wof:geomhash":"a6c9e1fb53447eb1e683fdcaeca3104e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771347,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771347,
-    "wof:lastmodified":1481487729,
+    "wof:lastmodified":1532443912,
     "wof:name":"New York Assembly District 102",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

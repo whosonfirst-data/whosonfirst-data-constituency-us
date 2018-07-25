@@ -11,6 +11,7 @@
     "geom:longitude":-84.278344,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1642287285.0,
     "uscensus:awater":41944119.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486730,
-    "wof:geomhash":"5fa962d10c63aefdd04c4397a04df5d5",
+    "wof:geomhash":"f93c9e5073f08f65e22a6da87b6515ba",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765767,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765767,
-    "wof:lastmodified":1481486730,
+    "wof:lastmodified":1532444445,
     "wof:name":"Kentucky State Senate District 24",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

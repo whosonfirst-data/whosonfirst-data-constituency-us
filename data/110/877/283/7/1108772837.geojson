@@ -11,6 +11,7 @@
     "geom:longitude":-74.981496,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":218787841.0,
     "uscensus:awater":4649619.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488009,
-    "wof:geomhash":"e621b0c28fd0840c5621414d3f0166af",
+    "wof:geomhash":"8aa98057facdc1233ced1acdc144f642",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772837,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772837,
-    "wof:lastmodified":1481488009,
+    "wof:lastmodified":1532443817,
     "wof:name":"Pennsylvania State House District 178",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

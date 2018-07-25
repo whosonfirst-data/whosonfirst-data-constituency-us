@@ -11,6 +11,7 @@
     "geom:longitude":-84.412117,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":83812147.0,
     "uscensus:awater":265121.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486310,
-    "wof:geomhash":"d5a4654346414fc8036f2560e16fa3a6",
+    "wof:geomhash":"8e7fe2cd85474e4ab12e808764ad0f7a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763315,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763315,
-    "wof:lastmodified":1481486310,
+    "wof:lastmodified":1532444553,
     "wof:name":"Georgia State House District 60",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

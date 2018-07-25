@@ -11,6 +11,7 @@
     "geom:longitude":-105.125952,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":65785233.0,
     "uscensus:awater":1030089.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486088,
-    "wof:geomhash":"7c764ca94796b5a7e338fdca5fd56106",
+    "wof:geomhash":"3876b4f6d42e9d2042dcbf406473c28c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762063,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762063,
-    "wof:lastmodified":1481486088,
+    "wof:lastmodified":1532444283,
     "wof:name":"Colorado State House District 23",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-81.525854,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":647860994.0,
     "uscensus:awater":145203543.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486265,
-    "wof:geomhash":"650870b7092817c6a8ed370294ce3ad0",
+    "wof:geomhash":"f2ec6aee11b6f60fc562322f33dc3a8f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763115,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763115,
-    "wof:lastmodified":1481486265,
+    "wof:lastmodified":1532444559,
     "wof:name":"Florida State Senate District 11",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

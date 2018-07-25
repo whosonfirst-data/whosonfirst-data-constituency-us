@@ -11,6 +11,7 @@
     "geom:longitude":-84.083178,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "GA-07"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738051,
-    "wof:lastmodified":1493955436,
+    "wof:lastmodified":1532444679,
     "wof:name":"Georgia Congressional District 7",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

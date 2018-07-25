@@ -11,6 +11,7 @@
     "geom:longitude":-90.904319,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3213221217.0,
     "uscensus:awater":21312110.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485931,
-    "wof:geomhash":"dd676ca309396721a5e26729a5b9de5c",
+    "wof:geomhash":"9912087cd676185d044c096e72d4e86f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761421,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761421,
-    "wof:lastmodified":1481485931,
+    "wof:lastmodified":1532444542,
     "wof:name":"Arkansas State House District 52",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

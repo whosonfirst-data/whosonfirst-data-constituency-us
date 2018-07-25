@@ -11,6 +11,7 @@
     "geom:longitude":-82.062896,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2237197022.0,
     "uscensus:awater":29813375.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488141,
-    "wof:geomhash":"035c128b3d5a77a227ecc97e21351879",
+    "wof:geomhash":"a6727cf2517ed9079600e8fb30d7aa62",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773671,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773671,
-    "wof:lastmodified":1481488141,
+    "wof:lastmodified":1532444018,
     "wof:name":"South Carolina State Senate District 9",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

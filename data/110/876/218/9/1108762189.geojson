@@ -11,6 +11,7 @@
     "geom:longitude":-105.062089,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":160657158.0,
     "uscensus:awater":6443201.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486118,
-    "wof:geomhash":"c90579bc8d006efbad98c5c88fe537f6",
+    "wof:geomhash":"64e4641226fc5f7699c6fbe3fcd27c7e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762189,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762189,
-    "wof:lastmodified":1481486118,
+    "wof:lastmodified":1532444237,
     "wof:name":"Colorado State Senate District 14",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

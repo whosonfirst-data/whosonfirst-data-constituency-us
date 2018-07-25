@@ -11,6 +11,7 @@
     "geom:longitude":-157.963116,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":315127354.0,
     "uscensus:awater":327398336.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486412,
-    "wof:geomhash":"769c69b07059aec4e820647aa4b92db4",
+    "wof:geomhash":"bf35dfcaea7c92c8b86c67c83ce27183",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763817,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763817,
-    "wof:lastmodified":1481486412,
+    "wof:lastmodified":1532444213,
     "wof:name":"Hawaii State House District 47",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

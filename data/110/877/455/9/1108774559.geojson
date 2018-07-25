@@ -11,6 +11,7 @@
     "geom:longitude":-94.751918,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":40389647278.0,
     "uscensus:awater":1737458786.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488347,
-    "wof:geomhash":"505b745866a82dbdcd0d6c218770e3bf",
+    "wof:geomhash":"c098020c84cae35c5113741c01a691c7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774559,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774559,
-    "wof:lastmodified":1481488347,
+    "wof:lastmodified":1532443931,
     "wof:name":"Texas State Senate District 3",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

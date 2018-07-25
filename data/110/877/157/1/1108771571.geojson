@@ -11,6 +11,7 @@
     "geom:longitude":-75.15301,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11434222728.0,
     "uscensus:awater":129265260.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487763,
-    "wof:geomhash":"f3161ac723b7a7df0b9a1055ca389294",
+    "wof:geomhash":"80c7231d51afdb0b8fa6bda52e87137a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771571,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771571,
-    "wof:lastmodified":1481487763,
+    "wof:lastmodified":1532443778,
     "wof:name":"New York State Senate District 51",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

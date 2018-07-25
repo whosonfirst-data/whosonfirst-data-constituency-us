@@ -11,6 +11,7 @@
     "geom:longitude":-82.759991,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2520844641.0,
     "uscensus:awater":36410656.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486343,
-    "wof:geomhash":"ee4933fc581361e7389ad62d44c87f85",
+    "wof:geomhash":"6a618d9a58a68775c5a9ea327e9e1441",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763517,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763517,
-    "wof:lastmodified":1481486343,
+    "wof:lastmodified":1532444203,
     "wof:name":"Georgia State House District 150",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

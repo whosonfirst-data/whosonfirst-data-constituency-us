@@ -11,6 +11,7 @@
     "geom:longitude":-84.397547,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":132942694.0,
     "uscensus:awater":238676.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486387,
-    "wof:geomhash":"197e63d35996c46737d75dc89d4e30bd",
+    "wof:geomhash":"606ca86ddef94c6dc0436276d67c6bee",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763665,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763665,
-    "wof:lastmodified":1481486387,
+    "wof:lastmodified":1532444407,
     "wof:name":"Georgia State Senate District 36",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

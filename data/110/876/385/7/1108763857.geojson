@@ -11,6 +11,7 @@
     "geom:longitude":-157.864548,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":65806749.0,
     "uscensus:awater":2125.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486420,
-    "wof:geomhash":"f258c402afe427b7e4ff1c3d8a9a1fe1",
+    "wof:geomhash":"8214b1f63c253add7697f23897410229",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763857,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763857,
-    "wof:lastmodified":1481486420,
+    "wof:lastmodified":1532444443,
     "wof:name":"Hawaii State Senate District 14",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

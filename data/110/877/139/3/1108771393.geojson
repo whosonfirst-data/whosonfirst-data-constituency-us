@@ -11,6 +11,7 @@
     "geom:longitude":-75.464083,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5124349205.0,
     "uscensus:awater":77649097.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487735,
-    "wof:geomhash":"7113c56d74b07747fffd3e182ee583a7",
+    "wof:geomhash":"794ec5a8e60084652de0c04fe677f9c6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771393,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771393,
-    "wof:lastmodified":1481487735,
+    "wof:lastmodified":1532443843,
     "wof:name":"New York Assembly District 122",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

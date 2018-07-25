@@ -11,6 +11,7 @@
     "geom:longitude":-87.895312,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":124150572.0,
     "uscensus:awater":684102.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486584,
-    "wof:geomhash":"9aef035a7e8720a0dd55a46bec943478",
+    "wof:geomhash":"678d4ef63c371d67c018df35e417e766",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764733,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764733,
-    "wof:lastmodified":1481486584,
+    "wof:lastmodified":1532444508,
     "wof:name":"Illinois State Senate District 39",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-76.032916,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1630507049.0,
     "uscensus:awater":33210476.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487995,
-    "wof:geomhash":"18dfcb1f08efca1da46d64842e91a2cb",
+    "wof:geomhash":"e0792d8702ceb29a0b09eca204bbb981",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772699,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772699,
-    "wof:lastmodified":1481487995,
+    "wof:lastmodified":1532443918,
     "wof:name":"Pennsylvania State House District 117",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

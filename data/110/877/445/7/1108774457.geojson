@@ -11,6 +11,7 @@
     "geom:longitude":-96.788074,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":70649743.0,
     "uscensus:awater":98534.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488322,
-    "wof:geomhash":"51cb6a69647fa10aa7e0fb5be0254afd",
+    "wof:geomhash":"c76787cc48435d37f6b2f28ea814a4b5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774457,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774457,
-    "wof:lastmodified":1481488322,
+    "wof:lastmodified":1532443785,
     "wof:name":"Texas State House District 108",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

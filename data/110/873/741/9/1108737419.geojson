@@ -11,6 +11,7 @@
     "geom:longitude":-91.891498,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "IA-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737419,
-    "wof:lastmodified":1493955535,
+    "wof:lastmodified":1532444718,
     "wof:name":"Iowa Congressional District 1",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",

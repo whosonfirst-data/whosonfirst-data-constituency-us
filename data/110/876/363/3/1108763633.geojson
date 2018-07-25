@@ -11,6 +11,7 @@
     "geom:longitude":-84.372733,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":645508100.0,
     "uscensus:awater":9858429.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486381,
-    "wof:geomhash":"107fe57eb21f9b170d8dedf71c5e1376",
+    "wof:geomhash":"078c7a537ecf7c07bc9cfc8606d2278a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763633,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763633,
-    "wof:lastmodified":1481486381,
+    "wof:lastmodified":1532444118,
     "wof:name":"Georgia State Senate District 21",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

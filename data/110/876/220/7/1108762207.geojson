@@ -11,6 +11,7 @@
     "geom:longitude":-105.096403,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":96624980.0,
     "uscensus:awater":2095156.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486120,
-    "wof:geomhash":"8a56869ef0109b482fec737674e58535",
+    "wof:geomhash":"df53712560df2a2d03f6255493add2c1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762207,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762207,
-    "wof:lastmodified":1481486120,
+    "wof:lastmodified":1532444354,
     "wof:name":"Colorado State Senate District 22",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

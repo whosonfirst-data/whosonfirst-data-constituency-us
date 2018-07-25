@@ -11,6 +11,7 @@
     "geom:longitude":-106.268141,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10541252.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487217,
-    "wof:geomhash":"73048a45039e524c7b0253e0bf50a388",
+    "wof:geomhash":"c5f949fbc5db71f4188723ae19a966cf",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768573,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768573,
-    "wof:lastmodified":1481487217,
+    "wof:lastmodified":1532444507,
     "wof:name":"Wyoming State House District 36",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

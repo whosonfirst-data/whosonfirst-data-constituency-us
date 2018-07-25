@@ -11,6 +11,7 @@
     "geom:longitude":-75.35085,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":46340894.0,
     "uscensus:awater":798220.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487999,
-    "wof:geomhash":"8c72aeb4494f8f82c4c7129dbdcfef72",
+    "wof:geomhash":"709b45dcabb9a89c6a60067a7d2c3c2b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772741,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772741,
-    "wof:lastmodified":1481487999,
+    "wof:lastmodified":1532443920,
     "wof:name":"Pennsylvania State House District 135",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

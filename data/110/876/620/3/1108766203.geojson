@@ -11,6 +11,7 @@
     "geom:longitude":-70.92931,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":15500424.0,
     "uscensus:awater":39882343.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486818,
-    "wof:geomhash":"a35e9d154f3e1429f8494240ab9195f7",
+    "wof:geomhash":"965d911bdc1b6d29f9c9f69641e6a06b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766203,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766203,
-    "wof:lastmodified":1481486818,
+    "wof:lastmodified":1532444273,
     "wof:name":"Massachusetts 11th Essex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

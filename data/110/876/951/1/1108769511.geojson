@@ -11,6 +11,7 @@
     "geom:longitude":-78.496232,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":321543302.0,
     "uscensus:awater":2979699.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487416,
-    "wof:geomhash":"0bb9fef8c480ab1cc2f4df0a14982b5b",
+    "wof:geomhash":"721558289be7521c8820ab53a764d512",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769511,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769511,
-    "wof:lastmodified":1481487416,
+    "wof:lastmodified":1532444174,
     "wof:name":"North Carolina State House District 39",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

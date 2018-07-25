@@ -11,6 +11,7 @@
     "geom:longitude":-86.536798,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2028848375.0,
     "uscensus:awater":23325446.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486632,
-    "wof:geomhash":"6f9a05234719f9117f50eca5592c80b4",
+    "wof:geomhash":"554e8bbe1b96ebea2e7a417cfec54688",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765087,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765087,
-    "wof:lastmodified":1481486632,
+    "wof:lastmodified":1532444242,
     "wof:name":"Indiana State Senate District 37",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

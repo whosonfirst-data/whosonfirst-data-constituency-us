@@ -11,6 +11,7 @@
     "geom:longitude":-74.474514,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NJ-03"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737717,
-    "wof:lastmodified":1493955442,
+    "wof:lastmodified":1532444698,
     "wof:name":"New Jersey Congressional District 3",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

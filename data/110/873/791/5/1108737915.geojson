@@ -11,6 +11,7 @@
     "geom:longitude":-93.295509,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "MN-05"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737915,
-    "wof:lastmodified":1493955485,
+    "wof:lastmodified":1532444722,
     "wof:name":"Minnesota Congressional District 5",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-88.941262,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1683959875.0,
     "uscensus:awater":9450405.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487248,
-    "wof:geomhash":"0acaccd3febee8700e27ff6661a23354",
+    "wof:geomhash":"6a516bffa92bf574c0120cac325bf263",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768745,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768745,
-    "wof:lastmodified":1481487248,
+    "wof:lastmodified":1532444107,
     "wof:name":"Mississippi State House District 22",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

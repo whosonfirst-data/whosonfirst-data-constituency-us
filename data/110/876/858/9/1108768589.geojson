@@ -11,6 +11,7 @@
     "geom:longitude":-104.69646,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":228304088.0,
     "uscensus:awater":311500.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487220,
-    "wof:geomhash":"b46c82bc2adda4790112584c47c95df4",
+    "wof:geomhash":"3e9fb7ee8d84e146c6acffc4c2650ee9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768589,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688475
         }
     ],
     "wof:id":1108768589,
-    "wof:lastmodified":1481487220,
+    "wof:lastmodified":1532444425,
     "wof:name":"Wyoming State House District 43",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wy",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

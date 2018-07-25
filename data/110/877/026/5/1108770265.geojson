@@ -11,6 +11,7 @@
     "geom:longitude":-71.457437,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6564396.0,
     "uscensus:awater":338967.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487549,
-    "wof:geomhash":"772deefbc286d59574472f1e8d3f18b3",
+    "wof:geomhash":"6ebc6d30a3ad4a0942334f51c8e197ec",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770265,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770265,
-    "wof:lastmodified":1481487549,
+    "wof:lastmodified":1532443961,
     "wof:name":"New Hampshire State House District Hillsborough County No. 16",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

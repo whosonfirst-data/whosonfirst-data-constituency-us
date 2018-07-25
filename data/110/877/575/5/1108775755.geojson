@@ -11,6 +11,7 @@
     "geom:longitude":-89.36422,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1086274548.0,
     "uscensus:awater":5375077.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488583,
-    "wof:geomhash":"bdaa8d3af47332f4aaf624781a90b8e3",
+    "wof:geomhash":"125591d430b367e7b758094b7f8bc66a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775755,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775755,
-    "wof:lastmodified":1481488583,
+    "wof:lastmodified":1532443927,
     "wof:name":"Wisconsin Assembly District 45",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

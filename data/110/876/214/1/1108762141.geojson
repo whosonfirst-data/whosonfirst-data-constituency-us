@@ -11,6 +11,7 @@
     "geom:longitude":-108.128835,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":28261299231.0,
     "uscensus:awater":46095227.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486096,
-    "wof:geomhash":"68b2437d935079adf31171bb6f3e3515",
+    "wof:geomhash":"0aeb94b64cabf6e20a479bd5bab8d8fc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762141,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762141,
-    "wof:lastmodified":1481486096,
+    "wof:lastmodified":1532444198,
     "wof:name":"Colorado State House District 57",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

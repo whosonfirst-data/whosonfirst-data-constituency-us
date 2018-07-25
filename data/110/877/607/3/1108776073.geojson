@@ -11,6 +11,7 @@
     "geom:longitude":-79.24752,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2327107254.0,
     "uscensus:awater":12434137.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488641,
-    "wof:geomhash":"6ad28f142dae79918a83280ebfb32391",
+    "wof:geomhash":"03ea98b6c1f0658e3c2eed1af83fb24c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776073,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776073,
-    "wof:lastmodified":1481488641,
+    "wof:lastmodified":1532443915,
     "wof:name":"West Virginia State House District 54",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

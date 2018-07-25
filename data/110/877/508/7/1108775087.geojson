@@ -11,6 +11,7 @@
     "geom:longitude":-76.753026,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3354926737.0,
     "uscensus:awater":1044465173.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488472,
-    "wof:geomhash":"feb7f1602aab195b936c4ff791a1a59a",
+    "wof:geomhash":"11bb571f9c45a159451e24bbba6d6555",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775087,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775087,
-    "wof:lastmodified":1481488472,
+    "wof:lastmodified":1532443847,
     "wof:name":"Virginia State Senate District 3",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

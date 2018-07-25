@@ -11,6 +11,7 @@
     "geom:longitude":-101.217307,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-19"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738445,
-    "wof:lastmodified":1493955426,
+    "wof:lastmodified":1532444683,
     "wof:name":"Texas Congressional District 19",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

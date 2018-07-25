@@ -11,6 +11,7 @@
     "geom:longitude":-119.80705,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":29163797.0,
     "uscensus:awater":100033.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487683,
-    "wof:geomhash":"584413e1bdeee797fa343fc2a91fab66",
+    "wof:geomhash":"156864ce612bd63035f5466493e38a09",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771031,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771031,
-    "wof:lastmodified":1481487683,
+    "wof:lastmodified":1532443906,
     "wof:name":"Nevada Assembly District 24",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

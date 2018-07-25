@@ -11,6 +11,7 @@
     "geom:longitude":-78.924181,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":438240061.0,
     "uscensus:awater":34001013.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487740,
-    "wof:geomhash":"5386efb58682111d9d066b65ebe71c03",
+    "wof:geomhash":"62c6640ce578b8a6cadf5347f2befc80",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771445,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771445,
-    "wof:lastmodified":1481487740,
+    "wof:lastmodified":1532443944,
     "wof:name":"New York Assembly District 145",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

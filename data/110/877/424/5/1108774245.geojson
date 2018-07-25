@@ -11,6 +11,7 @@
     "geom:longitude":-96.344866,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":271891997.0,
     "uscensus:awater":657474.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488276,
-    "wof:geomhash":"c31f57476c7f1cb7759941cd80310e24",
+    "wof:geomhash":"25d5b36174fba77d9d3d742b6a92b8f1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774245,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774245,
-    "wof:lastmodified":1481488276,
+    "wof:lastmodified":1532443952,
     "wof:name":"Texas State House District 14",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

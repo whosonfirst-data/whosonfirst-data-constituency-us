@@ -11,6 +11,7 @@
     "geom:longitude":-118.592341,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1036440224.0,
     "uscensus:awater":15658661.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486026,
-    "wof:geomhash":"45109994d59fcdf179e811bb5ae74c31",
+    "wof:geomhash":"6d289c1432020f4ee24ca533b163530f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761827,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761827,
-    "wof:lastmodified":1481486026,
+    "wof:lastmodified":1532444529,
     "wof:name":"California Assembly District 38",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

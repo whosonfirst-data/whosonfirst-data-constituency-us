@@ -11,6 +11,7 @@
     "geom:longitude":-88.520917,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":211486521.0,
     "uscensus:awater":29728945.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488585,
-    "wof:geomhash":"79a26a6ae8927e5936b7017c3a4adac5",
+    "wof:geomhash":"2ede2686241298fd22607d0887b9c6eb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775777,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775777,
-    "wof:lastmodified":1481488585,
+    "wof:lastmodified":1532444012,
     "wof:name":"Wisconsin Assembly District 55",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

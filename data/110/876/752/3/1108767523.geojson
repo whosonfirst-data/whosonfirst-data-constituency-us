@@ -11,6 +11,7 @@
     "geom:longitude":-83.373516,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":561300061.0,
     "uscensus:awater":30733226.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487069,
-    "wof:geomhash":"448e508a95ef181843feb206fcfcefe0",
+    "wof:geomhash":"69f557b8a6e192620693b741b6f544b3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767523,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767523,
-    "wof:lastmodified":1481487069,
+    "wof:lastmodified":1532444524,
     "wof:name":"Michigan State Senate District 6",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-116.378055,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":39683028.0,
     "uscensus:awater":58592.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486509,
-    "wof:geomhash":"d7ed8970a9fd82eb87df537332bfc5bf",
+    "wof:geomhash":"baf965cb047280a85314cad4bbe2ce27",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764343,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764343,
-    "wof:lastmodified":1481486509,
+    "wof:lastmodified":1532444180,
     "wof:name":"Idaho State Senate District 20",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

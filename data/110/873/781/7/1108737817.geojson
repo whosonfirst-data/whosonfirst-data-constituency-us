@@ -11,6 +11,7 @@
     "geom:longitude":-92.980878,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "MN-04"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737817,
-    "wof:lastmodified":1493955424,
+    "wof:lastmodified":1532444601,
     "wof:name":"Minnesota Congressional District 4",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-100.190157,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10498087649.0,
     "uscensus:awater":520564176.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488183,
-    "wof:geomhash":"481a7a52ce0fa9e89bddb06b817cc298",
+    "wof:geomhash":"b5dec2ba97b0a95ea4f7d4969bd2a44f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773893,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688693
         }
     ],
     "wof:id":1108773893,
-    "wof:lastmodified":1481488183,
+    "wof:lastmodified":1532444010,
     "wof:name":"South Dakota State Senate District 24",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

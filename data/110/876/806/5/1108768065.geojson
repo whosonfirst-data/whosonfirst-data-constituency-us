@@ -11,6 +11,7 @@
     "geom:longitude":-93.41909,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3800413349.0,
     "uscensus:awater":36617107.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487145,
-    "wof:geomhash":"13397316aa4b4f4bd88f5db46274cb8f",
+    "wof:geomhash":"1ea084cebf3bf2acdb92aad15f2a5ad6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768065,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768065,
-    "wof:lastmodified":1481487145,
+    "wof:lastmodified":1532444523,
     "wof:name":"Missouri State House District 7",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-72.457279,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1199221306.0,
     "uscensus:awater":5721588.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488519,
-    "wof:geomhash":"f5a2186da890bb883fc9be6d2044b691",
+    "wof:geomhash":"35e05ae55e7bb935f61bd08e94ff0cba",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775425,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775425,
-    "wof:lastmodified":1481488519,
+    "wof:lastmodified":1532443779,
     "wof:name":"Vermont Orange State Senate District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

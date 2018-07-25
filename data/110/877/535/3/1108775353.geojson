@@ -11,6 +11,7 @@
     "geom:longitude":-72.821659,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":288991728.0,
     "uscensus:awater":11071982.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488511,
-    "wof:geomhash":"55fdcbf14dd0ab706de442b95f9b2810",
+    "wof:geomhash":"6808318cc3db938ebe7ddaa654ecc850",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775353,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775353,
-    "wof:lastmodified":1481488511,
+    "wof:lastmodified":1532444001,
     "wof:name":"Vermont Windham-6 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

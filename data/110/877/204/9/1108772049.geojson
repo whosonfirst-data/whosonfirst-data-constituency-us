@@ -11,6 +11,7 @@
     "geom:longitude":-95.890438,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":35375160.0,
     "uscensus:awater":19682.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487879,
-    "wof:geomhash":"1da95e3c5cc7202830549b7766650fdb",
+    "wof:geomhash":"943306832dfb05ee866bc10ac0f31597",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772049,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772049,
-    "wof:lastmodified":1481487879,
+    "wof:lastmodified":1532443892,
     "wof:name":"Oklahoma State House District 67",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

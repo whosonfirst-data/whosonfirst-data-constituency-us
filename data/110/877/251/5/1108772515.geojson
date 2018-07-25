@@ -11,6 +11,7 @@
     "geom:longitude":-79.85513,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":77683518.0,
     "uscensus:awater":3980445.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487970,
-    "wof:geomhash":"d89f29de329774e0dbbb98b518311ab1",
+    "wof:geomhash":"e9a6be0aa7ada2e78fe49c6a079e36b2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772515,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772515,
-    "wof:lastmodified":1481487970,
+    "wof:lastmodified":1532443988,
     "wof:name":"Pennsylvania State House District 35",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

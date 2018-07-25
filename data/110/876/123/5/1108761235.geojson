@@ -11,6 +11,7 @@
     "geom:longitude":-87.447775,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6840348927.0,
     "uscensus:awater":145834431.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485895,
-    "wof:geomhash":"08d7842fd80c1cf8c5b29d30c800154f",
+    "wof:geomhash":"d16214616971a97d84621084b0998c9a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761235,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761235,
-    "wof:lastmodified":1481485895,
+    "wof:lastmodified":1532444420,
     "wof:name":"Alabama State Senate District 5",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

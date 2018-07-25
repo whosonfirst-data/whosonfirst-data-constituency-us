@@ -11,6 +11,7 @@
     "geom:longitude":-75.882738,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2016286754.0,
     "uscensus:awater":4336676606.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488474,
-    "wof:geomhash":"c587b288653b2504b58286cf75e6302c",
+    "wof:geomhash":"9a41f54fdafb25507e82e58fc9eed552",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775093,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775093,
-    "wof:lastmodified":1481488474,
+    "wof:lastmodified":1532443934,
     "wof:name":"Virginia State Senate District 6",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

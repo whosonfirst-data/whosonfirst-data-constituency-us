@@ -11,6 +11,7 @@
     "geom:longitude":-121.807149,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1835789793.0,
     "uscensus:awater":208664066.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486015,
-    "wof:geomhash":"7b1f7935da2ac072698d5129c4d0f2a7",
+    "wof:geomhash":"b29cc5000e26fbbe9e13709ded97e4f6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761767,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761767,
-    "wof:lastmodified":1481486015,
+    "wof:lastmodified":1532444216,
     "wof:name":"California Assembly District 11",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

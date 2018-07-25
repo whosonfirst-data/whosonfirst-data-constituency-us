@@ -11,6 +11,7 @@
     "geom:longitude":-96.911538,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2723975952.0,
     "uscensus:awater":36768070.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487866,
-    "wof:geomhash":"a26e8e2e2213ca535de6a484df5a4fcd",
+    "wof:geomhash":"f4fd91a581d20c3965a16bd701eb1e96",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771971,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108771971,
-    "wof:lastmodified":1481487866,
+    "wof:lastmodified":1532444035,
     "wof:name":"Oklahoma State House District 32",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

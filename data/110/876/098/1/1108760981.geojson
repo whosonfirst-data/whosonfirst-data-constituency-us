@@ -11,6 +11,7 @@
     "geom:longitude":-135.517463,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":22942853025.0,
     "uscensus:awater":5342026766.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485801,
-    "wof:geomhash":"b0bf809637e832aaab76f17e3d955ddb",
+    "wof:geomhash":"bb07fd53c82e5c71e93010d26102a8c8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760981,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760981,
-    "wof:lastmodified":1481485801,
+    "wof:lastmodified":1532444454,
     "wof:name":"Alaska State Senate District Q",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

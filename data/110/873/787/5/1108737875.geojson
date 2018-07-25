@@ -11,6 +11,7 @@
     "geom:longitude":-86.711613,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "AL-05"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737875,
-    "wof:lastmodified":1493955417,
+    "wof:lastmodified":1532444731,
     "wof:name":"Alabama Congressional District 5",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

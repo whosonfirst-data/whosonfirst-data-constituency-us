@@ -11,6 +11,7 @@
     "geom:longitude":-80.645971,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":189814590.0,
     "uscensus:awater":2521839.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487798,
-    "wof:geomhash":"530c4309e876f35d87a0e185dd34fc30",
+    "wof:geomhash":"bfeeb9ccc76064101377a5c128a6f0dc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771727,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771727,
-    "wof:lastmodified":1481487798,
+    "wof:lastmodified":1532444058,
     "wof:name":"Ohio State House District 58",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

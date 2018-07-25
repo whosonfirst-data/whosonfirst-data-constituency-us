@@ -11,6 +11,7 @@
     "geom:longitude":-89.033038,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3503930267.0,
     "uscensus:awater":7931757.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488227,
-    "wof:geomhash":"8e8946c2f04bbb063817aca948f8f448",
+    "wof:geomhash":"221c320ea7c0bb0b794f0f9925052fbe",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774129,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774129,
-    "wof:lastmodified":1481488227,
+    "wof:lastmodified":1532443961,
     "wof:name":"Tennessee State House District 94",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

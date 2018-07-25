@@ -11,6 +11,7 @@
     "geom:longitude":-97.651037,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":30235075.0,
     "uscensus:awater":187191.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487886,
-    "wof:geomhash":"ef33ea81c01ac1db37e8cca857fb3b05",
+    "wof:geomhash":"fc91110a48254d30a3d3fd78a9df60f5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772123,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772123,
-    "wof:lastmodified":1481487886,
+    "wof:lastmodified":1532443865,
     "wof:name":"Oklahoma State House District 100",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

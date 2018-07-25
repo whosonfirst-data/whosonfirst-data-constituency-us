@@ -17,6 +17,7 @@
     "mps:latitude":39.904493,
     "mps:longitude":-86.250281,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Indiana"
     ],
@@ -50,7 +51,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231161,
-    "wof:geomhash":"0a2b97251c5daaa4c3a01867f0324bfd",
+    "wof:geomhash":"fef42d27b2384f706752eeca65496a59",
     "wof:hierarchy":[
         {
             "constituency_id":1108746623,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108746623,
-    "wof:lastmodified":1487197391,
+    "wof:lastmodified":1532443709,
     "wof:name":"Indiana",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

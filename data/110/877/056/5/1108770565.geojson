@@ -11,6 +11,7 @@
     "geom:longitude":-74.335632,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1635369490.0,
     "uscensus:awater":906785137.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487593,
-    "wof:geomhash":"3a79b173793c961146fd757c0414ce9a",
+    "wof:geomhash":"e34fa41c28e8b347d33c5ed7ccb2054c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770565,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770565,
-    "wof:lastmodified":1481487593,
+    "wof:lastmodified":1532443943,
     "wof:name":"New Jersey General Assembly District 9",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.953769,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":12375793.0,
     "uscensus:awater":10232683.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487757,
-    "wof:geomhash":"c26f1dbbf407ee6a7fcfa17fafff89b1",
+    "wof:geomhash":"8f6ca686851105742d9b186ef71ff875",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771525,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771525,
-    "wof:lastmodified":1481487757,
+    "wof:lastmodified":1532443941,
     "wof:name":"New York State Senate District 31",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

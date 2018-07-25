@@ -11,6 +11,7 @@
     "geom:longitude":-157.922685,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":34605015.0,
     "uscensus:awater":82423750.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486404,
-    "wof:geomhash":"2f305c4016c20c102aeb045b8ecbafb3",
+    "wof:geomhash":"d9f9ada055b538575e05e725508d065e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763779,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688671
         }
     ],
     "wof:id":1108763779,
-    "wof:lastmodified":1481486404,
+    "wof:lastmodified":1532444243,
     "wof:name":"Hawaii State House District 30",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-hi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

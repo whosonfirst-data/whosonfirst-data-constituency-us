@@ -11,6 +11,7 @@
     "geom:longitude":-111.81701,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":39447854.0,
     "uscensus:awater":2729.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488379,
-    "wof:geomhash":"a917852dac49cd15023591e046e9fec2",
+    "wof:geomhash":"0bbb8154e18268edab51e448c6da2696",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774747,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774747,
-    "wof:lastmodified":1481488379,
+    "wof:lastmodified":1532444016,
     "wof:name":"Utah State House District 56",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

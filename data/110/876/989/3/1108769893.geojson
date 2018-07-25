@@ -11,6 +11,7 @@
     "geom:longitude":-103.365278,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":22008417160.0,
     "uscensus:awater":278832262.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487493,
-    "wof:geomhash":"1ce5775777625bf1a343a6e8aa38465e",
+    "wof:geomhash":"03d3b47b8bb4cacc5731e6b770cff23d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769893,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108769893,
-    "wof:lastmodified":1481487493,
+    "wof:lastmodified":1532444339,
     "wof:name":"North Dakota State House District 39",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

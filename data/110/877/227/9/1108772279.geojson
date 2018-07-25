@@ -11,6 +11,7 @@
     "geom:longitude":-123.11786,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":126004394.0,
     "uscensus:awater":4938974.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487918,
-    "wof:geomhash":"660ee52e43ccc34d01a9306422894a69",
+    "wof:geomhash":"43bd5fcafa314e79272d1021b8e9751b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772279,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772279,
-    "wof:lastmodified":1481487918,
+    "wof:lastmodified":1532444059,
     "wof:name":"Oregon State House District 20",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-93.03327,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1118901885.0,
     "uscensus:awater":21597035.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487136,
-    "wof:geomhash":"8fdcee4459dfd4188e23fb15e0d0c9de",
+    "wof:geomhash":"9a6009ae08379c161d74844729e76a27",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768029,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108768029,
-    "wof:lastmodified":1481487136,
+    "wof:lastmodified":1532444080,
     "wof:name":"Minnesota State Senate District 58",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

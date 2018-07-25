@@ -11,6 +11,7 @@
     "geom:longitude":-66.862803,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":235174477.0,
     "uscensus:awater":1341193.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488047,
-    "wof:geomhash":"a8efcc2cb6aab5fff8ab7aee88e667f0",
+    "wof:geomhash":"8b69e4981684be8ad9b560f275310106",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773039,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773039,
-    "wof:lastmodified":1481488047,
+    "wof:lastmodified":1532443888,
     "wof:name":"Puerto Rico State House District 15",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

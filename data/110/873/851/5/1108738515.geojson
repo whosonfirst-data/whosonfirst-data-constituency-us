@@ -11,6 +11,7 @@
     "geom:longitude":-78.841489,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NY-26"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738515,
-    "wof:lastmodified":1493955556,
+    "wof:lastmodified":1532444593,
     "wof:name":"New York Congressional District 26",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

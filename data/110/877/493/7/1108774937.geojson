@@ -11,6 +11,7 @@
     "geom:longitude":-77.339098,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":59815285.0,
     "uscensus:awater":932391.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488430,
-    "wof:geomhash":"4df12f95ac867a9155742274a1b7d49c",
+    "wof:geomhash":"3aa6b31bbb0b10e262a21e93bef88bd5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774937,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774937,
-    "wof:lastmodified":1481488430,
+    "wof:lastmodified":1532443824,
     "wof:name":"Virginia State House District 36",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

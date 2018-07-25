@@ -11,6 +11,7 @@
     "geom:longitude":-71.276698,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":963735124.0,
     "uscensus:awater":25440771.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487586,
-    "wof:geomhash":"f6a332e3d268c7c6c2db4defe3305e28",
+    "wof:geomhash":"c0258cbd80fa7b6ae33b78b1a92caad2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770529,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770529,
-    "wof:lastmodified":1481487586,
+    "wof:lastmodified":1532444049,
     "wof:name":"New Hampshire State Senate District 17",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-94.082221,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2616901948.0,
     "uscensus:awater":696154828.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488284,
-    "wof:geomhash":"50e284949df6d9a8d4aa97f82f9a9694",
+    "wof:geomhash":"28ecf478d16744a166be37caa0bdd149",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774261,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774261,
-    "wof:lastmodified":1481488284,
+    "wof:lastmodified":1532444041,
     "wof:name":"Texas State House District 21",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

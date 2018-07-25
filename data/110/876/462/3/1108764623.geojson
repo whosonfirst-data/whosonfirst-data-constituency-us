@@ -11,6 +11,7 @@
     "geom:longitude":-88.207956,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8900408535.0,
     "uscensus:awater":55733356.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486557,
-    "wof:geomhash":"bfd24d9cb6757a0b89e44363cb21b981",
+    "wof:geomhash":"10561a8503b73b76bd3adea9d04949d3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764623,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764623,
-    "wof:lastmodified":1481486557,
+    "wof:lastmodified":1532444317,
     "wof:name":"Illinois State House District 109",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

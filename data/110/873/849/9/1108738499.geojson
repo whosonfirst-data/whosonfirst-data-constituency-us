@@ -11,6 +11,7 @@
     "geom:longitude":-97.011094,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-24"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738499,
-    "wof:lastmodified":1493955550,
+    "wof:lastmodified":1532444702,
     "wof:name":"Texas Congressional District 24",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

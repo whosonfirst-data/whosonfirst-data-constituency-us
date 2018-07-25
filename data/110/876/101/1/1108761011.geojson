@@ -11,6 +11,7 @@
     "geom:longitude":-86.660073,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":346666285.0,
     "uscensus:awater":18158457.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485853,
-    "wof:geomhash":"153dc6282092c0f5365511ce5a3a2f22",
+    "wof:geomhash":"dd042ab70019a1cc2f83baa6663cdbb0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761011,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761011,
-    "wof:lastmodified":1481485853,
+    "wof:lastmodified":1532444575,
     "wof:name":"Alabama State House District 10",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

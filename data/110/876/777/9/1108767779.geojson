@@ -11,6 +11,7 @@
     "geom:longitude":-93.245698,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":36731330.0,
     "uscensus:awater":3268592.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487106,
-    "wof:geomhash":"4ab4c2bf5ca4d5df4ce551d64a94d8cf",
+    "wof:geomhash":"0d32b0e792fa526e567c9dc25957c64a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767779,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767779,
-    "wof:lastmodified":1481487106,
+    "wof:lastmodified":1532444446,
     "wof:name":"Minnesota State House District 41A",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

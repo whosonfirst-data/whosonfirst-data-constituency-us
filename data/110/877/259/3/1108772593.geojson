@@ -11,6 +11,7 @@
     "geom:longitude":-75.343774,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":72175987.0,
     "uscensus:awater":278761.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487980,
-    "wof:geomhash":"d6021a66b7dfcbf32466382e7046e4c8",
+    "wof:geomhash":"077b778994c1198b9e2488203f27d112",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772593,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772593,
-    "wof:lastmodified":1481487980,
+    "wof:lastmodified":1532443908,
     "wof:name":"Pennsylvania State House District 70",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

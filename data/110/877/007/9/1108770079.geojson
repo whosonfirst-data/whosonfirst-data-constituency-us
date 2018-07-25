@@ -11,6 +11,7 @@
     "geom:longitude":-96.722721,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":37909748.0,
     "uscensus:awater":1708194.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487527,
-    "wof:geomhash":"87bedf182c521d25f168d9aab22ffb43",
+    "wof:geomhash":"ad9c408540024284d5af136126dfabc1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770079,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770079,
-    "wof:lastmodified":1481487527,
+    "wof:lastmodified":1532443982,
     "wof:name":"Nebraska State Senate District 27",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

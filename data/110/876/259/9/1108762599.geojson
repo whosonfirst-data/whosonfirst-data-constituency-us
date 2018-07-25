@@ -11,6 +11,7 @@
     "geom:longitude":-72.66476,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":168718550.0,
     "uscensus:awater":5390304.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486169,
-    "wof:geomhash":"bc07d03ced5389407cb6eadd5626f748",
+    "wof:geomhash":"1046988b71c758b5a8a77a9bed42344c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762599,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762599,
-    "wof:lastmodified":1481486169,
+    "wof:lastmodified":1532444324,
     "wof:name":"Connecticut State Senate District 9",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

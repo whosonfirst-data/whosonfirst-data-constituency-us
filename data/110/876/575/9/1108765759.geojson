@@ -11,6 +11,7 @@
     "geom:longitude":-85.199355,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2573664536.0,
     "uscensus:awater":64592730.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486729,
-    "wof:geomhash":"294e46a9aef042f913318531c2475f55",
+    "wof:geomhash":"826485e8be0c64c62e4aeb0926ff450a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765759,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765759,
-    "wof:lastmodified":1481486729,
+    "wof:lastmodified":1532444362,
     "wof:name":"Kentucky State Senate District 20",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

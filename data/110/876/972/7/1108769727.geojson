@@ -11,6 +11,7 @@
     "geom:longitude":-78.638392,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":396251779.0,
     "uscensus:awater":28406759.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487463,
-    "wof:geomhash":"0e238460b190c683639260e89a2b32fe",
+    "wof:geomhash":"7687dafe8d41e5989d95c135f79fecf3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769727,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769727,
-    "wof:lastmodified":1481487463,
+    "wof:lastmodified":1532444484,
     "wof:name":"North Carolina State Senate District 15",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

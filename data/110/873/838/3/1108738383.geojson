@@ -11,6 +11,7 @@
     "geom:longitude":-98.261068,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-15"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738383,
-    "wof:lastmodified":1493955531,
+    "wof:lastmodified":1532444644,
     "wof:name":"Texas Congressional District 15",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

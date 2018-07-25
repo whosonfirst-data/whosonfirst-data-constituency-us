@@ -11,6 +11,7 @@
     "geom:longitude":-93.344568,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1036276587.0,
     "uscensus:awater":3547671.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485951,
-    "wof:geomhash":"06e232c99a757273549f13ef97f0676a",
+    "wof:geomhash":"b2288c9caf354d327dc512f2ce7d662e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761523,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761523,
-    "wof:lastmodified":1481485951,
+    "wof:lastmodified":1532444399,
     "wof:name":"Arkansas State House District 98",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

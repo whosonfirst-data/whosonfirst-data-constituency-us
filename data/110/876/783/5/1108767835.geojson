@@ -11,6 +11,7 @@
     "geom:longitude":-92.910379,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":67672493.0,
     "uscensus:awater":1411881.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487111,
-    "wof:geomhash":"84c244633ec8795e5c5eba1fb0dab248",
+    "wof:geomhash":"ce257629fcdf0bb1c4fe0d0c85fd507a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767835,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767835,
-    "wof:lastmodified":1481487111,
+    "wof:lastmodified":1532444441,
     "wof:name":"Minnesota State House District 53B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

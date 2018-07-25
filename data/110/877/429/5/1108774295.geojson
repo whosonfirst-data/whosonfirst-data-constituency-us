@@ -11,6 +11,7 @@
     "geom:longitude":-98.269849,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":276665632.0,
     "uscensus:awater":3622523.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488289,
-    "wof:geomhash":"32553bfed04b13abe8dd8f31f0e08b21",
+    "wof:geomhash":"1fedaebe3c35aefaa4b656280136c933",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774295,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774295,
-    "wof:lastmodified":1481488289,
+    "wof:lastmodified":1532443858,
     "wof:name":"Texas State House District 36",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

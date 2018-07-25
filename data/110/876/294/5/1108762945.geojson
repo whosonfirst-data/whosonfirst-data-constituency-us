@@ -11,6 +11,7 @@
     "geom:longitude":-81.812698,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4690363160.0,
     "uscensus:awater":192843306.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486236,
-    "wof:geomhash":"e0c27c04b68971dd44623042fe29d3af",
+    "wof:geomhash":"134a3501916555528b912ed8029f2909",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762945,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762945,
-    "wof:lastmodified":1481486236,
+    "wof:lastmodified":1532444216,
     "wof:name":"Florida State House District 56",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

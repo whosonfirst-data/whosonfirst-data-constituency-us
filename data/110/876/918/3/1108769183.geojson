@@ -11,6 +11,7 @@
     "geom:longitude":-108.409087,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":46561759.0,
     "uscensus:awater":1966694.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487341,
-    "wof:geomhash":"b7ced3f7cd0a6096aa9be9cb17530105",
+    "wof:geomhash":"cbe49112247fbe6529221878979578c6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769183,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769183,
-    "wof:lastmodified":1481487341,
+    "wof:lastmodified":1532444413,
     "wof:name":"Montana State House District 43",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

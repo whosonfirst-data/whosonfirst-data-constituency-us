@@ -11,6 +11,7 @@
     "geom:longitude":-122.751031,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16144255316.0,
     "uscensus:awater":168357920.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487939,
-    "wof:geomhash":"f5094b00fb19de0893a0bcd24e1c041c",
+    "wof:geomhash":"8f8198bb3176180af852b2868c6f2cac",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772377,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772377,
-    "wof:lastmodified":1481487939,
+    "wof:lastmodified":1532444027,
     "wof:name":"Oregon State Senate District 4",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

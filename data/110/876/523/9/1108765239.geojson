@@ -11,6 +11,7 @@
     "geom:longitude":-95.655172,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1149151409.0,
     "uscensus:awater":11043641.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486648,
-    "wof:geomhash":"a11cd3b2a69fe775f6a08c1c38e51287",
+    "wof:geomhash":"2fb1c6398a6bfb8c4f761cefd523cfbf",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765239,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765239,
-    "wof:lastmodified":1481486648,
+    "wof:lastmodified":1532444282,
     "wof:name":"Kansas State House District 54",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

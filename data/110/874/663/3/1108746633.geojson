@@ -17,6 +17,7 @@
     "mps:latitude":39.038828,
     "mps:longitude":-76.346717,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Maryland"
     ],
@@ -519,7 +520,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231165,
-    "wof:geomhash":"9b88a7a08a9ed02c478628ab40786469",
+    "wof:geomhash":"93ac2174e1e318723848a86bc8ebf26e",
     "wof:hierarchy":[
         {
             "constituency_id":1108746633,
@@ -529,7 +530,7 @@
         }
     ],
     "wof:id":1108746633,
-    "wof:lastmodified":1487197423,
+    "wof:lastmodified":1532443704,
     "wof:name":"Maryland",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

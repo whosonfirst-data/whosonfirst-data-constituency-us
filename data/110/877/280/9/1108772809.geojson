@@ -11,6 +11,7 @@
     "geom:longitude":-75.325981,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":36732148.0,
     "uscensus:awater":20992.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488006,
-    "wof:geomhash":"479057b0a1deac15382a2431fed255ee",
+    "wof:geomhash":"e69d1ee0bec4bdf6dbfa87951ed9b41c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772809,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772809,
-    "wof:lastmodified":1481488006,
+    "wof:lastmodified":1532444060,
     "wof:name":"Pennsylvania State House District 166",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

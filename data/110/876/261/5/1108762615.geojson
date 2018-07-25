@@ -11,6 +11,7 @@
     "geom:longitude":-72.928555,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":232301265.0,
     "uscensus:awater":4315670.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486170,
-    "wof:geomhash":"973e8d748b9058c3f8cc2a652f9aef76",
+    "wof:geomhash":"5d860f5bf6acbbd9c840ebaed34531b1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762615,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762615,
-    "wof:lastmodified":1481486170,
+    "wof:lastmodified":1532444512,
     "wof:name":"Connecticut State Senate District 16",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-84.32661,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":274401275.0,
     "uscensus:awater":4015858.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487056,
-    "wof:geomhash":"ea5a39322742bf0e83979b26aa01693f",
+    "wof:geomhash":"6fa5e12b16acc9eeada2611f1887cc86",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767415,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767415,
-    "wof:lastmodified":1481487056,
+    "wof:lastmodified":1532444519,
     "wof:name":"Michigan State House District 69",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

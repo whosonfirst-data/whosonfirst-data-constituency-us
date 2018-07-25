@@ -11,6 +11,7 @@
     "geom:longitude":-122.109078,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":241255964.0,
     "uscensus:awater":8031660.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488566,
-    "wof:geomhash":"74dcf8a688c16249cf5bbff1c70b4b41",
+    "wof:geomhash":"c7cb2ad94b0871162948c296d8e4d5d3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775643,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688623
         }
     ],
     "wof:id":1108775643,
-    "wof:lastmodified":1481488566,
+    "wof:lastmodified":1532443863,
     "wof:name":"Washington State Senate District 44",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

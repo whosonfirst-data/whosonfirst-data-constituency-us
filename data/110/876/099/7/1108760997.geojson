@@ -11,6 +11,7 @@
     "geom:longitude":-86.892623,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":753212961.0,
     "uscensus:awater":115444779.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485851,
-    "wof:geomhash":"874ce9a8f70742b77af6dfd50b15d0c8",
+    "wof:geomhash":"331ab4c01c583c41b79061a454600b64",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760997,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108760997,
-    "wof:lastmodified":1481485851,
+    "wof:lastmodified":1532444447,
     "wof:name":"Alabama State House District 4",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

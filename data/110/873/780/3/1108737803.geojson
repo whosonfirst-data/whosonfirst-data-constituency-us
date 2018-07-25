@@ -11,6 +11,7 @@
     "geom:longitude":-84.427207,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "KY-04"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737803,
-    "wof:lastmodified":1493955438,
+    "wof:lastmodified":1532444680,
     "wof:name":"Kentucky Congressional District 4",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",

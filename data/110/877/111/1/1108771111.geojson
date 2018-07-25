@@ -11,6 +11,7 @@
     "geom:longitude":-115.269666,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":108289480.0,
     "uscensus:awater":8791.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487697,
-    "wof:geomhash":"f3b09b3171d9f3bf9d175ae2462ae3a6",
+    "wof:geomhash":"3b55b410e1ceca0013d5b4bd9b88fd3d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771111,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771111,
-    "wof:lastmodified":1481487697,
+    "wof:lastmodified":1532443823,
     "wof:name":"Nevada State Senate District 18",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-103.792224,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2072081400.0,
     "uscensus:awater":713642.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488185,
-    "wof:geomhash":"c945d13eee7e020e3b7dcfa79e0c8d48",
+    "wof:geomhash":"ade212bab1b0daa5f2b52c3a464eaf82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773907,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688693
         }
     ],
     "wof:id":1108773907,
-    "wof:lastmodified":1481488185,
+    "wof:lastmodified":1532443796,
     "wof:name":"South Dakota State Senate District 31",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

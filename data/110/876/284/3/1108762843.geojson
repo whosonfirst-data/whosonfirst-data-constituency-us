@@ -11,6 +11,7 @@
     "geom:longitude":-82.705106,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6836331271.0,
     "uscensus:awater":44056700.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486224,
-    "wof:geomhash":"505a6576451233a0325af1837e3b302a",
+    "wof:geomhash":"77cca3eb1a02cb4ae19cdf3cfac75fc7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762843,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762843,
-    "wof:lastmodified":1481486224,
+    "wof:lastmodified":1532444488,
     "wof:name":"Florida State House District 10",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

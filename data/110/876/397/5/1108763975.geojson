@@ -11,6 +11,7 @@
     "geom:longitude":-93.673582,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":47292183.0,
     "uscensus:awater":704415.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486439,
-    "wof:geomhash":"95f43b5a5faf7ec5ac9c0b59967f897e",
+    "wof:geomhash":"557bca5f921be26f0d4c821f541495ab",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763975,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108763975,
-    "wof:lastmodified":1481486439,
+    "wof:lastmodified":1532444388,
     "wof:name":"Iowa State House District 41",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

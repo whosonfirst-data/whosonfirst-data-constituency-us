@@ -11,6 +11,7 @@
     "geom:longitude":-117.840179,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-39"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738583,
-    "wof:lastmodified":1493955482,
+    "wof:lastmodified":1532444683,
     "wof:name":"California Congressional District 39",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

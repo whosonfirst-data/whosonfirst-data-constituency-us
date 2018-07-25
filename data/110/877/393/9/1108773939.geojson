@@ -11,6 +11,7 @@
     "geom:longitude":-83.266663,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":417437888.0,
     "uscensus:awater":37890940.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488194,
-    "wof:geomhash":"aa3c158d0e67e3e7b1a87d25d81d57e1",
+    "wof:geomhash":"de1273ec5bb9698b773e1e302cbc1076",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773939,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108773939,
-    "wof:lastmodified":1481488194,
+    "wof:lastmodified":1532443803,
     "wof:name":"Tennessee State House District 10",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

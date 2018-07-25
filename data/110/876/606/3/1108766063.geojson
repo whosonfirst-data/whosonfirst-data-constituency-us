@@ -11,6 +11,7 @@
     "geom:longitude":-90.136041,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":926832208.0,
     "uscensus:awater":32164805.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486786,
-    "wof:geomhash":"bb1632e9ecedd66f93d9d6c160d84bb2",
+    "wof:geomhash":"8913ec24de36d5190340fa0600ceeaf2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766063,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108766063,
-    "wof:lastmodified":1481486786,
+    "wof:lastmodified":1532444253,
     "wof:name":"Louisiana State Senate District 11",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

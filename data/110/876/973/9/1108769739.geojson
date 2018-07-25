@@ -11,6 +11,7 @@
     "geom:longitude":-78.678887,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1561953194.0,
     "uscensus:awater":25038471.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487465,
-    "wof:geomhash":"2e2ccb98ea93deef9037af44b227f44f",
+    "wof:geomhash":"9f9cd4f46194f9722366fd54dcc825c9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769739,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769739,
-    "wof:lastmodified":1481487465,
+    "wof:lastmodified":1532444561,
     "wof:name":"North Carolina State Senate District 20",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

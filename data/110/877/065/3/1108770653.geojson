@@ -11,6 +11,7 @@
     "geom:longitude":-74.706707,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1262840499.0,
     "uscensus:awater":19503723.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487610,
-    "wof:geomhash":"8eb245fc4631e858b9f525791cc1c57c",
+    "wof:geomhash":"4c88c91bf391fd999d8bb68f2e33c815",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770653,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770653,
-    "wof:lastmodified":1481487610,
+    "wof:lastmodified":1532443771,
     "wof:name":"New Jersey State Senate District 8",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

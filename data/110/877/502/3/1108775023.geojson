@@ -11,6 +11,7 @@
     "geom:longitude":-77.515065,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5471460078.0,
     "uscensus:awater":28503976.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488443,
-    "wof:geomhash":"4123c927a7b2def1ebf0d4752e06f1d8",
+    "wof:geomhash":"19f2c2a9fcb11ea91df399032f64f020",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775023,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775023,
-    "wof:lastmodified":1481488443,
+    "wof:lastmodified":1532443885,
     "wof:name":"Virginia State House District 75",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

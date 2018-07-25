@@ -11,6 +11,7 @@
     "geom:longitude":-88.518557,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":321668222.0,
     "uscensus:awater":551448049.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487276,
-    "wof:geomhash":"58b333b33ef3523551d6a24a73eceb63",
+    "wof:geomhash":"d2089081350027e926b6d29048704eb6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768945,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768945,
-    "wof:lastmodified":1481487276,
+    "wof:lastmodified":1532444476,
     "wof:name":"Mississippi State House District 111",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

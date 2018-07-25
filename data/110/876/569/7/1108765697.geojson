@@ -11,6 +11,7 @@
     "geom:longitude":-82.370196,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1792484405.0,
     "uscensus:awater":4819437.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486715,
-    "wof:geomhash":"a0d93e2b8f09d93450a06effaee07828",
+    "wof:geomhash":"f6cd5474d5f09cab9a36ac4ffe8be39b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765697,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765697,
-    "wof:lastmodified":1481486715,
+    "wof:lastmodified":1532444473,
     "wof:name":"Kentucky State House District 93",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

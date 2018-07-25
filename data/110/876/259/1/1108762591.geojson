@@ -11,6 +11,7 @@
     "geom:longitude":-72.854562,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":219705922.0,
     "uscensus:awater":4520081.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486168,
-    "wof:geomhash":"51c8da32f60b5aaac81e203c5b3f5d76",
+    "wof:geomhash":"c156eefb53a663aa384e63b77c3f3156",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762591,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762591,
-    "wof:lastmodified":1481486168,
+    "wof:lastmodified":1532444324,
     "wof:name":"Connecticut State Senate District 5",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

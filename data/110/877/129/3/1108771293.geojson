@@ -11,6 +11,7 @@
     "geom:longitude":-73.886337,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5967679.0,
     "uscensus:awater":14381.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487724,
-    "wof:geomhash":"ee8e58c062262e891cd035fb6449d3d0",
+    "wof:geomhash":"f556b0c1dad477a0ad38e974c83b3363",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771293,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771293,
-    "wof:lastmodified":1481487724,
+    "wof:lastmodified":1532443754,
     "wof:name":"New York Assembly District 78",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

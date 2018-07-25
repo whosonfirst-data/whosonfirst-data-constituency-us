@@ -11,6 +11,7 @@
     "geom:longitude":-104.762086,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":45951652.0,
     "uscensus:awater":95718.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486087,
-    "wof:geomhash":"358d1f855c0cdebcc0e0c458743e672b",
+    "wof:geomhash":"5c543aac36ead06d27548c8920cdbaa4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762051,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762051,
-    "wof:lastmodified":1481486087,
+    "wof:lastmodified":1532444277,
     "wof:name":"Colorado State House District 17",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

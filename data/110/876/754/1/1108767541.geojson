@@ -11,6 +11,7 @@
     "geom:longitude":-83.555988,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1009586755.0,
     "uscensus:awater":40583033.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487070,
-    "wof:geomhash":"ddd0bd15d9fa5a8287a126f2e5569db0",
+    "wof:geomhash":"d14dd88a5a1eaf2a589909e7c2938f95",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767541,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767541,
-    "wof:lastmodified":1481487070,
+    "wof:lastmodified":1532444507,
     "wof:name":"Michigan State Senate District 14",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

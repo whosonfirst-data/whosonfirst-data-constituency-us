@@ -11,6 +11,7 @@
     "geom:longitude":-78.50893,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":7140542087.0,
     "uscensus:awater":92339936.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488482,
-    "wof:geomhash":"719db64a8286599533564fe893340476",
+    "wof:geomhash":"a62befedf179dfb7516d72b9018da749",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775129,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775129,
-    "wof:lastmodified":1481488482,
+    "wof:lastmodified":1532443827,
     "wof:name":"Virginia State Senate District 22",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

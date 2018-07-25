@@ -11,6 +11,7 @@
     "geom:longitude":-93.551657,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2898907089.0,
     "uscensus:awater":41606877.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485915,
-    "wof:geomhash":"65af61004df29e23872dc1fe4e4074d8",
+    "wof:geomhash":"75f374dcd0cfae7181ebd002f788700e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761311,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688549
         }
     ],
     "wof:id":1108761311,
-    "wof:lastmodified":1481485915,
+    "wof:lastmodified":1532444512,
     "wof:name":"Arkansas State House District 3",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ar",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

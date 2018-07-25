@@ -11,6 +11,7 @@
     "geom:longitude":-118.22766,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-34"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738563,
-    "wof:lastmodified":1493955507,
+    "wof:lastmodified":1532444732,
     "wof:name":"California Congressional District 34",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

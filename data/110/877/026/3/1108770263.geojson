@@ -11,6 +11,7 @@
     "geom:longitude":-71.42754,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17293258.0,
     "uscensus:awater":680169.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487548,
-    "wof:geomhash":"465dfc100aae147ad4b551441a331565",
+    "wof:geomhash":"e015bd7dcda4bcda1f0bf8d5e6d8831c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770263,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770263,
-    "wof:lastmodified":1481487548,
+    "wof:lastmodified":1532443961,
     "wof:name":"New Hampshire State House District Hillsborough County No. 15",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

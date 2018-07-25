@@ -11,6 +11,7 @@
     "geom:longitude":-74.073482,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NJ-09"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738191,
-    "wof:lastmodified":1493955402,
+    "wof:lastmodified":1532444655,
     "wof:name":"New Jersey Congressional District 9",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

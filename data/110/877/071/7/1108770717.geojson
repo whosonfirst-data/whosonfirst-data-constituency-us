@@ -11,6 +11,7 @@
     "geom:longitude":-73.970193,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":100078583.0,
     "uscensus:awater":14473783.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487621,
-    "wof:geomhash":"f0714498326de5b70707ffb29f806afc",
+    "wof:geomhash":"b1db14c5ef7b82bfddf208bc4b704363",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770717,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770717,
-    "wof:lastmodified":1481487621,
+    "wof:lastmodified":1532443786,
     "wof:name":"New Jersey State Senate District 37",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

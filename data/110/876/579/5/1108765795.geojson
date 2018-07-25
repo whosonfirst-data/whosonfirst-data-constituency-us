@@ -11,6 +11,7 @@
     "geom:longitude":-85.532747,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":151949087.0,
     "uscensus:awater":1889451.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486735,
-    "wof:geomhash":"7c519878342f82f7b4765af291282210",
+    "wof:geomhash":"a9772bbd96a29d56a7532ecf72b8067a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765795,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765795,
-    "wof:lastmodified":1481486735,
+    "wof:lastmodified":1532444436,
     "wof:name":"Kentucky State Senate District 36",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

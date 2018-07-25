@@ -11,6 +11,7 @@
     "geom:longitude":-94.245301,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11178755053.0,
     "uscensus:awater":551207974.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488272,
-    "wof:geomhash":"b14dc5a6f871859960ed0f4a6de82843",
+    "wof:geomhash":"79e06ac613e7f6a444ca4a3069f0d7fd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774235,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774235,
-    "wof:lastmodified":1481488272,
+    "wof:lastmodified":1532443754,
     "wof:name":"Texas State House District 9",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-86.973218,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":610063186.0,
     "uscensus:awater":5511135.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485851,
-    "wof:geomhash":"c68c193ea56569e69a5b86c712eb1089",
+    "wof:geomhash":"4b7bf82da6b5244849161ef54fef485e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760999,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108760999,
-    "wof:lastmodified":1481485851,
+    "wof:lastmodified":1532444447,
     "wof:name":"Alabama State House District 5",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

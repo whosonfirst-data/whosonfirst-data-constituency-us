@@ -11,6 +11,7 @@
     "geom:longitude":-81.678256,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":607380691.0,
     "uscensus:awater":3116098.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487837,
-    "wof:geomhash":"53fb855a74c4cd4787f5045d5fc9d43c",
+    "wof:geomhash":"cc4595c20fe7b31ca5caec92509669d5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771877,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771877,
-    "wof:lastmodified":1481487837,
+    "wof:lastmodified":1532443774,
     "wof:name":"Ohio State Senate District 24",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

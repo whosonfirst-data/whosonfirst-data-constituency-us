@@ -11,6 +11,7 @@
     "geom:longitude":-71.086794,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6640457.0,
     "uscensus:awater":186593.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486831,
-    "wof:geomhash":"d42d904752c3ab72146fbfaa29c5f9f2",
+    "wof:geomhash":"45fcaf42a601b93d1c518d2e233cb404",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766317,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766317,
-    "wof:lastmodified":1481486831,
+    "wof:lastmodified":1532444072,
     "wof:name":"Massachusetts 26th Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

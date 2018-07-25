@@ -11,6 +11,7 @@
     "geom:longitude":-73.876587,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8948252.0,
     "uscensus:awater":6090228.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487725,
-    "wof:geomhash":"6b9eefd1fc3fd1a329a95f2b858e033d",
+    "wof:geomhash":"6e37e145472e06be725766da98584855",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771309,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771309,
-    "wof:lastmodified":1481487725,
+    "wof:lastmodified":1532443769,
     "wof:name":"New York Assembly District 85",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-95.922135,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":115407877.0,
     "uscensus:awater":6519040.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487532,
-    "wof:geomhash":"b6a82f8002b9d79b41a1be535671a0db",
+    "wof:geomhash":"6bd322a2c97031a5095c5c12cce6c2c7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770119,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688563
         }
     ],
     "wof:id":1108770119,
-    "wof:lastmodified":1481487532,
+    "wof:lastmodified":1532443915,
     "wof:name":"Nebraska State Senate District 45",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ne",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

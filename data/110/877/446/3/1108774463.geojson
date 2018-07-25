@@ -11,6 +11,7 @@
     "geom:longitude":-96.924,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":178425141.0,
     "uscensus:awater":19336273.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488324,
-    "wof:geomhash":"7cf8f75151ecc43b9e95658f05e34670",
+    "wof:geomhash":"d74658510025bd2b46ce2c01e584fd89",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774463,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774463,
-    "wof:lastmodified":1481488324,
+    "wof:lastmodified":1532443962,
     "wof:name":"Texas State House District 111",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

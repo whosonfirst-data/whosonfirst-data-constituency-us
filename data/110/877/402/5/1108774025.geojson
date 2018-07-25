@@ -11,6 +11,7 @@
     "geom:longitude":-86.292908,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":690065410.0,
     "uscensus:awater":224557.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488214,
-    "wof:geomhash":"0a7102beaf54b0ce5be237c8b99f48c2",
+    "wof:geomhash":"de53e6dd6f4da139ba21ab2c00c0e3dc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774025,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774025,
-    "wof:lastmodified":1481488214,
+    "wof:lastmodified":1532443739,
     "wof:name":"Tennessee State House District 48",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

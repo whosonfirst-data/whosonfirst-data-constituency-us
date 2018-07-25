@@ -11,6 +11,7 @@
     "geom:longitude":-110.793356,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":257294011.0,
     "uscensus:awater":114043.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485981,
-    "wof:geomhash":"bf2d8913e7dfbc2ec307ae442d9f8140",
+    "wof:geomhash":"d6174a5df539e425dcfefcae38cc680e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761629,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108761629,
-    "wof:lastmodified":1481485981,
+    "wof:lastmodified":1532444358,
     "wof:name":"Arizona State House District 10",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-az",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

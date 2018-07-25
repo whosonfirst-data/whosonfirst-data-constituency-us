@@ -11,6 +11,7 @@
     "geom:longitude":-72.853029,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":345488637.0,
     "uscensus:awater":4917585.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488513,
-    "wof:geomhash":"0530c290a7c62b989a641018ded40bab",
+    "wof:geomhash":"2955ba13ce24a9d0417768fe2ad44bc7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775377,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775377,
-    "wof:lastmodified":1481488513,
+    "wof:lastmodified":1532444052,
     "wof:name":"Vermont Washington-Chittenden State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

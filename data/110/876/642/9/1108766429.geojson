@@ -11,6 +11,7 @@
     "geom:longitude":-71.156038,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":23233815.0,
     "uscensus:awater":360290.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486841,
-    "wof:geomhash":"86b771562c4b9f6ee6a87e043df6ed1a",
+    "wof:geomhash":"ea8911664cd62de3feaecc8f93ecc300",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766429,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766429,
-    "wof:lastmodified":1481486841,
+    "wof:lastmodified":1532444325,
     "wof:name":"Massachusetts 10th Suffolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

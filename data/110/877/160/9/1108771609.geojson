@@ -11,6 +11,7 @@
     "geom:longitude":-80.777186,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1377697739.0,
     "uscensus:awater":7237745.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487776,
-    "wof:geomhash":"e8f513fba71110a93eb1a48f6389d8a0",
+    "wof:geomhash":"cf670d5f6abf3f159a506a46e4909c86",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771609,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771609,
-    "wof:lastmodified":1481487776,
+    "wof:lastmodified":1532443882,
     "wof:name":"Ohio State House District 5",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

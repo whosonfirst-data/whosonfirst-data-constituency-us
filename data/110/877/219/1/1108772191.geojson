@@ -11,6 +11,7 @@
     "geom:longitude":-95.704441,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3292688668.0,
     "uscensus:awater":145616631.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487902,
-    "wof:geomhash":"a51baee8cf33735be4ea5ca7e892fd1b",
+    "wof:geomhash":"6e373b35dd467f05fc6464077974da41",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772191,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772191,
-    "wof:lastmodified":1481487902,
+    "wof:lastmodified":1532443986,
     "wof:name":"Oklahoma State Senate District 29",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

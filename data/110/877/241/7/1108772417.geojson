@@ -11,6 +11,7 @@
     "geom:longitude":-122.632612,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":58296307.0,
     "uscensus:awater":3784679.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487951,
-    "wof:geomhash":"502e9bf593092690a796981023ddcabf",
+    "wof:geomhash":"1c8fa8429aa8d8e3d0e4ffa00670111c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772417,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772417,
-    "wof:lastmodified":1481487951,
+    "wof:lastmodified":1532443771,
     "wof:name":"Oregon State Senate District 21",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

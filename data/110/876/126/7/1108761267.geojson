@@ -11,6 +11,7 @@
     "geom:longitude":-86.993477,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":495829766.0,
     "uscensus:awater":3608783.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485900,
-    "wof:geomhash":"be3673f37646d074fd96ecb17ccf3ca8",
+    "wof:geomhash":"fce6df23e3abff3f1b10930e9f9dad05",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761267,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761267,
-    "wof:lastmodified":1481485900,
+    "wof:lastmodified":1532444072,
     "wof:name":"Alabama State Senate District 19",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

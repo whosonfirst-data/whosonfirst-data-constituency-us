@@ -11,6 +11,7 @@
     "geom:longitude":-94.859195,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52548360.0,
     "uscensus:awater":1753947.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487146,
-    "wof:geomhash":"8f350fec34c12399126c97a6ce399cd8",
+    "wof:geomhash":"bcb54b136a7877b0cda87e7f7c18ff9a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768071,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768071,
-    "wof:lastmodified":1481487146,
+    "wof:lastmodified":1532444120,
     "wof:name":"Missouri State House District 10",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

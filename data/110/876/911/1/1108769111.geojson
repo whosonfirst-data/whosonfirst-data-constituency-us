@@ -11,6 +11,7 @@
     "geom:longitude":-114.271752,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":373821682.0,
     "uscensus:awater":101431829.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487315,
-    "wof:geomhash":"a5670e2aaefa956a405df9f39774d20f",
+    "wof:geomhash":"d9efb17a3284b8744bc0d2ce323da47b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769111,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769111,
-    "wof:lastmodified":1481487315,
+    "wof:lastmodified":1532444078,
     "wof:name":"Montana State House District 11",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-111.555164,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":515763680.0,
     "uscensus:awater":490071.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485983,
-    "wof:geomhash":"5d1d22e0db4de61cb81ffdfc136ec3e7",
+    "wof:geomhash":"71427d080b21375e8d380e3dc24db99f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761643,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108761643,
-    "wof:lastmodified":1481485983,
+    "wof:lastmodified":1532444179,
     "wof:name":"Arizona State House District 16",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-az",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

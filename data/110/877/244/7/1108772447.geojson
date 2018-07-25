@@ -11,6 +11,7 @@
     "geom:longitude":-76.096698,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":658500001.0,
     "uscensus:awater":10197071.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487961,
-    "wof:geomhash":"34f78151f46861b04865357904d06352",
+    "wof:geomhash":"85a56b0722d710353faecd152d9e02ff",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772447,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772447,
-    "wof:lastmodified":1481487961,
+    "wof:lastmodified":1532443981,
     "wof:name":"Pennsylvania State House District 5",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

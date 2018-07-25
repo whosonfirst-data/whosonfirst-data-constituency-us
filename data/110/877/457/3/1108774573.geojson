@@ -11,6 +11,7 @@
     "geom:longitude":-97.300806,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1037208410.0,
     "uscensus:awater":28424259.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488350,
-    "wof:geomhash":"5603a80b34331accf004a1020a36f06a",
+    "wof:geomhash":"01dd4b61c818ba48fe09fa8f0dd7377f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774573,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774573,
-    "wof:lastmodified":1481488350,
+    "wof:lastmodified":1532443740,
     "wof:name":"Texas State Senate District 10",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-80.185552,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":53547373.0,
     "uscensus:awater":3149066.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486254,
-    "wof:geomhash":"330d0c6e1e1ab8dd66c62e89099c1126",
+    "wof:geomhash":"1c0a78fa558603118a453c25fc34fc42",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763061,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763061,
-    "wof:lastmodified":1481486254,
+    "wof:lastmodified":1532444574,
     "wof:name":"Florida State House District 107",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

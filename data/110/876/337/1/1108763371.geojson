@@ -11,6 +11,7 @@
     "geom:longitude":-84.255495,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":37848765.0,
     "uscensus:awater":97479.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486321,
-    "wof:geomhash":"dc0f58eba8fd4dd6f41bd5d616104530",
+    "wof:geomhash":"3c9d01e0fd28e503b4309cadd8e93f88",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763371,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763371,
-    "wof:lastmodified":1481486321,
+    "wof:lastmodified":1532444515,
     "wof:name":"Georgia State House District 85",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

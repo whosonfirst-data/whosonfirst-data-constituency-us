@@ -11,6 +11,7 @@
     "geom:longitude":-80.230892,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":124109564.0,
     "uscensus:awater":3869893.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486251,
-    "wof:geomhash":"199c92e8ba638dde95e7a7ebe0be0790",
+    "wof:geomhash":"6197637525526de9c9e9de9fb4f7e276",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763043,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763043,
-    "wof:lastmodified":1481486251,
+    "wof:lastmodified":1532444394,
     "wof:name":"Florida State House District 99",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

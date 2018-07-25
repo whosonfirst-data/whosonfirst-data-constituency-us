@@ -11,6 +11,7 @@
     "geom:longitude":-121.508578,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737393,
-    "wof:lastmodified":1493955461,
+    "wof:lastmodified":1532444708,
     "wof:name":"California Congressional District 1",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

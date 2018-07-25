@@ -11,6 +11,7 @@
     "geom:longitude":-90.702786,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":52315460.0,
     "uscensus:awater":3697678.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486455,
-    "wof:geomhash":"df02e108eca8fa0cd59538f750be97e7",
+    "wof:geomhash":"e85ec265bff2a14d5203e73f721251a6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764107,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764107,
-    "wof:lastmodified":1481486455,
+    "wof:lastmodified":1532444528,
     "wof:name":"Iowa State House District 100",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

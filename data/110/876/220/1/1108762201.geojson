@@ -11,6 +11,7 @@
     "geom:longitude":-105.105272,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":110513049.0,
     "uscensus:awater":6242934.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486119,
-    "wof:geomhash":"5ade993ed1ded7809d1f0ef405889f0b",
+    "wof:geomhash":"d6034e9d7edcfb1eafb3f5c560ddda8c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762201,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762201,
-    "wof:lastmodified":1481486119,
+    "wof:lastmodified":1532444354,
     "wof:name":"Colorado State Senate District 19",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

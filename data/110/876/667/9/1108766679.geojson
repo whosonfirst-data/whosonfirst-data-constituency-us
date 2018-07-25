@@ -11,6 +11,7 @@
     "geom:longitude":-76.696751,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":337423023.0,
     "uscensus:awater":5186856.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486889,
-    "wof:geomhash":"df205ce9362e0aa286f620836bcc0fca",
+    "wof:geomhash":"29c0aa5f2042d983a5c1abe7b3913c53",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766679,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766679,
-    "wof:lastmodified":1481486889,
+    "wof:lastmodified":1532444214,
     "wof:name":"Maryland State Legislative Subdistrict 27B",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

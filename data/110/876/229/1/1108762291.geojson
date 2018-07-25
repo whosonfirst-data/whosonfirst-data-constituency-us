@@ -11,6 +11,7 @@
     "geom:longitude":-72.771298,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17619206.0,
     "uscensus:awater":56575.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486137,
-    "wof:geomhash":"ad7c224180e160e0f9778fd6b55449b2",
+    "wof:geomhash":"59f4d2b294e417710f897e235dc849f5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762291,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762291,
-    "wof:lastmodified":1481486137,
+    "wof:lastmodified":1532444196,
     "wof:name":"Connecticut State House District 24",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

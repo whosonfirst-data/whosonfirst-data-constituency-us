@@ -11,6 +11,7 @@
     "geom:longitude":-76.944994,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4616325290.0,
     "uscensus:awater":2663594213.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487765,
-    "wof:geomhash":"e55b613f326da8e6ee85a495bfd377c8",
+    "wof:geomhash":"aaa7268042202ac9a2c4b72179d091cc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771577,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771577,
-    "wof:lastmodified":1481487765,
+    "wof:lastmodified":1532443778,
     "wof:name":"New York State Senate District 54",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

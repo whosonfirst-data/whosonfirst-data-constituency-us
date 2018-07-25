@@ -11,6 +11,7 @@
     "geom:longitude":-75.003756,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":174417075.0,
     "uscensus:awater":6058831.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487592,
-    "wof:geomhash":"49aad6dcf8137156621b46b3b6de7fcb",
+    "wof:geomhash":"2f70d3cc6f7d90641be165cbffca9f37",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770557,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688607
         }
     ],
     "wof:id":1108770557,
-    "wof:lastmodified":1481487592,
+    "wof:lastmodified":1532443849,
     "wof:name":"New Jersey General Assembly District 6",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nj",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

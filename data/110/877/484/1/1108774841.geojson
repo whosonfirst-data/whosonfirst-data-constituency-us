@@ -11,6 +11,7 @@
     "geom:longitude":-111.86467,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":189215552.0,
     "uscensus:awater":1596077.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488395,
-    "wof:geomhash":"3fee6504926f183ab8d3b2043964f0f0",
+    "wof:geomhash":"ce997baa7e103de1d04ac881880cf27b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774841,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774841,
-    "wof:lastmodified":1481488395,
+    "wof:lastmodified":1532443980,
     "wof:name":"Utah State Senate District 23",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

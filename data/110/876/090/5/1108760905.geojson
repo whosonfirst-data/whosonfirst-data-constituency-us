@@ -11,6 +11,7 @@
     "geom:longitude":-149.886013,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16051203.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485787,
-    "wof:geomhash":"87baed241e9c3c0abb8767553241afef",
+    "wof:geomhash":"6783d083240ed0c20c10d7af3a0a5517",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760905,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760905,
-    "wof:lastmodified":1481485787,
+    "wof:lastmodified":1532444518,
     "wof:name":"Alaska State House District 23",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-82.615134,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "OH-12"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738309,
-    "wof:lastmodified":1493955537,
+    "wof:lastmodified":1532444611,
     "wof:name":"Ohio Congressional District 12",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

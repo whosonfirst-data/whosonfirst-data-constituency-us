@@ -11,6 +11,7 @@
     "geom:longitude":-83.083156,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4057745585.0,
     "uscensus:awater":88314126.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486332,
-    "wof:geomhash":"77b65717cdfe9dc383561635d336b3eb",
+    "wof:geomhash":"f30c0a2bf854388a3c832b956476e929",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763449,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688535
         }
     ],
     "wof:id":1108763449,
-    "wof:lastmodified":1481486332,
+    "wof:lastmodified":1532444218,
     "wof:name":"Georgia State House District 120",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ga",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

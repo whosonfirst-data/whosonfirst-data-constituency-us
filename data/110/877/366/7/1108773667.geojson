@@ -11,6 +11,7 @@
     "geom:longitude":-82.384165,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":236019167.0,
     "uscensus:awater":2446540.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488140,
-    "wof:geomhash":"07f528aac67f72ef9c101ef2b460df0c",
+    "wof:geomhash":"04a779a318503d125017eb367e7b89b2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773667,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773667,
-    "wof:lastmodified":1481488140,
+    "wof:lastmodified":1532443947,
     "wof:name":"South Carolina State Senate District 7",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

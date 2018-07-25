@@ -11,6 +11,7 @@
     "geom:longitude":-111.669291,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1850110163.0,
     "uscensus:awater":18919043.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486496,
-    "wof:geomhash":"1d7f9b2686c4c540258f5abface45b9b",
+    "wof:geomhash":"af7632d040145d1e21a43e5877705984",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764295,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764295,
-    "wof:lastmodified":1481486496,
+    "wof:lastmodified":1532444258,
     "wof:name":"Idaho State House District 34",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

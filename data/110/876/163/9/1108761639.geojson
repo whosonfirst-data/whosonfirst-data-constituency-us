@@ -11,6 +11,7 @@
     "geom:longitude":-109.785753,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":31431908070.0,
     "uscensus:awater":167830671.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485982,
-    "wof:geomhash":"818ddd40463aa94bbe350b297b002f43",
+    "wof:geomhash":"39c7e5f405eee02d1ca8bc868f793c54",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761639,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688719
         }
     ],
     "wof:id":1108761639,
-    "wof:lastmodified":1481485982,
+    "wof:lastmodified":1532444570,
     "wof:name":"Arizona State House District 14",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-az",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

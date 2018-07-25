@@ -11,6 +11,7 @@
     "geom:longitude":-72.818574,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":37155128.0,
     "uscensus:awater":6921621.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486154,
-    "wof:geomhash":"5e845255c369f6bab0393c153e8fd1f9",
+    "wof:geomhash":"792bde956960652d2630534632e41780",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762467,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762467,
-    "wof:lastmodified":1481486154,
+    "wof:lastmodified":1532444363,
     "wof:name":"Connecticut State House District 102",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

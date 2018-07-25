@@ -11,6 +11,7 @@
     "geom:longitude":-94.68376,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":20976209.0,
     "uscensus:awater":19365.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486643,
-    "wof:geomhash":"bd3673b7e7d93db71b9e942d923d252f",
+    "wof:geomhash":"f4a052930e281c68e022f82200e19230",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765171,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765171,
-    "wof:lastmodified":1481486643,
+    "wof:lastmodified":1532444278,
     "wof:name":"Kansas State House District 24",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

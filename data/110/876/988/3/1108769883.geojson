@@ -11,6 +11,7 @@
     "geom:longitude":-100.864926,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":27608148.0,
     "uscensus:awater":2064219.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487492,
-    "wof:geomhash":"1bd9b3ccd01cd1fcb71adf6f82227bfe",
+    "wof:geomhash":"d05a7e84cd9b4176e9a527874c940da0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769883,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108769883,
-    "wof:lastmodified":1481487492,
+    "wof:lastmodified":1532444585,
     "wof:name":"North Dakota State House District 34",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

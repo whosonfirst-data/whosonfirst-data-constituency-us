@@ -11,6 +11,7 @@
     "geom:longitude":-80.408058,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":74521321.0,
     "uscensus:awater":4043135.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486256,
-    "wof:geomhash":"d20b31421ea124e5d9f8510516cc7173",
+    "wof:geomhash":"169c1a2ddacc03d3e25c0d4bd00f8d53",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763085,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108763085,
-    "wof:lastmodified":1481486256,
+    "wof:lastmodified":1532444465,
     "wof:name":"Florida State House District 118",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

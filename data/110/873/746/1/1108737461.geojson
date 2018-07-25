@@ -11,6 +11,7 @@
     "geom:longitude":-71.207246,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NH-01"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737461,
-    "wof:lastmodified":1493955450,
+    "wof:lastmodified":1532444599,
     "wof:name":"New Hampshire Congressional District 1",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",

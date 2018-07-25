@@ -11,6 +11,7 @@
     "geom:longitude":-71.046875,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8029810.0,
     "uscensus:awater":1895685.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486840,
-    "wof:geomhash":"3bb0b991adac84c3497c4513809967f7",
+    "wof:geomhash":"fe728e3238a500953d3e6148b5fecd56",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766411,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766411,
-    "wof:lastmodified":1481486840,
+    "wof:lastmodified":1532444490,
     "wof:name":"Massachusetts 2nd Suffolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

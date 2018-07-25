@@ -17,6 +17,7 @@
     "mps:latitude":44.356004,
     "mps:longitude":-89.466198,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Wisconsin"
     ],
@@ -527,7 +528,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231195,
-    "wof:geomhash":"c9a93f2489b1a75bdee39827ad86ee0d",
+    "wof:geomhash":"573716edb0b303dcbd4c604be58887eb",
     "wof:hierarchy":[
         {
             "constituency_id":1108746721,
@@ -537,7 +538,7 @@
         }
     ],
     "wof:id":1108746721,
-    "wof:lastmodified":1487197402,
+    "wof:lastmodified":1532443729,
     "wof:name":"Wisconsin",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

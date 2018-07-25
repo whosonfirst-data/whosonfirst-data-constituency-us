@@ -11,6 +11,7 @@
     "geom:longitude":-90.526907,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":803977196.0,
     "uscensus:awater":12628359.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487197,
-    "wof:geomhash":"a1f279e6eba420134ce7d9712755db56",
+    "wof:geomhash":"517b7bdc1e6be38ff0a7bacf9201f8bd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768465,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768465,
-    "wof:lastmodified":1481487197,
+    "wof:lastmodified":1532444174,
     "wof:name":"Missouri State Senate District 22",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-78.748887,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4214435570.0,
     "uscensus:awater":27426518.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488436,
-    "wof:geomhash":"0656a39dfb41eb4436759c8b44eb683c",
+    "wof:geomhash":"2f908fc6f1cce8e417d74e7dc468433a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774987,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108774987,
-    "wof:lastmodified":1481488436,
+    "wof:lastmodified":1532443840,
     "wof:name":"Virginia State House District 59",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

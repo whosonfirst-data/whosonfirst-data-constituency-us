@@ -11,6 +11,7 @@
     "geom:longitude":-119.574048,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3059468418.0,
     "uscensus:awater":74478451.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487688,
-    "wof:geomhash":"102fcce5fd843bf287fc213c5fd8a519",
+    "wof:geomhash":"15f82de42d901e41c8aefad9ee821206",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771063,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771063,
-    "wof:lastmodified":1481487688,
+    "wof:lastmodified":1532444059,
     "wof:name":"Nevada Assembly District 39",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

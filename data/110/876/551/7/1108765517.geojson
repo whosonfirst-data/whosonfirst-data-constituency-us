@@ -11,6 +11,7 @@
     "geom:longitude":-87.117381,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":34116668.0,
     "uscensus:awater":5929478.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486685,
-    "wof:geomhash":"364a05d7651c12abd5ee0b4e312ea050",
+    "wof:geomhash":"56d8f52b7368d97e7cf97ed333446189",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765517,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765517,
-    "wof:lastmodified":1481486685,
+    "wof:lastmodified":1532444401,
     "wof:name":"Kentucky State House District 13",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

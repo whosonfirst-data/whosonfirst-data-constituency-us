@@ -11,6 +11,7 @@
     "geom:longitude":-80.658689,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4448552698.0,
     "uscensus:awater":28428230.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488657,
-    "wof:geomhash":"a2e7a30ffe1c71a994cb84233ffa6b83",
+    "wof:geomhash":"250f0cfb584cd12a533239155086d8e9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776129,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776129,
-    "wof:lastmodified":1481488657,
+    "wof:lastmodified":1532443751,
     "wof:name":"West Virginia State Senate District 12",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

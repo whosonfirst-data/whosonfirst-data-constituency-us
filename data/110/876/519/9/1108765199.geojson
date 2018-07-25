@@ -11,6 +11,7 @@
     "geom:longitude":-94.822499,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":108877107.0,
     "uscensus:awater":2448005.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486645,
-    "wof:geomhash":"dc3977d7543d5af2c296cb6fb491a19d",
+    "wof:geomhash":"1803686138d28a2ca45d47705db17f89",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765199,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765199,
-    "wof:lastmodified":1481486645,
+    "wof:lastmodified":1532444274,
     "wof:name":"Kansas State House District 36",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

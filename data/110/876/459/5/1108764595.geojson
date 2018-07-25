@@ -11,6 +11,7 @@
     "geom:longitude":-88.241074,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":204079457.0,
     "uscensus:awater":5909591.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486554,
-    "wof:geomhash":"6eaff6058d9d07f3cd97f913814685a4",
+    "wof:geomhash":"ba1ba772b78d83b1be0a9c910a0ae66e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764595,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764595,
-    "wof:lastmodified":1481486554,
+    "wof:lastmodified":1532444315,
     "wof:name":"Illinois State House District 97",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

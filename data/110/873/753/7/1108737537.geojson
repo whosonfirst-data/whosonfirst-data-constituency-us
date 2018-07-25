@@ -11,6 +11,7 @@
     "geom:longitude":-84.411459,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "GA-02"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737537,
-    "wof:lastmodified":1493955459,
+    "wof:lastmodified":1532444627,
     "wof:name":"Georgia Congressional District 2",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

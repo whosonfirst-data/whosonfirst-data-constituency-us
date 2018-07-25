@@ -11,6 +11,7 @@
     "geom:longitude":-108.421507,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":55751130.0,
     "uscensus:awater":2155891.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487378,
-    "wof:geomhash":"87ffdd1ae56217bfa74a503fc1e40763",
+    "wof:geomhash":"76bdefd4ddbb11a9c200795a845378a6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769361,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769361,
-    "wof:lastmodified":1481487378,
+    "wof:lastmodified":1532444175,
     "wof:name":"Montana State Senate District 22",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-118.4082,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-47"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738601,
-    "wof:lastmodified":1493955502,
+    "wof:lastmodified":1532444659,
     "wof:name":"California Congressional District 47",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

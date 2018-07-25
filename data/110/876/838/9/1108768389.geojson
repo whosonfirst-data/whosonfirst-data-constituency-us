@@ -11,6 +11,7 @@
     "geom:longitude":-89.916863,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2394347909.0,
     "uscensus:awater":15912222.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487181,
-    "wof:geomhash":"fc860863ce867b789ecda9cfe398be42",
+    "wof:geomhash":"6561c04257533f0122771fbd921464b4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768389,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768389,
-    "wof:lastmodified":1481487181,
+    "wof:lastmodified":1532444257,
     "wof:name":"Missouri State House District 151",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

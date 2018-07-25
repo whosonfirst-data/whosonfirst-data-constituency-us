@@ -11,6 +11,7 @@
     "geom:longitude":-94.630538,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":63994540.0,
     "uscensus:awater":1322377.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487146,
-    "wof:geomhash":"040971283db890fef8a2e98a26b48453",
+    "wof:geomhash":"e34c0cd876d802d260657ce1e5bb8552",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768081,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768081,
-    "wof:lastmodified":1481487146,
+    "wof:lastmodified":1532444201,
     "wof:name":"Missouri State House District 14",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

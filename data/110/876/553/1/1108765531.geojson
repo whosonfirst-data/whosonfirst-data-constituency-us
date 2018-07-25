@@ -11,6 +11,7 @@
     "geom:longitude":-86.302995,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1553059143.0,
     "uscensus:awater":23569725.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486689,
-    "wof:geomhash":"d94058b47d741a98753db3d4e17d3678",
+    "wof:geomhash":"a0f9a82de2ef3a8da6f022cdb0c79834",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765531,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765531,
-    "wof:lastmodified":1481486689,
+    "wof:lastmodified":1532444176,
     "wof:name":"Kentucky State House District 19",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

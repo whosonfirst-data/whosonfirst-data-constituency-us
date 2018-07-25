@@ -11,6 +11,7 @@
     "geom:longitude":-85.607352,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":27007500.0,
     "uscensus:awater":87106.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486697,
-    "wof:geomhash":"cc31e567d43428977e67a396c02f56ef",
+    "wof:geomhash":"639b7a15f75ba45df34e29838c4953e8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765559,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765559,
-    "wof:lastmodified":1481486697,
+    "wof:lastmodified":1532444273,
     "wof:name":"Kentucky State House District 31",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

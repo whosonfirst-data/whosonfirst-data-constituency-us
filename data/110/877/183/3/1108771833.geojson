@@ -11,6 +11,7 @@
     "geom:longitude":-84.460801,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3310165753.0,
     "uscensus:awater":18136422.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487830,
-    "wof:geomhash":"79d104f358a66f4ed0800b10a46442cd",
+    "wof:geomhash":"98ece68a14b39b5096533300bc3b069a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771833,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771833,
-    "wof:lastmodified":1481487830,
+    "wof:lastmodified":1532443846,
     "wof:name":"Ohio State Senate District 5",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

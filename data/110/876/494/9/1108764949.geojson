@@ -11,6 +11,7 @@
     "geom:longitude":-87.209163,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1975097062.0,
     "uscensus:awater":32470530.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486616,
-    "wof:geomhash":"72a36ff4ab693967571d95f892599be3",
+    "wof:geomhash":"96b92eb2135a8a6527235e583526feb0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764949,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764949,
-    "wof:lastmodified":1481486616,
+    "wof:lastmodified":1532444414,
     "wof:name":"Indiana State House District 75",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

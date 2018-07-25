@@ -11,6 +11,7 @@
     "geom:longitude":-95.605763,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-07"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738099,
-    "wof:lastmodified":1493955488,
+    "wof:lastmodified":1532444620,
     "wof:name":"Texas Congressional District 7",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

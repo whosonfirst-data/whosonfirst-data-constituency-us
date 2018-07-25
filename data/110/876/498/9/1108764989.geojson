@@ -11,6 +11,7 @@
     "geom:longitude":-86.185469,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":77845393.0,
     "uscensus:awater":791007.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486620,
-    "wof:geomhash":"e5802dc063756309bf5e570c2f4ea661",
+    "wof:geomhash":"cfe856bbd0ed155fe74ef4b08029e66a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764989,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108764989,
-    "wof:lastmodified":1481486620,
+    "wof:lastmodified":1532444237,
     "wof:name":"Indiana State House District 93",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

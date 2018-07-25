@@ -11,6 +11,7 @@
     "geom:longitude":-122.653079,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":22737535.0,
     "uscensus:awater":672027.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487923,
-    "wof:geomhash":"9530d660a0aadf5b67fa8e5fd9c97d80",
+    "wof:geomhash":"744a0f0634f76a0b226cc83fb1b39216",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772331,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772331,
-    "wof:lastmodified":1481487923,
+    "wof:lastmodified":1532443982,
     "wof:name":"Oregon State House District 43",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-73.859398,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":18525710.0,
     "uscensus:awater":3125656.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487726,
-    "wof:geomhash":"18e0b79a12c824ed6b4df247a20bcd90",
+    "wof:geomhash":"bc9dd014bbabb451dabbeb75b1b2cc46",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771319,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771319,
-    "wof:lastmodified":1481487726,
+    "wof:lastmodified":1532444003,
     "wof:name":"New York Assembly District 89",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

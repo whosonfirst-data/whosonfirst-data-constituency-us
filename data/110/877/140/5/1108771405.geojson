@@ -11,6 +11,7 @@
     "geom:longitude":-76.162489,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":314066144.0,
     "uscensus:awater":4002417.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487737,
-    "wof:geomhash":"dd1c5a11e56db4beb44af75a4779e21e",
+    "wof:geomhash":"545bb88ccf1e8fa1a131675798bf491b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771405,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771405,
-    "wof:lastmodified":1481487737,
+    "wof:lastmodified":1532443815,
     "wof:name":"New York Assembly District 128",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-118.686389,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":66682013571.0,
     "uscensus:awater":794218468.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486049,
-    "wof:geomhash":"d35549ab1dbaed3d40fefd86aecd9bc8",
+    "wof:geomhash":"105127a2855abc220292c2af665eedc4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761941,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761941,
-    "wof:lastmodified":1481486049,
+    "wof:lastmodified":1532444209,
     "wof:name":"California State Senate District 8",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

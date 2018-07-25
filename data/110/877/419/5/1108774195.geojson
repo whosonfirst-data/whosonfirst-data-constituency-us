@@ -11,6 +11,7 @@
     "geom:longitude":-87.351907,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6246707106.0,
     "uscensus:awater":83662723.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488248,
-    "wof:geomhash":"c5336af92d1b0d4a7918b74dee85b1a3",
+    "wof:geomhash":"928fdf683f102a47c0043a056f991a82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774195,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774195,
-    "wof:lastmodified":1481488248,
+    "wof:lastmodified":1532444024,
     "wof:name":"Tennessee State Senate District 25",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

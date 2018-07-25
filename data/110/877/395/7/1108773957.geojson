@@ -11,6 +11,7 @@
     "geom:longitude":-84.049952,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":81982196.0,
     "uscensus:awater":60984.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488202,
-    "wof:geomhash":"fc8e87aab6a86dd100a58e947500d4df",
+    "wof:geomhash":"38b24d9c1a51b0f8129d4077230f524c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773957,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108773957,
-    "wof:lastmodified":1481488202,
+    "wof:lastmodified":1532443752,
     "wof:name":"Tennessee State House District 18",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

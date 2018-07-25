@@ -11,6 +11,7 @@
     "geom:longitude":-94.427839,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TX-36"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738573,
-    "wof:lastmodified":1493955471,
+    "wof:lastmodified":1532444711,
     "wof:name":"Texas Congressional District 36",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

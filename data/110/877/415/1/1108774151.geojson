@@ -11,6 +11,7 @@
     "geom:longitude":-84.22361,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1690233213.0,
     "uscensus:awater":73218805.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488234,
-    "wof:geomhash":"6e0e0b8f9c1c86f301cefddcaec54349",
+    "wof:geomhash":"ee56809e6c6c3fbe6369711f15e529ae",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774151,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688701
         }
     ],
     "wof:id":1108774151,
-    "wof:lastmodified":1481488234,
+    "wof:lastmodified":1532444047,
     "wof:name":"Tennessee State Senate District 5",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

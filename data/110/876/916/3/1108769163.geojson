@@ -11,6 +11,7 @@
     "geom:longitude":-105.266799,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16628837842.0,
     "uscensus:awater":94124204.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487338,
-    "wof:geomhash":"bb26ce09599f42baa268158ed3502c98",
+    "wof:geomhash":"7fbfbd4e6e88bca9298685cee1a3a71b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769163,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769163,
-    "wof:lastmodified":1481487338,
+    "wof:lastmodified":1532444089,
     "wof:name":"Montana State House District 34",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

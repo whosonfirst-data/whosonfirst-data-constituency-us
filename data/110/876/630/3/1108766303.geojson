@@ -11,6 +11,7 @@
     "geom:longitude":-71.067374,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":91063541.0,
     "uscensus:awater":4157341.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486829,
-    "wof:geomhash":"20d0278b4eb07b82b2d27dd5aff59271",
+    "wof:geomhash":"803cbeecd8a0f6c267ad2094d6ab3630",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766303,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766303,
-    "wof:lastmodified":1481486829,
+    "wof:lastmodified":1532444188,
     "wof:name":"Massachusetts 20th Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

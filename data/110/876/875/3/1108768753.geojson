@@ -11,6 +11,7 @@
     "geom:longitude":-90.643873,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1268615911.0,
     "uscensus:awater":55007254.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487249,
-    "wof:geomhash":"6407248256bcda43d26ef9b3bc52cab0",
+    "wof:geomhash":"237d4ae016e8bd68a55776020946d7d8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768753,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688579
         }
     ],
     "wof:id":1108768753,
-    "wof:lastmodified":1481487249,
+    "wof:lastmodified":1532444449,
     "wof:name":"Mississippi State House District 26",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ms",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

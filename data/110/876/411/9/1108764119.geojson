@@ -11,6 +11,7 @@
     "geom:longitude":-94.463719,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5398134249.0,
     "uscensus:awater":15846685.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486460,
-    "wof:geomhash":"35f3a231c93c3489aa018763ce4bc2b9",
+    "wof:geomhash":"c53285b53de62437a480b9304b9018f6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764119,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764119,
-    "wof:lastmodified":1481486460,
+    "wof:lastmodified":1532444274,
     "wof:name":"Iowa State Senate District 5",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-96.804925,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":12696809.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487495,
-    "wof:geomhash":"530d00b448b0f6d2b2a1ce8f47f9ebca",
+    "wof:geomhash":"53b1f7ff4e335caaaeff946e7d9883d6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769909,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108769909,
-    "wof:lastmodified":1481487495,
+    "wof:lastmodified":1532444231,
     "wof:name":"North Dakota State House District 46",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-85.960039,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "TN-04"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737851,
-    "wof:lastmodified":1493955528,
+    "wof:lastmodified":1532444652,
     "wof:name":"Tennessee Congressional District 4",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",

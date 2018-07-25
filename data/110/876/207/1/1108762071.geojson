@@ -11,6 +11,7 @@
     "geom:longitude":-106.868782,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10480477660.0,
     "uscensus:awater":34681741.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486089,
-    "wof:geomhash":"9b681468334d655c5ebf611281025d73",
+    "wof:geomhash":"be1a338197df1ec6a9a3ba61abf0ccd0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762071,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762071,
-    "wof:lastmodified":1481486089,
+    "wof:lastmodified":1532444503,
     "wof:name":"Colorado State House District 26",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

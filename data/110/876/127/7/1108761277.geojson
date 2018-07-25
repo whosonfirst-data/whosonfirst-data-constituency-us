@@ -11,6 +11,7 @@
     "geom:longitude":-87.16819,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":16375269095.0,
     "uscensus:awater":186661344.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485902,
-    "wof:geomhash":"be72765d5d22a070dda571b54413086c",
+    "wof:geomhash":"3a79730192cc109e9021fbe4bd89f291",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761277,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761277,
-    "wof:lastmodified":1481485902,
+    "wof:lastmodified":1532444261,
     "wof:name":"Alabama State Senate District 23",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

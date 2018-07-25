@@ -11,6 +11,7 @@
     "geom:longitude":-72.66263,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "VT-00"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108737375,
-    "wof:lastmodified":1493955496,
+    "wof:lastmodified":1532444641,
     "wof:name":"Vermont Congressional District (at Large)",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",

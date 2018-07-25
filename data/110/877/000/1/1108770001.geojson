@@ -11,6 +11,7 @@
     "geom:longitude":-101.189148,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":445568280.0,
     "uscensus:awater":1978925.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487518,
-    "wof:geomhash":"c7d00076a98bf0d96ba659f40e540d91",
+    "wof:geomhash":"248c213174325066e02d8b77ac4cca27",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770001,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688525
         }
     ],
     "wof:id":1108770001,
-    "wof:lastmodified":1481487518,
+    "wof:lastmodified":1532443734,
     "wof:name":"North Dakota State Senate District 40",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nd",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

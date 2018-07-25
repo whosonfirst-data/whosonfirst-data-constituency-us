@@ -11,6 +11,7 @@
     "geom:longitude":-94.186161,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":743027672.0,
     "uscensus:awater":2908649.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486430,
-    "wof:geomhash":"6d83830f16c8a336e586cc8d848b2f19",
+    "wof:geomhash":"0db8da3f36bd874bd4e2dc4b25724a1a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108763903,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108763903,
-    "wof:lastmodified":1481486430,
+    "wof:lastmodified":1532444181,
     "wof:name":"Iowa State House District 9",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-88.029613,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9960246621.0,
     "uscensus:awater":139823284.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485903,
-    "wof:geomhash":"5b9a2702e46b69eb8438feb495b8c78f",
+    "wof:geomhash":"22532ca7f966310fcad802e432c2c6a9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761279,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761279,
-    "wof:lastmodified":1481485903,
+    "wof:lastmodified":1532444262,
     "wof:name":"Alabama State Senate District 24",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

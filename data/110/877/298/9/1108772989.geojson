@@ -11,6 +11,7 @@
     "geom:longitude":-79.87938,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":152452804.0,
     "uscensus:awater":4475495.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488038,
-    "wof:geomhash":"d132ca0b4bf17a75f946bfcdc627873b",
+    "wof:geomhash":"e09dee35695e1296c72a0961eb11b1c4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772989,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772989,
-    "wof:lastmodified":1481488038,
+    "wof:lastmodified":1532443883,
     "wof:name":"Pennsylvania State Senate District 43",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

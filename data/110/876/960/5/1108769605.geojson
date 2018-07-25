@@ -11,6 +11,7 @@
     "geom:longitude":-80.295469,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":678433796.0,
     "uscensus:awater":27150949.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487431,
-    "wof:geomhash":"ca76feb7bed92840c1e0596dc6f21ed5",
+    "wof:geomhash":"bb2b691b32869af439bbd6a7157cf996",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769605,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769605,
-    "wof:lastmodified":1481487431,
+    "wof:lastmodified":1532444532,
     "wof:name":"North Carolina State House District 81",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

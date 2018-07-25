@@ -11,6 +11,7 @@
     "geom:longitude":-112.513089,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":25477560595.0,
     "uscensus:awater":120679211.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487381,
-    "wof:geomhash":"f1509367ff339547081f91644ec593e4",
+    "wof:geomhash":"604122f20926cc9d6f76171575630610",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769393,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769393,
-    "wof:lastmodified":1481487381,
+    "wof:lastmodified":1532444194,
     "wof:name":"Montana State Senate District 36",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

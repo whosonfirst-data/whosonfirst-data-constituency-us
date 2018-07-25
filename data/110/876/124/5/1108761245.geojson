@@ -11,6 +11,7 @@
     "geom:longitude":-86.306923,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2644352465.0,
     "uscensus:awater":157428218.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485896,
-    "wof:geomhash":"0800760c90a021be69b59e8a3c0e3cef",
+    "wof:geomhash":"f1ab83b0e84c557bc6d6c9520dcc2248",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761245,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761245,
-    "wof:lastmodified":1481485896,
+    "wof:lastmodified":1532444223,
     "wof:name":"Alabama State Senate District 9",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

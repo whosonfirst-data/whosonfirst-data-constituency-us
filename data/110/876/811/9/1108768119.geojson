@@ -11,6 +11,7 @@
     "geom:longitude":-94.294928,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":64644226.0,
     "uscensus:awater":6255166.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487150,
-    "wof:geomhash":"158c72cf8f4f2793b9bf165d30043fe9",
+    "wof:geomhash":"458786d3d1c0e624ca48bf8d78d42084",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768119,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768119,
-    "wof:lastmodified":1481487150,
+    "wof:lastmodified":1532444301,
     "wof:name":"Missouri State House District 31",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

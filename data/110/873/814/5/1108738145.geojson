@@ -11,6 +11,7 @@
     "geom:longitude":-74.107253,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "NJ-08"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738145,
-    "wof:lastmodified":1493955544,
+    "wof:lastmodified":1532444647,
     "wof:name":"New Jersey Congressional District 8",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

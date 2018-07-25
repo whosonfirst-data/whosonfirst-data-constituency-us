@@ -11,6 +11,7 @@
     "geom:longitude":-77.865096,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":493131677.0,
     "uscensus:awater":353225866.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487460,
-    "wof:geomhash":"a0b7b6a2388c2f83304ccb7facbe59dc",
+    "wof:geomhash":"8fc4afa11af85a81951951d4e9458529",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769713,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769713,
-    "wof:lastmodified":1481487460,
+    "wof:lastmodified":1532444525,
     "wof:name":"North Carolina State Senate District 9",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

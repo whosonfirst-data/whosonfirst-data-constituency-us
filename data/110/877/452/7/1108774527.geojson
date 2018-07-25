@@ -11,6 +11,7 @@
     "geom:longitude":-95.468637,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":120879966.0,
     "uscensus:awater":543997.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488336,
-    "wof:geomhash":"0a2e82d8353ba2d5fda5e4344e4f86f3",
+    "wof:geomhash":"d74b9fb3edd0256fc9712197a998b4cd",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774527,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774527,
-    "wof:lastmodified":1481488336,
+    "wof:lastmodified":1532443982,
     "wof:name":"Texas State House District 139",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

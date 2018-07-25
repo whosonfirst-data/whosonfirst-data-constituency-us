@@ -11,6 +11,7 @@
     "geom:longitude":-95.859838,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":219863319.0,
     "uscensus:awater":8167937.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487903,
-    "wof:geomhash":"23f7af9bd9330f5ed27ef369f305f896",
+    "wof:geomhash":"4ef0c3fbd959d52f5c8fded76466933f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772201,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772201,
-    "wof:lastmodified":1481487903,
+    "wof:lastmodified":1532443924,
     "wof:name":"Oklahoma State Senate District 33",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

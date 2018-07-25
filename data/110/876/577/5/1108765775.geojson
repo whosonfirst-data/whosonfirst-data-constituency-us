@@ -11,6 +11,7 @@
     "geom:longitude":-83.802548,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5808026684.0,
     "uscensus:awater":91349634.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486731,
-    "wof:geomhash":"9cf02759c9f60e5df7a3e24d15ea7828",
+    "wof:geomhash":"127d065cebd4a3bc4ed186d830e4f4e1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765775,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765775,
-    "wof:lastmodified":1481486731,
+    "wof:lastmodified":1532444522,
     "wof:name":"Kentucky State Senate District 27",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-114.074975,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2056869856.0,
     "uscensus:awater":29815624.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487385,
-    "wof:geomhash":"385319ed3716024c1152ac9aedd99a45",
+    "wof:geomhash":"d2247ee560ee77e07df0a8a2f3e4e676",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769417,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769417,
-    "wof:lastmodified":1481487385,
+    "wof:lastmodified":1532444563,
     "wof:name":"Montana State Senate District 47",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-101.463245,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":91646021027.0,
     "uscensus:awater":429090841.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488354,
-    "wof:geomhash":"0bd192b0e93d550465f15f55edc57ba8",
+    "wof:geomhash":"d71ec3379bf4983cd4dc43b346882d62",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774595,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774595,
-    "wof:lastmodified":1481488354,
+    "wof:lastmodified":1532443903,
     "wof:name":"Texas State Senate District 19",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

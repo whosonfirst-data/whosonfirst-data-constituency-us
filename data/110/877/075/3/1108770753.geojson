@@ -11,6 +11,7 @@
     "geom:longitude":-106.741737,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11218549.0,
     "uscensus:awater":1508.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487631,
-    "wof:geomhash":"7706e88edd310381d3c95cf135bd2205",
+    "wof:geomhash":"d49cb6fdfb946ba3206659794db84ecc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770753,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688493
         }
     ],
     "wof:id":1108770753,
-    "wof:lastmodified":1481487631,
+    "wof:lastmodified":1532443800,
     "wof:name":"New Mexico State House District 13",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nm",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

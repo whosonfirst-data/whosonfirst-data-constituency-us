@@ -11,6 +11,7 @@
     "geom:longitude":-82.278821,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":178336983.0,
     "uscensus:awater":984184.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488140,
-    "wof:geomhash":"965b9aa0bc345a9a08f0d82f163ae1d7",
+    "wof:geomhash":"9e33077373323fa8936e1f1b2a485f23",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773669,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773669,
-    "wof:lastmodified":1481488140,
+    "wof:lastmodified":1532443947,
     "wof:name":"South Carolina State Senate District 8",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

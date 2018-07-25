@@ -11,6 +11,7 @@
     "geom:longitude":-79.994452,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":26698309.0,
     "uscensus:awater":3651787.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487965,
-    "wof:geomhash":"0b24a7d1e383c4054c80716fbbd6a7af",
+    "wof:geomhash":"80d70ea768e8e7d7d0a124d58c475317",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772479,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772479,
-    "wof:lastmodified":1481487965,
+    "wof:lastmodified":1532443982,
     "wof:name":"Pennsylvania State House District 19",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

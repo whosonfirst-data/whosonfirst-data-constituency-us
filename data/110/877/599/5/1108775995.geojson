@@ -11,6 +11,7 @@
     "geom:longitude":-82.221252,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":695161778.0,
     "uscensus:awater":121220.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488629,
-    "wof:geomhash":"63bc16d3ceca459d0da555f2e5867171",
+    "wof:geomhash":"678c7062c20520811c17d0b25db12843",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775995,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108775995,
-    "wof:lastmodified":1481488629,
+    "wof:lastmodified":1532444058,
     "wof:name":"West Virginia State House District 20",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

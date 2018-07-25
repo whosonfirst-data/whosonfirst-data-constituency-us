@@ -11,6 +11,7 @@
     "geom:longitude":-71.806631,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":304189386.0,
     "uscensus:awater":3729098.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487553,
-    "wof:geomhash":"04f8b7d4e2bfbe18fafa380e58161772",
+    "wof:geomhash":"1a05605b51c097cfeab1a57f21749ab8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770315,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770315,
-    "wof:lastmodified":1481487553,
+    "wof:lastmodified":1532443804,
     "wof:name":"New Hampshire State House District Merrimack County No. 1",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

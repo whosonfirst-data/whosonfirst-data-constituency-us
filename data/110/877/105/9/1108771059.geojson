@@ -11,6 +11,7 @@
     "geom:longitude":-115.283972,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":38461562.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487687,
-    "wof:geomhash":"5ef0124134836b5683e8d9b9056187c0",
+    "wof:geomhash":"cdf58500dc98307d1cc59435b0b74fd8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771059,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771059,
-    "wof:lastmodified":1481487687,
+    "wof:lastmodified":1532443993,
     "wof:name":"Nevada Assembly District 37",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

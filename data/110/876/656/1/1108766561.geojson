@@ -11,6 +11,7 @@
     "geom:longitude":-71.086874,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":309950566.0,
     "uscensus:awater":11527039.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486858,
-    "wof:geomhash":"d94a08962e7015cee2c86b41e06ef228",
+    "wof:geomhash":"c774bc15b39e5af9cd3ebbdb2d770f57",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766561,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766561,
-    "wof:lastmodified":1481486858,
+    "wof:lastmodified":1532444390,
     "wof:name":"Massachusetts Norfolk, Bristol & Plymouth District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

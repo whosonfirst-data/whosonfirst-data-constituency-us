@@ -11,6 +11,7 @@
     "geom:longitude":-71.39846,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":23063204.0,
     "uscensus:awater":7495514.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488095,
-    "wof:geomhash":"43e5ba93264a48305de8ea6c5ec62566",
+    "wof:geomhash":"c8fc2c7900c08b1b05c0665a589483db",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773353,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773353,
-    "wof:lastmodified":1481488095,
+    "wof:lastmodified":1532443965,
     "wof:name":"Rhode Island State Senate District 29",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

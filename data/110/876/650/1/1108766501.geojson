@@ -11,6 +11,7 @@
     "geom:longitude":-72.796733,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":705982978.0,
     "uscensus:awater":21737877.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486851,
-    "wof:geomhash":"7ceac1ac1e465433c94672c1280c4783",
+    "wof:geomhash":"c60e0b471fe501ed44539a5c6e0207ed",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766501,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766501,
-    "wof:lastmodified":1481486851,
+    "wof:lastmodified":1532444330,
     "wof:name":"Massachusetts Second Hampden & Hampshire District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-84.266783,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":348114139.0,
     "uscensus:awater":2566753.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487792,
-    "wof:geomhash":"b03c5a653ee6884c0a694d5eda0dfee2",
+    "wof:geomhash":"1152e9acb9c1bff3b9df26f0b265f15d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771687,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771687,
-    "wof:lastmodified":1481487792,
+    "wof:lastmodified":1532443762,
     "wof:name":"Ohio State House District 40",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

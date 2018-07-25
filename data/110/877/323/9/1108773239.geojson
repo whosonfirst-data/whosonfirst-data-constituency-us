@@ -11,6 +11,7 @@
     "geom:longitude":-71.473358,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":6097841.0,
     "uscensus:awater":235423.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488083,
-    "wof:geomhash":"f7e8c68b5935b440018acaee47071d41",
+    "wof:geomhash":"c773d4554302eb9df432c39efbda7db7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773239,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773239,
-    "wof:lastmodified":1481488083,
+    "wof:lastmodified":1532443937,
     "wof:name":"Rhode Island State House District 54",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-112.398074,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":5423063386.0,
     "uscensus:awater":68526352.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486495,
-    "wof:geomhash":"71e6b072445a88c5a201acaa8e8d03fa",
+    "wof:geomhash":"06595eeda3e64d253694909d01ee025b",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764289,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764289,
-    "wof:lastmodified":1481486495,
+    "wof:lastmodified":1532444233,
     "wof:name":"Idaho State House District 31",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

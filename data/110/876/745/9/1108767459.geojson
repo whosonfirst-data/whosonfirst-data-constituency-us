@@ -11,6 +11,7 @@
     "geom:longitude":-86.108406,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":618759682.0,
     "uscensus:awater":22593832.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487060,
-    "wof:geomhash":"a5639255a6982b1aa743c2dd0f3074a0",
+    "wof:geomhash":"e28b1a11d3048c392dae17b2bd67623a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767459,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767459,
-    "wof:lastmodified":1481487060,
+    "wof:lastmodified":1532444417,
     "wof:name":"Michigan State House District 89",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

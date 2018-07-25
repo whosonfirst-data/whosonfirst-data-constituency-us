@@ -11,6 +11,7 @@
     "geom:longitude":-81.998869,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":332034173.0,
     "uscensus:awater":48787902.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486245,
-    "wof:geomhash":"a80b72825467be7cadc7eec6b29c9c75",
+    "wof:geomhash":"76895fe39a2dd4a4e40a7ec473166bc5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762993,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762993,
-    "wof:lastmodified":1481486245,
+    "wof:lastmodified":1532444441,
     "wof:name":"Florida State House District 77",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-71.155371,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":14149885.0,
     "uscensus:awater":992971.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486830,
-    "wof:geomhash":"d65b0e169c88a5e1fe4333ef562b1551",
+    "wof:geomhash":"33687c8d2dbf9e420c1e4bf71a95e2f4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766309,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766309,
-    "wof:lastmodified":1481486830,
+    "wof:lastmodified":1532444188,
     "wof:name":"Massachusetts 23rd Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

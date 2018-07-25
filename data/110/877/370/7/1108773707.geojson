@@ -11,6 +11,7 @@
     "geom:longitude":-81.913202,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2824855406.0,
     "uscensus:awater":118694327.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488153,
-    "wof:geomhash":"9acaf5dd0a0c46a6d5cece83693d46d6",
+    "wof:geomhash":"e4482afec132097320c23f87f9c17990",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773707,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773707,
-    "wof:lastmodified":1481488153,
+    "wof:lastmodified":1532443999,
     "wof:name":"South Carolina State Senate District 25",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

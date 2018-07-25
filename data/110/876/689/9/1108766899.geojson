@@ -11,6 +11,7 @@
     "geom:longitude":-70.478374,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":69795493.0,
     "uscensus:awater":8550.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486992,
-    "wof:geomhash":"ea3ac8fa2ed7e885e997194b9b6e204b",
+    "wof:geomhash":"3c408056da76252d884bc1c5f289290d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766899,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108766899,
-    "wof:lastmodified":1481486992,
+    "wof:lastmodified":1532444148,
     "wof:name":"Maine State House District 26",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

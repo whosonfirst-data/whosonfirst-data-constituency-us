@@ -11,6 +11,7 @@
     "geom:longitude":-91.980409,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2693811026.0,
     "uscensus:awater":5465555.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486450,
-    "wof:geomhash":"1776b578a2f69ab9f4a4f58cf5c563c3",
+    "wof:geomhash":"6b4d9d427e070e89fbbf1fc5576dd54f",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764057,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764057,
-    "wof:lastmodified":1481486450,
+    "wof:lastmodified":1532444508,
     "wof:name":"Iowa State House District 78",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

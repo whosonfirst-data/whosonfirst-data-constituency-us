@@ -11,6 +11,7 @@
     "geom:longitude":-90.95381,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":376177985.0,
     "uscensus:awater":16997090.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486453,
-    "wof:geomhash":"b64eb901f2b1638f6347eea6613d2251",
+    "wof:geomhash":"e32864d4ca66a685382faa2b7884272a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764087,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764087,
-    "wof:lastmodified":1481486453,
+    "wof:lastmodified":1532444084,
     "wof:name":"Iowa State House District 91",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-134.789684,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1759867341.0,
     "uscensus:awater":670021318.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485790,
-    "wof:geomhash":"3c5e1fac4224fb553546f8e3cc613e3d",
+    "wof:geomhash":"2d36004df492d8670b9171e87e71fe84",
     "wof:hierarchy":[
         {
+            "constituency_id":1108760929,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688573
         }
     ],
     "wof:id":1108760929,
-    "wof:lastmodified":1481485790,
+    "wof:lastmodified":1532444249,
     "wof:name":"Alaska State House District 34",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ak",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-78.760012,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":185910367.0,
     "uscensus:awater":881045.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487740,
-    "wof:geomhash":"a0aa996b2c53a5c0cce0df2c9c3859f2",
+    "wof:geomhash":"f5a763365e3754e85d3c27c37cc360b9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771437,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771437,
-    "wof:lastmodified":1481487740,
+    "wof:lastmodified":1532443958,
     "wof:name":"New York Assembly District 142",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

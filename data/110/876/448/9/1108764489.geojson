@@ -11,6 +11,7 @@
     "geom:longitude":-88.424407,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":384675289.0,
     "uscensus:awater":3322599.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486532,
-    "wof:geomhash":"34e8a1bed9d41263dd86b38350299161",
+    "wof:geomhash":"47dc30d946cba5fd9b5b185e27010c28",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764489,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764489,
-    "wof:lastmodified":1481486532,
+    "wof:lastmodified":1532444318,
     "wof:name":"Illinois State House District 50",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

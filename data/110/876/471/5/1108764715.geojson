@@ -11,6 +11,7 @@
     "geom:longitude":-87.991252,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":385320826.0,
     "uscensus:awater":17611703.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486582,
-    "wof:geomhash":"d86e25a33ebfd8a715d41faca4cf0844",
+    "wof:geomhash":"e40b1ac7c25f5a0c2d0ca9b174646d98",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764715,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764715,
-    "wof:lastmodified":1481486582,
+    "wof:lastmodified":1532444528,
     "wof:name":"Illinois State Senate District 31",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

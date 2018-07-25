@@ -11,6 +11,7 @@
     "geom:longitude":-75.288948,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":698088120.0,
     "uscensus:awater":8971217.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486901,
-    "wof:geomhash":"200e19e465bb9870d9cb820dcda1f65a",
+    "wof:geomhash":"e1a9084699cb54df1873a467a3ba4142",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766717,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766717,
-    "wof:lastmodified":1481486901,
+    "wof:lastmodified":1532444498,
     "wof:name":"Maryland State Legislative Subdistrict 38C",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

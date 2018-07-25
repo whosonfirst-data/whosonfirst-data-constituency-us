@@ -11,6 +11,7 @@
     "geom:longitude":-76.633767,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":179263937.0,
     "uscensus:awater":53284336.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488458,
-    "wof:geomhash":"9f49955a56c6d5be89176bfcce991773",
+    "wof:geomhash":"10728f44701ac446f1bf5c766a793075",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775065,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775065,
-    "wof:lastmodified":1481488458,
+    "wof:lastmodified":1532443800,
     "wof:name":"Virginia State House District 93",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

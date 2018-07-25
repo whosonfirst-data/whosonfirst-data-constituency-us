@@ -11,6 +11,7 @@
     "geom:longitude":-71.454232,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":9057634.0,
     "uscensus:awater":169666.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488075,
-    "wof:geomhash":"792362e1d688fff98c62bc93f9c33be9",
+    "wof:geomhash":"3d0ef85fd35b1c662ef73089ecbf7a07",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773155,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688509
         }
     ],
     "wof:id":1108773155,
-    "wof:lastmodified":1481488075,
+    "wof:lastmodified":1532444042,
     "wof:name":"Rhode Island State House District 16",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ri",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-122.385372,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":62720998.0,
     "uscensus:awater":130318261.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486017,
-    "wof:geomhash":"5e283b20b20389716c8a167af0d2c921",
+    "wof:geomhash":"dcc01c526616d667542d63a281caa5a1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761781,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688637
         }
     ],
     "wof:id":1108761781,
-    "wof:lastmodified":1481486017,
+    "wof:lastmodified":1532444368,
     "wof:name":"California Assembly District 17",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ca",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

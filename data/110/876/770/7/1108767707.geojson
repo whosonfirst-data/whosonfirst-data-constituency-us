@@ -11,6 +11,7 @@
     "geom:longitude":-92.683647,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":679081365.0,
     "uscensus:awater":2629953.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487094,
-    "wof:geomhash":"1d09969967582ea47e8509e8e28bec96",
+    "wof:geomhash":"a9ef88b0399f34d07d4c3511364d55f5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767707,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767707,
-    "wof:lastmodified":1481487094,
+    "wof:lastmodified":1532444073,
     "wof:name":"Minnesota State House District 25A",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

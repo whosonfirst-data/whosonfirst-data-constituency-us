@@ -11,6 +11,7 @@
     "geom:longitude":-80.011843,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":128856439.0,
     "uscensus:awater":12629928.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488159,
-    "wof:geomhash":"08de464251058a7b182a46c20d854b44",
+    "wof:geomhash":"9578b888110684f5f63fd84dd53efd82",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773745,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773745,
-    "wof:lastmodified":1481488159,
+    "wof:lastmodified":1532443777,
     "wof:name":"South Carolina State Senate District 42",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

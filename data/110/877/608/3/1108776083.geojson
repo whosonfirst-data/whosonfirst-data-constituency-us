@@ -11,6 +11,7 @@
     "geom:longitude":-78.155625,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":425310774.0,
     "uscensus:awater":920292.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488643,
-    "wof:geomhash":"4fa7e9e65875774f76edb6b9e94b5754",
+    "wof:geomhash":"4ffae92e7e7840b67027f0359cd838b0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776083,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776083,
-    "wof:lastmodified":1481488643,
+    "wof:lastmodified":1532443808,
     "wof:name":"West Virginia State House District 59",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

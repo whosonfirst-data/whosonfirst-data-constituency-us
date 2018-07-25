@@ -17,6 +17,7 @@
     "mps:latitude":45.243327,
     "mps:longitude":-69.171071,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Maine"
     ],
@@ -509,7 +510,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231180,
-    "wof:geomhash":"3f779d284a590219df48602214cac88b",
+    "wof:geomhash":"3ec0e992866c412267de00b077c07ed5",
     "wof:hierarchy":[
         {
             "constituency_id":1108746681,
@@ -519,7 +520,7 @@
         }
     ],
     "wof:id":1108746681,
-    "wof:lastmodified":1487197424,
+    "wof:lastmodified":1532443714,
     "wof:name":"Maine",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-116.634075,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3437316063.0,
     "uscensus:awater":23801112.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486504,
-    "wof:geomhash":"338f5f6f41ac3670df12ec17adcd9128",
+    "wof:geomhash":"0ac9e3ddd71df3b07f4bed03a45fcb49",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764311,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688657
         }
     ],
     "wof:id":1108764311,
-    "wof:lastmodified":1481486504,
+    "wof:lastmodified":1532444182,
     "wof:name":"Idaho State Senate District 6",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-id",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

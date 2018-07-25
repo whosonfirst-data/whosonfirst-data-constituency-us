@@ -11,6 +11,7 @@
     "geom:longitude":-76.722686,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4016641211.0,
     "uscensus:awater":2886508949.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487456,
-    "wof:geomhash":"7cfaabdcaefcc5e98d4032daea71fb9a",
+    "wof:geomhash":"a3691e1676f4df1e9ac4eddbf18b27d7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769699,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769699,
-    "wof:lastmodified":1481487456,
+    "wof:lastmodified":1532444480,
     "wof:name":"North Carolina State Senate District 2",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

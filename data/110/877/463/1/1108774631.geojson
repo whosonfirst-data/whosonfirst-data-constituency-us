@@ -11,6 +11,7 @@
     "geom:longitude":-111.622662,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1000385473.0,
     "uscensus:awater":1778908.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488368,
-    "wof:geomhash":"ac127ee4f009266aa6839d7b640a73f1",
+    "wof:geomhash":"56b8e3db198fbe3816d7abcbe6b64dea",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774631,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774631,
-    "wof:lastmodified":1481488368,
+    "wof:lastmodified":1532443938,
     "wof:name":"Utah State House District 4",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

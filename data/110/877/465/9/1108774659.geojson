@@ -11,6 +11,7 @@
     "geom:longitude":-111.888144,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":80725886.0,
     "uscensus:awater":209536.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488371,
-    "wof:geomhash":"2a2ab8ce85096983596a1a46a9d00b5e",
+    "wof:geomhash":"1ca82db758c321538d92840f9a38e78d",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774659,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774659,
-    "wof:lastmodified":1481488371,
+    "wof:lastmodified":1532443861,
     "wof:name":"Utah State House District 17",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

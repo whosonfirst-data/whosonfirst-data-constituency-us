@@ -11,6 +11,7 @@
     "geom:longitude":-85.747603,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":33901323.0,
     "uscensus:awater":12888704.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486700,
-    "wof:geomhash":"46d8a83125e00b27f591592660542c41",
+    "wof:geomhash":"ddad4b41c4d1580348a68b93f419b702",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765585,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765585,
-    "wof:lastmodified":1481486700,
+    "wof:lastmodified":1532444406,
     "wof:name":"Indiana State House District 43",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

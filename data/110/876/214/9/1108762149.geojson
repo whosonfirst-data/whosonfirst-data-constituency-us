@@ -11,6 +11,7 @@
     "geom:longitude":-106.91344,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":12633912581.0,
     "uscensus:awater":78123115.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486098,
-    "wof:geomhash":"f38a73197e17244ac80eb7f345a15a2c",
+    "wof:geomhash":"0fea9bf952b0e08921277b9f29be65c0",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762149,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688603
         }
     ],
     "wof:id":1108762149,
-    "wof:lastmodified":1481486098,
+    "wof:lastmodified":1532444199,
     "wof:name":"Colorado State House District 61",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-co",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

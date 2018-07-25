@@ -11,6 +11,7 @@
     "geom:longitude":-93.590186,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":76430534.0,
     "uscensus:awater":2853737.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486463,
-    "wof:geomhash":"09f5a34810d105e44f457c4e156c7863",
+    "wof:geomhash":"9f693efe24e5066daa28d615403a46eb",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764145,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688713
         }
     ],
     "wof:id":1108764145,
-    "wof:lastmodified":1481486463,
+    "wof:lastmodified":1532444518,
     "wof:name":"Iowa State Senate District 17",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ia",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

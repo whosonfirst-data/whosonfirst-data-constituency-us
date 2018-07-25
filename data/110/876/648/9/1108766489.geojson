@@ -11,6 +11,7 @@
     "geom:longitude":-70.354656,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":192507.0,
     "uscensus:awater":4181256658.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486847,
-    "wof:geomhash":"a3c7ee65caf3b5edba0814bd9ace5eda",
+    "wof:geomhash":"3fd43454b2e331b3f3ba9d3bbe81a005",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766489,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766489,
-    "wof:lastmodified":1481486847,
+    "wof:lastmodified":1532444336,
     "wof:name":"Massachusetts State House Districts not defined",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

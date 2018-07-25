@@ -11,6 +11,7 @@
     "geom:longitude":-86.23436,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":103401961.0,
     "uscensus:awater":1570193.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486626,
-    "wof:geomhash":"fe2043f0d8a8cc5f9b54e673e825c877",
+    "wof:geomhash":"2d87c71ad1e0bfb43b15db609e3be788",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765027,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765027,
-    "wof:lastmodified":1481486626,
+    "wof:lastmodified":1532444298,
     "wof:name":"Indiana State Senate District 10",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -17,6 +17,7 @@
     "mps:latitude":32.921921,
     "mps:longitude":-89.687118,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Mississippi"
     ],
@@ -50,7 +51,7 @@
     "wof:constituency":"country",
     "wof:country":"US",
     "wof:created":1479231171,
-    "wof:geomhash":"28f4adace3eee8c080023ee88cfe6ab0",
+    "wof:geomhash":"13d43760485119e40d153815ac806c13",
     "wof:hierarchy":[
         {
             "constituency_id":1108746649,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108746649,
-    "wof:lastmodified":1487197388,
+    "wof:lastmodified":1532443720,
     "wof:name":"Mississippi",
     "wof:parent_id":85633793,
     "wof:placetype":"constituency",

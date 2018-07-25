@@ -11,6 +11,7 @@
     "geom:longitude":-93.728922,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":110732547.0,
     "uscensus:awater":9744437.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486742,
-    "wof:geomhash":"cab0e206165a22019e42bf6587ea358e",
+    "wof:geomhash":"300e266316baef2d1222b21366a97dd4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765811,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688735
         }
     ],
     "wof:id":1108765811,
-    "wof:lastmodified":1481486742,
+    "wof:lastmodified":1532444196,
     "wof:name":"Louisiana State House District 5",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-la",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-85.531183,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1456081718.0,
     "uscensus:awater":46881014.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487072,
-    "wof:geomhash":"ab7307662abdc0f3faf2329ed0042128",
+    "wof:geomhash":"11d303606a1abf5ecf86b4e9a28177ef",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767553,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767553,
-    "wof:lastmodified":1481487072,
+    "wof:lastmodified":1532444472,
     "wof:name":"Michigan State Senate District 20",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

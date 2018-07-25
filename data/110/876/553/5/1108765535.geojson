@@ -11,6 +11,7 @@
     "geom:longitude":-85.776251,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2831025634.0,
     "uscensus:awater":26755606.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486689,
-    "wof:geomhash":"16c5c949a1342848decac9c8f5531e36",
+    "wof:geomhash":"3d5b8115374f57d2512da367e87f9bf9",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765535,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765535,
-    "wof:lastmodified":1481486689,
+    "wof:lastmodified":1532444177,
     "wof:name":"Kentucky State House District 21",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-93.193709,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":99175366.0,
     "uscensus:awater":8120876.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487134,
-    "wof:geomhash":"9f259ffbb0e10f264aa6550a197a1914",
+    "wof:geomhash":"becd60455a4c6e0a56a68226544ba486",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768013,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108768013,
-    "wof:lastmodified":1481487134,
+    "wof:lastmodified":1532444227,
     "wof:name":"Minnesota State Senate District 51",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

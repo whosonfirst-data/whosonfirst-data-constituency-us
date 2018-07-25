@@ -11,6 +11,7 @@
     "geom:longitude":-66.418311,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":249745272.0,
     "uscensus:awater":2391501.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488046,
-    "wof:geomhash":"8ed5e2dc2356c09f25392514e669b38b",
+    "wof:geomhash":"66f7d5817bb6b74e68da1982f5fbfaca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773033,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85687331
         }
     ],
     "wof:id":1108773033,
-    "wof:lastmodified":1481488046,
+    "wof:lastmodified":1532443887,
     "wof:name":"Puerto Rico State House District 12",
     "wof:parent_id":85687331,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pr",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

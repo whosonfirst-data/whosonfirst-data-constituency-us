@@ -11,6 +11,7 @@
     "geom:longitude":-93.448417,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":48173277.0,
     "uscensus:awater":4946061.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487098,
-    "wof:geomhash":"15cf3e71c3e3b6bccabe2ed7c60d5a07",
+    "wof:geomhash":"7a047de538b6204d6e3fbb9d76cd111e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767749,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767749,
-    "wof:lastmodified":1481487098,
+    "wof:lastmodified":1532444090,
     "wof:name":"Minnesota State House District 34B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-87.642353,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1275582365.0,
     "uscensus:awater":2410062532.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488611,
-    "wof:geomhash":"23806fa51fddd6824723e9cfd9eece05",
+    "wof:geomhash":"062b24b86803d0844117c74572721d18",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775923,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775923,
-    "wof:lastmodified":1481488611,
+    "wof:lastmodified":1532443967,
     "wof:name":"Wisconsin State Senate District 21",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

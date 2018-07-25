@@ -11,6 +11,7 @@
     "geom:longitude":-69.956843,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":159012415.0,
     "uscensus:awater":22003894.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487005,
-    "wof:geomhash":"7e081e36c688b48fe50865dfac5305c6",
+    "wof:geomhash":"77222d907614ca4240b24245dfae5c2e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767023,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767023,
-    "wof:lastmodified":1481487005,
+    "wof:lastmodified":1532444530,
     "wof:name":"Maine State House District 81",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-83.061767,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "GA-10"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738219,
-    "wof:lastmodified":1493955515,
+    "wof:lastmodified":1532444715,
     "wof:name":"Georgia Congressional District 10",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

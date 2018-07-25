@@ -11,6 +11,7 @@
     "geom:longitude":-81.514407,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":158562185.0,
     "uscensus:awater":10544871.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486225,
-    "wof:geomhash":"445e8ad30599582ef4766c3c4494b611",
+    "wof:geomhash":"aa76ebd6454b7c3ac8843bb9ff3be316",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762847,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762847,
-    "wof:lastmodified":1481486225,
+    "wof:lastmodified":1532444488,
     "wof:name":"Florida State House District 12",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-83.554152,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":87280045.0,
     "uscensus:awater":4209316.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487794,
-    "wof:geomhash":"580a4248d19f5bd611089339acead5b2",
+    "wof:geomhash":"0d4fcaec3c9ce96361a74857f6d5d084",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771699,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688485
         }
     ],
     "wof:id":1108771699,
-    "wof:lastmodified":1481487794,
+    "wof:lastmodified":1532443786,
     "wof:name":"Ohio State House District 45",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-oh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

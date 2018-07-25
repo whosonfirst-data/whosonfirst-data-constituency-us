@@ -11,6 +11,7 @@
     "geom:longitude":-89.01546,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2450679988.0,
     "uscensus:awater":188204518.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486681,
-    "wof:geomhash":"4e0db411816e729f25c86f57238d04c2",
+    "wof:geomhash":"db09816f1151637d5301b9ac7dfc6922",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765491,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765491,
-    "wof:lastmodified":1481486681,
+    "wof:lastmodified":1532444359,
     "wof:name":"Kentucky State House District 1",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

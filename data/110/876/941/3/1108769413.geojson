@@ -11,6 +11,7 @@
     "geom:longitude":-113.897863,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":624916049.0,
     "uscensus:awater":3499768.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487385,
-    "wof:geomhash":"ac28fe0b855780d516c3dad17b30d68e",
+    "wof:geomhash":"1acc46cea92fa50f54c5a00d487940f5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769413,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769413,
-    "wof:lastmodified":1481487385,
+    "wof:lastmodified":1532444563,
     "wof:name":"Montana State Senate District 45",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-93.719544,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":2110597519.0,
     "uscensus:awater":10675948.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487156,
-    "wof:geomhash":"d55e6f0fa84c49675db2a83b2bba6609",
+    "wof:geomhash":"2cc624eae4d20c9ffd9350330a9a1efa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108768171,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688661
         }
     ],
     "wof:id":1108768171,
-    "wof:lastmodified":1481487156,
+    "wof:lastmodified":1532444338,
     "wof:name":"Missouri State House District 54",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mo",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

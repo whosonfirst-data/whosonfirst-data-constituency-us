@@ -11,6 +11,7 @@
     "geom:longitude":-93.231029,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":11159901.0,
     "uscensus:awater":928613.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487113,
-    "wof:geomhash":"9dda7ce65f18f615bbfc7263cc89e5b0",
+    "wof:geomhash":"36f43ee9329e8b2fe752140e8f6369f1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767867,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688727
         }
     ],
     "wof:id":1108767867,
-    "wof:lastmodified":1481487113,
+    "wof:lastmodified":1532444334,
     "wof:name":"Minnesota State House District 60B",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mn",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

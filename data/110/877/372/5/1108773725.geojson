@@ -11,6 +11,7 @@
     "geom:longitude":-78.944804,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":487635665.0,
     "uscensus:awater":119428444.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488156,
-    "wof:geomhash":"4e51b27030528d1be91171dd19570d78",
+    "wof:geomhash":"1ff82b5a981d0fe154d916dbc70b12bf",
     "wof:hierarchy":[
         {
+            "constituency_id":1108773725,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688683
         }
     ],
     "wof:id":1108773725,
-    "wof:lastmodified":1481488156,
+    "wof:lastmodified":1532443819,
     "wof:name":"South Carolina State Senate District 33",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-sc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

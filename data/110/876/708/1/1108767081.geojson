@@ -11,6 +11,7 @@
     "geom:longitude":-69.666895,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":155298827.0,
     "uscensus:awater":4189844.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487011,
-    "wof:geomhash":"7ac277439e8a56a905b578ed192e028a",
+    "wof:geomhash":"1242a8d4ada1cab46df01241aa636f34",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767081,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767081,
-    "wof:lastmodified":1481487011,
+    "wof:lastmodified":1532444193,
     "wof:name":"Maine State House District 107",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-95.367459,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1419736072.0,
     "uscensus:awater":65265434.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486667,
-    "wof:geomhash":"3035e25099cce591036b35cc2fa5ca94",
+    "wof:geomhash":"5c3377ee1c13cdea4443326fa7524bf1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765403,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765403,
-    "wof:lastmodified":1481486667,
+    "wof:lastmodified":1532444103,
     "wof:name":"Kansas State Senate District 2",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

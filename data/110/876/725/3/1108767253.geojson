@@ -11,6 +11,7 @@
     "geom:longitude":-70.522237,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":410813901.0,
     "uscensus:awater":156719318.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487039,
-    "wof:geomhash":"3b068f4d3c638a83506fae83b7ce4a09",
+    "wof:geomhash":"e26f693370ec62c5b2d87efe08222787",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767253,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767253,
-    "wof:lastmodified":1481487039,
+    "wof:lastmodified":1532444350,
     "wof:name":"Maine State Senate District 32",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

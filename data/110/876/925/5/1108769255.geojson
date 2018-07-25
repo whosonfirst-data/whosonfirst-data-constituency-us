@@ -11,6 +11,7 @@
     "geom:longitude":-112.098783,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3762162721.0,
     "uscensus:awater":5489340.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487349,
-    "wof:geomhash":"983caefff0b9bf73fef6249ee3017dbb",
+    "wof:geomhash":"e8c09a233fbaa7f15a1148f7c2d273da",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769255,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769255,
-    "wof:lastmodified":1481487349,
+    "wof:lastmodified":1532444349,
     "wof:name":"Montana State House District 75",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

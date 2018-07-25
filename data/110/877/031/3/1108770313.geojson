@@ -11,6 +11,7 @@
     "geom:longitude":-71.367381,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":141472616.0,
     "uscensus:awater":3943320.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487553,
-    "wof:geomhash":"682a1a34ba475d0fdd7727d14acddd92",
+    "wof:geomhash":"415d06fde01a88ab82a986cf39eb06ca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108770313,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688689
         }
     ],
     "wof:id":1108770313,
-    "wof:lastmodified":1481487553,
+    "wof:lastmodified":1532443804,
     "wof:name":"New Hampshire State House District Hillsborough County No. 37",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nh",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

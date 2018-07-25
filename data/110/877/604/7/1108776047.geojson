@@ -11,6 +11,7 @@
     "geom:longitude":-79.928712,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4942077192.0,
     "uscensus:awater":4611533.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488637,
-    "wof:geomhash":"b0761518b57c5f0b048b0f86dfa20842",
+    "wof:geomhash":"0d7e8bc7d83ecd26a7e22d17ae85a9ed",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776047,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776047,
-    "wof:lastmodified":1481488637,
+    "wof:lastmodified":1532444012,
     "wof:name":"West Virginia State House District 43",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

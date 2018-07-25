@@ -11,6 +11,7 @@
     "geom:longitude":-114.974932,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":169558711.0,
     "uscensus:awater":1272345.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487681,
-    "wof:geomhash":"dacc466cf1746c3fd25f84f781e15be7",
+    "wof:geomhash":"40e9fc5f3af746f6bcbb2737ac5e7edc",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771003,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688531
         }
     ],
     "wof:id":1108771003,
-    "wof:lastmodified":1481487681,
+    "wof:lastmodified":1532443820,
     "wof:name":"Nevada Assembly District 12",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-83.796404,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3364353508.0,
     "uscensus:awater":368925899.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487071,
-    "wof:geomhash":"9ae5de477f5ab81e33a492fea76b6ae3",
+    "wof:geomhash":"d40f4d228169006e238be85efa0b8668",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767547,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767547,
-    "wof:lastmodified":1481487071,
+    "wof:lastmodified":1532444507,
     "wof:name":"Michigan State Senate District 17",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

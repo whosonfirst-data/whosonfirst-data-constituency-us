@@ -11,6 +11,7 @@
     "geom:longitude":-78.485505,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4079045930.0,
     "uscensus:awater":37638985.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487409,
-    "wof:geomhash":"24d9a2800101f54ca3b962f0c55e360c",
+    "wof:geomhash":"c694cced31b19a46e81f9fb81413d677",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769473,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769473,
-    "wof:lastmodified":1481487409,
+    "wof:lastmodified":1532444291,
     "wof:name":"North Carolina State House District 22",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

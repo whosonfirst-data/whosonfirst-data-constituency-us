@@ -11,6 +11,7 @@
     "geom:longitude":-87.822054,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4938707925.0,
     "uscensus:awater":234278383.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485895,
-    "wof:geomhash":"abee3e8ab9aa35d065acb89c326333f4",
+    "wof:geomhash":"871f3a05a84e3b24d3392d8030cb85f1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108761239,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688675
         }
     ],
     "wof:id":1108761239,
-    "wof:lastmodified":1481485895,
+    "wof:lastmodified":1532444419,
     "wof:name":"Alabama State Senate District 6",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-al",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-113.194789,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":13067645473.0,
     "uscensus:awater":184846522.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487366,
-    "wof:geomhash":"ac7a66a5a407d94a3b573ccdc1b53cdc",
+    "wof:geomhash":"883fffdc99b61eafe086b7d988c9b253",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769329,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688617
         }
     ],
     "wof:id":1108769329,
-    "wof:lastmodified":1481487366,
+    "wof:lastmodified":1532444355,
     "wof:name":"Montana State Senate District 8",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

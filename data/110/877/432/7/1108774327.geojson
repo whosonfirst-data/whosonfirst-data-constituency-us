@@ -11,6 +11,7 @@
     "geom:longitude":-97.54906,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":455546625.0,
     "uscensus:awater":400540.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488293,
-    "wof:geomhash":"bf458d13b13a732f739501f305bdb3b3",
+    "wof:geomhash":"932b37725baff8d1e0a173d92cd27366",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774327,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774327,
-    "wof:lastmodified":1481488293,
+    "wof:lastmodified":1532443958,
     "wof:name":"Texas State House District 50",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

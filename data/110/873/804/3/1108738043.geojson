@@ -11,6 +11,7 @@
     "geom:longitude":-121.218721,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "CA-07"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738043,
-    "wof:lastmodified":1493955549,
+    "wof:lastmodified":1532444725,
     "wof:name":"California Congressional District 7",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

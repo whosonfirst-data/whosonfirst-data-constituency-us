@@ -11,6 +11,7 @@
     "geom:longitude":-73.115436,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":328443924.0,
     "uscensus:awater":920014.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488497,
-    "wof:geomhash":"c8bbd1f86d397ac62cff46292b5e36a9",
+    "wof:geomhash":"a8dde95caa63d27e31fa97d4680d21d2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775189,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775189,
-    "wof:lastmodified":1481488497,
+    "wof:lastmodified":1532443762,
     "wof:name":"Vermont Bennington-3 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

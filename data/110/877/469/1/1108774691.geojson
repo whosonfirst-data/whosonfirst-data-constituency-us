@@ -11,6 +11,7 @@
     "geom:longitude":-111.991113,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":21866116.0,
     "uscensus:awater":136726.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488374,
-    "wof:geomhash":"c30e826ed3587d01821766406624fe9a",
+    "wof:geomhash":"0f3c2074662dd2405f4f7507334f84ca",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774691,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688567
         }
     ],
     "wof:id":1108774691,
-    "wof:lastmodified":1481488374,
+    "wof:lastmodified":1532443917,
     "wof:name":"Utah State House District 31",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ut",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-69.616002,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":178564573.0,
     "uscensus:awater":248360649.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487007,
-    "wof:geomhash":"2eb54fcbe8da3f78f1401d2b6ad34e93",
+    "wof:geomhash":"178628166659d7c84a9d96efeaa67ff8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767041,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767041,
-    "wof:lastmodified":1481487007,
+    "wof:lastmodified":1532444581,
     "wof:name":"Maine State House District 89",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

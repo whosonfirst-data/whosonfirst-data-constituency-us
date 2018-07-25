@@ -11,6 +11,7 @@
     "geom:longitude":-88.512834,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1106681805.0,
     "uscensus:awater":7410633.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486540,
-    "wof:geomhash":"4f12d2fd1914b3b672775893d5e65f60",
+    "wof:geomhash":"55678fd505fb5aca4390421a724e31ec",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764519,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764519,
-    "wof:lastmodified":1481486540,
+    "wof:lastmodified":1532444143,
     "wof:name":"Illinois State House District 63",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

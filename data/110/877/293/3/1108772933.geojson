@@ -11,6 +11,7 @@
     "geom:longitude":-75.346753,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":343827147.0,
     "uscensus:awater":6970167.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488028,
-    "wof:geomhash":"981d231d7c9280adad1876483383f97e",
+    "wof:geomhash":"b5de7374ec69e14505be6a53421898d8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772933,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688481
         }
     ],
     "wof:id":1108772933,
-    "wof:lastmodified":1481488028,
+    "wof:lastmodified":1532443812,
     "wof:name":"Pennsylvania State Senate District 18",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-pa",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

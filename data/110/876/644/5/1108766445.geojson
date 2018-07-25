@@ -11,6 +11,7 @@
     "geom:longitude":-71.144373,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4079544.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486844,
-    "wof:geomhash":"795f1d1a2cfba1b2acd1466e16307b7d",
+    "wof:geomhash":"964ed14ab1150ffc09dcf2f6e7826cf1",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766445,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766445,
-    "wof:lastmodified":1481486844,
+    "wof:lastmodified":1532444424,
     "wof:name":"Massachusetts 17th Suffolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

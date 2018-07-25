@@ -11,6 +11,7 @@
     "geom:longitude":-76.274403,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":162618432.0,
     "uscensus:awater":14633543.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488474,
-    "wof:geomhash":"296963851096b8e07654df9bc92264c9",
+    "wof:geomhash":"9e2037880fb1883a83971109f6a5f6c5",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775091,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688747
         }
     ],
     "wof:id":1108775091,
-    "wof:lastmodified":1481488474,
+    "wof:lastmodified":1532443933,
     "wof:name":"Virginia State Senate District 5",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-va",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

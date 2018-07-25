@@ -11,6 +11,7 @@
     "geom:longitude":-86.903663,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3429768873.0,
     "uscensus:awater":15850995.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486624,
-    "wof:geomhash":"3e572810aa1578614f52a9aef33d5c39",
+    "wof:geomhash":"4f26ca896847dff006d51e346b809222",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765015,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688709
         }
     ],
     "wof:id":1108765015,
-    "wof:lastmodified":1481486624,
+    "wof:lastmodified":1532444426,
     "wof:name":"Indiana State Senate District 5",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-in",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

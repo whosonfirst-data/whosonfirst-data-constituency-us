@@ -11,6 +11,7 @@
     "geom:longitude":-101.774332,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":17659167649.0,
     "uscensus:awater":62362815.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488310,
-    "wof:geomhash":"97341f1270e3419e2f2a385d88b7a543",
+    "wof:geomhash":"c003bffd41a8c02c806655224188271e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108774401,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688753
         }
     ],
     "wof:id":1108774401,
-    "wof:lastmodified":1481488310,
+    "wof:lastmodified":1532444052,
     "wof:name":"Texas State House District 83",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-tx",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

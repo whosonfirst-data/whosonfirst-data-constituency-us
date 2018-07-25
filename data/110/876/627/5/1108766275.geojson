@@ -11,6 +11,7 @@
     "geom:longitude":-71.513421,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":167046604.0,
     "uscensus:awater":9337255.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486826,
-    "wof:geomhash":"72a61b54e17049f5da21fa3f2f9a501f",
+    "wof:geomhash":"03856d88060afde47bf4991dae1708d2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766275,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766275,
-    "wof:lastmodified":1481486826,
+    "wof:lastmodified":1532444441,
     "wof:name":"Massachusetts 8th Middlesex District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

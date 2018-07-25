@@ -11,6 +11,7 @@
     "geom:longitude":-121.476199,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3025382721.0,
     "uscensus:awater":34236764.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487952,
-    "wof:geomhash":"6a2ecd95bff5a570e354022a3cfa490d",
+    "wof:geomhash":"4f57eafa67c760758b22257e6e9c8425",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772429,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688513
         }
     ],
     "wof:id":1108772429,
-    "wof:lastmodified":1481487952,
+    "wof:lastmodified":1532443953,
     "wof:name":"Oregon State Senate District 27",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-or",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

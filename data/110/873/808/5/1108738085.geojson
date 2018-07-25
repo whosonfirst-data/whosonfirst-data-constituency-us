@@ -11,6 +11,7 @@
     "geom:longitude":-82.059018,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "OH-07"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738085,
-    "wof:lastmodified":1493955408,
+    "wof:lastmodified":1532444626,
     "wof:name":"Ohio Congressional District 7",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

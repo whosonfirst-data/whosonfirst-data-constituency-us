@@ -11,6 +11,7 @@
     "geom:longitude":-87.813697,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":29733838.0,
     "uscensus:awater":0.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486544,
-    "wof:geomhash":"0e396d3e5be0d960d5cbdbc90a89594c",
+    "wof:geomhash":"d661c098a8ad41deeae94a746dff52f8",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764553,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764553,
-    "wof:lastmodified":1481486544,
+    "wof:lastmodified":1532444367,
     "wof:name":"Illinois State House District 78",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

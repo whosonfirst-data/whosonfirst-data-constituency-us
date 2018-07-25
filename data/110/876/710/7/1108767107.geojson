@@ -11,6 +11,7 @@
     "geom:longitude":-70.010748,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8623594204.0,
     "uscensus:awater":371451252.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487014,
-    "wof:geomhash":"27e60dd3d8d48f532c48c1c01f35248a",
+    "wof:geomhash":"628c7ec2b7728de23e7e48f5f91f67fa",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767107,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688769
         }
     ],
     "wof:id":1108767107,
-    "wof:lastmodified":1481487014,
+    "wof:lastmodified":1532444132,
     "wof:name":"Maine State House District 118",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-me",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

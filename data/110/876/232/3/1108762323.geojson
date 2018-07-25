@@ -11,6 +11,7 @@
     "geom:longitude":-72.15551,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":123801160.0,
     "uscensus:awater":31716302.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486140,
-    "wof:geomhash":"1ec3ba77d0c4ccd1989e3d21ca4cd223",
+    "wof:geomhash":"d058451499f150c59a7ab618772216cf",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762323,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762323,
-    "wof:lastmodified":1481486140,
+    "wof:lastmodified":1532444079,
     "wof:name":"Connecticut State House District 38",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -11,6 +11,7 @@
     "geom:longitude":-78.421045,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1076579474.0,
     "uscensus:awater":5697465.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488642,
-    "wof:geomhash":"7316e88c7056c62bc22c6e96b1201cc8",
+    "wof:geomhash":"02f1736975a1d20033a0550a0b2d89b3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108776081,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688589
         }
     ],
     "wof:id":1108776081,
-    "wof:lastmodified":1481488642,
+    "wof:lastmodified":1532443808,
     "wof:name":"West Virginia State House District 58",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wv",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

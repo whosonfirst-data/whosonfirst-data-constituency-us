@@ -11,6 +11,7 @@
     "geom:longitude":-76.85145,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":150824000.0,
     "uscensus:awater":525392.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486937,
-    "wof:geomhash":"5582e2e07223ff4bf08139c7052b0d8d",
+    "wof:geomhash":"655072fa2ea25fa053a9b101594a208e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766789,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766789,
-    "wof:lastmodified":1481486937,
+    "wof:lastmodified":1532444343,
     "wof:name":"Maryland State Senate District 25",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

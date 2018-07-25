@@ -11,6 +11,7 @@
     "geom:longitude":-73.628,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":75815636.0,
     "uscensus:awater":170312.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487710,
-    "wof:geomhash":"f88b6ad1dbbcac12644b0c5202bdbb87",
+    "wof:geomhash":"1caced1918324a2a39c16157b49ce2c2",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771161,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771161,
-    "wof:lastmodified":1481487710,
+    "wof:lastmodified":1532443854,
     "wof:name":"New York Assembly District 19",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

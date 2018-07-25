@@ -11,6 +11,7 @@
     "geom:longitude":-87.963349,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":50655511.0,
     "uscensus:awater":117761.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488606,
-    "wof:geomhash":"0e9a77c12ca54e08f48307f08d485585",
+    "wof:geomhash":"0d9d24df24ba95cf550cc6584dc3bb4e",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775891,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688517
         }
     ],
     "wof:id":1108775891,
-    "wof:lastmodified":1481488606,
+    "wof:lastmodified":1532443813,
     "wof:name":"Wisconsin State Senate District 6",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-wi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

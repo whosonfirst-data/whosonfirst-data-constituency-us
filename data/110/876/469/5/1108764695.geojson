@@ -11,6 +11,7 @@
     "geom:longitude":-88.21849,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":139858603.0,
     "uscensus:awater":2302626.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486579,
-    "wof:geomhash":"5a8c9708729d4a17b68870a9743ca9a3",
+    "wof:geomhash":"16ccf5043c64218155792e3888adec83",
     "wof:hierarchy":[
         {
+            "constituency_id":1108764695,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688697
         }
     ],
     "wof:id":1108764695,
-    "wof:lastmodified":1481486579,
+    "wof:lastmodified":1532444338,
     "wof:name":"Illinois State Senate District 22",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-il",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

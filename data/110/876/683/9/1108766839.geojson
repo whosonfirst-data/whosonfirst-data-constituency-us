@@ -11,6 +11,7 @@
     "geom:longitude":-76.93656,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":46670341.0,
     "uscensus:awater":347489.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486960,
-    "wof:geomhash":"9c122f14c9242f45556c29885ac9c10e",
+    "wof:geomhash":"b79ec2a66a993f4e4895ff5baee88222",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766839,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766839,
-    "wof:lastmodified":1481486960,
+    "wof:lastmodified":1532444577,
     "wof:name":"Maryland State Senate District 47",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

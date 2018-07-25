@@ -11,6 +11,7 @@
     "geom:longitude":-80.918775,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":233885212.0,
     "uscensus:awater":9677964.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487472,
-    "wof:geomhash":"e46d38e251717b43f74f2e0de6c87b11",
+    "wof:geomhash":"2694e3de30ec024ed6ad2b375275c0b3",
     "wof:hierarchy":[
         {
+            "constituency_id":1108769777,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688773
         }
     ],
     "wof:id":1108769777,
-    "wof:lastmodified":1481487472,
+    "wof:lastmodified":1532444365,
     "wof:name":"North Carolina State Senate District 37",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-nc",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

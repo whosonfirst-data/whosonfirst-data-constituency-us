@@ -11,6 +11,7 @@
     "geom:longitude":-71.103628,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":8778605.0,
     "uscensus:awater":46155.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486841,
-    "wof:geomhash":"23ae75e3752ece6f511d0c34e63cb1ba",
+    "wof:geomhash":"8c4ece90461874ffcd18234ca30d8475",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766431,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688645
         }
     ],
     "wof:id":1108766431,
-    "wof:lastmodified":1481486841,
+    "wof:lastmodified":1532444142,
     "wof:name":"Massachusetts 11th Suffolk District",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ma",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

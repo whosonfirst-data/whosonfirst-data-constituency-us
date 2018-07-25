@@ -11,6 +11,7 @@
     "geom:longitude":-72.963242,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":4527579.0,
     "uscensus:awater":21179.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488509,
-    "wof:geomhash":"8c97deacccbfbd9e9040061dc96290b6",
+    "wof:geomhash":"30d04528eabee57c1e410e565fe882ce",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775333,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775333,
-    "wof:lastmodified":1481488509,
+    "wof:lastmodified":1532443864,
     "wof:name":"Vermont Rutland-5-1 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

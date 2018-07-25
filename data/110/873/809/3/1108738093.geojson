@@ -11,6 +11,7 @@
     "geom:longitude":-79.505552,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_variant":[
         "SC-07"
     ],
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108738093,
-    "wof:lastmodified":1493955488,
+    "wof:lastmodified":1532444620,
     "wof:name":"South Carolina Congressional District 7",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

@@ -11,6 +11,7 @@
     "geom:longitude":-98.995764,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":13516437531.0,
     "uscensus:awater":113427219.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487901,
-    "wof:geomhash":"4e1dfcab8b4db38a7bf701db1a32cfd9",
+    "wof:geomhash":"76dcc3f2931f8b37b2afa96ac17b924c",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772185,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772185,
-    "wof:lastmodified":1481487901,
+    "wof:lastmodified":1532443841,
     "wof:name":"Oklahoma State Senate District 26",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

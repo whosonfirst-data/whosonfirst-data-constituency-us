@@ -11,6 +11,7 @@
     "geom:longitude":-94.707037,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":51926962.0,
     "uscensus:awater":1734171.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486645,
-    "wof:geomhash":"b13b6360fe3c72a712a758cab54d63cc",
+    "wof:geomhash":"2c8fca5e356b321210877640f0687b7a",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765201,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688555
         }
     ],
     "wof:id":1108765201,
-    "wof:lastmodified":1481486645,
+    "wof:lastmodified":1532444110,
     "wof:name":"Kansas State House District 37",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ks",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

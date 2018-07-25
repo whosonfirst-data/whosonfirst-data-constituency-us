@@ -11,6 +11,7 @@
     "geom:longitude":-81.008056,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":1344226870.0,
     "uscensus:awater":91668448.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486235,
-    "wof:geomhash":"50db4ea89db96e86c6151e5486b86961",
+    "wof:geomhash":"e410e8aaa60074b8cddf8794dde64748",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762933,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688651
         }
     ],
     "wof:id":1108762933,
-    "wof:lastmodified":1481486235,
+    "wof:lastmodified":1532444201,
     "wof:name":"Florida State House District 50",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-fl",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

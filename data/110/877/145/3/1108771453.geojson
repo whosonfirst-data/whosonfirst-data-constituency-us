@@ -11,6 +11,7 @@
     "geom:longitude":-79.018299,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":141060504.0,
     "uscensus:awater":449406492.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487742,
-    "wof:geomhash":"0784cd331f88cbafb32e814f3ef325cb",
+    "wof:geomhash":"ae691b2af7d8bf29f2246e4f343b1e66",
     "wof:hierarchy":[
         {
+            "constituency_id":1108771453,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688543
         }
     ],
     "wof:id":1108771453,
-    "wof:lastmodified":1481487742,
+    "wof:lastmodified":1532443831,
     "wof:name":"New York Assembly District 149",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ny",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

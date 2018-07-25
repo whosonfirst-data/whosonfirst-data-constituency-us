@@ -11,6 +11,7 @@
     "geom:longitude":-95.886752,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":140706624.0,
     "uscensus:awater":5416094.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487900,
-    "wof:geomhash":"1a075a8f316bd3a7fcfe466c2a51fbd8",
+    "wof:geomhash":"544235b76abef341f9e5c337370009d4",
     "wof:hierarchy":[
         {
+            "constituency_id":1108772183,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688585
         }
     ],
     "wof:id":1108772183,
-    "wof:lastmodified":1481487900,
+    "wof:lastmodified":1532443841,
     "wof:name":"Oklahoma State Senate District 25",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ok",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

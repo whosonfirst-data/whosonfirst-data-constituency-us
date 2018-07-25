@@ -11,6 +11,7 @@
     "geom:longitude":-84.64522,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":3034319236.0,
     "uscensus:awater":64322546.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486726,
-    "wof:geomhash":"c5d7eb4033c08c05fd273f5515742c9e",
+    "wof:geomhash":"b1460315bd3d9824150aaca75d8b7389",
     "wof:hierarchy":[
         {
+            "constituency_id":1108765747,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688641
         }
     ],
     "wof:id":1108765747,
-    "wof:lastmodified":1481486726,
+    "wof:lastmodified":1532444293,
     "wof:name":"Kentucky State Senate District 15",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ky",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

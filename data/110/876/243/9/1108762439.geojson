@@ -11,6 +11,7 @@
     "geom:longitude":-72.823043,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":74908943.0,
     "uscensus:awater":1394075.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486151,
-    "wof:geomhash":"0bb4c976a1f86f325d8fff7d816a4a37",
+    "wof:geomhash":"83956744a88dd42a4d8b2d5bd9b3c130",
     "wof:hierarchy":[
         {
+            "constituency_id":1108762439,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688629
         }
     ],
     "wof:id":1108762439,
-    "wof:lastmodified":1481486151,
+    "wof:lastmodified":1532444260,
     "wof:name":"Connecticut State House District 90",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-ct",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

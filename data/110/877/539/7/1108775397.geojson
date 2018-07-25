@@ -11,6 +11,7 @@
     "geom:longitude":-72.536676,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":289563708.0,
     "uscensus:awater":2235878.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481488515,
-    "wof:geomhash":"027a5d807dff0a74e629466bb0deb0fe",
+    "wof:geomhash":"0739a7a67fc79b7b220214f5d0a52dec",
     "wof:hierarchy":[
         {
+            "constituency_id":1108775397,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688763
         }
     ],
     "wof:id":1108775397,
-    "wof:lastmodified":1481488515,
+    "wof:lastmodified":1532443966,
     "wof:name":"Vermont Windsor-4-1 State House District",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-vt",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

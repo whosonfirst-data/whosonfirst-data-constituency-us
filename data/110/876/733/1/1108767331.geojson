@@ -11,6 +11,7 @@
     "geom:longitude":-82.695724,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":704068541.0,
     "uscensus:awater":28408274.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481487049,
-    "wof:geomhash":"f3ee1bed65384a6e15156a07a9f58ab6",
+    "wof:geomhash":"74c8d9a0fe1238d920d709f49edb96d7",
     "wof:hierarchy":[
         {
+            "constituency_id":1108767331,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688599
         }
     ],
     "wof:id":1108767331,
-    "wof:lastmodified":1481487049,
+    "wof:lastmodified":1532444231,
     "wof:name":"Michigan State House District 32",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-mi",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

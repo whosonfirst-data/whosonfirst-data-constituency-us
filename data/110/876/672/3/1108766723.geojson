@@ -11,6 +11,7 @@
     "geom:longitude":-76.669859,
     "iso:country":"us",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "src:geom":"uscensus",
     "uscensus:aland":10582719.0,
     "uscensus:awater":29418.0,
@@ -34,20 +35,21 @@
     "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481486903,
-    "wof:geomhash":"a5f8d9abce2a1170096d9652e6201101",
+    "wof:geomhash":"c93a28eccecf9e5c57756e1aae0120a6",
     "wof:hierarchy":[
         {
+            "constituency_id":1108766723,
             "continent_id":102191575,
             "country_id":85633793,
             "region_id":85688501
         }
     ],
     "wof:id":1108766723,
-    "wof:lastmodified":1481486903,
+    "wof:lastmodified":1532444471,
     "wof:name":"Maryland State Legislative Subdistrict 44A",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
-    "wof:repo":"whosonfirst-data-constituency-us-md",
+    "wof:repo":"whosonfirst-data-constituency-us",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
