@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080091,
-    "geom:area_square_m":892551457.842522,
+    "geom:area_square_m":892551457.842496,
     "geom:bbox":"-80.389394,25.531521,-80.042754,25.872644",
     "geom:latitude":25.676835,
     "geom:longitude":-80.205024,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1227"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903951,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738523,
-    "wof:lastmodified":1532444688,
+    "wof:lastmodified":1537998473,
     "wof:name":"Florida Congressional District 27",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

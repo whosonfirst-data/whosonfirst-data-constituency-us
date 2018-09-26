@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.4264,
-    "geom:area_square_m":14528705235.253204,
+    "geom:area_square_m":14528705235.250221,
     "geom:bbox":"-82.048414,33.643911,-80.000594,35.189687",
     "geom:latitude":34.53855,
     "geom:longitude":-81.019535,
@@ -35,6 +35,9 @@
         85688683
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4505"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903849,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737937,
-    "wof:lastmodified":1532444677,
+    "wof:lastmodified":1537998411,
     "wof:name":"South Carolina Congressional District 5",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

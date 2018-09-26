@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.979666,
-    "geom:area_square_m":37630624528.214211,
+    "geom:area_square_m":37630624528.202766,
     "geom:bbox":"-124.482003,37.814947,-122.347454,42.000787",
     "geom:latitude":40.108141,
     "geom:longitude":-123.468067,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0602"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903749,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737523,
-    "wof:lastmodified":1532444720,
+    "wof:lastmodified":1537998325,
     "wof:name":"California Congressional District 2",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

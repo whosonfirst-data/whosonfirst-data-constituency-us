@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.927686,
-    "geom:area_square_m":89166263031.320007,
+    "geom:area_square_m":89166263031.322113,
     "geom:bbox":"-103.002413,34.337762,-96.000281,37.002312",
     "geom:latitude":36.121082,
     "geom:longitude":-98.83885,
@@ -35,6 +35,9 @@
         85688585
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4003"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903796,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737733,
-    "wof:lastmodified":1532444637,
+    "wof:lastmodified":1537998484,
     "wof:name":"Oklahoma Congressional District 3",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",

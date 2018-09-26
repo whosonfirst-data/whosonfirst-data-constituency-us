@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.365434,
-    "geom:area_square_m":13913182130.343138,
+    "geom:area_square_m":13913182130.341112,
     "geom:bbox":"-84.657098,33.951745,-82.564462,35.001303",
     "geom:latitude":34.506482,
     "geom:longitude":-83.687493,
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1309"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903895,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738181,
-    "wof:lastmodified":1532444647,
+    "wof:lastmodified":1537998346,
     "wof:name":"Georgia Congressional District 9",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

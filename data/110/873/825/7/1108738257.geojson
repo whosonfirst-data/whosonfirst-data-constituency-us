@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.278115,
-    "geom:area_square_m":2844590998.447119,
+    "geom:area_square_m":2844590998.447372,
     "geom:bbox":"-85.047074,33.817319,-84.25759,34.413061",
     "geom:latitude":34.190777,
     "geom:longitude":-84.651364,
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1311"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903908,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738257,
-    "wof:lastmodified":1532444724,
+    "wof:lastmodified":1537998452,
     "wof:name":"Georgia Congressional District 11",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

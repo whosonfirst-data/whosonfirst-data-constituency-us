@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042739,
-    "geom:area_square_m":437886190.234822,
+    "geom:area_square_m":437886190.234646,
     "geom:bbox":"-117.828719,33.924343,-117.352917,34.14232",
     "geom:latitude":34.046737,
     "geom:longitude":-117.588228,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0635"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903965,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738567,
-    "wof:lastmodified":1532444732,
+    "wof:lastmodified":1537998376,
     "wof:name":"California Congressional District 35",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

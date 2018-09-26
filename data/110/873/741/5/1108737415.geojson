@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072449,
-    "geom:area_square_m":670486894.388417,
+    "geom:area_square_m":670486894.387574,
     "geom:bbox":"-88.136331,41.378231,-87.573109,41.84566",
     "geom:latitude":41.544232,
     "geom:longitude":-87.834128,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1701"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903728,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737415,
-    "wof:lastmodified":1532444718,
+    "wof:lastmodified":1537998409,
     "wof:name":"Illinois Congressional District 1",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

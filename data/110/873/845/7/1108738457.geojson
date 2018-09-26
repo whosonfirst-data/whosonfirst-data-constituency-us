@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048246,
-    "geom:area_square_m":519356976.482039,
+    "geom:area_square_m":519356976.48196,
     "geom:bbox":"-98.788192,29.318802,-98.464261,29.627018",
     "geom:latitude":29.475019,
     "geom:longitude":-98.622101,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4820"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903940,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738457,
-    "wof:lastmodified":1532444704,
+    "wof:lastmodified":1537998356,
     "wof:name":"Texas Congressional District 20",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

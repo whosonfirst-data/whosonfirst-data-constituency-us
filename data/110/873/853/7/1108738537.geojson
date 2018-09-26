@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023492,
-    "geom:area_square_m":240061011.504408,
+    "geom:area_square_m":240061011.504246,
     "geom:bbox":"-118.508501,34.15279,-118.315025,34.381184",
     "geom:latitude":34.26603,
     "geom:longitude":-118.430953,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0629"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903959,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738537,
-    "wof:lastmodified":1532444635,
+    "wof:lastmodified":1537998461,
     "wof:name":"California Congressional District 29",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.596938,
-    "geom:area_square_m":6209974712.619742,
+    "geom:area_square_m":6209974712.617029,
     "geom:bbox":"-81.016341,32.07689,-79.26183,33.366273",
     "geom:latitude":32.718934,
     "geom:longitude":-80.152702,
@@ -35,6 +35,9 @@
         85688683
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4501"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903740,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737489,
-    "wof:lastmodified":1532444610,
+    "wof:lastmodified":1537998396,
     "wof:name":"South Carolina Congressional District 1",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

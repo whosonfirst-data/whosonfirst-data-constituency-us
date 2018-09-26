@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.521318,
-    "geom:area_square_m":85576477504.527008,
+    "geom:area_square_m":85576477504.510406,
     "geom:bbox":"-119.651509,34.003835,-114.131211,38.713212",
     "geom:latitude":35.675436,
     "geom:longitude":-116.811829,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0608"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903883,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738113,
-    "wof:lastmodified":1532444660,
+    "wof:lastmodified":1537998355,
     "wof:name":"California Congressional District 8",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289001,
-    "geom:area_square_m":2673466817.41357,
+    "geom:area_square_m":2673466817.413969,
     "geom:bbox":"-71.907258,41.095834,-71.325667,42.013292",
     "geom:latitude":41.571328,
     "geom:longitude":-71.618606,
@@ -35,6 +35,9 @@
         85688509
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4402"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903772,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737625,
-    "wof:lastmodified":1532444697,
+    "wof:lastmodified":1537998340,
     "wof:name":"Rhode Island Congressional District 2",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",

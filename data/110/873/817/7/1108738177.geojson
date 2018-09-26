@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622776,
-    "geom:area_square_m":6797101712.302816,
+    "geom:area_square_m":6797101712.303777,
     "geom:bbox":"-81.853236,27.64199,-80.861395,28.565482",
     "geom:latitude":28.035021,
     "geom:longitude":-81.285007,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1209"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903894,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738177,
-    "wof:lastmodified":1532444666,
+    "wof:lastmodified":1537998360,
     "wof:name":"Florida Congressional District 9",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

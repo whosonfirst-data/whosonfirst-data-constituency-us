@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.934064,
-    "geom:area_square_m":20020353661.381672,
+    "geom:area_square_m":20020353661.388779,
     "geom:bbox":"-86.577799,32.061708,-84.888246,34.39592",
     "geom:latitude":33.155916,
     "geom:longitude":-85.707034,
@@ -35,6 +35,9 @@
         85688675
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0103"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903779,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737651,
-    "wof:lastmodified":1532444669,
+    "wof:lastmodified":1537998338,
     "wof:name":"Alabama Congressional District 3",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

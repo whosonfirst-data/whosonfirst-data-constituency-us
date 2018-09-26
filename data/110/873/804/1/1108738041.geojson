@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051602,
-    "geom:area_square_m":532519331.02523,
+    "geom:area_square_m":532519331.025527,
     "geom:bbox":"-112.289902,33.304647,-111.956309,33.553133",
     "geom:latitude":33.428588,
     "geom:longitude":-112.119054,
@@ -35,6 +35,9 @@
         85688719
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0407"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903870,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738041,
-    "wof:lastmodified":1532444725,
+    "wof:lastmodified":1537998371,
     "wof:name":"Arizona Congressional District 7",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

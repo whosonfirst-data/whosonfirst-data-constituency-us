@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.734655,
-    "geom:area_square_m":6970950494.943818,
+    "geom:area_square_m":6970950494.946838,
     "geom:bbox":"-112.354467,39.314483,-111.247078,40.726801",
     "geom:latitude":39.879904,
     "geom:longitude":-111.850246,
@@ -35,6 +35,9 @@
         85688567
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4904"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903835,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737861,
-    "wof:lastmodified":1532444664,
+    "wof:lastmodified":1537998481,
     "wof:name":"Utah Congressional District 4",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",

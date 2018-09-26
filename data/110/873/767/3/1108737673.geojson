@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067787,
-    "geom:area_square_m":626035935.180256,
+    "geom:area_square_m":626035935.179544,
     "geom:bbox":"-88.141966,41.542216,-87.631504,41.849905",
     "geom:latitude":41.678506,
     "geom:longitude":-87.896091,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1703"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903785,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737673,
-    "wof:lastmodified":1532444695,
+    "wof:lastmodified":1537998410,
     "wof:name":"Illinois Congressional District 3",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

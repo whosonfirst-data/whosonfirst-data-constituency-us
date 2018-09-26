@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054425,
-    "geom:area_square_m":565974307.89035,
+    "geom:area_square_m":565974307.891274,
     "geom:bbox":"-97.405065,32.602683,-96.809803,32.911158",
     "geom:latitude":32.754295,
     "geom:longitude":-97.094233,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4833"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903963,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738561,
-    "wof:lastmodified":1532444732,
+    "wof:lastmodified":1537998376,
     "wof:name":"Texas Congressional District 33",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

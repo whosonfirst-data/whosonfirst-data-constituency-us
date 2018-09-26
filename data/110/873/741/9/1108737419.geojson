@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.444209,
-    "geom:area_square_m":31385353608.196487,
+    "geom:area_square_m":31385353608.191471,
     "geom:bbox":"-93.497821,41.50871,-90.154221,43.501015",
     "geom:latitude":42.525113,
     "geom:longitude":-91.891498,
@@ -35,6 +35,9 @@
         85688713
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1901"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903729,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737419,
-    "wof:lastmodified":1532444718,
+    "wof:lastmodified":1537998407,
     "wof:name":"Iowa Congressional District 1",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",

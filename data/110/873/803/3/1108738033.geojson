@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.242337,
-    "geom:area_square_m":20019955946.561062,
+    "geom:area_square_m":20019955946.562183,
     "geom:bbox":"-89.785809,43.140553,-86.923403,44.328825",
     "geom:latitude":43.776104,
     "geom:longitude":-88.280936,
@@ -35,6 +35,9 @@
         85688517
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5506"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903868,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738033,
-    "wof:lastmodified":1532444639,
+    "wof:lastmodified":1537998373,
     "wof:name":"Wisconsin Congressional District 6",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

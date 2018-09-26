@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.948966,
-    "geom:area_square_m":20453292427.752182,
+    "geom:area_square_m":20453292427.751442,
     "geom:bbox":"-111.093531,31.332502,-109.047918,32.514188",
     "geom:latitude":31.927261,
     "geom:longitude":-109.957426,
@@ -35,6 +35,9 @@
         85688719
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0402"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903748,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737517,
-    "wof:lastmodified":1532444629,
+    "wof:lastmodified":1537998421,
     "wof:name":"Arizona Congressional District 2",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

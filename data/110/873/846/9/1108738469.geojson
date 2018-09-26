@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.442609,
-    "geom:area_square_m":15445332642.185627,
+    "geom:area_square_m":15445332642.183962,
     "geom:bbox":"-100.063741,29.43891,-97.707126,30.502095",
     "geom:latitude":30.018059,
     "geom:longitude":-98.959893,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4821"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903941,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738469,
-    "wof:lastmodified":1532444619,
+    "wof:lastmodified":1537998437,
     "wof:name":"Texas Congressional District 21",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

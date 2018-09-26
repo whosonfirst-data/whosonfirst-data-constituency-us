@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145519,
-    "geom:area_square_m":1559565129.214443,
+    "geom:area_square_m":1559565129.215327,
     "geom:bbox":"-98.547343,29.318858,-97.49135,30.382521",
     "geom:latitude":29.918323,
     "geom:longitude":-97.886436,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4835"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903965,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738569,
-    "wof:lastmodified":1532444732,
+    "wof:lastmodified":1537998375,
     "wof:name":"Texas Congressional District 35",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

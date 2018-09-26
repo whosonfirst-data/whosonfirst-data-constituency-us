@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.095977,
-    "geom:area_square_m":10933628210.137638,
+    "geom:area_square_m":10933628210.138683,
     "geom:bbox":"-83.794275,35.561929,-81.6469,36.616213",
     "geom:latitude":36.215446,
     "geom:longitude":-82.794932,
@@ -35,6 +35,9 @@
         85688701
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4701"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903741,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737491,
-    "wof:lastmodified":1532444598,
+    "wof:lastmodified":1537998392,
     "wof:name":"Tennessee Congressional District 1",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",

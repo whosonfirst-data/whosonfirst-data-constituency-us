@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.575982,
-    "geom:area_square_m":15736106098.438175,
+    "geom:area_square_m":15736106098.438074,
     "geom:bbox":"-79.0095,35.544352,-76.353554,36.552149",
     "geom:latitude":36.146356,
     "geom:longitude":-77.530174,
@@ -35,6 +35,9 @@
         85688773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3701"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903737,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737471,
-    "wof:lastmodified":1532444712,
+    "wof:lastmodified":1537998387,
     "wof:name":"North Carolina Congressional District 1",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.498008,
-    "geom:area_square_m":34087429470.619953,
+    "geom:area_square_m":34087429470.623959,
     "geom:bbox":"-121.484442,36.657147,-118.360586,39.387325",
     "geom:latitude":37.987696,
     "geom:longitude":-119.93675,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0604"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903810,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737777,
-    "wof:lastmodified":1532444693,
+    "wof:lastmodified":1537998398,
     "wof:name":"California Congressional District 4",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

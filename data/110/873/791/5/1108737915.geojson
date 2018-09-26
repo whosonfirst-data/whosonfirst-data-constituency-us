@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041997,
-    "geom:area_square_m":367317928.439849,
+    "geom:area_square_m":367317928.440039,
     "geom:bbox":"-93.429484,44.861745,-93.177201,45.124759",
     "geom:latitude":44.981163,
     "geom:longitude":-93.295509,
@@ -35,6 +35,9 @@
         85688727
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2705"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903845,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737915,
-    "wof:lastmodified":1532444722,
+    "wof:lastmodified":1537998337,
     "wof:name":"Minnesota Congressional District 5",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

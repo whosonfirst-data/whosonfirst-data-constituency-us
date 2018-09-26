@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.485842,
-    "geom:area_square_m":4541435193.870003,
+    "geom:area_square_m":4541435193.870082,
     "geom:bbox":"-76.701624,40.495434,-74.966759,41.586382",
     "geom:latitude":40.890411,
     "geom:longitude":-75.801522,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4217"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903933,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738411,
-    "wof:lastmodified":1532444593,
+    "wof:lastmodified":1537998437,
     "wof:name":"Pennsylvania Congressional District 17",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

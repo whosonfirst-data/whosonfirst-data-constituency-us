@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308892,
-    "geom:area_square_m":2938676635.323404,
+    "geom:area_square_m":2938676635.323008,
     "geom:bbox":"-84.485653,39.512563,-83.252435,39.92297",
     "geom:latitude":39.701121,
     "geom:longitude":-83.957161,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3910"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903904,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738237,
-    "wof:lastmodified":1532444627,
+    "wof:lastmodified":1537998441,
     "wof:name":"Ohio Congressional District 10",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

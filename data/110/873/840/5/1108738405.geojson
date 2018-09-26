@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.490207,
-    "geom:area_square_m":16383955751.783937,
+    "geom:area_square_m":16383955751.782871,
     "geom:bbox":"-82.565982,26.599921,-80.677356,27.988155",
     "geom:latitude":27.232825,
     "geom:longitude":-81.554997,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1217"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903932,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738405,
-    "wof:lastmodified":1532444678,
+    "wof:lastmodified":1537998449,
     "wof:name":"Florida Congressional District 17",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

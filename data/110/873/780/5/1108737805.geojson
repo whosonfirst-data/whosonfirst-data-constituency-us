@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.173202,
-    "geom:area_square_m":33344728469.571705,
+    "geom:area_square_m":33344728469.582424,
     "geom:bbox":"-94.043352,30.298817,-91.959844,33.019543",
     "geom:latitude":31.797996,
     "geom:longitude":-93.179471,
@@ -35,6 +35,9 @@
         85688735
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2204"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903816,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737805,
-    "wof:lastmodified":1532444681,
+    "wof:lastmodified":1537998487,
     "wof:name":"Louisiana Congressional District 4",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",

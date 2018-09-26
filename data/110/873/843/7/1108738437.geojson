@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242339,
-    "geom:area_square_m":2386621735.358694,
+    "geom:area_square_m":2386621735.357412,
     "geom:bbox":"-121.94752,36.892976,-121.208178,37.484537",
     "geom:latitude":37.207256,
     "geom:longitude":-121.585614,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0619"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903937,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738437,
-    "wof:lastmodified":1532444662,
+    "wof:lastmodified":1537998365,
     "wof:name":"California Congressional District 19",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

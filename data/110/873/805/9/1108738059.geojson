@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133777,
-    "geom:area_square_m":1278194934.270905,
+    "geom:area_square_m":1278194934.271374,
     "geom:bbox":"-77.187113,39.162209,-76.420896,39.675882",
     "geom:latitude":39.402216,
     "geom:longitude":-76.795586,
@@ -35,6 +35,9 @@
         85688501
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2407"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903872,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738059,
-    "wof:lastmodified":1532444679,
+    "wof:lastmodified":1537998383,
     "wof:name":"Maryland Congressional District 7",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

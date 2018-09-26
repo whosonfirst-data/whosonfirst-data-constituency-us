@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087033,
-    "geom:area_square_m":950093637.805096,
+    "geom:area_square_m":950093637.805158,
     "geom:bbox":"-82.650602,27.817487,-82.259741,28.171935",
     "geom:latitude":28.01358,
     "geom:longitude":-82.486432,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1214"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903923,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738349,
-    "wof:lastmodified":1532444622,
+    "wof:lastmodified":1537998381,
     "wof:name":"Florida Congressional District 14",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

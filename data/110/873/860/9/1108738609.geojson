@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.281286,
-    "geom:area_square_m":13288382078.743059,
+    "geom:area_square_m":13288382078.744429,
     "geom:bbox":"-117.222513,32.528832,-114.46289,33.433814",
     "geom:latitude":32.9924,
     "geom:longitude":-115.524512,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0651"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903970,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738609,
-    "wof:lastmodified":1532444659,
+    "wof:lastmodified":1537998377,
     "wof:name":"California Congressional District 51",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.491835,
-    "geom:area_square_m":13490343901.765224,
+    "geom:area_square_m":13490343901.765186,
     "geom:bbox":"-79.312136,42.437997,-77.245255,43.634799",
     "geom:latitude":43.002759,
     "geom:longitude":-78.317377,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3627"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903951,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738525,
-    "wof:lastmodified":1532444689,
+    "wof:lastmodified":1537998473,
     "wof:name":"New York Congressional District 27",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

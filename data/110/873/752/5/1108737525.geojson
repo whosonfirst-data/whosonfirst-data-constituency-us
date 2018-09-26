@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.087716,
-    "geom:area_square_m":19732699354.591583,
+    "geom:area_square_m":19732699354.60107,
     "geom:bbox":"-106.652957,39.129543,-104.943052,40.99844",
     "geom:latitude":40.145175,
     "geom:longitude":-105.729859,
@@ -35,6 +35,9 @@
         85688603
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0802"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903750,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737525,
-    "wof:lastmodified":1532444721,
+    "wof:lastmodified":1537998326,
     "wof:name":"Colorado Congressional District 2",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",

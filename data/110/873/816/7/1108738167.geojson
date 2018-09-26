@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.316361,
-    "geom:area_square_m":19378064477.278893,
+    "geom:area_square_m":19378064477.280903,
     "geom:bbox":"-122.560436,46.728406,-119.859708,48.550836",
     "geom:latitude":47.423404,
     "geom:longitude":-121.002968,
@@ -35,6 +35,9 @@
         85688623
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5308"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903892,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738167,
-    "wof:lastmodified":1532444636,
+    "wof:lastmodified":1537998353,
     "wof:name":"Washington Congressional District 8",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

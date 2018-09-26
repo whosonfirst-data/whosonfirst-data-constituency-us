@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.969734,
-    "geom:area_square_m":18271604997.051792,
+    "geom:area_square_m":18271604997.045761,
     "geom:bbox":"-91.185295,40.183945,-88.998777,42.508481",
     "geom:latitude":41.389526,
     "geom:longitude":-90.210283,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1717"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903932,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738407,
-    "wof:lastmodified":1532444678,
+    "wof:lastmodified":1537998449,
     "wof:name":"Illinois Congressional District 17",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

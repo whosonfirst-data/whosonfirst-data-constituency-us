@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.276043,
-    "geom:area_square_m":51970101133.75972,
+    "geom:area_square_m":51970101133.758698,
     "geom:bbox":"-92.909347,35.995683,-89.098968,38.3774",
     "geom:latitude":37.189695,
     "geom:longitude":-90.92963,
@@ -35,6 +35,9 @@
         85688661
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2908"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903888,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738139,
-    "wof:lastmodified":1532444726,
+    "wof:lastmodified":1537998451,
     "wof:name":"Missouri Congressional District 8",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",

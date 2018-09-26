@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256003,
-    "geom:area_square_m":2383373517.048327,
+    "geom:area_square_m":2383373517.048105,
     "geom:bbox":"-81.650647,40.886299,-80.518705,41.367326",
     "geom:latitude":41.15628,
     "geom:longitude":-80.970184,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3913"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903921,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738337,
-    "wof:lastmodified":1532444704,
+    "wof:lastmodified":1537998380,
     "wof:name":"Ohio Congressional District 13",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

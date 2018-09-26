@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024545,
-    "geom:area_square_m":232739739.533932,
+    "geom:area_square_m":232739739.533901,
     "geom:bbox":"-75.418298,39.815948,-74.973981,40.065007",
     "geom:latitude":39.928627,
     "geom:longitude":-75.212944,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4201"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903740,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737483,
-    "wof:lastmodified":1532444610,
+    "wof:lastmodified":1537998396,
     "wof:name":"Pennsylvania Congressional District 1",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

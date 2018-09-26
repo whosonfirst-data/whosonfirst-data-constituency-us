@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":45.078901,
-    "geom:area_square_m":379833104516.869385,
+    "geom:area_square_m":379833104516.885315,
     "geom:bbox":"-116.049153,44.357915,-104.039694,49.0011",
     "geom:latitude":47.033421,
     "geom:longitude":-109.645207,
@@ -35,6 +35,9 @@
         85688617
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3000"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903715,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737361,
-    "wof:lastmodified":1532444686,
+    "wof:lastmodified":1537998341,
     "wof:name":"Montana Congressional District (at Large)",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12505,
-    "geom:area_square_m":1139448578.659961,
+    "geom:area_square_m":1139448578.659825,
     "geom:bbox":"-83.682768,42.262462,-83.086882,42.709529",
     "geom:latitude":42.531724,
     "geom:longitude":-83.456784,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2611"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903909,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738263,
-    "wof:lastmodified":1532444696,
+    "wof:lastmodified":1537998364,
     "wof:name":"Michigan Congressional District 11",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

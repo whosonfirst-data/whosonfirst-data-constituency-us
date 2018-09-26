@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.213158,
-    "geom:area_square_m":23711480415.292271,
+    "geom:area_square_m":23711480415.29073,
     "geom:bbox":"-93.929208,29.239606,-91.082602,30.497738",
     "geom:latitude":29.949762,
     "geom:longitude":-92.432552,
@@ -35,6 +35,9 @@
         85688735
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2203"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903787,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737687,
-    "wof:lastmodified":1532444663,
+    "wof:lastmodified":1537998427,
     "wof:name":"Louisiana Congressional District 3",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",

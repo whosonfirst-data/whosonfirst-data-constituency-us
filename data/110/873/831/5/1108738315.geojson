@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.367753,
-    "geom:area_square_m":3821611960.454799,
+    "geom:area_square_m":3821611960.45489,
     "geom:bbox":"-98.066836,32.553559,-97.185985,33.273666",
     "geom:latitude":32.816508,
     "geom:longitude":-97.66951,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4812"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903918,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738315,
-    "wof:lastmodified":1532444714,
+    "wof:lastmodified":1537998458,
     "wof:name":"Texas Congressional District 12",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

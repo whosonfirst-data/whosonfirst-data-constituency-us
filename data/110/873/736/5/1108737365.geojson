@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.840063,
-    "geom:area_square_m":182612459908.705048,
+    "geom:area_square_m":182612459908.722504,
     "geom:bbox":"-104.049118,45.935072,-96.554411,49.000692",
     "geom:latitude":47.44631,
     "geom:longitude":-100.469391,
@@ -35,6 +35,9 @@
         85688525
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3800"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903716,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737365,
-    "wof:lastmodified":1532444687,
+    "wof:lastmodified":1537998342,
     "wof:name":"North Dakota Congressional District (at Large)",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",

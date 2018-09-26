@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138508,
-    "geom:area_square_m":1285083804.993656,
+    "geom:area_square_m":1285083804.994174,
     "geom:bbox":"-73.165755,41.14628,-72.550945,41.60431",
     "geom:latitude":41.380298,
     "geom:longitude":-72.878534,
@@ -35,6 +35,9 @@
         85688629
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0903"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903783,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737665,
-    "wof:lastmodified":1532444650,
+    "wof:lastmodified":1537998434,
     "wof:name":"Connecticut Congressional District 3",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

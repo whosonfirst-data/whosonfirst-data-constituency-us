@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.588739,
-    "geom:area_square_m":5439485760.943301,
+    "geom:area_square_m":5439485760.943536,
     "geom:bbox":"-72.778412,41.247795,-71.787239,42.036958",
     "geom:latitude":41.651532,
     "geom:longitude":-72.20411,
@@ -35,6 +35,9 @@
         85688629
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0902"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903751,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737529,
-    "wof:lastmodified":1532444721,
+    "wof:lastmodified":1537998325,
     "wof:name":"Connecticut Congressional District 2",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

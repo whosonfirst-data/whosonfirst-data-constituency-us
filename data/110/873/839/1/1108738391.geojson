@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.227317,
-    "geom:area_square_m":20659824557.806892,
+    "geom:area_square_m":20659824557.808437,
     "geom:bbox":"-89.868384,40.398478,-87.525661,42.500563",
     "geom:latitude":41.394599,
     "geom:longitude":-88.799998,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1716"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903929,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738391,
-    "wof:lastmodified":1532444622,
+    "wof:lastmodified":1537998469,
     "wof:name":"Illinois Congressional District 16",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

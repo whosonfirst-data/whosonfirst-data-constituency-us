@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13637,
-    "geom:area_square_m":1402998325.691877,
+    "geom:area_square_m":1402998325.691733,
     "geom:bbox":"-112.625777,33.420885,-112.021568,33.975455",
     "geom:latitude":33.692591,
     "geom:longitude":-112.29986,
@@ -35,6 +35,9 @@
         85688719
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0408"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903882,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738111,
-    "wof:lastmodified":1532444660,
+    "wof:lastmodified":1537998355,
     "wof:name":"Arizona Congressional District 8",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

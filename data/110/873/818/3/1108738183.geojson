@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029853,
-    "geom:area_square_m":274096429.914549,
+    "geom:area_square_m":274096429.91451,
     "geom:bbox":"-88.00497,41.932727,-87.630534,42.13306",
     "geom:latitude":42.052197,
     "geom:longitude":-87.81016,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1709"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903895,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738183,
-    "wof:lastmodified":1532444647,
+    "wof:lastmodified":1537998347,
     "wof:name":"Illinois Congressional District 9",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

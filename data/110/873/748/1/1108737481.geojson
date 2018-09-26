@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.989045,
-    "geom:area_square_m":8537864800.920581,
+    "geom:area_square_m":8537864800.923697,
     "geom:bbox":"-124.159546,45.074856,-122.673945,46.299099",
     "geom:latitude":45.722397,
     "geom:longitude":-123.338113,
@@ -35,6 +35,9 @@
         85688513
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4101"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903739,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737481,
-    "wof:lastmodified":1532444610,
+    "wof:lastmodified":1537998396,
     "wof:name":"Oregon Congressional District 1",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",

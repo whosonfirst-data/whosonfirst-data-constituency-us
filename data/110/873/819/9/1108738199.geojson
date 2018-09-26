@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.997747,
-    "geom:area_square_m":10124295276.118393,
+    "geom:area_square_m":10124295276.11993,
     "geom:bbox":"-80.877444,34.29924,-78.373933,35.234105",
     "geom:latitude":34.852425,
     "geom:longitude":-79.538474,
@@ -35,6 +35,9 @@
         85688773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3709"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903897,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738199,
-    "wof:lastmodified":1532444655,
+    "wof:lastmodified":1537998362,
     "wof:name":"North Carolina Congressional District 9",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

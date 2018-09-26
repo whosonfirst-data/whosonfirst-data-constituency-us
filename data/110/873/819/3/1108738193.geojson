@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00434,
-    "geom:area_square_m":40723198.776197,
+    "geom:area_square_m":40723198.77617,
     "geom:bbox":"-73.988428,40.58458,-73.901186,40.684395",
     "geom:latitude":40.641444,
     "geom:longitude":-73.947431,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3609"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903897,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738193,
-    "wof:lastmodified":1532444655,
+    "wof:lastmodified":1537998363,
     "wof:name":"New York Congressional District 9",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

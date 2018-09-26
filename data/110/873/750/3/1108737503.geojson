@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.298293,
-    "geom:area_square_m":12670434232.513092,
+    "geom:area_square_m":12670434232.511862,
     "geom:bbox":"-77.81357,37.214087,-76.136301,38.810395",
     "geom:latitude":37.882559,
     "geom:longitude":-76.982763,
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5101"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903744,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737503,
-    "wof:lastmodified":1532444727,
+    "wof:lastmodified":1537998425,
     "wof:name":"Virginia Congressional District 1",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

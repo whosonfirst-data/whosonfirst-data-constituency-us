@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083215,
-    "geom:area_square_m":791151546.217208,
+    "geom:area_square_m":791151546.217145,
     "geom:bbox":"-86.327291,39.632177,-85.951543,39.886327",
     "geom:latitude":39.747049,
     "geom:longitude":-86.139056,
@@ -35,6 +35,9 @@
         85688709
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1807"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903872,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738057,
-    "wof:lastmodified":1532444679,
+    "wof:lastmodified":1537998384,
     "wof:name":"Indiana Congressional District 7",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

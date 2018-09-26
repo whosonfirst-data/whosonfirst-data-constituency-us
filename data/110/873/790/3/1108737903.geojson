@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.67014,
-    "geom:area_square_m":38580595628.14856,
+    "geom:area_square_m":38580595628.157738,
     "geom:bbox":"-92.981464,30.394227,-89.726922,33.008174",
     "geom:latitude":31.767744,
     "geom:longitude":-91.82491,
@@ -35,6 +35,9 @@
         85688735
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2205"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903843,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737903,
-    "wof:lastmodified":1532444613,
+    "wof:lastmodified":1537998324,
     "wof:name":"Louisiana Congressional District 5",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.199368,
-    "geom:area_square_m":13422471012.979988,
+    "geom:area_square_m":13422471012.976974,
     "geom:bbox":"-82.987477,24.396308,-80.110146,25.805377",
     "geom:latitude":25.165382,
     "geom:longitude":-81.014181,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1226"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903950,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738513,
-    "wof:lastmodified":1532444593,
+    "wof:lastmodified":1537998375,
     "wof:name":"Florida Congressional District 26",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

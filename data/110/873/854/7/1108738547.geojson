@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055857,
-    "geom:area_square_m":571865326.810708,
+    "geom:area_square_m":571865326.810472,
     "geom:bbox":"-117.704595,34.003815,-117.051457,34.234203",
     "geom:latitude":34.109728,
     "geom:longitude":-117.353412,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0631"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903960,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738547,
-    "wof:lastmodified":1532444684,
+    "wof:lastmodified":1537998462,
     "wof:name":"California Congressional District 31",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

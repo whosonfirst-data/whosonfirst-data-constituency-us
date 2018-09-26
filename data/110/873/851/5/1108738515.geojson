@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066547,
-    "geom:area_square_m":602179544.584985,
+    "geom:area_square_m":602179544.585007,
     "geom:bbox":"-79.075367,42.803862,-78.69683,43.132414",
     "geom:latitude":42.961406,
     "geom:longitude":-78.841489,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3626"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903950,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738515,
-    "wof:lastmodified":1532444593,
+    "wof:lastmodified":1537998375,
     "wof:name":"New York Congressional District 26",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

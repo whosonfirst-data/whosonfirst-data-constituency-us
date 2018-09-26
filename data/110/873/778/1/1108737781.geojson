@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.31837,
-    "geom:area_square_m":99046055101.008179,
+    "geom:area_square_m":99046055101.007858,
     "geom:bbox":"-105.32922,36.992727,-102.041522,41.002597",
     "geom:latitude":39.062173,
     "geom:longitude":-103.375218,
@@ -35,6 +35,9 @@
         85688603
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0804"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903811,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737781,
-    "wof:lastmodified":1532444623,
+    "wof:lastmodified":1537998386,
     "wof:name":"Colorado Congressional District 4",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",

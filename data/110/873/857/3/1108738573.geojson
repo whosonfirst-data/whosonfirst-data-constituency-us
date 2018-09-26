@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.849633,
-    "geom:area_square_m":19720125501.35722,
+    "geom:area_square_m":19720125501.351231,
     "geom:bbox":"-95.21867,29.49624,-93.508039,31.186627",
     "geom:latitude":30.42929,
     "geom:longitude":-94.427839,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4836"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903966,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738573,
-    "wof:lastmodified":1532444711,
+    "wof:lastmodified":1537998369,
     "wof:name":"Texas Congressional District 36",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

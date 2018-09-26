@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.349961,
-    "geom:area_square_m":3147474545.301153,
+    "geom:area_square_m":3147474545.301019,
     "geom:bbox":"-77.99729,43.01696,-77.371364,43.632084",
     "geom:latitude":43.335118,
     "geom:longitude":-77.671899,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3625"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903949,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738507,
-    "wof:lastmodified":1532444662,
+    "wof:lastmodified":1537998370,
     "wof:name":"New York Congressional District 25",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

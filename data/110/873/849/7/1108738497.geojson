@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.047559,
-    "geom:area_square_m":9441891540.734818,
+    "geom:area_square_m":9441891540.735001,
     "geom:bbox":"-77.38799,42.618608,-75.896079,43.708121",
     "geom:latitude":43.203527,
     "geom:longitude":-76.646585,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3624"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903947,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738497,
-    "wof:lastmodified":1532444701,
+    "wof:lastmodified":1537998447,
     "wof:name":"New York Congressional District 24",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

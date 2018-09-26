@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.201629,
-    "geom:area_square_m":11616778479.160702,
+    "geom:area_square_m":11616778479.158718,
     "geom:bbox":"-85.637861,37.988677,-82.59348,39.147732",
     "geom:latitude":38.570724,
     "geom:longitude":-84.427207,
@@ -35,6 +35,9 @@
         85688641
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2104"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903815,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737803,
-    "wof:lastmodified":1532444680,
+    "wof:lastmodified":1537998486,
     "wof:name":"Kentucky Congressional District 4",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",

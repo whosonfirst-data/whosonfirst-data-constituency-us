@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.638193,
-    "geom:area_square_m":27261871438.034821,
+    "geom:area_square_m":27261871438.034851,
     "geom:bbox":"-96.945126,32.535936,-94.04273,33.962674",
     "geom:latitude":33.310371,
     "geom:longitude":-95.404432,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4804"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903834,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737857,
-    "wof:lastmodified":1532444653,
+    "wof:lastmodified":1537998388,
     "wof:name":"Texas Congressional District 4",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

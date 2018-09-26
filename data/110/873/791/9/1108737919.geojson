@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.663826,
-    "geom:area_square_m":6366263337.083462,
+    "geom:area_square_m":6366263337.084473,
     "geom:bbox":"-94.608457,38.833006,-92.848825,39.5272",
     "geom:latitude":39.141607,
     "geom:longitude":-93.771561,
@@ -35,6 +35,9 @@
         85688661
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2905"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903845,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737919,
-    "wof:lastmodified":1532444722,
+    "wof:lastmodified":1537998336,
     "wof:name":"Missouri Congressional District 5",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",

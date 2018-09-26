@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101745,
-    "geom:area_square_m":1112626306.113822,
+    "geom:area_square_m":1112626306.113698,
     "geom:bbox":"-82.908909,27.610273,-82.540618,28.019107",
     "geom:latitude":27.825756,
     "geom:longitude":-82.728045,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1213"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903919,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738319,
-    "wof:lastmodified":1532444714,
+    "wof:lastmodified":1537998457,
     "wof:name":"Florida Congressional District 13",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

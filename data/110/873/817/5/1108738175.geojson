@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346745,
-    "geom:area_square_m":3378159427.182879,
+    "geom:area_square_m":3378159427.181928,
     "geom:bbox":"-121.851325,37.737475,-120.917007,38.305785",
     "geom:latitude":38.010537,
     "geom:longitude":-121.305004,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0609"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903894,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738175,
-    "wof:lastmodified":1532444666,
+    "wof:lastmodified":1537998361,
     "wof:name":"California Congressional District 9",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

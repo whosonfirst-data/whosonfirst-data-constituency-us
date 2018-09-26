@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.301997,
-    "geom:area_square_m":12073677535.291374,
+    "geom:area_square_m":12073677535.291233,
     "geom:bbox":"-80.519851,40.52488,-79.210197,42.516072",
     "geom:latitude":41.411859,
     "geom:longitude":-80.008964,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4203"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903798,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737737,
-    "wof:lastmodified":1532444638,
+    "wof:lastmodified":1537998483,
     "wof:name":"Pennsylvania Congressional District 3",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.047433,
-    "geom:area_square_m":186321204315.552826,
+    "geom:area_square_m":186321204315.550476,
     "geom:bbox":"-109.050431,31.332231,-103.043651,35.348314",
     "geom:latitude":33.380665,
     "geom:longitude":-106.297358,
@@ -35,6 +35,9 @@
         85688493
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3502"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903766,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737599,
-    "wof:lastmodified":1532444635,
+    "wof:lastmodified":1537998434,
     "wof:name":"New Mexico Congressional District 2",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",

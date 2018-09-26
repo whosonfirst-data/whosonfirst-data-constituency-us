@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.317694,
-    "geom:area_square_m":11919403575.509212,
+    "geom:area_square_m":11919403575.509584,
     "geom:bbox":"-90.430042,42.496009,-88.918672,43.642234",
     "geom:latitude":42.983416,
     "geom:longitude":-89.747781,
@@ -35,6 +35,9 @@
         85688517
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5502"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903779,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737649,
-    "wof:lastmodified":1532444586,
+    "wof:lastmodified":1537998322,
     "wof:name":"Wisconsin Congressional District 2",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

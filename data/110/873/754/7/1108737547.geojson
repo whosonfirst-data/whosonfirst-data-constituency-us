@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303446,
-    "geom:area_square_m":2820625809.94606,
+    "geom:area_square_m":2820625809.9469,
     "geom:bbox":"-88.251995,40.99456,-87.523661,41.800622",
     "geom:latitude":41.259003,
     "geom:longitude":-87.795737,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1702"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903755,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737547,
-    "wof:lastmodified":1532444711,
+    "wof:lastmodified":1537998332,
     "wof:name":"Illinois Congressional District 2",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.536199,
-    "geom:area_square_m":145747461680.32608,
+    "geom:area_square_m":145747461680.321014,
     "geom:bbox":"-120.006473,38.534792,-114.039461,42.001842",
     "geom:latitude":40.645671,
     "geom:longitude":-117.306091,
@@ -35,6 +35,9 @@
         85688531
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3202"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903764,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737591,
-    "wof:lastmodified":1532444633,
+    "wof:lastmodified":1537998435,
     "wof:name":"Nevada Congressional District 2",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",

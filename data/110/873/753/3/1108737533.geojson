@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.117824,
-    "geom:area_square_m":33376303050.720432,
+    "geom:area_square_m":33376303050.72089,
     "geom:bbox":"-85.999893,28.914529,-82.195901,31.000968",
     "geom:latitude":30.030117,
     "geom:longitude":-84.164777,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1202"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903751,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737533,
-    "wof:lastmodified":1532444626,
+    "wof:lastmodified":1537998334,
     "wof:name":"Florida Congressional District 2",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

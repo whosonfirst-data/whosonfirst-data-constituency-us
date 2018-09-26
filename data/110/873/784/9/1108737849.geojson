@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336463,
-    "geom:area_square_m":3410455697.102145,
+    "geom:area_square_m":3410455697.099961,
     "geom:bbox":"-82.764464,34.580175,-81.711566,35.21554",
     "geom:latitude":34.941269,
     "geom:longitude":-82.17229,
@@ -35,6 +35,9 @@
         85688683
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4504"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903826,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737849,
-    "wof:lastmodified":1532444649,
+    "wof:lastmodified":1537998402,
     "wof:name":"South Carolina Congressional District 4",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.923518,
-    "geom:area_square_m":17174321760.778818,
+    "geom:area_square_m":17174321760.774193,
     "geom:bbox":"-72.557124,42.697042,-71.009976,45.305778",
     "geom:latitude":43.769327,
     "geom:longitude":-71.718774,
@@ -35,6 +35,9 @@
         85688689
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3302"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903764,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737593,
-    "wof:lastmodified":1532444634,
+    "wof:lastmodified":1537998435,
     "wof:name":"New Hampshire Congressional District 2",
     "wof:parent_id":85688689,
     "wof:placetype":"constituency",

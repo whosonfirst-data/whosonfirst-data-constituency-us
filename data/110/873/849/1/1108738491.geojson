@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.122578,
-    "geom:area_square_m":21519967405.106487,
+    "geom:area_square_m":21519967405.10664,
     "geom:bbox":"-121.438176,33.411024,-118.738618,35.796655",
     "geom:latitude":34.919008,
     "geom:longitude":-120.119792,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0624"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903947,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738491,
-    "wof:lastmodified":1532444701,
+    "wof:lastmodified":1537998447,
     "wof:name":"California Congressional District 24",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

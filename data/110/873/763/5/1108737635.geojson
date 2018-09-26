@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.048009,
-    "geom:area_square_m":106508946776.736069,
+    "geom:area_square_m":106508946776.739838,
     "geom:bbox":"-114.052885,36.999975,-109.885124,41.089278",
     "geom:latitude":38.757539,
     "geom:longitude":-112.56209,
@@ -35,6 +35,9 @@
         85688567
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4902"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903774,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737635,
-    "wof:lastmodified":1532444615,
+    "wof:lastmodified":1537998321,
     "wof:name":"Utah Congressional District 2",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",

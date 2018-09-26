@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.670239,
-    "geom:area_square_m":6441021541.368748,
+    "geom:area_square_m":6441021541.368224,
     "geom:bbox":"-75.789023,38.451132,-74.984165,39.839516",
     "geom:latitude":38.994975,
     "geom:longitude":-75.452493,
@@ -35,6 +35,9 @@
         85688611
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1000"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903714,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737359,
-    "wof:lastmodified":1532444694,
+    "wof:lastmodified":1537998422,
     "wof:name":"Delaware Congressional District (at Large)",
     "wof:parent_id":85688611,
     "wof:placetype":"constituency",

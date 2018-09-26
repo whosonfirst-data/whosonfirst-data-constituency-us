@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.864645,
-    "geom:area_square_m":20400768105.546764,
+    "geom:area_square_m":20400768105.539852,
     "geom:bbox":"-98.954771,26.064099,-97.574639,29.858208",
     "geom:latitude":27.755904,
     "geom:longitude":-98.261068,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4815"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903928,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738383,
-    "wof:lastmodified":1532444644,
+    "wof:lastmodified":1537998456,
     "wof:name":"Texas Congressional District 15",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

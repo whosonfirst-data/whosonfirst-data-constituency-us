@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004739,
-    "geom:area_square_m":44429973.505218,
+    "geom:area_square_m":44429973.505242,
     "geom:bbox":"-74.025724,40.628644,-73.841046,40.728475",
     "geom:latitude":40.688456,
     "geom:longitude":-73.948714,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3607"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903876,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738079,
-    "wof:lastmodified":1532444604,
+    "wof:lastmodified":1537998454,
     "wof:name":"New York Congressional District 7",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

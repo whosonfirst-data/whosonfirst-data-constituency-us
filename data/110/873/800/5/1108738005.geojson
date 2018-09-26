@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008302,
-    "geom:area_square_m":77788110.899554,
+    "geom:area_square_m":77788110.899566,
     "geom:bbox":"-73.913845,40.691085,-73.734362,40.781717",
     "geom:latitude":40.735019,
     "geom:longitude":-73.823745,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3606"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903862,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738005,
-    "wof:lastmodified":1532444685,
+    "wof:lastmodified":1537998454,
     "wof:name":"New York Congressional District 6",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018241,
-    "geom:area_square_m":187207125.591704,
+    "geom:area_square_m":187207125.591893,
     "geom:bbox":"-118.445378,33.774958,-118.253533,33.986386",
     "geom:latitude":33.903642,
     "geom:longitude":-118.335214,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0643"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903968,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738591,
-    "wof:lastmodified":1532444706,
+    "wof:lastmodified":1537998368,
     "wof:name":"California Congressional District 43",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

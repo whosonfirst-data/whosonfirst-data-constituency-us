@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073835,
-    "geom:area_square_m":762750519.162818,
+    "geom:area_square_m":762750519.162627,
     "geom:bbox":"-111.893596,33.203336,-111.580626,33.513433",
     "geom:latitude":33.337802,
     "geom:longitude":-111.714636,
@@ -35,6 +35,9 @@
         85688719
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0405"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903838,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737877,
-    "wof:lastmodified":1532444731,
+    "wof:lastmodified":1537998485,
     "wof:name":"Arizona Congressional District 5",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

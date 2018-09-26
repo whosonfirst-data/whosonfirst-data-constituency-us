@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.563822,
-    "geom:area_square_m":6242012290.281964,
+    "geom:area_square_m":6242012290.280131,
     "geom:bbox":"-80.886232,25.95675,-80.027109,26.959033",
     "geom:latitude":26.448229,
     "geom:longitude":-80.579375,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1220"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903939,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738453,
-    "wof:lastmodified":1532444704,
+    "wof:lastmodified":1537998356,
     "wof:name":"Florida Congressional District 20",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

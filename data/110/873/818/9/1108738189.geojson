@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053563,
-    "geom:area_square_m":488066843.070975,
+    "geom:area_square_m":488066843.07092,
     "geom:bbox":"-83.32514,42.446012,-82.85514,42.630507",
     "geom:latitude":42.531209,
     "geom:longitude":-83.050502,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2609"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903897,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738189,
-    "wof:lastmodified":1532444648,
+    "wof:lastmodified":1537998346,
     "wof:name":"Michigan Congressional District 9",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

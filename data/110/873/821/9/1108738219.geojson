@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.826919,
-    "geom:area_square_m":18853132537.906784,
+    "geom:area_square_m":18853132537.901295,
     "geom:bbox":"-84.156554,32.509473,-82.144869,34.127518",
     "geom:latitude":33.427215,
     "geom:longitude":-83.061767,
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1310"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903902,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738219,
-    "wof:lastmodified":1532444715,
+    "wof:lastmodified":1537998361,
     "wof:name":"Georgia Congressional District 10",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

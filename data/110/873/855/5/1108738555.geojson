@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049772,
-    "geom:area_square_m":516611242.948862,
+    "geom:area_square_m":516611242.948907,
     "geom:bbox":"-96.847665,32.784487,-96.456507,33.047577",
     "geom:latitude":32.920672,
     "geom:longitude":-96.652265,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4832"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903963,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738555,
-    "wof:lastmodified":1532444686,
+    "wof:lastmodified":1537998472,
     "wof:name":"Texas Congressional District 32",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

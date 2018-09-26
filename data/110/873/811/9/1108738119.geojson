@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.183579,
-    "geom:area_square_m":22950504643.476646,
+    "geom:area_square_m":22950504643.456402,
     "geom:bbox":"-84.124275,30.623967,-82.628975,33.202634",
     "geom:latitude":31.78044,
     "geom:longitude":-83.453436,
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1308"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903883,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738119,
-    "wof:lastmodified":1532444661,
+    "wof:lastmodified":1537998354,
     "wof:name":"Georgia Congressional District 8",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

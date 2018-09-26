@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.782664,
-    "geom:area_square_m":8057183214.612699,
+    "geom:area_square_m":8057183214.612891,
     "geom:bbox":"-82.012534,33.092852,-80.692965,34.26876",
     "geom:latitude":33.638002,
     "geom:longitude":-81.374623,
@@ -35,6 +35,9 @@
         85688683
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4502"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903772,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737627,
-    "wof:lastmodified":1532444696,
+    "wof:lastmodified":1537998339,
     "wof:name":"South Carolina Congressional District 2",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

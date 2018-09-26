@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.528067,
-    "geom:area_square_m":25736921969.574451,
+    "geom:area_square_m":25736921969.578892,
     "geom:bbox":"-99.23806,33.717044,-96.406007,35.493205",
     "geom:latitude":34.580044,
     "geom:longitude":-97.750123,
@@ -35,6 +35,9 @@
         85688585
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4004"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903824,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737839,
-    "wof:lastmodified":1532444689,
+    "wof:lastmodified":1537998397,
     "wof:name":"Oklahoma Congressional District 4",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",

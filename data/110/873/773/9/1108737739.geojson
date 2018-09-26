@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.387915,
-    "geom:area_square_m":14167697672.853701,
+    "geom:area_square_m":14167697672.849743,
     "geom:bbox":"-83.353928,33.532096,-81.471972,35.085699",
     "geom:latitude":34.355621,
     "geom:longitude":-82.339065,
@@ -35,6 +35,9 @@
         85688683
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4503"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903799,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737739,
-    "wof:lastmodified":1532444638,
+    "wof:lastmodified":1537998483,
     "wof:name":"South Carolina Congressional District 3",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

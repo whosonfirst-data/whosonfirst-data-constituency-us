@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.245121,
-    "geom:area_square_m":13337244568.582184,
+    "geom:area_square_m":13337244568.579678,
     "geom:bbox":"-97.926591,29.247804,-95.50496,30.50216",
     "geom:latitude":29.970926,
     "geom:longitude":-96.595996,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4810"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903905,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738243,
-    "wof:lastmodified":1532444700,
+    "wof:lastmodified":1537998442,
     "wof:name":"Texas Congressional District 10",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

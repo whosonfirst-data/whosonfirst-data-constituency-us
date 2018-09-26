@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.337313,
-    "geom:area_square_m":3149118114.32759,
+    "geom:area_square_m":3149118114.328424,
     "geom:bbox":"-82.129334,40.666664,-81.09855,41.482509",
     "geom:latitude":40.972998,
     "geom:longitude":-81.738357,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3916"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903930,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738397,
-    "wof:lastmodified":1532444622,
+    "wof:lastmodified":1537998469,
     "wof:name":"Ohio Congressional District 16",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

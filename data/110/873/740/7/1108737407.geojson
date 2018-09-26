@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086895,
-    "geom:area_square_m":1000910010.709793,
+    "geom:area_square_m":1000910010.709984,
     "geom:bbox":"-158.182049,21.199238,-157.597288,21.501697",
     "geom:latitude":21.323916,
     "geom:longitude":-157.903125,
@@ -35,6 +35,9 @@
         85688671
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1501"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903726,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737407,
-    "wof:lastmodified":1532444723,
+    "wof:lastmodified":1537998385,
     "wof:name":"Hawaii Congressional District 1",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",

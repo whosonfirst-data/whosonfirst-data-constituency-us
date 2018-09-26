@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.326137,
-    "geom:area_square_m":29549449159.769489,
+    "geom:area_square_m":29549449159.766392,
     "geom:bbox":"-92.808415,42.507173,-89.223035,45.209572",
     "geom:latitude":44.068143,
     "geom:longitude":-90.915475,
@@ -35,6 +35,9 @@
         85688517
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5503"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903804,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737761,
-    "wof:lastmodified":1532444642,
+    "wof:lastmodified":1537998393,
     "wof:name":"Wisconsin Congressional District 3",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

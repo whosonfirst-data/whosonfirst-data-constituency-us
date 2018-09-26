@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129846,
-    "geom:area_square_m":1344127517.26028,
+    "geom:area_square_m":1344127517.259679,
     "geom:bbox":"-96.843984,32.984021,-96.359748,33.36421",
     "geom:latitude":33.158034,
     "geom:longitude":-96.615104,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4803"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903801,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737745,
-    "wof:lastmodified":1532444598,
+    "wof:lastmodified":1537998490,
     "wof:name":"Texas Congressional District 3",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

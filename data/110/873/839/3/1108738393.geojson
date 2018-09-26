@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029874,
-    "geom:area_square_m":279046214.71385,
+    "geom:area_square_m":279046214.71395,
     "geom:bbox":"-73.933808,40.859194,-73.612885,41.024019",
     "geom:latitude":40.939992,
     "geom:longitude":-73.790878,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3616"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903930,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738393,
-    "wof:lastmodified":1532444622,
+    "wof:lastmodified":1537998469,
     "wof:name":"New York Congressional District 16",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

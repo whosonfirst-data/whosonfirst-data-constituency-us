@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.235423,
-    "geom:area_square_m":2248386371.149279,
+    "geom:area_square_m":2248386371.149982,
     "geom:bbox":"-77.656177,38.934343,-76.873339,39.720045",
     "geom:latitude":39.433283,
     "geom:longitude":-77.251444,
@@ -35,6 +35,9 @@
         85688501
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2408"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903885,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738129,
-    "wof:lastmodified":1532444591,
+    "wof:lastmodified":1537998444,
     "wof:name":"Maryland Congressional District 8",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

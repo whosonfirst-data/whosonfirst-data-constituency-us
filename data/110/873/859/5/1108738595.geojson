@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026529,
-    "geom:area_square_m":272528359.668019,
+    "geom:area_square_m":272528359.667451,
     "geom:bbox":"-118.352008,33.659547,-118.146509,33.974745",
     "geom:latitude":33.818577,
     "geom:longitude":-118.249617,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0644"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903968,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738595,
-    "wof:lastmodified":1532444707,
+    "wof:lastmodified":1537998368,
     "wof:name":"California Congressional District 44",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

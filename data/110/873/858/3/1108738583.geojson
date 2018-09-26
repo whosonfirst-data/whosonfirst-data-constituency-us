@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051927,
-    "geom:area_square_m":532700535.787412,
+    "geom:area_square_m":532700535.787941,
     "geom:bbox":"-118.03736,33.833496,-117.654885,34.064219",
     "geom:latitude":33.937878,
     "geom:longitude":-117.840179,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0639"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903967,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738583,
-    "wof:lastmodified":1532444683,
+    "wof:lastmodified":1537998379,
     "wof:name":"California Congressional District 39",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

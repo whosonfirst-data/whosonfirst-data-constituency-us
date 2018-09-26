@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.672198,
-    "geom:area_square_m":14615532417.425375,
+    "geom:area_square_m":14615532417.424759,
     "geom:bbox":"-124.187674,44.275094,-121.651394,45.783539",
     "geom:latitude":45.020033,
     "geom:longitude":-123.189578,
@@ -35,6 +35,9 @@
         85688513
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4105"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903848,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737933,
-    "wof:lastmodified":1532444676,
+    "wof:lastmodified":1537998412,
     "wof:name":"Oregon Congressional District 5",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",

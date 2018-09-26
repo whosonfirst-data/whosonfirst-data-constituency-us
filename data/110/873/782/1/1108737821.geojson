@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.176936,
-    "geom:area_square_m":23075492001.924438,
+    "geom:area_square_m":23075492001.921791,
     "geom:bbox":"-90.040614,30.139845,-88.384431,32.053294",
     "geom:latitude":30.988354,
     "geom:longitude":-89.07619,
@@ -35,6 +35,9 @@
         85688579
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2804"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903818,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737821,
-    "wof:lastmodified":1532444601,
+    "wof:lastmodified":1537998394,
     "wof:name":"Mississippi Congressional District 4",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",

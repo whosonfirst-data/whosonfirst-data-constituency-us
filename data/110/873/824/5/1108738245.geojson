@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.373719,
-    "geom:area_square_m":3587018599.479273,
+    "geom:area_square_m":3587018599.479881,
     "geom:bbox":"-78.54409,38.696289,-77.119759,39.466012",
     "geom:latitude":39.083621,
     "geom:longitude":-77.836846,
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5110"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903906,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738245,
-    "wof:lastmodified":1532444701,
+    "wof:lastmodified":1537998443,
     "wof:name":"Virginia Congressional District 10",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

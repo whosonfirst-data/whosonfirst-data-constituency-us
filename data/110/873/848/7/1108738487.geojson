@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.260798,
-    "geom:area_square_m":20663221129.898987,
+    "geom:area_square_m":20663221129.89983,
     "geom:bbox":"-79.76259,41.997559,-76.080681,43.039926",
     "geom:latitude":42.340051,
     "geom:longitude":-77.842209,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3623"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903945,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738487,
-    "wof:lastmodified":1532444667,
+    "wof:lastmodified":1537998440,
     "wof:name":"New York Congressional District 23",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

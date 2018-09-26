@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.783787,
-    "geom:area_square_m":67216263030.922768,
+    "geom:area_square_m":67216263030.923973,
     "geom:bbox":"-92.889433,43.885765,-88.058246,47.309822",
     "geom:latitude":45.699961,
     "geom:longitude":-90.661863,
@@ -35,6 +35,9 @@
         85688517
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5507"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903882,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738109,
-    "wof:lastmodified":1532444699,
+    "wof:lastmodified":1537998358,
     "wof:name":"Wisconsin Congressional District 7",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",

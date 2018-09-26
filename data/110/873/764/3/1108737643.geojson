@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.167666,
-    "geom:area_square_m":20877417186.937393,
+    "geom:area_square_m":20877417186.940075,
     "geom:bbox":"-82.064562,37.967209,-77.719519,39.695979",
     "geom:latitude":38.838501,
     "geom:longitude":-80.185435,
@@ -35,6 +35,9 @@
         85688589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5402"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903776,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737643,
-    "wof:lastmodified":1532444586,
+    "wof:lastmodified":1537998322,
     "wof:name":"West Virginia Congressional District 2",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",

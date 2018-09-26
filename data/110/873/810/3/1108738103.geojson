@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085428,
-    "geom:area_square_m":712557835.672045,
+    "geom:area_square_m":712557835.67153,
     "geom:bbox":"-122.541661,47.317294,-122.226235,47.861617",
     "geom:latitude":47.579908,
     "geom:longitude":-122.391167,
@@ -35,6 +35,9 @@
         85688623
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5307"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903881,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738103,
-    "wof:lastmodified":1532444699,
+    "wof:lastmodified":1537998359,
     "wof:name":"Washington Congressional District 7",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

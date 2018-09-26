@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014745,
-    "geom:area_square_m":151206578.368831,
+    "geom:area_square_m":151206578.368531,
     "geom:bbox":"-118.280987,33.879807,-118.090378,34.047848",
     "geom:latitude":33.969462,
     "geom:longitude":-118.177825,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0640"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903967,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738585,
-    "wof:lastmodified":1532444684,
+    "wof:lastmodified":1537998379,
     "wof:name":"California Congressional District 40",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

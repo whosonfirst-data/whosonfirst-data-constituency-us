@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.701656,
-    "geom:area_square_m":7266871244.332609,
+    "geom:area_square_m":7266871244.326117,
     "geom:bbox":"-117.262158,32.633154,-116.08094,33.533248",
     "geom:latitude":33.114841,
     "geom:longitude":-116.617797,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0650"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903970,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738607,
-    "wof:lastmodified":1532444659,
+    "wof:lastmodified":1537998377,
     "wof:name":"California Congressional District 50",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

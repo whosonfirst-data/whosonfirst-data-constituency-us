@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034393,
-    "geom:area_square_m":357804094.13787,
+    "geom:area_square_m":357804094.137835,
     "geom:bbox":"-117.203854,32.577965,-116.927715,32.830966",
     "geom:latitude":32.718647,
     "geom:longitude":-117.031676,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0653"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903971,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738615,
-    "wof:lastmodified":1532444651,
+    "wof:lastmodified":1537998369,
     "wof:name":"California Congressional District 53",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

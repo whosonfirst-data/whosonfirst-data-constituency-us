@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.077708,
-    "geom:area_square_m":17065799487.285686,
+    "geom:area_square_m":17065799487.275978,
     "geom:bbox":"-123.322238,47.395345,-120.655857,49.002432",
     "geom:latitude":48.372536,
     "geom:longitude":-121.693333,
@@ -35,6 +35,9 @@
         85688623
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5301"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903745,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737507,
-    "wof:lastmodified":1532444727,
+    "wof:lastmodified":1537998423,
     "wof:name":"Washington Congressional District 1",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

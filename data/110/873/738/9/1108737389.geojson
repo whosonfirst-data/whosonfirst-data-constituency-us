@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.081485,
-    "geom:area_square_m":51274059914.499985,
+    "geom:area_square_m":51274059914.49823,
     "geom:bbox":"-92.951315,33.004106,-89.644395,36.49957",
     "geom:latitude":35.301995,
     "geom:longitude":-91.246845,
@@ -35,6 +35,9 @@
         85688549
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0501"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903722,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737389,
-    "wof:lastmodified":1532444590,
+    "wof:lastmodified":1537998343,
     "wof:name":"Arkansas Congressional District 1",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",

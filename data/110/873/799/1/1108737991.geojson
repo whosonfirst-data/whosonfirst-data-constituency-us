@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244529,
-    "geom:area_square_m":2225080139.820736,
+    "geom:area_square_m":2225080139.820657,
     "geom:bbox":"-71.33309,42.384098,-70.502143,42.886778",
     "geom:latitude":42.617229,
     "geom:longitude":-70.88519,
@@ -35,6 +35,9 @@
         85688645
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2506"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903860,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737991,
-    "wof:lastmodified":1532444733,
+    "wof:lastmodified":1537998326,
     "wof:name":"Massachusetts Congressional District 6",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

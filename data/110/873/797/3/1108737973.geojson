@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10964,
-    "geom:area_square_m":1007042389.118149,
+    "geom:area_square_m":1007042389.11785,
     "geom:bbox":"-88.403606,41.743478,-87.907793,42.241746",
     "geom:latitude":42.028261,
     "geom:longitude":-88.179242,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1706"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903855,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737973,
-    "wof:lastmodified":1532444587,
+    "wof:lastmodified":1537998319,
     "wof:name":"Illinois Congressional District 6",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

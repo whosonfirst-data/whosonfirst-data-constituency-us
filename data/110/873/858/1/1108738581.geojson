@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025986,
-    "geom:area_square_m":266573604.664034,
+    "geom:area_square_m":266573604.663199,
     "geom:bbox":"-118.167704,33.822169,-117.96529,34.064534",
     "geom:latitude":33.940782,
     "geom:longitude":-118.061668,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0638"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903967,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738581,
-    "wof:lastmodified":1532444683,
+    "wof:lastmodified":1537998379,
     "wof:name":"California Congressional District 38",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

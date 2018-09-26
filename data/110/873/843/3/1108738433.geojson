@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.569332,
-    "geom:area_square_m":5380426875.3974,
+    "geom:area_square_m":5380426875.396085,
     "geom:bbox":"-80.519497,39.721002,-79.088656,40.588038",
     "geom:latitude":40.156966,
     "geom:longitude":-80.028218,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4218"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903936,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738433,
-    "wof:lastmodified":1532444661,
+    "wof:lastmodified":1537998365,
     "wof:name":"Pennsylvania Congressional District 18",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

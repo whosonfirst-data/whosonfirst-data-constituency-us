@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.381095,
-    "geom:area_square_m":140265339310.197266,
+    "geom:area_square_m":140265339310.195587,
     "geom:bbox":"-90.418392,43.989671,-82.329519,48.306063",
     "geom:latitude":46.165052,
     "geom:longitude":-86.480998,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2601"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903733,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737443,
-    "wof:lastmodified":1532444603,
+    "wof:lastmodified":1537998475,
     "wof:name":"Michigan Congressional District 1",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

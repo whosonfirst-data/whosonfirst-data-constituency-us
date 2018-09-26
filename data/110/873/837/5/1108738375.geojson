@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3615"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903927,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738375,
-    "wof:lastmodified":1532444708,
+    "wof:lastmodified":1537998464,
     "wof:name":"New York Congressional District 15",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

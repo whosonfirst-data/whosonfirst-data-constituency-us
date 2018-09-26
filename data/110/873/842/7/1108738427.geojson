@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.394951,
-    "geom:area_square_m":3662630136.683665,
+    "geom:area_square_m":3662630136.683531,
     "geom:bbox":"-74.762623,41.115304,-73.482695,41.749143",
     "geom:latitude":41.411422,
     "geom:longitude":-74.080344,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3618"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903936,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738427,
-    "wof:lastmodified":1532444623,
+    "wof:lastmodified":1537998357,
     "wof:name":"New York Congressional District 18",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

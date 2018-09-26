@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.476828,
-    "geom:area_square_m":5088592206.149365,
+    "geom:area_square_m":5088592206.146972,
     "geom:bbox":"-82.050331,29.714485,-81.206196,30.829924",
     "geom:latitude":30.338164,
     "geom:longitude":-81.611507,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1204"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903812,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737789,
-    "wof:lastmodified":1532444624,
+    "wof:lastmodified":1537998386,
     "wof:name":"Florida Congressional District 4",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

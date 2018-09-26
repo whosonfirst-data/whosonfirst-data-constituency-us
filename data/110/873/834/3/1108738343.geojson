@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.865279,
-    "geom:area_square_m":100108546392.632248,
+    "geom:area_square_m":100108546392.637177,
     "geom:bbox":"-103.042982,32.996373,-96.943339,36.500704",
     "geom:latitude":34.837718,
     "geom:longitude":-100.617385,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4813"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903922,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738343,
-    "wof:lastmodified":1532444621,
+    "wof:lastmodified":1537998381,
     "wof:name":"Texas Congressional District 13",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

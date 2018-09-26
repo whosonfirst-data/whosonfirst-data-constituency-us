@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.864513,
-    "geom:area_square_m":40562902486.832176,
+    "geom:area_square_m":40562902486.825073,
     "geom:bbox":"-118.979777,45.995357,-116.916071,49.001201",
     "geom:latitude":47.589835,
     "geom:longitude":-117.878933,
@@ -35,6 +35,9 @@
         85688623
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5305"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903853,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737951,
-    "wof:lastmodified":1532444656,
+    "wof:lastmodified":1537998431,
     "wof:name":"Washington Congressional District 5",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

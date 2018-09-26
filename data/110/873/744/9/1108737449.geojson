@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.718437,
-    "geom:area_square_m":27801576678.620396,
+    "geom:area_square_m":27801576678.631863,
     "geom:bbox":"-90.313476,32.919107,-88.097888,34.996099",
     "geom:latitude":34.195874,
     "geom:longitude":-89.006378,
@@ -35,6 +35,9 @@
         85688579
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2801"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903735,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737449,
-    "wof:lastmodified":1532444603,
+    "wof:lastmodified":1537998474,
     "wof:name":"Mississippi Congressional District 1",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",

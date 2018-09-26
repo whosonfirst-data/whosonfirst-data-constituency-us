@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.402346,
-    "geom:area_square_m":24141749908.644398,
+    "geom:area_square_m":24141749908.645092,
     "geom:bbox":"-89.198288,34.991899,-86.600032,36.678255",
     "geom:latitude":35.63657,
     "geom:longitude":-87.832294,
@@ -35,6 +35,9 @@
         85688701
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4707"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903879,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738095,
-    "wof:lastmodified":1532444621,
+    "wof:lastmodified":1537998460,
     "wof:name":"Tennessee Congressional District 7",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",

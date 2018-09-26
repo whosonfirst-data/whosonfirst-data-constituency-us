@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014829,
-    "geom:area_square_m":136539793.066628,
+    "geom:area_square_m":136539793.066504,
     "geom:bbox":"-87.920633,41.786092,-87.634485,41.970223",
     "geom:latitude":41.872261,
     "geom:longitude":-87.764935,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1704"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903813,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737793,
-    "wof:lastmodified":1532444705,
+    "wof:lastmodified":1537998405,
     "wof:name":"Illinois Congressional District 4",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

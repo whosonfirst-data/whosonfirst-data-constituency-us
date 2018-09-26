@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.718899,
-    "geom:area_square_m":17299106537.806877,
+    "geom:area_square_m":17299106537.809959,
     "geom:bbox":"-84.321821,34.986628,-81.328324,36.159057",
     "geom:latitude":35.519925,
     "geom:longitude":-82.805782,
@@ -35,6 +35,9 @@
         85688773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3711"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903910,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738271,
-    "wof:lastmodified":1532444674,
+    "wof:lastmodified":1537998348,
     "wof:name":"North Carolina Congressional District 11",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

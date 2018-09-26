@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051969,
-    "geom:area_square_m":500893006.04821,
+    "geom:area_square_m":500893006.047817,
     "geom:bbox":"-77.468233,38.529058,-77.140593,39.003002",
     "geom:latitude":38.788109,
     "geom:longitude":-77.294807,
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5111"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903913,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738283,
-    "wof:lastmodified":1532444709,
+    "wof:lastmodified":1537998360,
     "wof:name":"Virginia Congressional District 11",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

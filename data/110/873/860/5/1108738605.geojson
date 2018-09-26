@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188252,
-    "geom:area_square_m":1945930461.759232,
+    "geom:area_square_m":1945930461.762725,
     "geom:bbox":"-117.767555,32.84868,-117.089848,33.643485",
     "geom:latitude":33.283389,
     "geom:longitude":-117.406622,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0649"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903969,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738605,
-    "wof:lastmodified":1532444660,
+    "wof:lastmodified":1537998378,
     "wof:name":"California Congressional District 49",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152975,
-    "geom:area_square_m":1499191981.266914,
+    "geom:area_square_m":1499191981.267101,
     "geom:bbox":"-123.173825,37.311653,-122.081473,37.823058",
     "geom:latitude":37.573675,
     "geom:longitude":-122.495153,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0614"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903922,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738347,
-    "wof:lastmodified":1532444622,
+    "wof:lastmodified":1537998381,
     "wof:name":"California Congressional District 14",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129272,
-    "geom:area_square_m":1306707283.608526,
+    "geom:area_square_m":1306707283.608933,
     "geom:bbox":"-90.3103,34.994188,-89.681188,35.39662",
     "geom:latitude":35.167571,
     "geom:longitude":-89.9805,
@@ -35,6 +35,9 @@
         85688701
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4709"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903899,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738205,
-    "wof:lastmodified":1532444655,
+    "wof:lastmodified":1537998351,
     "wof:name":"Tennessee Congressional District 9",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",

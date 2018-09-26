@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.571033,
-    "geom:area_square_m":14626317543.834225,
+    "geom:area_square_m":14626317543.836847,
     "geom:bbox":"-84.806209,40.46513,-83.067459,41.729237",
     "geom:latitude":41.155005,
     "geom:longitude":-84.041741,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3905"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903847,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737929,
-    "wof:lastmodified":1532444619,
+    "wof:lastmodified":1537998431,
     "wof:name":"Ohio Congressional District 5",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.482443,
-    "geom:area_square_m":13220829575.117622,
+    "geom:area_square_m":13220829575.11697,
     "geom:bbox":"-70.989122,42.917126,-68.484635,44.586402",
     "geom:latitude":43.842139,
     "geom:longitude":-69.92262,
@@ -35,6 +35,9 @@
         85688769
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2301"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903732,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737433,
-    "wof:lastmodified":1532444651,
+    "wof:lastmodified":1537998477,
     "wof:name":"Maine Congressional District 1",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",

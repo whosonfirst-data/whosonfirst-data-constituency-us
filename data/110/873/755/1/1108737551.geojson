@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.115541,
-    "geom:area_square_m":10371654259.003494,
+    "geom:area_square_m":10371654259.004473,
     "geom:bbox":"-86.931018,40.562649,-85.638587,41.760697",
     "geom:latitude":41.243643,
     "geom:longitude":-86.232842,
@@ -35,6 +35,9 @@
         85688709
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1802"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903756,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737551,
-    "wof:lastmodified":1532444702,
+    "wof:lastmodified":1537998328,
     "wof:name":"Indiana Congressional District 2",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

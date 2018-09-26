@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.562905,
-    "geom:area_square_m":15742837984.789099,
+    "geom:area_square_m":15742837984.788782,
     "geom:bbox":"-87.29719,34.98302,-84.61897,36.10061",
     "geom:latitude":35.450488,
     "geom:longitude":-85.960039,
@@ -35,6 +35,9 @@
         85688701
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4704"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903827,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737851,
-    "wof:lastmodified":1532444652,
+    "wof:lastmodified":1537998389,
     "wof:name":"Tennessee Congressional District 4",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",

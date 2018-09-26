@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.769036,
-    "geom:area_square_m":42405124708.559715,
+    "geom:area_square_m":42405124708.557953,
     "geom:bbox":"-76.734725,42.932534,-73.241391,45.015865",
     "geom:latitude":44.017622,
     "geom:longitude":-74.596035,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3621"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903941,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738465,
-    "wof:lastmodified":1532444620,
+    "wof:lastmodified":1537998438,
     "wof:name":"New York Congressional District 21",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

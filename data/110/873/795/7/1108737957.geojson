@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.062503,
-    "geom:area_square_m":10985234974.859936,
+    "geom:area_square_m":10985234974.859745,
     "geom:bbox":"-87.421989,32.660117,-85.999748,34.170984",
     "geom:latitude":33.26338,
     "geom:longitude":-86.712981,
@@ -35,6 +35,9 @@
         85688675
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0106"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903853,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737957,
-    "wof:lastmodified":1532444656,
+    "wof:lastmodified":1537998430,
     "wof:name":"Alabama Congressional District 6",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

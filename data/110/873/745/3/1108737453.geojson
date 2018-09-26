@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.502153,
-    "geom:area_square_m":23215400542.797138,
+    "geom:area_square_m":23215400542.803406,
     "geom:bbox":"-97.834536,40.52277,-95.709974,42.280417",
     "geom:latitude":41.377564,
     "geom:longitude":-96.830892,
@@ -35,6 +35,9 @@
         85688563
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3101"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903735,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737453,
-    "wof:lastmodified":1532444681,
+    "wof:lastmodified":1537998493,
     "wof:name":"Nebraska Congressional District 1",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",

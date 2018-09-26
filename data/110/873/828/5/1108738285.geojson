@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03198,
-    "geom:area_square_m":312520364.063339,
+    "geom:area_square_m":312520364.063251,
     "geom:bbox":"-122.612285,37.70823,-122.28178,37.929824",
     "geom:latitude":37.78534,
     "geom:longitude":-122.434709,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0612"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903913,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738285,
-    "wof:lastmodified":1532444710,
+    "wof:lastmodified":1537998360,
     "wof:name":"California Congressional District 12",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

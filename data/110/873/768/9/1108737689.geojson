@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108476,
-    "geom:area_square_m":1040050375.58931,
+    "geom:area_square_m":1040050375.588928,
     "geom:bbox":"-77.156343,38.879514,-76.349479,39.478462",
     "geom:latitude":39.159455,
     "geom:longitude":-76.675496,
@@ -35,6 +35,9 @@
         85688501
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2403"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903787,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737689,
-    "wof:lastmodified":1532444663,
+    "wof:lastmodified":1537998427,
     "wof:name":"Maryland Congressional District 3",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

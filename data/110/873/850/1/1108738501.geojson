@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.43328,
-    "geom:area_square_m":4410729097.391543,
+    "geom:area_square_m":4410729097.391891,
     "geom:bbox":"-118.894474,34.208404,-117.655235,34.823301",
     "geom:latitude":34.586617,
     "geom:longitude":-118.283726,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0625"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903948,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738501,
-    "wof:lastmodified":1532444662,
+    "wof:lastmodified":1537998370,
     "wof:name":"California Congressional District 25",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

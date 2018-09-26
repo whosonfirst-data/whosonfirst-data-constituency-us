@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.554263,
-    "geom:area_square_m":26653118300.945496,
+    "geom:area_square_m":26653118300.941532,
     "geom:bbox":"-88.473227,31.185486,-86.229056,33.671887",
     "geom:latitude":32.444185,
     "geom:longitude":-87.625224,
@@ -35,6 +35,9 @@
         85688675
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0107"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903869,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738037,
-    "wof:lastmodified":1532444640,
+    "wof:lastmodified":1537998372,
     "wof:name":"Alabama Congressional District 7",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

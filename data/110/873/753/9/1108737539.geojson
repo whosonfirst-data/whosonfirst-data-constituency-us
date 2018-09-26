@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.382681,
-    "geom:area_square_m":27491223910.854115,
+    "geom:area_square_m":27491223910.85495,
     "geom:bbox":"-178.443593,18.86546,-154.75579,28.517269",
     "geom:latitude":20.983121,
     "geom:longitude":-158.117519,
@@ -35,6 +35,9 @@
         85688671
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1502"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903753,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737539,
-    "wof:lastmodified":1532444627,
+    "wof:lastmodified":1537998333,
     "wof:name":"Hawaii Congressional District 2",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",

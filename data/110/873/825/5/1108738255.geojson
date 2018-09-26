@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.691164,
-    "geom:area_square_m":7490213537.606632,
+    "geom:area_square_m":7490213537.605689,
     "geom:bbox":"-82.848248,28.305265,-81.638696,29.199363",
     "geom:latitude":28.78594,
     "geom:longitude":-82.215707,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1211"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903908,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738255,
-    "wof:lastmodified":1532444724,
+    "wof:lastmodified":1537998452,
     "wof:name":"Florida Congressional District 11",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

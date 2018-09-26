@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.538993,
-    "geom:area_square_m":5722479929.733014,
+    "geom:area_square_m":5722479929.731552,
     "geom:bbox":"-98.049886,30.402843,-97.070188,31.320202",
     "geom:latitude":30.837461,
     "geom:longitude":-97.538891,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4831"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903960,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738549,
-    "wof:lastmodified":1532444684,
+    "wof:lastmodified":1537998462,
     "wof:name":"Texas Congressional District 31",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

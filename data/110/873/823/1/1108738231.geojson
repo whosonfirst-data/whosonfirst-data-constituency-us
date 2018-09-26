@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006351,
-    "geom:area_square_m":59540381.318112,
+    "geom:area_square_m":59540381.318092,
     "geom:bbox":"-74.053229,40.590982,-73.955275,40.81626",
     "geom:latitude":40.697617,
     "geom:longitude":-74.001278,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3610"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903903,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738231,
-    "wof:lastmodified":1532444627,
+    "wof:lastmodified":1537998441,
     "wof:name":"New York Congressional District 10",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

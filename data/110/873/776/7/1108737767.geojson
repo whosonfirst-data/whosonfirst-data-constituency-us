@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.305822,
-    "geom:area_square_m":23603589374.974186,
+    "geom:area_square_m":23603589374.970646,
     "geom:bbox":"-88.274619,33.128724,-85.474024,34.906694",
     "geom:latitude":34.119666,
     "geom:longitude":-87.200277,
@@ -35,6 +35,9 @@
         85688675
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0104"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903805,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737767,
-    "wof:lastmodified":1532444642,
+    "wof:lastmodified":1537998393,
     "wof:name":"Alabama Congressional District 4",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

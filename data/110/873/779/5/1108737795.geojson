@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.752186,
-    "geom:area_square_m":16503151848.489914,
+    "geom:area_square_m":16503151848.487837,
     "geom:bbox":"-87.531449,39.44016,-86.012796,41.286365",
     "geom:latitude":40.383505,
     "geom:longitude":-86.861923,
@@ -35,6 +35,9 @@
         85688709
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1804"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903813,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737795,
-    "wof:lastmodified":1532444706,
+    "wof:lastmodified":1537998406,
     "wof:name":"Indiana Congressional District 4",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

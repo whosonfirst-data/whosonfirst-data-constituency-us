@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102769,
-    "geom:area_square_m":961087422.400943,
+    "geom:area_square_m":961087422.400942,
     "geom:bbox":"-73.827583,40.724314,-73.21997,41.01683",
     "geom:latitude":40.859635,
     "geom:longitude":-73.50068,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3603"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903795,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737723,
-    "wof:lastmodified":1532444666,
+    "wof:lastmodified":1537998483,
     "wof:name":"New York Congressional District 3",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.039071,
-    "geom:area_square_m":10360028739.327112,
+    "geom:area_square_m":10360028739.328403,
     "geom:bbox":"-82.081083,35.756293,-80.027339,36.588137",
     "geom:latitude":36.26042,
     "geom:longitude":-80.982455,
@@ -35,6 +35,9 @@
         85688773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3705"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903846,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737925,
-    "wof:lastmodified":1532444619,
+    "wof:lastmodified":1537998432,
     "wof:name":"North Carolina Congressional District 5",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

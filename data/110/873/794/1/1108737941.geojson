@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331131,
-    "geom:area_square_m":3305063345.56334,
+    "geom:area_square_m":3305063345.563215,
     "geom:bbox":"-87.566798,35.959186,-86.515589,36.455711",
     "geom:latitude":36.17696,
     "geom:longitude":-87.069925,
@@ -35,6 +35,9 @@
         85688701
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4705"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903850,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737941,
-    "wof:lastmodified":1532444607,
+    "wof:lastmodified":1537998415,
     "wof:name":"Tennessee Congressional District 5",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",

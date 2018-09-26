@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.538199,
-    "geom:area_square_m":5430827711.575994,
+    "geom:area_square_m":5430827711.574568,
     "geom:bbox":"-97.674058,34.856782,-96.441171,35.72598",
     "geom:latitude":35.307133,
     "geom:longitude":-96.993765,
@@ -35,6 +35,9 @@
         85688585
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4005"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903847,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737931,
-    "wof:lastmodified":1532444676,
+    "wof:lastmodified":1537998411,
     "wof:name":"Oklahoma Congressional District 5",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.425984,
-    "geom:area_square_m":14196718649.986589,
+    "geom:area_square_m":14196718649.986254,
     "geom:bbox":"-122.105892,35.788977,-120.213979,37.085795",
     "geom:latitude":36.374762,
     "geom:longitude":-121.281956,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0620"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903939,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738447,
-    "wof:lastmodified":1532444682,
+    "wof:lastmodified":1537998366,
     "wof:name":"California Congressional District 20",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

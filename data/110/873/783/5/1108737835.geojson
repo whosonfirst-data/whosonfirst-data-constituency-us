@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.300765,
-    "geom:area_square_m":12190629168.756975,
+    "geom:area_square_m":12190629168.756279,
     "geom:bbox":"-84.576928,40.010188,-82.001941,41.501189",
     "geom:latitude":40.716647,
     "geom:longitude":-83.475314,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3904"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903824,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737835,
-    "wof:lastmodified":1532444690,
+    "wof:lastmodified":1537998398,
     "wof:name":"Ohio Congressional District 4",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

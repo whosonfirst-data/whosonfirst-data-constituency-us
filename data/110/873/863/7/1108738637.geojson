@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.539951,
-    "geom:area_square_m":4866724042.003695,
+    "geom:area_square_m":4866724042.003459,
     "geom:bbox":"-87.093109,42.415413,-82.70617,44.182649",
     "geom:latitude":43.199336,
     "geom:longitude":-86.394765,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"26ZZ"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903973,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738637,
-    "wof:lastmodified":1532444671,
+    "wof:lastmodified":1537998474,
     "wof:name":"Michigan Congressional Districts not defined",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.798214,
-    "geom:area_square_m":24856371906.317799,
+    "geom:area_square_m":24856371906.320023,
     "geom:bbox":"-73.437905,42.726933,-71.465047,45.016659",
     "geom:latitude":44.075248,
     "geom:longitude":-72.66263,
@@ -35,6 +35,9 @@
         85688763
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5000"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903719,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737375,
-    "wof:lastmodified":1532444641,
+    "wof:lastmodified":1537998331,
     "wof:name":"Vermont Congressional District (at Large)",
     "wof:parent_id":85688763,
     "wof:placetype":"constituency",

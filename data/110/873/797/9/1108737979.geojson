@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.154196,
-    "geom:area_square_m":11238861634.027565,
+    "geom:area_square_m":11238861634.029058,
     "geom:bbox":"-85.170062,37.515279,-83.242771,38.608621",
     "geom:latitude":38.048339,
     "geom:longitude":-84.162663,
@@ -35,6 +35,9 @@
         85688641
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2106"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903857,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737979,
-    "wof:lastmodified":1532444587,
+    "wof:lastmodified":1537998318,
     "wof:name":"Kentucky Congressional District 6",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",

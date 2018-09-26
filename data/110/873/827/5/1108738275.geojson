@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210129,
-    "geom:area_square_m":1941452277.070726,
+    "geom:area_square_m":1941452277.071001,
     "geom:bbox":"-81.788366,41.024758,-81.438123,42.096402",
     "geom:latitude":41.650558,
     "geom:longitude":-81.623825,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3911"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903911,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738275,
-    "wof:lastmodified":1532444676,
+    "wof:lastmodified":1537998349,
     "wof:name":"Ohio Congressional District 11",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.595831,
-    "geom:area_square_m":5507907133.087779,
+    "geom:area_square_m":5507907133.088415,
     "geom:bbox":"-83.694237,41.352846,-81.677948,41.963315",
     "geom:latitude":41.617501,
     "geom:longitude":-82.564567,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3909"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903898,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738201,
-    "wof:lastmodified":1532444653,
+    "wof:lastmodified":1537998350,
     "wof:name":"Ohio Congressional District 9",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

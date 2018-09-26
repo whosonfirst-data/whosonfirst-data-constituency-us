@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.927895,
-    "geom:area_square_m":9968179040.697697,
+    "geom:area_square_m":9968179040.698332,
     "geom:bbox":"-82.658554,29.117873,-81.433583,30.193466",
     "geom:latitude":29.680287,
     "geom:longitude":-82.053092,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1203"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903783,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737667,
-    "wof:lastmodified":1532444650,
+    "wof:lastmodified":1537998433,
     "wof:name":"Florida Congressional District 3",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

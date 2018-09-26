@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004862,
-    "geom:area_square_m":45541003.474013,
+    "geom:area_square_m":45541003.474052,
     "geom:bbox":"-74.002523,40.711168,-73.906933,40.80385",
     "geom:latitude":40.750284,
     "geom:longitude":-73.950559,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3612"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903916,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738303,
-    "wof:lastmodified":1532444611,
+    "wof:lastmodified":1537998466,
     "wof:name":"New York Congressional District 12",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

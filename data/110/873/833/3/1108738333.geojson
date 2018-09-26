@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.483919,
-    "geom:area_square_m":4850561162.220011,
+    "geom:area_square_m":4850561162.219925,
     "geom:bbox":"-81.109507,35.489265,-79.674721,36.150577",
     "geom:latitude":35.842989,
     "geom:longitude":-80.457585,
@@ -35,6 +35,9 @@
         85688773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3713"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903920,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738333,
-    "wof:lastmodified":1532444703,
+    "wof:lastmodified":1537998380,
     "wof:name":"North Carolina Congressional District 13",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

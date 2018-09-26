@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.359681,
-    "geom:area_square_m":3265999169.324859,
+    "geom:area_square_m":3265999169.325238,
     "geom:bbox":"-74.488844,42.407127,-73.607446,43.107882",
     "geom:latitude":42.748254,
     "geom:longitude":-73.991791,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3620"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903940,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738455,
-    "wof:lastmodified":1532444705,
+    "wof:lastmodified":1537998357,
     "wof:name":"New York Congressional District 20",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

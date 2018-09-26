@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.713673,
-    "geom:area_square_m":16460056498.620281,
+    "geom:area_square_m":16460056498.615856,
     "geom:bbox":"-123.094216,38.018421,-121.009477,39.800561",
     "geom:latitude":39.030462,
     "geom:longitude":-122.093502,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0603"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903781,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737659,
-    "wof:lastmodified":1532444670,
+    "wof:lastmodified":1537998337,
     "wof:name":"California Congressional District 3",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

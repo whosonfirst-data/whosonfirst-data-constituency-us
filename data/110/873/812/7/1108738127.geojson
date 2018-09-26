@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.976012,
-    "geom:area_square_m":19057495434.737186,
+    "geom:area_square_m":19057495434.742565,
     "geom:bbox":"-88.097892,37.771728,-86.321191,40.148422",
     "geom:latitude":38.738832,
     "geom:longitude":-87.197673,
@@ -35,6 +35,9 @@
         85688709
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1808"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903885,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738127,
-    "wof:lastmodified":1532444590,
+    "wof:lastmodified":1537998444,
     "wof:name":"Indiana Congressional District 8",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067237,
-    "geom:area_square_m":691622504.67964,
+    "geom:area_square_m":691622504.679701,
     "geom:bbox":"-84.632649,33.548923,-84.239137,33.86227",
     "geom:latitude":33.707242,
     "geom:longitude":-84.401491,
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1305"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903841,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737889,
-    "wof:lastmodified":1532444644,
+    "wof:lastmodified":1537998475,
     "wof:name":"Georgia Congressional District 5",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

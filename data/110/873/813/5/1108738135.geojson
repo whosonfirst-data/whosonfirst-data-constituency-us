@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438307,
-    "geom:area_square_m":3986451819.215516,
+    "geom:area_square_m":3986451819.214959,
     "geom:bbox":"-84.603137,42.421937,-83.091449,42.888647",
     "geom:latitude":42.646859,
     "geom:longitude":-83.940728,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2608"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903887,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738135,
-    "wof:lastmodified":1532444726,
+    "wof:lastmodified":1537998452,
     "wof:name":"Michigan Congressional District 8",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

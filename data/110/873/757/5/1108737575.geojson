@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.774339,
-    "geom:area_square_m":15941250558.712646,
+    "geom:area_square_m":15941250558.711266,
     "geom:bbox":"-87.147166,42.729342,-85.54467,44.167092",
     "geom:latitude":43.398156,
     "geom:longitude":-86.32057,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2602"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903761,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737575,
-    "wof:lastmodified":1532444610,
+    "wof:lastmodified":1537998426,
     "wof:name":"Michigan Congressional District 2",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

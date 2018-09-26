@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123358,
-    "geom:area_square_m":1483557126.105577,
+    "geom:area_square_m":1483557126.10574,
     "geom:bbox":"144.563426,13.182335,145.009167,13.706179",
     "geom:latitude":13.44276,
     "geom:longitude":144.769452,
@@ -28,11 +28,14 @@
     "wof:association":"us-house",
     "wof:belongsto":[
         "102191583",
-        "85632163",
         "85633793",
-        85681227
+        85681227,
+        "85632163"
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"6698"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903972,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108738623,
-    "wof:lastmodified":1532444636,
+    "wof:lastmodified":1537998461,
     "wof:name":"Guam Delegate District (at Large)",
     "wof:parent_id":85681227,
     "wof:placetype":"constituency",

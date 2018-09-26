@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.288297,
-    "geom:area_square_m":20955924430.974369,
+    "geom:area_square_m":20955924430.97451,
     "geom:bbox":"-75.555476,41.421657,-73.264827,43.047423",
     "geom:latitude":42.214686,
     "geom:longitude":-74.420904,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3619"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903938,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738443,
-    "wof:lastmodified":1532444682,
+    "wof:lastmodified":1537998366,
     "wof:name":"New York Congressional District 19",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

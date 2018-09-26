@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060378,
-    "geom:area_square_m":568270614.882278,
+    "geom:area_square_m":568270614.882316,
     "geom:bbox":"-80.177883,40.276324,-79.712477,40.626701",
     "geom:latitude":40.43326,
     "geom:longitude":-79.906419,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4214"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903924,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738363,
-    "wof:lastmodified":1532444715,
+    "wof:lastmodified":1537998459,
     "wof:name":"Pennsylvania Congressional District 14",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.573161,
-    "geom:area_square_m":56336758351.296478,
+    "geom:area_square_m":56336758351.304352,
     "geom:bbox":"-96.969971,33.615787,-94.43101,36.99965",
     "geom:latitude":35.154682,
     "geom:longitude":-95.451999,
@@ -35,6 +35,9 @@
         85688585
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4002"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903769,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737615,
-    "wof:lastmodified":1532444730,
+    "wof:lastmodified":1537998429,
     "wof:name":"Oklahoma Congressional District 2",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",

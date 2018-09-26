@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020622,
-    "geom:area_square_m":195291868.79827,
+    "geom:area_square_m":195291868.798171,
     "geom:bbox":"-75.349457,39.919834,-75.12632,40.092907",
     "geom:latitude":40.016624,
     "geom:longitude":-75.220993,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4202"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903771,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737623,
-    "wof:lastmodified":1532444696,
+    "wof:lastmodified":1537998340,
     "wof:name":"Pennsylvania Congressional District 2",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

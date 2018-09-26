@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.033527,
-    "geom:area_square_m":10337242244.998196,
+    "geom:area_square_m":10337242245.000887,
     "geom:bbox":"-80.066842,35.307161,-78.794845,36.542696",
     "geom:latitude":36.012351,
     "geom:longitude":-79.474898,
@@ -35,6 +35,9 @@
         85688773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3706"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903862,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738007,
-    "wof:lastmodified":1532444685,
+    "wof:lastmodified":1537998453,
     "wof:name":"North Carolina Congressional District 6",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",

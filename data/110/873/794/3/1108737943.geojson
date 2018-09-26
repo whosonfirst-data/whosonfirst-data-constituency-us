@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.297181,
-    "geom:area_square_m":13568536035.697493,
+    "geom:area_square_m":13568536035.697765,
     "geom:bbox":"-96.765657,31.42571,-94.865857,32.962598",
     "geom:latitude":32.226747,
     "geom:longitude":-95.735603,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4805"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903850,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737943,
-    "wof:lastmodified":1532444607,
+    "wof:lastmodified":1537998416,
     "wof:name":"Texas Congressional District 5",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

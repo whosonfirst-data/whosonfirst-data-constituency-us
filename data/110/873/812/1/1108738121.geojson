@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059018,
-    "geom:area_square_m":542259948.259263,
+    "geom:area_square_m":542259948.258882,
     "geom:bbox":"-88.339402,41.837727,-87.919993,42.154352",
     "geom:latitude":42.007844,
     "geom:longitude":-88.096983,
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1708"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903884,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738121,
-    "wof:lastmodified":1532444590,
+    "wof:lastmodified":1537998445,
     "wof:name":"Illinois Congressional District 8",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",

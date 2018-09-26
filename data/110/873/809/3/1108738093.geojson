@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.448494,
-    "geom:area_square_m":14832751620.157484,
+    "geom:area_square_m":14832751620.158672,
     "geom:bbox":"-80.564088,33.049793,-78.499301,34.817482",
     "geom:latitude":34.089431,
     "geom:longitude":-79.505552,
@@ -35,6 +35,9 @@
         85688683
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4507"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903879,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738093,
-    "wof:lastmodified":1532444620,
+    "wof:lastmodified":1537998460,
     "wof:name":"South Carolina Congressional District 7",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",

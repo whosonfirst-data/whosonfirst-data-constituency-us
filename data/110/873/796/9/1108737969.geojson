@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.644333,
-    "geom:area_square_m":6955399526.95717,
+    "geom:area_square_m":6955399526.961562,
     "geom:bbox":"-81.77407,28.612662,-80.663461,29.847442",
     "geom:latitude":29.19045,
     "geom:longitude":-81.262812,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1206"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903855,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737969,
-    "wof:lastmodified":1532444601,
+    "wof:lastmodified":1537998340,
     "wof:name":"Florida Congressional District 6",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

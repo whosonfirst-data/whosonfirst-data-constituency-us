@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.903846,
-    "geom:area_square_m":20143826097.475479,
+    "geom:area_square_m":20143826097.472996,
     "geom:bbox":"-97.773458,30.295549,-95.657247,32.012526",
     "geom:latitude":31.162777,
     "geom:longitude":-96.656109,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4817"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903933,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738417,
-    "wof:lastmodified":1532444594,
+    "wof:lastmodified":1537998436,
     "wof:name":"Texas Congressional District 17",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

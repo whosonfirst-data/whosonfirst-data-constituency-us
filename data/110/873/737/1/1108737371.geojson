@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.578496,
-    "geom:area_square_m":199325926507.41925,
+    "geom:area_square_m":199325926507.414124,
     "geom:bbox":"-104.057879,42.479686,-96.436472,45.945377",
     "geom:latitude":44.436138,
     "geom:longitude":-100.230465,
@@ -35,6 +35,9 @@
         85688693
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4600"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903718,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737371,
-    "wof:lastmodified":1532444640,
+    "wof:lastmodified":1537998331,
     "wof:name":"South Dakota Congressional District (at Large)",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.395639,
-    "geom:area_square_m":129098244556.385773,
+    "geom:area_square_m":129098244556.394455,
     "geom:bbox":"-109.060204,36.992449,-104.053921,41.003444",
     "geom:latitude":38.780257,
     "geom:longitude":-107.23763,
@@ -35,6 +35,9 @@
         85688603
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0803"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903782,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737661,
-    "wof:lastmodified":1532444649,
+    "wof:lastmodified":1537998433,
     "wof:name":"Colorado Congressional District 3",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",

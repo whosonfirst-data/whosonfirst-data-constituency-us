@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05561,
-    "geom:area_square_m":568385049.296703,
+    "geom:area_square_m":568385049.296787,
     "geom:bbox":"-118.410348,34.067847,-118.152286,34.438659",
     "geom:latitude":34.249754,
     "geom:longitude":-118.291019,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0628"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903953,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738533,
-    "wof:lastmodified":1532444635,
+    "wof:lastmodified":1537998461,
     "wof:name":"California Congressional District 28",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

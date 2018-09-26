@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.390524,
-    "geom:area_square_m":3616660300.32112,
+    "geom:area_square_m":3616660300.320784,
     "geom:bbox":"-87.52676,41.162186,-86.641181,41.761368",
     "geom:latitude":41.499319,
     "geom:longitude":-87.169254,
@@ -35,6 +35,9 @@
         85688709
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1801"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903729,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737417,
-    "wof:lastmodified":1532444718,
+    "wof:lastmodified":1537998407,
     "wof:name":"Indiana Congressional District 1",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

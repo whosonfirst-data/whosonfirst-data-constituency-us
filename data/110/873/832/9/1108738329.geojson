@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052882,
-    "geom:area_square_m":483456123.360956,
+    "geom:area_square_m":483456123.360922,
     "geom:bbox":"-83.430038,42.179439,-82.961926,42.444748",
     "geom:latitude":42.324498,
     "geom:longitude":-83.251046,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2613"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903920,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738329,
-    "wof:lastmodified":1532444646,
+    "wof:lastmodified":1537998374,
     "wof:name":"Michigan Congressional District 13",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

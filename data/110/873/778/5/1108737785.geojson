@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151108,
-    "geom:area_square_m":1405979931.429177,
+    "geom:area_square_m":1405979931.429165,
     "geom:bbox":"-73.727775,40.950943,-73.072129,41.489409",
     "geom:latitude":41.195047,
     "geom:longitude":-73.387255,
@@ -35,6 +35,9 @@
         85688629
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0904"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903811,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737785,
-    "wof:lastmodified":1532444624,
+    "wof:lastmodified":1537998386,
     "wof:name":"Connecticut Congressional District 4",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

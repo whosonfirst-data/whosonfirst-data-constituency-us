@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.560399,
-    "geom:area_square_m":25736622865.179405,
+    "geom:area_square_m":25736622865.184006,
     "geom:bbox":"-119.915636,34.630861,-117.616195,36.744816",
     "geom:latitude":35.615093,
     "geom:longitude":-118.536916,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0623"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903944,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738481,
-    "wof:lastmodified":1532444667,
+    "wof:lastmodified":1537998440,
     "wof:name":"California Congressional District 23",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

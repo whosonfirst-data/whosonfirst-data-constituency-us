@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.539735,
-    "geom:area_square_m":5149811767.463001,
+    "geom:area_square_m":5149811767.463089,
     "geom:bbox":"-79.487651,38.991034,-77.074733,39.723037",
     "geom:latitude":39.499087,
     "geom:longitude":-78.387413,
@@ -35,6 +35,9 @@
         85688501
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2406"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903859,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737987,
-    "wof:lastmodified":1532444658,
+    "wof:lastmodified":1537998335,
     "wof:name":"Maryland Congressional District 6",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",

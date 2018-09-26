@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168053,
-    "geom:area_square_m":1737369574.243045,
+    "geom:area_square_m":1737369574.243174,
     "geom:bbox":"-118.678551,32.75004,-117.920137,33.854377",
     "geom:latitude":33.270734,
     "geom:longitude":-118.4082,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0647"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903969,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738601,
-    "wof:lastmodified":1532444659,
+    "wof:lastmodified":1537998378,
     "wof:name":"California Congressional District 47",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

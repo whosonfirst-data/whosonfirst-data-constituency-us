@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033945,
-    "geom:area_square_m":318700924.638643,
+    "geom:area_square_m":318700924.638527,
     "geom:bbox":"-74.042112,40.489794,-73.683664,40.732583",
     "geom:latitude":40.599004,
     "geom:longitude":-73.823023,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3605"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903846,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737923,
-    "wof:lastmodified":1532444618,
+    "wof:lastmodified":1537998432,
     "wof:name":"New York Congressional District 5",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034931,
-    "geom:area_square_m":357227319.440755,
+    "geom:area_square_m":357227319.440671,
     "geom:bbox":"-118.718625,34.119038,-118.325341,34.333767",
     "geom:latitude":34.202519,
     "geom:longitude":-118.545063,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0630"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903959,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738543,
-    "wof:lastmodified":1532444684,
+    "wof:lastmodified":1537998462,
     "wof:name":"California Congressional District 30",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

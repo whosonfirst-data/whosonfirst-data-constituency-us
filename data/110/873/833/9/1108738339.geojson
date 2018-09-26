@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042741,
-    "geom:area_square_m":404117116.261641,
+    "geom:area_square_m":404117116.261955,
     "geom:bbox":"-75.413047,39.998895,-74.955763,40.274395",
     "geom:latitude":40.124432,
     "geom:longitude":-75.159359,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4213"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903921,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738339,
-    "wof:lastmodified":1532444704,
+    "wof:lastmodified":1537998380,
     "wof:name":"Pennsylvania Congressional District 13",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

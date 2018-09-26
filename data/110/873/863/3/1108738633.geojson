@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117557,
-    "geom:area_square_m":1094285444.601258,
+    "geom:area_square_m":1094285444.600735,
     "geom:bbox":"-73.45646,40.983836,-72.050058,41.283066",
     "geom:latitude":41.166237,
     "geom:longitude":-72.841909,
@@ -35,6 +35,9 @@
         85688629
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"09ZZ"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903973,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738633,
-    "wof:lastmodified":1532444670,
+    "wof:lastmodified":1537998474,
     "wof:name":"Connecticut Congressional Districts not defined",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

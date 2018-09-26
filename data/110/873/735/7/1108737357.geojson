@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":313.99521,
-    "geom:area_square_m":1712882500455.222656,
+    "geom:area_square_m":1712882500455.256104,
     "geom:bbox":"-179.231086,51.175092,179.859681,71.441059",
     "geom:latitude":63.742989,
     "geom:longitude":-151.593422,
@@ -35,6 +35,9 @@
         85688573
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0200"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903714,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737357,
-    "wof:lastmodified":1532444694,
+    "wof:lastmodified":1537998422,
     "wof:name":"Alaska Congressional District (at Large)",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",

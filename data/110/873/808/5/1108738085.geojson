@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.073563,
-    "geom:area_square_m":10062833440.031853,
+    "geom:area_square_m":10062833440.032358,
     "geom:bbox":"-82.838538,40.150976,-81.086686,41.478655",
     "geom:latitude":40.707335,
     "geom:longitude":-82.059018,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3907"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903877,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738085,
-    "wof:lastmodified":1532444626,
+    "wof:lastmodified":1537998465,
     "wof:name":"Ohio Congressional District 7",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

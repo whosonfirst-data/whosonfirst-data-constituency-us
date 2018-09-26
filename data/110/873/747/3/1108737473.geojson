@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188669,
-    "geom:area_square_m":1804365909.305588,
+    "geom:area_square_m":1804365909.306212,
     "geom:bbox":"-84.820305,39.073281,-83.977005,39.589493",
     "geom:latitude":39.336502,
     "geom:longitude":-84.345541,
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3901"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903738,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737473,
-    "wof:lastmodified":1532444713,
+    "wof:lastmodified":1537998387,
     "wof:name":"Ohio Congressional District 1",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

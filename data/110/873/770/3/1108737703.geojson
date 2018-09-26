@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.186026,
-    "geom:area_square_m":33401934195.962475,
+    "geom:area_square_m":33401934195.952599,
     "geom:bbox":"-91.655009,30.998691,-88.304434,33.565443",
     "geom:latitude":32.015473,
     "geom:longitude":-89.732948,
@@ -35,6 +35,9 @@
         85688579
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2803"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903790,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737703,
-    "wof:lastmodified":1532444592,
+    "wof:lastmodified":1537998402,
     "wof:name":"Mississippi Congressional District 3",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",

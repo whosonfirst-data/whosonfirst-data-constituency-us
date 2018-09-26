@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.981038,
-    "geom:area_square_m":10156436436.08329,
+    "geom:area_square_m":10156436436.082636,
     "geom:bbox":"-85.33823,32.478428,-84.040914,33.812429",
     "geom:latitude":33.148271,
     "geom:longitude":-84.733179,
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1303"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903784,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737671,
-    "wof:lastmodified":1532444695,
+    "wof:lastmodified":1537998410,
     "wof:name":"Georgia Congressional District 3",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.699177,
-    "geom:area_square_m":18006764084.258347,
+    "geom:area_square_m":18006764084.256264,
     "geom:bbox":"-88.46443,30.144425,-86.688063,31.831795",
     "geom:latitude":31.012415,
     "geom:longitude":-87.792945,
@@ -35,6 +35,9 @@
         85688675
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0101"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903720,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737381,
-    "wof:lastmodified":1532444588,
+    "wof:lastmodified":1537998344,
     "wof:name":"Alabama Congressional District 1",
     "wof:parent_id":85688675,
     "wof:placetype":"constituency",

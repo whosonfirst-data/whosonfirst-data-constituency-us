@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.278617,
-    "geom:area_square_m":3036234219.398247,
+    "geom:area_square_m":3036234219.396729,
     "geom:bbox":"-82.401746,27.856642,-81.649874,28.681477",
     "geom:latitude":28.199088,
     "geom:longitude":-81.977329,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1215"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903925,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738369,
-    "wof:lastmodified":1532444716,
+    "wof:lastmodified":1537998458,
     "wof:name":"Florida Congressional District 15",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

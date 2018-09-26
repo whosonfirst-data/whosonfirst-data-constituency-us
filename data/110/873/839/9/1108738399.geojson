@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283707,
-    "geom:area_square_m":2686370597.998142,
+    "geom:area_square_m":2686370597.998641,
     "geom:bbox":"-76.72162,39.721131,-75.637066,40.397962",
     "geom:latitude":40.024792,
     "geom:longitude":-76.205588,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4216"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903930,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738399,
-    "wof:lastmodified":1532444622,
+    "wof:lastmodified":1537998468,
     "wof:name":"Pennsylvania Congressional District 16",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

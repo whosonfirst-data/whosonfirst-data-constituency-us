@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038661,
-    "geom:area_square_m":377845406.305565,
+    "geom:area_square_m":377845406.306235,
     "geom:bbox":"-122.373782,37.631714,-122.075533,37.905824",
     "geom:latitude":37.778449,
     "geom:longitude":-122.238678,
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0613"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903919,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738317,
-    "wof:lastmodified":1532444714,
+    "wof:lastmodified":1537998457,
     "wof:name":"California Congressional District 13",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

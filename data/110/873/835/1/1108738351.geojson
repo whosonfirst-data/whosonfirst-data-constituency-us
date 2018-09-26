@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.925471,
-    "geom:area_square_m":9438359943.043514,
+    "geom:area_square_m":9438359943.044716,
     "geom:bbox":"-85.605165,33.652087,-84.412069,34.988329",
     "geom:latitude":34.433159,
     "geom:longitude":-85.094524,
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1314"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903923,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738351,
-    "wof:lastmodified":1532444616,
+    "wof:lastmodified":1537998373,
     "wof:name":"Georgia Congressional District 14",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",

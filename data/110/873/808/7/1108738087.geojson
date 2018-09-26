@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238009,
-    "geom:area_square_m":2253037911.627296,
+    "geom:area_square_m":2253037911.628025,
     "geom:bbox":"-76.184057,39.722182,-75.127808,40.417846",
     "geom:latitude":40.043832,
     "geom:longitude":-75.729195,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4207"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903878,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738087,
-    "wof:lastmodified":1532444625,
+    "wof:lastmodified":1537998464,
     "wof:name":"Pennsylvania Congressional District 7",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

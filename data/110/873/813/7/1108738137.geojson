@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.063477,
-    "geom:area_square_m":84504198482.033539,
+    "geom:area_square_m":84504198482.030975,
     "geom:bbox":"-95.183218,45.295953,-89.483385,48.711901",
     "geom:latitude":47.22258,
     "geom:longitude":-92.938028,
@@ -35,6 +35,9 @@
         85688727
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2708"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903887,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738137,
-    "wof:lastmodified":1532444725,
+    "wof:lastmodified":1537998451,
     "wof:name":"Minnesota Congressional District 8",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",

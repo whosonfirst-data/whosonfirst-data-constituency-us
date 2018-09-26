@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048485,
-    "geom:area_square_m":454953138.214429,
+    "geom:area_square_m":454953138.214419,
     "geom:bbox":"-73.755701,40.520505,-73.484375,40.777324",
     "geom:latitude":40.636596,
     "geom:longitude":-73.606383,
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3604"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903822,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737829,
-    "wof:lastmodified":1532444603,
+    "wof:lastmodified":1537998394,
     "wof:name":"New York Congressional District 4",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

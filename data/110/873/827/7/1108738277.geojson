@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.949475,
-    "geom:area_square_m":8875780076.209152,
+    "geom:area_square_m":8875780076.212667,
     "geom:bbox":"-77.627552,39.944077,-75.49599,41.651825",
     "geom:latitude":40.885233,
     "geom:longitude":-76.451979,
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4211"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903911,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738277,
-    "wof:lastmodified":1532444675,
+    "wof:lastmodified":1537998347,
     "wof:name":"Pennsylvania Congressional District 11",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

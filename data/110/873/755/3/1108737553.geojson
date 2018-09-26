@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.456005,
-    "geom:area_square_m":32148997775.946617,
+    "geom:area_square_m":32148997775.950333,
     "geom:bbox":"-94.015492,40.37544,-90.140061,42.033596",
     "geom:latitude":41.208286,
     "geom:longitude":-92.149208,
@@ -35,6 +35,9 @@
         85688713
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1902"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903756,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737553,
-    "wof:lastmodified":1532444702,
+    "wof:lastmodified":1537998328,
     "wof:name":"Iowa Congressional District 2",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",

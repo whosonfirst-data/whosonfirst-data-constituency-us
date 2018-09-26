@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039457,
-    "geom:area_square_m":423400524.769724,
+    "geom:area_square_m":423400524.769923,
     "geom:bbox":"-95.773835,29.647875,-95.408402,29.953075",
     "geom:latitude":29.793458,
     "geom:longitude":-95.605763,
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4807"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903880,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738099,
-    "wof:lastmodified":1532444620,
+    "wof:lastmodified":1537998460,
     "wof:name":"Texas Congressional District 7",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

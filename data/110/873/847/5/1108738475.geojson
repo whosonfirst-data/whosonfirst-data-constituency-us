@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061269,
-    "geom:area_square_m":679371326.925882,
+    "geom:area_square_m":679371326.925817,
     "geom:bbox":"-80.29816,26.080831,-80.00689,26.426552",
     "geom:latitude":26.267868,
     "geom:longitude":-80.126803,
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1222"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903943,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738475,
-    "wof:lastmodified":1532444674,
+    "wof:lastmodified":1537998448,
     "wof:name":"Florida Congressional District 22",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121671,
-    "geom:area_square_m":1114360492.263664,
+    "geom:area_square_m":1114360492.263301,
     "geom:bbox":"-83.867348,42.02793,-83.119228,42.351916",
     "geom:latitude":42.209447,
     "geom:longitude":-83.44856,
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2612"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903915,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108738297,
-    "wof:lastmodified":1532444606,
+    "wof:lastmodified":1537998351,
     "wof:name":"Michigan Congressional District 12",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",

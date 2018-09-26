@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172321,
-    "geom:area_square_m":1506784324.335716,
+    "geom:area_square_m":1506784324.335582,
     "geom:bbox":"-93.76957,44.776163,-93.19728,45.246618",
     "geom:latitude":44.996415,
     "geom:longitude":-93.529604,
@@ -35,6 +35,9 @@
         85688727
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2703"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903789,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108737701,
-    "wof:lastmodified":1532444591,
+    "wof:lastmodified":1537998401,
     "wof:name":"Minnesota Congressional District 3",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
