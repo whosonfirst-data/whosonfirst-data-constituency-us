@@ -11,7 +11,7 @@
     "geom:longitude":-111.890398,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "AZ-06"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737959,
-    "wof:lastmodified":1537998430,
+    "wof:lastmodified":1537998948,
     "wof:name":"Arizona Congressional District 6",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",

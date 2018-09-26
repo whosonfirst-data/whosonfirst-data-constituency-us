@@ -11,7 +11,7 @@
     "geom:longitude":-97.094233,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-33"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738561,
-    "wof:lastmodified":1537998376,
+    "wof:lastmodified":1537998893,
     "wof:name":"Texas Congressional District 33",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

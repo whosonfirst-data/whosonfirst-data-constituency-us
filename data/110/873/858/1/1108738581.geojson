@@ -11,7 +11,7 @@
     "geom:longitude":-118.061668,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-38"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738581,
-    "wof:lastmodified":1537998379,
+    "wof:lastmodified":1537998896,
     "wof:name":"California Congressional District 38",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

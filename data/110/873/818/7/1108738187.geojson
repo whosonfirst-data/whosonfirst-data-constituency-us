@@ -11,7 +11,7 @@
     "geom:longitude":-70.481478,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "MA-09"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738187,
-    "wof:lastmodified":1537998346,
+    "wof:lastmodified":1537998861,
     "wof:name":"Massachusetts Congressional District 9",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",

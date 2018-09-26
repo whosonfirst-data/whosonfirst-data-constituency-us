@@ -11,7 +11,7 @@
     "geom:longitude":-94.79251,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "KS-03"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737683,
-    "wof:lastmodified":1537998427,
+    "wof:lastmodified":1537998945,
     "wof:name":"Kansas Congressional District 3",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",

@@ -11,7 +11,7 @@
     "geom:longitude":-82.564567,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "OH-09"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738201,
-    "wof:lastmodified":1537998350,
+    "wof:lastmodified":1537998865,
     "wof:name":"Ohio Congressional District 9",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",

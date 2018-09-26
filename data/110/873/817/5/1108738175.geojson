@@ -11,7 +11,7 @@
     "geom:longitude":-121.305004,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-09"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738175,
-    "wof:lastmodified":1537998361,
+    "wof:lastmodified":1537998877,
     "wof:name":"California Congressional District 9",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

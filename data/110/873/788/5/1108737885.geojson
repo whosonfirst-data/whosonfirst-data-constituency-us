@@ -11,7 +11,7 @@
     "geom:longitude":-73.218842,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CT-05"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737885,
-    "wof:lastmodified":1537998477,
+    "wof:lastmodified":1537998997,
     "wof:name":"Connecticut Congressional District 5",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",

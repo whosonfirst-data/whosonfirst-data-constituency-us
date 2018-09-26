@@ -11,7 +11,7 @@
     "geom:longitude":-121.002968,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "WA-08"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738167,
-    "wof:lastmodified":1537998353,
+    "wof:lastmodified":1537998869,
     "wof:name":"Washington Congressional District 8",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",

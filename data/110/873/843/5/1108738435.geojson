@@ -11,7 +11,7 @@
     "geom:longitude":-95.376545,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-18"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738435,
-    "wof:lastmodified":1537998366,
+    "wof:lastmodified":1537998882,
     "wof:name":"Texas Congressional District 18",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

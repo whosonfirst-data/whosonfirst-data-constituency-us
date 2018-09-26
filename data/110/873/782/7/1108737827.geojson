@@ -11,7 +11,7 @@
     "geom:longitude":-74.318487,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NJ-04"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737827,
-    "wof:lastmodified":1537998394,
+    "wof:lastmodified":1537998911,
     "wof:name":"New Jersey Congressional District 4",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",

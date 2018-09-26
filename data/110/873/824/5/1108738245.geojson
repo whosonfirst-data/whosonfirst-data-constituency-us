@@ -11,7 +11,7 @@
     "geom:longitude":-77.836846,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "VA-10"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738245,
-    "wof:lastmodified":1537998443,
+    "wof:lastmodified":1537998961,
     "wof:name":"Virginia Congressional District 10",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

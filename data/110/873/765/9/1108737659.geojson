@@ -11,7 +11,7 @@
     "geom:longitude":-122.093502,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-03"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737659,
-    "wof:lastmodified":1537998337,
+    "wof:lastmodified":1537998851,
     "wof:name":"California Congressional District 3",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",

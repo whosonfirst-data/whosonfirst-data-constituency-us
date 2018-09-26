@@ -11,7 +11,7 @@
     "geom:longitude":-96.656109,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-17"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738417,
-    "wof:lastmodified":1537998436,
+    "wof:lastmodified":1537998954,
     "wof:name":"Texas Congressional District 17",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",

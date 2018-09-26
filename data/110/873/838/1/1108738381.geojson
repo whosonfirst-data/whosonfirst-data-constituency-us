@@ -11,7 +11,7 @@
     "geom:longitude":-75.95219,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "PA-15"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738381,
-    "wof:lastmodified":1537998456,
+    "wof:lastmodified":1537998975,
     "wof:name":"Pennsylvania Congressional District 15",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",

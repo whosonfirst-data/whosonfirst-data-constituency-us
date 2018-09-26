@@ -11,7 +11,7 @@
     "geom:longitude":-72.551697,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NY-01"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737467,
-    "wof:lastmodified":1537998406,
+    "wof:lastmodified":1537998924,
     "wof:name":"New York Congressional District 1",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",

@@ -11,7 +11,7 @@
     "geom:longitude":-85.861212,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "IN-05"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737897,
-    "wof:lastmodified":1537998491,
+    "wof:lastmodified":1537999012,
     "wof:name":"Indiana Congressional District 5",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",

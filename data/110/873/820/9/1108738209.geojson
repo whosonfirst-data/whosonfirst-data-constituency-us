@@ -11,7 +11,7 @@
     "geom:longitude":-81.319652,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "VA-09"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108738209,
-    "wof:lastmodified":1537998349,
+    "wof:lastmodified":1537998865,
     "wof:name":"Virginia Congressional District 9",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",

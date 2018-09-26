@@ -11,7 +11,7 @@
     "geom:longitude":-170.07959,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "src:geom":"uscensus",
     "uscensus:aland":197759069.0,
     "uscensus:awater":1307243753.0,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108738621,
-    "wof:lastmodified":1537998461,
+    "wof:lastmodified":1537998980,
     "wof:name":"Eastern Delegate District (at Large)",
     "wof:parent_id":85668127,
     "wof:placetype":"constituency",

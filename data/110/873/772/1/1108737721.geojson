@@ -11,7 +11,7 @@
     "geom:longitude":-105.821665,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NM-03"
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1108737721,
-    "wof:lastmodified":1537998482,
+    "wof:lastmodified":1537999003,
     "wof:name":"New Mexico Congressional District 3",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
