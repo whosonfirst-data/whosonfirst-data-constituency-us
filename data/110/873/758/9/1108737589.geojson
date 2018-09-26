@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737589,
-    "wof:lastmodified":1537998930,
+    "wof:lastmodified":1537999298,
     "wof:name":"Nebraska Congressional District 2",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NE02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

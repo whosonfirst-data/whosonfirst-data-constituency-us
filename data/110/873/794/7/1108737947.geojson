@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737947,
-    "wof:lastmodified":1537998932,
+    "wof:lastmodified":1537999300,
     "wof:name":"Virginia Congressional District 5",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

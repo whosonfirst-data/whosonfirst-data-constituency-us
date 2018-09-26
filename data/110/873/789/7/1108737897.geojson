@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737897,
-    "wof:lastmodified":1537999012,
+    "wof:lastmodified":1537999379,
     "wof:name":"Indiana Congressional District 5",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IN05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

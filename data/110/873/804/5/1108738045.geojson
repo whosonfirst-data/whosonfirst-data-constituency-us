@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738045,
-    "wof:lastmodified":1537998888,
+    "wof:lastmodified":1537999256,
     "wof:name":"Colorado Congressional District 7",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CO07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

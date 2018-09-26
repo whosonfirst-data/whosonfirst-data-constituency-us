@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738371,
-    "wof:lastmodified":1537998983,
+    "wof:lastmodified":1537999351,
     "wof:name":"Illinois Congressional District 15",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL15",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

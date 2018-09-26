@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738351,
-    "wof:lastmodified":1537998890,
+    "wof:lastmodified":1537999258,
     "wof:name":"Georgia Congressional District 14",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA14",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

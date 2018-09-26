@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738121,
-    "wof:lastmodified":1537998963,
+    "wof:lastmodified":1537999331,
     "wof:name":"Illinois Congressional District 8",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737427,
-    "wof:lastmodified":1537999013,
+    "wof:lastmodified":1537999381,
     "wof:name":"Kentucky Congressional District 1",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"KY01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

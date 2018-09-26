@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738025,
-    "wof:lastmodified":1537998900,
+    "wof:lastmodified":1537999267,
     "wof:name":"Texas Congressional District 6",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

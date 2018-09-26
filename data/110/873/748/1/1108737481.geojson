@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737481,
-    "wof:lastmodified":1537998914,
+    "wof:lastmodified":1537999281,
     "wof:name":"Oregon Congressional District 1",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OR01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

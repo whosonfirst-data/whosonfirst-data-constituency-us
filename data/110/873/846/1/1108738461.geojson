@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738461,
-    "wof:lastmodified":1537998956,
+    "wof:lastmodified":1537999324,
     "wof:name":"Florida Congressional District 21",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"FL21",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

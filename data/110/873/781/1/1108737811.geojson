@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737811,
-    "wof:lastmodified":1537999000,
+    "wof:lastmodified":1537999368,
     "wof:name":"Massachusetts Congressional District 4",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MA04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

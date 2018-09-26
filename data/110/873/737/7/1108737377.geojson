@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737377,
-    "wof:lastmodified":1537998844,
+    "wof:lastmodified":1537999215,
     "wof:name":"Wyoming Congressional District (at Large)",
     "wof:parent_id":85688475,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WY00",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

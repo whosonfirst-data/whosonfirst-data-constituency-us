@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737561,
-    "wof:lastmodified":1537998935,
+    "wof:lastmodified":1537999303,
     "wof:name":"Louisiana Congressional District 2",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"LA02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

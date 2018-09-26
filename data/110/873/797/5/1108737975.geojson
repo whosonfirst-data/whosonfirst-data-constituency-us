@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737975,
-    "wof:lastmodified":1537998833,
+    "wof:lastmodified":1537999204,
     "wof:name":"Indiana Congressional District 6",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IN06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

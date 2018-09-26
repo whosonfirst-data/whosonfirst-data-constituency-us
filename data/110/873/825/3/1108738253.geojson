@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738253,
-    "wof:lastmodified":1537998971,
+    "wof:lastmodified":1537999339,
     "wof:name":"California Congressional District 11",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738183,
-    "wof:lastmodified":1537998862,
+    "wof:lastmodified":1537999232,
     "wof:name":"Illinois Congressional District 9",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

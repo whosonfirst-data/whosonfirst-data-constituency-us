@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738243,
-    "wof:lastmodified":1537998960,
+    "wof:lastmodified":1537999329,
     "wof:name":"Texas Congressional District 10",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX10",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

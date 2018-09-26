@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737931,
-    "wof:lastmodified":1537998929,
+    "wof:lastmodified":1537999297,
     "wof:name":"Oklahoma Congressional District 5",
     "wof:parent_id":85688585,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OK05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

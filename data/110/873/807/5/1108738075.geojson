@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738075,
-    "wof:lastmodified":1537998974,
+    "wof:lastmodified":1537999342,
     "wof:name":"New Jersey Congressional District 7",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

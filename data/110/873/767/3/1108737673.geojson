@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737673,
-    "wof:lastmodified":1537998928,
+    "wof:lastmodified":1537999296,
     "wof:name":"Illinois Congressional District 3",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738087,
-    "wof:lastmodified":1537998983,
+    "wof:lastmodified":1537999352,
     "wof:name":"Pennsylvania Congressional District 7",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

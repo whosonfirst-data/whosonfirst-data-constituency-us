@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738177,
-    "wof:lastmodified":1537998877,
+    "wof:lastmodified":1537999245,
     "wof:name":"Florida Congressional District 9",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"FL09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738477,
-    "wof:lastmodified":1537998966,
+    "wof:lastmodified":1537999335,
     "wof:name":"New York Congressional District 22",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY22",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

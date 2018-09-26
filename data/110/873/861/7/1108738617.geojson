@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738617,
-    "wof:lastmodified":1537998884,
+    "wof:lastmodified":1537999253,
     "wof:name":"District of Columbia Delegate District (at Large)",
     "wof:parent_id":85688741,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"DC98",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

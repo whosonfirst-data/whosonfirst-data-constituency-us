@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738277,
-    "wof:lastmodified":1537998862,
+    "wof:lastmodified":1537999232,
     "wof:name":"Pennsylvania Congressional District 11",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

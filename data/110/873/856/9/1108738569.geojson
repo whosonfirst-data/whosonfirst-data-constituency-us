@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738569,
-    "wof:lastmodified":1537998892,
+    "wof:lastmodified":1537999260,
     "wof:name":"Texas Congressional District 35",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX35",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

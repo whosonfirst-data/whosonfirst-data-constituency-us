@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738507,
-    "wof:lastmodified":1537998887,
+    "wof:lastmodified":1537999255,
     "wof:name":"New York Congressional District 25",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY25",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

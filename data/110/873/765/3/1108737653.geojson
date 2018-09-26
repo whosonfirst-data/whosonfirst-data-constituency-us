@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737653,
-    "wof:lastmodified":1537998852,
+    "wof:lastmodified":1537999223,
     "wof:name":"Arizona Congressional District 3",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AZ03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

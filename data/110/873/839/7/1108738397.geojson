@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738397,
-    "wof:lastmodified":1537998988,
+    "wof:lastmodified":1537999357,
     "wof:name":"Ohio Congressional District 16",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OH16",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

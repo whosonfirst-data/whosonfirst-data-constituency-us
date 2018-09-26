@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738203,
-    "wof:lastmodified":1537998866,
+    "wof:lastmodified":1537999235,
     "wof:name":"Pennsylvania Congressional District 9",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

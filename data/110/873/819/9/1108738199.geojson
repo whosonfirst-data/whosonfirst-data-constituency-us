@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738199,
-    "wof:lastmodified":1537998879,
+    "wof:lastmodified":1537999248,
     "wof:name":"North Carolina Congressional District 9",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NC09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

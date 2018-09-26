@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737583,
-    "wof:lastmodified":1537998932,
+    "wof:lastmodified":1537999299,
     "wof:name":"Missouri Congressional District 2",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MO02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738023,
-    "wof:lastmodified":1537998900,
+    "wof:lastmodified":1537999267,
     "wof:name":"Tennessee Congressional District 6",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TN06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

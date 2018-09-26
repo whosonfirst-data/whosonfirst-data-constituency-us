@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738099,
-    "wof:lastmodified":1537998979,
+    "wof:lastmodified":1537999347,
     "wof:name":"Texas Congressional District 7",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

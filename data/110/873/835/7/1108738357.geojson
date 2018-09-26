@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738357,
-    "wof:lastmodified":1537998889,
+    "wof:lastmodified":1537999257,
     "wof:name":"New York Congressional District 14",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY14",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

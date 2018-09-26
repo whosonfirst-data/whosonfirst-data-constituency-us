@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737359,
-    "wof:lastmodified":1537998939,
+    "wof:lastmodified":1537999307,
     "wof:name":"Delaware Congressional District (at Large)",
     "wof:parent_id":85688611,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"DE00",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

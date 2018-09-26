@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738065,
-    "wof:lastmodified":1537998988,
+    "wof:lastmodified":1537999356,
     "wof:name":"Michigan Congressional District 7",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MI07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

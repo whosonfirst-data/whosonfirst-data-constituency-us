@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738433,
-    "wof:lastmodified":1537998882,
+    "wof:lastmodified":1537999250,
     "wof:name":"Pennsylvania Congressional District 18",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA18",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

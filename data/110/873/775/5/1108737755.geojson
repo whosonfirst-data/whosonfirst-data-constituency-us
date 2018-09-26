@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737755,
-    "wof:lastmodified":1537999000,
+    "wof:lastmodified":1537999368,
     "wof:name":"Washington Congressional District 3",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WA03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

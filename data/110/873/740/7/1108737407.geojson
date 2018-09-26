@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737407,
-    "wof:lastmodified":1537998902,
+    "wof:lastmodified":1537999269,
     "wof:name":"Hawaii Congressional District 1",
     "wof:parent_id":85688671,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"HI01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

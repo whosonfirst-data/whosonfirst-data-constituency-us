@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737941,
-    "wof:lastmodified":1537998933,
+    "wof:lastmodified":1537999301,
     "wof:name":"Tennessee Congressional District 5",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TN05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

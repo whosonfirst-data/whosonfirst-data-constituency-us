@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737641,
-    "wof:lastmodified":1537998835,
+    "wof:lastmodified":1537999206,
     "wof:name":"Washington Congressional District 2",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WA02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737903,
-    "wof:lastmodified":1537998838,
+    "wof:lastmodified":1537999208,
     "wof:name":"Louisiana Congressional District 5",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"LA05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

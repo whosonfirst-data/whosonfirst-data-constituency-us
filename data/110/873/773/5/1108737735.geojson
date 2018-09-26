@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737735,
-    "wof:lastmodified":1537999005,
+    "wof:lastmodified":1537999373,
     "wof:name":"Oregon Congressional District 3",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OR03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737809,
-    "wof:lastmodified":1537999007,
+    "wof:lastmodified":1537999375,
     "wof:name":"Maryland Congressional District 4",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MD04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

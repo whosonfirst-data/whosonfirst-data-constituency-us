@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737929,
-    "wof:lastmodified":1537998949,
+    "wof:lastmodified":1537999317,
     "wof:name":"Ohio Congressional District 5",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OH05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737843,
-    "wof:lastmodified":1537998921,
+    "wof:lastmodified":1537999289,
     "wof:name":"Oregon Congressional District 4",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OR04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737921,
-    "wof:lastmodified":1537998950,
+    "wof:lastmodified":1537999318,
     "wof:name":"New Jersey Congressional District 5",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

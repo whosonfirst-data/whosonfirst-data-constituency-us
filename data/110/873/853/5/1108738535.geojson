@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738535,
-    "wof:lastmodified":1537998981,
+    "wof:lastmodified":1537999349,
     "wof:name":"Texas Congressional District 28",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX28",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

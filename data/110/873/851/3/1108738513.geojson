@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738513,
-    "wof:lastmodified":1537998892,
+    "wof:lastmodified":1537999260,
     "wof:name":"Florida Congressional District 26",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"FL26",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

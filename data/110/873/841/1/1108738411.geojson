@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738411,
-    "wof:lastmodified":1537998955,
+    "wof:lastmodified":1537999323,
     "wof:name":"Pennsylvania Congressional District 17",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA17",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

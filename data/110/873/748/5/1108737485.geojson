@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737485,
-    "wof:lastmodified":1537998914,
+    "wof:lastmodified":1537999282,
     "wof:name":"Rhode Island Congressional District 1",
     "wof:parent_id":85688509,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"RI01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

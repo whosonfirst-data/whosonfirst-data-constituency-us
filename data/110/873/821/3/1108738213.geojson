@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738213,
-    "wof:lastmodified":1537998879,
+    "wof:lastmodified":1537999247,
     "wof:name":"California Congressional District 10",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA10",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

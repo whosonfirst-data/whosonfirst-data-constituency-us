@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737879,
-    "wof:lastmodified":1537999006,
+    "wof:lastmodified":1537999374,
     "wof:name":"California Congressional District 5",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737907,
-    "wof:lastmodified":1537998837,
+    "wof:lastmodified":1537999208,
     "wof:name":"Maryland Congressional District 5",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MD05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

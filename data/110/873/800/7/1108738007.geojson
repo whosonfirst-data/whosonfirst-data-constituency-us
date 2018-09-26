@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738007,
-    "wof:lastmodified":1537998972,
+    "wof:lastmodified":1537999340,
     "wof:name":"North Carolina Congressional District 6",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NC06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

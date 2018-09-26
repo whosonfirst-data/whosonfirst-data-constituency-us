@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737591,
-    "wof:lastmodified":1537998953,
+    "wof:lastmodified":1537999321,
     "wof:name":"Nevada Congressional District 2",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NV02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

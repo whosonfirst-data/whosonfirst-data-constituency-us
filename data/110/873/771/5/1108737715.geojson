@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737715,
-    "wof:lastmodified":1537998908,
+    "wof:lastmodified":1537999275,
     "wof:name":"Nevada Congressional District 3",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NV03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738257,
-    "wof:lastmodified":1537998970,
+    "wof:lastmodified":1537999339,
     "wof:name":"Georgia Congressional District 11",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

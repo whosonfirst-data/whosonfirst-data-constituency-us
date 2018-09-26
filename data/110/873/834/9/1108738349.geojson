@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738349,
-    "wof:lastmodified":1537998898,
+    "wof:lastmodified":1537999265,
     "wof:name":"Florida Congressional District 14",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"FL14",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

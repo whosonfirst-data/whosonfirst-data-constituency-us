@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737865,
-    "wof:lastmodified":1537999002,
+    "wof:lastmodified":1537999370,
     "wof:name":"Virginia Congressional District 4",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738407,
-    "wof:lastmodified":1537998967,
+    "wof:lastmodified":1537999336,
     "wof:name":"Illinois Congressional District 17",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL17",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

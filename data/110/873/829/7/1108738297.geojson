@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738297,
-    "wof:lastmodified":1537998867,
+    "wof:lastmodified":1537999236,
     "wof:name":"Michigan Congressional District 12",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MI12",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737703,
-    "wof:lastmodified":1537998920,
+    "wof:lastmodified":1537999287,
     "wof:name":"Mississippi Congressional District 3",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MS03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

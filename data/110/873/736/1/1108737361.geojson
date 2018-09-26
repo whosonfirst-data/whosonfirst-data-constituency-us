@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737361,
-    "wof:lastmodified":1537998855,
+    "wof:lastmodified":1537999226,
     "wof:name":"Montana Congressional District (at Large)",
     "wof:parent_id":85688617,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MT00",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

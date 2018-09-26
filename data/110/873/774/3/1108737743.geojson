@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737743,
-    "wof:lastmodified":1537999010,
+    "wof:lastmodified":1537999378,
     "wof:name":"Tennessee Congressional District 3",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TN03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

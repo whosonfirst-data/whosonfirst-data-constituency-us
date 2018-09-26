@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737503,
-    "wof:lastmodified":1537998942,
+    "wof:lastmodified":1537999310,
     "wof:name":"Virginia Congressional District 1",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

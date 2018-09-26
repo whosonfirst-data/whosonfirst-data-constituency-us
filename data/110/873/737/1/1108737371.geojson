@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737371,
-    "wof:lastmodified":1537998844,
+    "wof:lastmodified":1537999215,
     "wof:name":"South Dakota Congressional District (at Large)",
     "wof:parent_id":85688693,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"SD00",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

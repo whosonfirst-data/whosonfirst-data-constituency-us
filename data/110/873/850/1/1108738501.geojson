@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738501,
-    "wof:lastmodified":1537998887,
+    "wof:lastmodified":1537999255,
     "wof:name":"California Congressional District 25",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA25",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

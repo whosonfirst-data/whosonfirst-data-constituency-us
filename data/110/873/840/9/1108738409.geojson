@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738409,
-    "wof:lastmodified":1537998967,
+    "wof:lastmodified":1537999335,
     "wof:name":"New York Congressional District 17",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY17",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

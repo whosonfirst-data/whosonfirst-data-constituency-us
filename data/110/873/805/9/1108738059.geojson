@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738059,
-    "wof:lastmodified":1537998901,
+    "wof:lastmodified":1537999268,
     "wof:name":"Maryland Congressional District 7",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MD07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

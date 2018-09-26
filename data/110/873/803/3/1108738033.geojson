@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738033,
-    "wof:lastmodified":1537998889,
+    "wof:lastmodified":1537999257,
     "wof:name":"Wisconsin Congressional District 6",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WI06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

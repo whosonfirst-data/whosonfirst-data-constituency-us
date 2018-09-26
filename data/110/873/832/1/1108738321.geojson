@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738321,
-    "wof:lastmodified":1537998891,
+    "wof:lastmodified":1537999259,
     "wof:name":"Georgia Congressional District 13",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA13",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

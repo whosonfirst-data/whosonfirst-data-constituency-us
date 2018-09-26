@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737685,
-    "wof:lastmodified":1537998945,
+    "wof:lastmodified":1537999313,
     "wof:name":"Kentucky Congressional District 3",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"KY03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

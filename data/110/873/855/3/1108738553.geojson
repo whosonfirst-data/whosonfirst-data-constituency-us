@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738553,
-    "wof:lastmodified":1537998992,
+    "wof:lastmodified":1537999360,
     "wof:name":"California Congressional District 32",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA32",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

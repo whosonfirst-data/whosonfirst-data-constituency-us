@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738209,
-    "wof:lastmodified":1537998865,
+    "wof:lastmodified":1537999234,
     "wof:name":"Virginia Congressional District 9",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

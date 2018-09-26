@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737565,
-    "wof:lastmodified":1537998936,
+    "wof:lastmodified":1537999304,
     "wof:name":"Maine Congressional District 2",
     "wof:parent_id":85688769,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"ME02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

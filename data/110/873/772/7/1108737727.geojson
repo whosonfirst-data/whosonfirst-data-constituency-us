@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737727,
-    "wof:lastmodified":1537999003,
+    "wof:lastmodified":1537999370,
     "wof:name":"North Carolina Congressional District 3",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NC03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

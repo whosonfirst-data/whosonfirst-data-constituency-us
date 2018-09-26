@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738633,
-    "wof:lastmodified":1537998994,
+    "wof:lastmodified":1537999362,
     "wof:name":"Connecticut Congressional Districts not defined",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CTZZ",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

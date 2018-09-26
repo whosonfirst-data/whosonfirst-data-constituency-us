@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737455,
-    "wof:lastmodified":1537999015,
+    "wof:lastmodified":1537999382,
     "wof:name":"Nevada Congressional District 1",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NV01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

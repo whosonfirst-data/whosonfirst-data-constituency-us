@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737935,
-    "wof:lastmodified":1537998930,
+    "wof:lastmodified":1537999298,
     "wof:name":"Pennsylvania Congressional District 5",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

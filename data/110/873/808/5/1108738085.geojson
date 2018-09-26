@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738085,
-    "wof:lastmodified":1537998985,
+    "wof:lastmodified":1537999353,
     "wof:name":"Ohio Congressional District 7",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OH07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

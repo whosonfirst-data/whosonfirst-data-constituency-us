@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738555,
-    "wof:lastmodified":1537998992,
+    "wof:lastmodified":1537999360,
     "wof:name":"Texas Congressional District 32",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX32",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

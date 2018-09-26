@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737581,
-    "wof:lastmodified":1537998931,
+    "wof:lastmodified":1537999299,
     "wof:name":"Mississippi Congressional District 2",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MS02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

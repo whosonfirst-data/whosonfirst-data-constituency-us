@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737815,
-    "wof:lastmodified":1537999001,
+    "wof:lastmodified":1537999368,
     "wof:name":"Michigan Congressional District 4",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MI04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

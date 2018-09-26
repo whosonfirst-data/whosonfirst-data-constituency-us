@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737365,
-    "wof:lastmodified":1537998856,
+    "wof:lastmodified":1537999227,
     "wof:name":"North Dakota Congressional District (at Large)",
     "wof:parent_id":85688525,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"ND00",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

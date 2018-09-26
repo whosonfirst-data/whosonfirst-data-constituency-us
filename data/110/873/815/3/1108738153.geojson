@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738153,
-    "wof:lastmodified":1537998964,
+    "wof:lastmodified":1537999333,
     "wof:name":"Ohio Congressional District 8",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OH08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

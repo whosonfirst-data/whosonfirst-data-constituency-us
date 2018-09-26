@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737357,
-    "wof:lastmodified":1537998940,
+    "wof:lastmodified":1537999308,
     "wof:name":"Alaska Congressional District (at Large)",
     "wof:parent_id":85688573,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AK00",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

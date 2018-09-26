@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737465,
-    "wof:lastmodified":1537998925,
+    "wof:lastmodified":1537999292,
     "wof:name":"New Mexico Congressional District 1",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NM01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

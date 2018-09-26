@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738339,
-    "wof:lastmodified":1537998896,
+    "wof:lastmodified":1537999264,
     "wof:name":"Pennsylvania Congressional District 13",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA13",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

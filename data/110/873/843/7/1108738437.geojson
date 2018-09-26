@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738437,
-    "wof:lastmodified":1537998881,
+    "wof:lastmodified":1537999250,
     "wof:name":"California Congressional District 19",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA19",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737861,
-    "wof:lastmodified":1537999001,
+    "wof:lastmodified":1537999369,
     "wof:name":"Utah Congressional District 4",
     "wof:parent_id":85688567,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"UT04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

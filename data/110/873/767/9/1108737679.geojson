@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737679,
-    "wof:lastmodified":1537998927,
+    "wof:lastmodified":1537999295,
     "wof:name":"Iowa Congressional District 3",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IA03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

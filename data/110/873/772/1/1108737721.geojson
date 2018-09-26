@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737721,
-    "wof:lastmodified":1537999003,
+    "wof:lastmodified":1537999371,
     "wof:name":"New Mexico Congressional District 3",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NM03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738483,
-    "wof:lastmodified":1537998958,
+    "wof:lastmodified":1537999327,
     "wof:name":"Florida Congressional District 23",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"FL23",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

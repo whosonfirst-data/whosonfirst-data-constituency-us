@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738245,
-    "wof:lastmodified":1537998961,
+    "wof:lastmodified":1537999330,
     "wof:name":"Virginia Congressional District 10",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA10",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

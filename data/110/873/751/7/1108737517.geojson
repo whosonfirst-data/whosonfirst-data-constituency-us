@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737517,
-    "wof:lastmodified":1537998938,
+    "wof:lastmodified":1537999306,
     "wof:name":"Arizona Congressional District 2",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AZ02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

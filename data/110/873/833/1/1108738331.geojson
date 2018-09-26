@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738331,
-    "wof:lastmodified":1537998897,
+    "wof:lastmodified":1537999264,
     "wof:name":"New York Congressional District 13",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY13",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

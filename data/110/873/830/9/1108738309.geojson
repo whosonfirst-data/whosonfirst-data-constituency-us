@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738309,
-    "wof:lastmodified":1537998985,
+    "wof:lastmodified":1537999354,
     "wof:name":"Ohio Congressional District 12",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OH12",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

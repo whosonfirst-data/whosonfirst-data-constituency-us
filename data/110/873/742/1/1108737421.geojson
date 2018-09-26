@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737421,
-    "wof:lastmodified":1537999014,
+    "wof:lastmodified":1537999381,
     "wof:name":"Kansas Congressional District 1",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"KS01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

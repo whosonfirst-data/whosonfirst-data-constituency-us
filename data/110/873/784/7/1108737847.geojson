@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737847,
-    "wof:lastmodified":1537998921,
+    "wof:lastmodified":1537999288,
     "wof:name":"Pennsylvania Congressional District 4",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

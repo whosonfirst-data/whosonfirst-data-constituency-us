@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737933,
-    "wof:lastmodified":1537998930,
+    "wof:lastmodified":1537999297,
     "wof:name":"Oregon Congressional District 5",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OR05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

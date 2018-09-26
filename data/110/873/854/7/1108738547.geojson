@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738547,
-    "wof:lastmodified":1537998981,
+    "wof:lastmodified":1537999350,
     "wof:name":"California Congressional District 31",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA31",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737777,
-    "wof:lastmodified":1537998916,
+    "wof:lastmodified":1537999284,
     "wof:name":"California Congressional District 4",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738191,
-    "wof:lastmodified":1537998880,
+    "wof:lastmodified":1537999248,
     "wof:name":"New Jersey Congressional District 9",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

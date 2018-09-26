@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737899,
-    "wof:lastmodified":1537999011,
+    "wof:lastmodified":1537999379,
     "wof:name":"Kentucky Congressional District 5",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"KY05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

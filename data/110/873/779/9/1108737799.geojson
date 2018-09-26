@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737799,
-    "wof:lastmodified":1537998922,
+    "wof:lastmodified":1537999289,
     "wof:name":"Kansas Congressional District 4",
     "wof:parent_id":85688555,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"KS04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

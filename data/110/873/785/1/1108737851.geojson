@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737851,
-    "wof:lastmodified":1537998906,
+    "wof:lastmodified":1537999273,
     "wof:name":"Tennessee Congressional District 4",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TN04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737959,
-    "wof:lastmodified":1537998948,
+    "wof:lastmodified":1537999316,
     "wof:name":"Arizona Congressional District 6",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AZ06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

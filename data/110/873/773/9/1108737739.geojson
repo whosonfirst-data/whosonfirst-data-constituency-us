@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737739,
-    "wof:lastmodified":1537999003,
+    "wof:lastmodified":1537999371,
     "wof:name":"South Carolina Congressional District 3",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"SC03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

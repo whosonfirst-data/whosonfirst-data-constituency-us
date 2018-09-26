@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737553,
-    "wof:lastmodified":1537998842,
+    "wof:lastmodified":1537999212,
     "wof:name":"Iowa Congressional District 2",
     "wof:parent_id":85688713,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IA02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

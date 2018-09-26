@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737871,
-    "wof:lastmodified":1537999006,
+    "wof:lastmodified":1537999374,
     "wof:name":"Wisconsin Congressional District 4",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WI04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

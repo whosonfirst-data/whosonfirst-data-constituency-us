@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738113,
-    "wof:lastmodified":1537998871,
+    "wof:lastmodified":1537999240,
     "wof:name":"California Congressional District 8",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

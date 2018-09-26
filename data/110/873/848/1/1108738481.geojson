@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738481,
-    "wof:lastmodified":1537998958,
+    "wof:lastmodified":1537999326,
     "wof:name":"California Congressional District 23",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA23",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

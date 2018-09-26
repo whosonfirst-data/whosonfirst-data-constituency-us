@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737573,
-    "wof:lastmodified":1537998944,
+    "wof:lastmodified":1537999312,
     "wof:name":"Massachusetts Congressional District 2",
     "wof:parent_id":85688645,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MA02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

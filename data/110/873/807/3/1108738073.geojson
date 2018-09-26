@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738073,
-    "wof:lastmodified":1537998973,
+    "wof:lastmodified":1537999342,
     "wof:name":"Missouri Congressional District 7",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MO07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

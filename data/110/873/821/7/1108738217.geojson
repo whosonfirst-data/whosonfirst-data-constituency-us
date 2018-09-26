@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738217,
-    "wof:lastmodified":1537998878,
+    "wof:lastmodified":1537999247,
     "wof:name":"Florida Congressional District 10",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"FL10",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

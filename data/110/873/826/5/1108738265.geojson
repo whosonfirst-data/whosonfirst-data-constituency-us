@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738265,
-    "wof:lastmodified":1537998881,
+    "wof:lastmodified":1537999249,
     "wof:name":"New Jersey Congressional District 11",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

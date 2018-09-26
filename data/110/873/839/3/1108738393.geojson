@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738393,
-    "wof:lastmodified":1537998989,
+    "wof:lastmodified":1537999357,
     "wof:name":"New York Congressional District 16",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY16",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

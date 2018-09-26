@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738519,
-    "wof:lastmodified":1537998891,
+    "wof:lastmodified":1537999259,
     "wof:name":"California Congressional District 27",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA27",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

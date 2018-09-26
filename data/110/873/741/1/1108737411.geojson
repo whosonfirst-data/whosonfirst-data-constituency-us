@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737411,
-    "wof:lastmodified":1537998926,
+    "wof:lastmodified":1537999293,
     "wof:name":"Idaho Congressional District 1",
     "wof:parent_id":85688657,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"ID01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738127,
-    "wof:lastmodified":1537998963,
+    "wof:lastmodified":1537999331,
     "wof:name":"Indiana Congressional District 8",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IN08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

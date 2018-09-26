@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738333,
-    "wof:lastmodified":1537998897,
+    "wof:lastmodified":1537999265,
     "wof:name":"North Carolina Congressional District 13",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NC13",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

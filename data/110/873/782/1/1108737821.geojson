@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737821,
-    "wof:lastmodified":1537998912,
+    "wof:lastmodified":1537999279,
     "wof:name":"Mississippi Congressional District 4",
     "wof:parent_id":85688579,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MS04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

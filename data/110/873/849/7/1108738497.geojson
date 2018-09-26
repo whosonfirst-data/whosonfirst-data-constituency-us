@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738497,
-    "wof:lastmodified":1537998965,
+    "wof:lastmodified":1537999334,
     "wof:name":"New York Congressional District 24",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY24",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

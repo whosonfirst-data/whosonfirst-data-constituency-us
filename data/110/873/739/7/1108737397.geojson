@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737397,
-    "wof:lastmodified":1537998843,
+    "wof:lastmodified":1537999213,
     "wof:name":"Connecticut Congressional District 1",
     "wof:parent_id":85688629,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CT01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738157,
-    "wof:lastmodified":1537998964,
+    "wof:lastmodified":1537999333,
     "wof:name":"Tennessee Congressional District 8",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TN08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

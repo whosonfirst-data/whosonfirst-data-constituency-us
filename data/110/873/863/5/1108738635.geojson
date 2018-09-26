@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738635,
-    "wof:lastmodified":1537998994,
+    "wof:lastmodified":1537999362,
     "wof:name":"Illinois Congressional Districts not defined",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"ILZZ",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

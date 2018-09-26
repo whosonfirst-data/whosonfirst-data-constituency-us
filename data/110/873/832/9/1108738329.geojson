@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738329,
-    "wof:lastmodified":1537998890,
+    "wof:lastmodified":1537999258,
     "wof:name":"Michigan Congressional District 13",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MI13",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

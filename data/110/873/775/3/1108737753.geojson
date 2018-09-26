@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737753,
-    "wof:lastmodified":1537998999,
+    "wof:lastmodified":1537999367,
     "wof:name":"Virginia Congressional District 3",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737509,
-    "wof:lastmodified":1537998940,
+    "wof:lastmodified":1537999308,
     "wof:name":"West Virginia Congressional District 1",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WV01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

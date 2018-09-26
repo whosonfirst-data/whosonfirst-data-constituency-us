@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108738181,
-    "wof:lastmodified":1537998861,
+    "wof:lastmodified":1537999231,
     "wof:name":"Georgia Congressional District 9",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

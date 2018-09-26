@@ -51,11 +51,12 @@
         }
     ],
     "wof:id":1108737523,
-    "wof:lastmodified":1537998839,
+    "wof:lastmodified":1537999210,
     "wof:name":"California Congressional District 2",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
