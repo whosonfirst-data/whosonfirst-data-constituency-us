@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.556869,
-    "geom:area_square_m":5824694005.652452,
+    "geom:area_square_m":5824694005.653766,
     "geom:bbox":"-97.388819,31.796191,-96.050758,32.803286",
     "geom:latitude":32.230807,
     "geom:longitude":-96.674714,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-06"
     ],
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4806"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903867,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738025,
-    "wof:lastmodified":1532444596,
+    "wof:lastmodified":1537999267,
     "wof:name":"Texas Congressional District 6",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.539619,
-    "geom:area_square_m":5037293316.745165,
+    "geom:area_square_m":5037293316.745077,
     "geom:bbox":"-73.29666,40.599407,-71.777491,41.310387",
     "geom:latitude":40.980245,
     "geom:longitude":-72.551697,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NY-01"
     ],
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3601"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903737,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737467,
-    "wof:lastmodified":1532444600,
+    "wof:lastmodified":1537999291,
     "wof:name":"New York Congressional District 1",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

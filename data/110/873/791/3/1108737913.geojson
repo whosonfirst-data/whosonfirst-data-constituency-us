@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.223674,
-    "geom:area_square_m":10899193066.418673,
+    "geom:area_square_m":10899193066.417023,
     "geom:bbox":"-84.168127,42.780821,-82.249914,44.514921",
     "geom:latitude":43.916577,
     "geom:longitude":-83.471278,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "MI-05"
     ],
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2605"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903845,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737913,
-    "wof:lastmodified":1532444721,
+    "wof:lastmodified":1537999222,
     "wof:name":"Michigan Congressional District 5",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MI05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

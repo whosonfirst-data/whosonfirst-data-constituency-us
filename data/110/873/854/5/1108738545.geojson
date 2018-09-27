@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091875,
-    "geom:area_square_m":956469373.112279,
+    "geom:area_square_m":956469373.113355,
     "geom:bbox":"-97.038385,32.545282,-96.529987,32.860089",
     "geom:latitude":32.656529,
     "geom:longitude":-96.800752,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-30"
     ],
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4830"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903959,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738545,
-    "wof:lastmodified":1532444684,
+    "wof:lastmodified":1537999350,
     "wof:name":"Texas Congressional District 30",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX30",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

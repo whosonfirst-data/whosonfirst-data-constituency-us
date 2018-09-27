@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.502153,
-    "geom:area_square_m":86511608125.933701,
+    "geom:area_square_m":86511608125.911469,
     "geom:bbox":"-114.754681,32.590799,-110.741149,37.000533",
     "geom:latitude":34.609177,
     "geom:longitude":-113.222421,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "AZ-04"
     ],
@@ -35,6 +35,9 @@
         85688719
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0404"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903806,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737771,
-    "wof:lastmodified":1532444692,
+    "wof:lastmodified":1537999284,
     "wof:name":"Arizona Congressional District 4",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AZ04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.694144,
-    "geom:area_square_m":16168181101.908623,
+    "geom:area_square_m":16168181101.910641,
     "geom:bbox":"-86.085601,38.586011,-84.78459,40.379524",
     "geom:latitude":39.481241,
     "geom:longitude":-85.362935,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "IN-06"
     ],
@@ -35,6 +35,9 @@
         85688709
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1806"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903856,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737975,
-    "wof:lastmodified":1532444588,
+    "wof:lastmodified":1537999204,
     "wof:name":"Indiana Congressional District 6",
     "wof:parent_id":85688709,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IN06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

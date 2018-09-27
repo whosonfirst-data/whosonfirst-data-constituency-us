@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028447,
-    "geom:area_square_m":266034663.759982,
+    "geom:area_square_m":266034663.759873,
     "geom:bbox":"-74.206136,40.748802,-73.919898,40.983904",
     "geom:latitude":40.860828,
     "geom:longitude":-74.073482,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NJ-09"
     ],
@@ -35,6 +35,9 @@
         85688607
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3409"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903897,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738191,
-    "wof:lastmodified":1532444655,
+    "wof:lastmodified":1537999248,
     "wof:name":"New Jersey Congressional District 9",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

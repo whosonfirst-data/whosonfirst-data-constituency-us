@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.984494,
-    "geom:area_square_m":9726804133.855501,
+    "geom:area_square_m":9726804133.855581,
     "geom:bbox":"-77.900338,36.543881,-76.065553,37.612524",
     "geom:latitude":36.96279,
     "geom:longitude":-77.158096,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "VA-04"
     ],
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5104"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903836,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737865,
-    "wof:lastmodified":1532444665,
+    "wof:lastmodified":1537999370,
     "wof:name":"Virginia Congressional District 4",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

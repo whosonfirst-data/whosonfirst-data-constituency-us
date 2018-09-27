@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.608583,
-    "geom:area_square_m":25419289326.605865,
+    "geom:area_square_m":25419289326.610802,
     "geom:bbox":"-82.644591,37.20154,-79.617906,39.029818",
     "geom:latitude":37.994088,
     "geom:longitude":-81.197707,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "WV-03"
     ],
@@ -35,6 +35,9 @@
         85688589
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5403"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903803,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737759,
-    "wof:lastmodified":1532444630,
+    "wof:lastmodified":1537999367,
     "wof:name":"West Virginia Congressional District 3",
     "wof:parent_id":85688589,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WV03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

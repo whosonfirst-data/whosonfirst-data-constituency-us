@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076929,
-    "geom:area_square_m":788524175.897203,
+    "geom:area_square_m":788524175.89736,
     "geom:bbox":"-84.571683,33.833294,-84.097693,34.186289",
     "geom:latitude":34.010198,
     "geom:longitude":-84.345322,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "GA-06"
     ],
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1306"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903855,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737971,
-    "wof:lastmodified":1532444587,
+    "wof:lastmodified":1537999204,
     "wof:name":"Georgia Congressional District 6",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

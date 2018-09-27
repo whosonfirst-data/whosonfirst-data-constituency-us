@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.314353,
-    "geom:area_square_m":24866776222.240841,
+    "geom:area_square_m":24866776222.235943,
     "geom:bbox":"-91.354272,28.855127,-88.758388,30.711995",
     "geom:latitude":29.661651,
     "geom:longitude":-89.889271,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "LA-01"
     ],
@@ -35,6 +35,9 @@
         85688735
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2201"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903731,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737429,
-    "wof:lastmodified":1532444672,
+    "wof:lastmodified":1537999380,
     "wof:name":"Louisiana Congressional District 1",
     "wof:parent_id":85688735,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"LA01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

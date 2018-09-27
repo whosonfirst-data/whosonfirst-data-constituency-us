@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.2048,
-    "geom:area_square_m":2024726689.371815,
+    "geom:area_square_m":2024726689.372199,
     "geom:bbox":"-76.969434,36.64405,-76.176905,37.220645",
     "geom:latitude":36.914629,
     "geom:longitude":-76.571342,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "VA-03"
     ],
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5103"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903802,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737753,
-    "wof:lastmodified":1532444630,
+    "wof:lastmodified":1537999367,
     "wof:name":"Virginia Congressional District 3",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

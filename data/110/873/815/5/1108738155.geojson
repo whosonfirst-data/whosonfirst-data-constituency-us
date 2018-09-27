@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199271,
-    "geom:area_square_m":1878298336.532439,
+    "geom:area_square_m":1878298336.532372,
     "geom:bbox":"-75.558028,40.048595,-74.721519,40.60858",
     "geom:latitude":40.333644,
     "geom:longitude":-75.151964,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "PA-08"
     ],
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4208"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903890,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738155,
-    "wof:lastmodified":1532444724,
+    "wof:lastmodified":1537999333,
     "wof:name":"Pennsylvania Congressional District 8",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

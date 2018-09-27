@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.671078,
-    "geom:area_square_m":116753199255.032745,
+    "geom:area_square_m":116753199255.032043,
     "geom:bbox":"-109.046954,34.077928,-103.002043,37.000233",
     "geom:latitude":35.995484,
     "geom:longitude":-105.821665,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NM-03"
     ],
@@ -35,6 +35,9 @@
         85688493
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3503"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903795,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737721,
-    "wof:lastmodified":1532444666,
+    "wof:lastmodified":1537999371,
     "wof:name":"New Mexico Congressional District 3",
     "wof:parent_id":85688493,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NM03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

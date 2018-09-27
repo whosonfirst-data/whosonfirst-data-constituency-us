@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.536199,
-    "geom:area_square_m":145747461680.32608,
+    "geom:area_square_m":145747461680.321014,
     "geom:bbox":"-120.006473,38.534792,-114.039461,42.001842",
     "geom:latitude":40.645671,
     "geom:longitude":-117.306091,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NV-02"
     ],
@@ -35,6 +35,9 @@
         85688531
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3202"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903764,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737591,
-    "wof:lastmodified":1532444633,
+    "wof:lastmodified":1537999321,
     "wof:name":"Nevada Congressional District 2",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NV02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

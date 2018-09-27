@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12732,
-    "geom:area_square_m":1309820308.610715,
+    "geom:area_square_m":1309820308.61028,
     "geom:bbox":"-84.313073,33.478959,-83.79012,33.919177",
     "geom:latitude":33.696853,
     "geom:longitude":-84.04997,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "GA-04"
     ],
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1304"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903812,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737791,
-    "wof:lastmodified":1532444705,
+    "wof:lastmodified":1537999290,
     "wof:name":"Georgia Congressional District 4",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194456,
-    "geom:area_square_m":1837513624.578688,
+    "geom:area_square_m":1837513624.578822,
     "geom:bbox":"-74.752841,39.855157,-73.975661,40.427111",
     "geom:latitude":40.16393,
     "geom:longitude":-74.318487,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NJ-04"
     ],
@@ -35,6 +35,9 @@
         85688607
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3404"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903821,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737827,
-    "wof:lastmodified":1532444602,
+    "wof:lastmodified":1537999279,
     "wof:name":"New Jersey Congressional District 4",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

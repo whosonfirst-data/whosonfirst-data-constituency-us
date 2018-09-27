@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048043,
-    "geom:area_square_m":464305435.45453,
+    "geom:area_square_m":464305435.454319,
     "geom:bbox":"-121.634158,38.437574,-121.30883,38.736302",
     "geom:latitude":38.594412,
     "geom:longitude":-121.478852,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-06"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0606"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903854,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737965,
-    "wof:lastmodified":1532444601,
+    "wof:lastmodified":1537999225,
     "wof:name":"California Congressional District 6",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

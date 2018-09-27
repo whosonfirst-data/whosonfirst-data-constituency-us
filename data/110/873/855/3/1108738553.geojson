@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031953,
-    "geom:area_square_m":327205877.250097,
+    "geom:area_square_m":327205877.250059,
     "geom:bbox":"-118.072927,33.989372,-117.747667,34.194205",
     "geom:latitude":34.089665,
     "geom:longitude":-117.914474,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-32"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0632"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903960,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738553,
-    "wof:lastmodified":1532444685,
+    "wof:lastmodified":1537999360,
     "wof:name":"California Congressional District 32",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA32",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

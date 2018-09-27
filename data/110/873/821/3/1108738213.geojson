@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.48644,
-    "geom:area_square_m":4766754226.349868,
+    "geom:area_square_m":4766754226.350368,
     "geom:bbox":"-121.557257,37.134774,-120.387329,38.077421",
     "geom:latitude":37.581086,
     "geom:longitude":-121.06105,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-10"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0610"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903901,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738213,
-    "wof:lastmodified":1532444714,
+    "wof:lastmodified":1537999247,
     "wof:name":"California Congressional District 10",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA10",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

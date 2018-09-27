@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012954,
-    "geom:area_square_m":121581432.752953,
+    "geom:area_square_m":121581432.753025,
     "geom:bbox":"-74.037877,40.551042,-73.825337,40.701439",
     "geom:latitude":40.621437,
     "geom:longitude":-73.91069,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NY-08"
     ],
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3608"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903888,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738147,
-    "wof:lastmodified":1532444646,
+    "wof:lastmodified":1537999337,
     "wof:name":"New York Congressional District 8",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

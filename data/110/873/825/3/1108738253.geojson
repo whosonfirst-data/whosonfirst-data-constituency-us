@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140322,
-    "geom:area_square_m":1369061783.728767,
+    "geom:area_square_m":1369061783.72846,
     "geom:bbox":"-122.441584,37.739317,-121.580044,38.067297",
     "geom:latitude":37.904432,
     "geom:longitude":-122.001887,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-11"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0611"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903907,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738253,
-    "wof:lastmodified":1532444724,
+    "wof:lastmodified":1537999339,
     "wof:name":"California Congressional District 11",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

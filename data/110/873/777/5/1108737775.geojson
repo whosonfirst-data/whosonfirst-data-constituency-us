@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.763921,
-    "geom:area_square_m":58923220147.063675,
+    "geom:area_square_m":58923220147.072769,
     "geom:bbox":"-94.485878,33.005915,-91.450325,36.30745",
     "geom:latitude":34.226346,
     "geom:longitude":-93.212515,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "AR-04"
     ],
@@ -35,6 +35,9 @@
         85688549
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0504"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903809,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737775,
-    "wof:lastmodified":1532444693,
+    "wof:lastmodified":1537999286,
     "wof:name":"Arkansas Congressional District 4",
     "wof:parent_id":85688549,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AR04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

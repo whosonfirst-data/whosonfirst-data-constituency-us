@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040473,
-    "geom:area_square_m":434950186.451215,
+    "geom:area_square_m":434950186.451585,
     "geom:bbox":"-95.715453,29.512979,-95.271976,29.737117",
     "geom:latitude":29.645117,
     "geom:longitude":-95.495547,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-09"
     ],
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4809"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903900,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738207,
-    "wof:lastmodified":1532444654,
+    "wof:lastmodified":1537999235,
     "wof:name":"Texas Congressional District 9",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

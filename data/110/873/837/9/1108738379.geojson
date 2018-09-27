@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.297103,
-    "geom:area_square_m":12362257800.472692,
+    "geom:area_square_m":12362257800.474352,
     "geom:bbox":"-84.006782,39.027674,-81.586132,40.111486",
     "geom:latitude":39.576818,
     "geom:longitude":-82.752746,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "OH-15"
     ],
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3915"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903927,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738379,
-    "wof:lastmodified":1532444707,
+    "wof:lastmodified":1537999350,
     "wof:name":"Ohio Congressional District 15",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OH15",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

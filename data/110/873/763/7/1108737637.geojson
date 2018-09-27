@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.817511,
-    "geom:area_square_m":8031259887.895183,
+    "geom:area_square_m":8031259887.895388,
     "geom:bbox":"-76.79774,36.550283,-75.166435,38.027934",
     "geom:latitude":37.391149,
     "geom:longitude":-75.942215,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "VA-02"
     ],
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5102"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903775,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737637,
-    "wof:lastmodified":1532444615,
+    "wof:lastmodified":1537999204,
     "wof:name":"Virginia Congressional District 2",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

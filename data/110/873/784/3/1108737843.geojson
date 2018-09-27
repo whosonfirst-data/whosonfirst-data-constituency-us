@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.225483,
-    "geom:area_square_m":46880337785.723083,
+    "geom:area_square_m":46880337785.736717,
     "geom:bbox":"-124.703541,41.995094,-121.768016,44.794447",
     "geom:latitude":43.481211,
     "geom:longitude":-123.261011,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "OR-04"
     ],
@@ -35,6 +35,9 @@
         85688513
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4104"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903825,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737843,
-    "wof:lastmodified":1532444648,
+    "wof:lastmodified":1537999289,
     "wof:name":"Oregon Congressional District 4",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OR04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

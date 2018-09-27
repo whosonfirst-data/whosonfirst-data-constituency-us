@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101772,
-    "geom:area_square_m":1042769235.718663,
+    "geom:area_square_m":1042769235.71851,
     "geom:bbox":"-84.277093,33.842845,-83.855066,34.258903",
     "geom:latitude":34.042104,
     "geom:longitude":-84.083178,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "GA-07"
     ],
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1307"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903871,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738051,
-    "wof:lastmodified":1532444679,
+    "wof:lastmodified":1537999269,
     "wof:name":"Georgia Congressional District 7",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.965235,
-    "geom:area_square_m":175482933024.415527,
+    "geom:area_square_m":175482933024.411865,
     "geom:bbox":"-104.053514,39.999932,-95.30829,43.001707",
     "geom:latitude":41.549186,
     "geom:longitude":-100.232207,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NE-03"
     ],
@@ -35,6 +35,9 @@
         85688563
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3103"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903792,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737713,
-    "wof:lastmodified":1532444697,
+    "wof:lastmodified":1537999275,
     "wof:name":"Nebraska Congressional District 3",
     "wof:parent_id":85688563,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NE03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

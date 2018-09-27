@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.922647,
-    "geom:area_square_m":27589946220.231117,
+    "geom:area_square_m":27589946220.234947,
     "geom:bbox":"-91.513079,39.395668,-88.459207,41.149578",
     "geom:latitude":40.229981,
     "geom:longitude":-90.075706,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "IL-18"
     ],
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1718"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903935,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738425,
-    "wof:lastmodified":1532444623,
+    "wof:lastmodified":1537999242,
     "wof:name":"Illinois Congressional District 18",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL18",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.631353,
-    "geom:area_square_m":132638173915.523285,
+    "geom:area_square_m":132638173915.520264,
     "geom:bbox":"-119.43989,35.963707,-114.042819,40.12855",
     "geom:latitude":38.091102,
     "geom:longitude":-116.000725,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NV-04"
     ],
@@ -35,6 +35,9 @@
         85688531
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3204"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903820,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737825,
-    "wof:lastmodified":1532444603,
+    "wof:lastmodified":1537999281,
     "wof:name":"Nevada Congressional District 4",
     "wof:parent_id":85688531,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NV04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

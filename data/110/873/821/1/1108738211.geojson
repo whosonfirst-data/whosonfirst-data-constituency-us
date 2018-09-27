@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069189,
-    "geom:area_square_m":578469870.79191,
+    "geom:area_square_m":578469870.791329,
     "geom:bbox":"-122.510135,47.2333,-122.06824,47.660788",
     "geom:latitude":47.456433,
     "geom:longitude":-122.259217,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "WA-09"
     ],
@@ -35,6 +35,9 @@
         85688623
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5309"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903901,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738211,
-    "wof:lastmodified":1532444714,
+    "wof:lastmodified":1537999247,
     "wof:name":"Washington Congressional District 9",
     "wof:parent_id":85688623,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WA09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

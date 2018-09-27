@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284087,
-    "geom:area_square_m":2648823438.95624,
+    "geom:area_square_m":2648823438.955791,
     "geom:bbox":"-75.13564,40.705372,-73.893979,41.357423",
     "geom:latitude":41.057394,
     "geom:longitude":-74.626239,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NJ-05"
     ],
@@ -35,6 +35,9 @@
         85688607
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3405"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903846,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737921,
-    "wof:lastmodified":1532444618,
+    "wof:lastmodified":1537999318,
     "wof:name":"New Jersey Congressional District 5",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

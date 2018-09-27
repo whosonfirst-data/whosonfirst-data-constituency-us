@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.417858,
-    "geom:area_square_m":25402362298.062229,
+    "geom:area_square_m":25402362298.056553,
     "geom:bbox":"-85.141931,30.675804,-83.48943,32.887913",
     "geom:latitude":31.821038,
     "geom:longitude":-84.411459,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "GA-02"
     ],
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1302"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903752,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737537,
-    "wof:lastmodified":1532444627,
+    "wof:lastmodified":1537999218,
     "wof:name":"Georgia Congressional District 2",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA02",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

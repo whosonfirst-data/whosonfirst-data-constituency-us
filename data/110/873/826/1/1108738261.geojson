@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08018,
-    "geom:area_square_m":740892549.762009,
+    "geom:area_square_m":740892549.761762,
     "geom:bbox":"-88.40469,41.42298,-87.89526,41.812826",
     "geom:latitude":41.643926,
     "geom:longitude":-88.146439,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "IL-11"
     ],
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1711"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903908,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738261,
-    "wof:lastmodified":1532444695,
+    "wof:lastmodified":1537999249,
     "wof:name":"Illinois Congressional District 11",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

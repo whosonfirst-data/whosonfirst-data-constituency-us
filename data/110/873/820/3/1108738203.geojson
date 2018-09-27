@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.578522,
-    "geom:area_square_m":14920420141.967678,
+    "geom:area_square_m":14920420141.966686,
     "geom:bbox":"-80.117101,39.71987,-77.454109,40.911346",
     "geom:latitude":40.143898,
     "geom:longitude":-78.673402,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "PA-09"
     ],
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4209"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903898,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738203,
-    "wof:lastmodified":1532444653,
+    "wof:lastmodified":1537999235,
     "wof:name":"Pennsylvania Congressional District 9",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

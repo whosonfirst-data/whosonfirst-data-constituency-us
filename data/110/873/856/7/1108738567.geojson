@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042739,
-    "geom:area_square_m":437886190.234822,
+    "geom:area_square_m":437886190.234646,
     "geom:bbox":"-117.828719,33.924343,-117.352917,34.14232",
     "geom:latitude":34.046737,
     "geom:longitude":-117.588228,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-35"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0635"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903965,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738567,
-    "wof:lastmodified":1532444732,
+    "wof:lastmodified":1537999261,
     "wof:name":"California Congressional District 35",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA35",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

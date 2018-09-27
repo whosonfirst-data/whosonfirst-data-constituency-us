@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041615,
-    "geom:area_square_m":429564483.869914,
+    "geom:area_square_m":429564483.870048,
     "geom:bbox":"-112.147914,33.29026,-111.805274,33.582551",
     "geom:latitude":33.406416,
     "geom:longitude":-111.949152,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "AZ-09"
     ],
@@ -35,6 +35,9 @@
         85688719
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0409"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903894,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738173,
-    "wof:lastmodified":1532444666,
+    "wof:lastmodified":1537999246,
     "wof:name":"Arizona Congressional District 9",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AZ09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

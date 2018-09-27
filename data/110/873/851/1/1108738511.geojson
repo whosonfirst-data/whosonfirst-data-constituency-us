@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.316746,
-    "geom:area_square_m":3240481084.685937,
+    "geom:area_square_m":3240481084.685905,
     "geom:bbox":"-119.636302,33.163493,-118.652285,34.561736",
     "geom:latitude":34.16933,
     "geom:longitude":-119.127095,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-26"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0626"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903950,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738511,
-    "wof:lastmodified":1532444593,
+    "wof:lastmodified":1537999260,
     "wof:name":"California Congressional District 26",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA26",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

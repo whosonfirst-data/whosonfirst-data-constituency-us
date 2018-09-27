@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.444024,
-    "geom:area_square_m":13234216496.751572,
+    "geom:area_square_m":13234216496.751837,
     "geom:bbox":"-87.207774,41.758946,-85.292058,42.768937",
     "geom:latitude":42.167446,
     "geom:longitude":-86.156257,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "MI-06"
     ],
@@ -35,6 +35,9 @@
         85688599
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2606"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903860,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737993,
-    "wof:lastmodified":1532444733,
+    "wof:lastmodified":1537999211,
     "wof:name":"Michigan Congressional District 6",
     "wof:parent_id":85688599,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MI06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

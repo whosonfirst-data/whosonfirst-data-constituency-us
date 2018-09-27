@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216463,
-    "geom:area_square_m":2131939287.405553,
+    "geom:area_square_m":2131939287.406067,
     "geom:bbox":"-122.484046,36.917196,-121.759306,37.490081",
     "geom:latitude":37.202049,
     "geom:longitude":-122.154054,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-18"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0618"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903934,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738419,
-    "wof:lastmodified":1532444594,
+    "wof:lastmodified":1537999322,
     "wof:name":"California Congressional District 18",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA18",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

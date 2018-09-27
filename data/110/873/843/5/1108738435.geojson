@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057322,
-    "geom:area_square_m":614515816.947796,
+    "geom:area_square_m":614515816.947886,
     "geom:bbox":"-95.563703,29.666035,-95.21262,30.074563",
     "geom:latitude":29.889259,
     "geom:longitude":-95.376545,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-18"
     ],
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4818"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903937,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738435,
-    "wof:lastmodified":1532444662,
+    "wof:lastmodified":1537999251,
     "wof:name":"Texas Congressional District 18",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX18",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

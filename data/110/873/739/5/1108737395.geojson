@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052431,
-    "geom:area_square_m":498580298.759348,
+    "geom:area_square_m":498580298.75904,
     "geom:bbox":"-105.145973,39.535246,-104.600302,39.914247",
     "geom:latitude":39.732433,
     "geom:longitude":-104.908147,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CO-01"
     ],
@@ -35,6 +35,9 @@
         85688603
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0801"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903724,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737395,
-    "wof:lastmodified":1532444709,
+    "wof:lastmodified":1537999214,
     "wof:name":"Colorado Congressional District 1",
     "wof:parent_id":85688603,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CO01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

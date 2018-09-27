@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027088,
-    "geom:area_square_m":249178429.07249,
+    "geom:area_square_m":249178429.072576,
     "geom:bbox":"-87.96916,41.78912,-87.620201,42.023717",
     "geom:latitude":41.931846,
     "geom:longitude":-87.835334,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "IL-05"
     ],
@@ -35,6 +35,9 @@
         85688697
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1705"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903841,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737895,
-    "wof:lastmodified":1532444617,
+    "wof:lastmodified":1537999380,
     "wof:name":"Illinois Congressional District 5",
     "wof:parent_id":85688697,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"IL05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

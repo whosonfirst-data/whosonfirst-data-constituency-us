@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.495998,
-    "geom:area_square_m":4798712764.561707,
+    "geom:area_square_m":4798712764.562751,
     "geom:bbox":"-123.056322,37.96235,-122.050386,39.094553",
     "geom:latitude":38.515834,
     "geom:longitude":-122.460624,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-05"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0605"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903838,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737879,
-    "wof:lastmodified":1532444731,
+    "wof:lastmodified":1537999374,
     "wof:name":"California Congressional District 5",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

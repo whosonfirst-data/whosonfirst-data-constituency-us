@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012135,
-    "geom:area_square_m":124285567.269322,
+    "geom:area_square_m":124285567.269052,
     "geom:bbox":"-118.323857,34.012626,-118.155289,34.151626",
     "geom:latitude":34.074675,
     "geom:longitude":-118.22766,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-34"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0634"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903964,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738563,
-    "wof:lastmodified":1532444732,
+    "wof:lastmodified":1537999261,
     "wof:name":"California Congressional District 34",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA34",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

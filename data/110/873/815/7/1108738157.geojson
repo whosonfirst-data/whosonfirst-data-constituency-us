@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.808669,
-    "geom:area_square_m":18124679150.202217,
+    "geom:area_square_m":18124679150.204319,
     "geom:bbox":"-90.179265,34.993754,-87.99092,36.507233",
     "geom:latitude":35.86108,
     "geom:longitude":-89.100195,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TN-08"
     ],
@@ -35,6 +35,9 @@
         85688701
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4708"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903890,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738157,
-    "wof:lastmodified":1532444723,
+    "wof:lastmodified":1537999333,
     "wof:name":"Tennessee Congressional District 8",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TN08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

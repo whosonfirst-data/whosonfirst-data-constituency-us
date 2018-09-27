@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.10334,
-    "geom:area_square_m":21757855839.888008,
+    "geom:area_square_m":21757855839.883385,
     "geom:bbox":"-81.614033,32.033454,-79.317041,34.181361",
     "geom:latitude":33.216885,
     "geom:longitude":-80.525573,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "SC-06"
     ],
@@ -35,6 +35,9 @@
         85688683
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4506"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903864,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738015,
-    "wof:lastmodified":1532444632,
+    "wof:lastmodified":1537999359,
     "wof:name":"South Carolina Congressional District 6",
     "wof:parent_id":85688683,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"SC06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

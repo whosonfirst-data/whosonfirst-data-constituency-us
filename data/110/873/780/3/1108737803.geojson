@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.201629,
-    "geom:area_square_m":11616778479.160702,
+    "geom:area_square_m":11616778479.158718,
     "geom:bbox":"-85.637861,37.988677,-82.59348,39.147732",
     "geom:latitude":38.570724,
     "geom:longitude":-84.427207,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "KY-04"
     ],
@@ -35,6 +35,9 @@
         85688641
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2104"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903815,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737803,
-    "wof:lastmodified":1532444680,
+    "wof:lastmodified":1537999375,
     "wof:name":"Kentucky Congressional District 4",
     "wof:parent_id":85688641,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"KY04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

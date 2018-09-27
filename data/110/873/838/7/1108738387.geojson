@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.757633,
-    "geom:area_square_m":7470796307.25076,
+    "geom:area_square_m":7470796307.252313,
     "geom:bbox":"-121.248647,36.662162,-119.681975,37.633364",
     "geom:latitude":37.111553,
     "geom:longitude":-120.530966,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-16"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0616"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903929,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738387,
-    "wof:lastmodified":1532444645,
+    "wof:lastmodified":1537999343,
     "wof:name":"California Congressional District 16",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA16",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

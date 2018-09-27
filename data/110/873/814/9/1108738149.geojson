@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.770376,
-    "geom:area_square_m":7774706993.127223,
+    "geom:area_square_m":7774706993.125592,
     "geom:bbox":"-80.787091,34.833377,-78.615121,35.725864",
     "geom:latitude":35.296447,
     "geom:longitude":-79.797494,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NC-08"
     ],
@@ -35,6 +35,9 @@
         85688773
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3708"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903889,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738149,
-    "wof:lastmodified":1532444646,
+    "wof:lastmodified":1537999337,
     "wof:name":"North Carolina Congressional District 8",
     "wof:parent_id":85688773,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NC08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

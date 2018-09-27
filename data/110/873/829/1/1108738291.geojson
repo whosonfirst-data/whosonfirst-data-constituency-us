@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.068528,
-    "geom:area_square_m":21592469129.083149,
+    "geom:area_square_m":21592469129.078926,
     "geom:bbox":"-83.226536,31.363884,-81.17728,33.596789",
     "geom:latitude":32.411486,
     "geom:longitude":-82.221135,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "GA-12"
     ],
@@ -35,6 +35,9 @@
         85688535
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1312"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903914,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738291,
-    "wof:lastmodified":1532444605,
+    "wof:lastmodified":1537999237,
     "wof:name":"Georgia Congressional District 12",
     "wof:parent_id":85688535,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"GA12",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

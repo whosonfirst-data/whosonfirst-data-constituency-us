@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.630874,
-    "geom:area_square_m":5954884013.36437,
+    "geom:area_square_m":5954884013.364955,
     "geom:bbox":"-83.249626,39.755572,-81.691104,40.843412",
     "geom:latitude":40.237986,
     "geom:longitude":-82.615134,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "OH-12"
     ],
@@ -35,6 +35,9 @@
         85688485
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3912"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903917,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738309,
-    "wof:lastmodified":1532444611,
+    "wof:lastmodified":1537999354,
     "wof:name":"Ohio Congressional District 12",
     "wof:parent_id":85688485,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OH12",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

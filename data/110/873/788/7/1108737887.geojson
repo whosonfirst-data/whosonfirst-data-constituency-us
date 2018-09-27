@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.951207,
-    "geom:area_square_m":10139683619.955256,
+    "geom:area_square_m":10139683619.952864,
     "geom:bbox":"-84.932519,30.136449,-81.504877,30.711542",
     "geom:latitude":30.44864,
     "geom:longitude":-83.322687,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "FL-05"
     ],
@@ -35,6 +35,9 @@
         85688651
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"1205"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903840,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737887,
-    "wof:lastmodified":1532444643,
+    "wof:lastmodified":1537999364,
     "wof:name":"Florida Congressional District 5",
     "wof:parent_id":85688651,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"FL05",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

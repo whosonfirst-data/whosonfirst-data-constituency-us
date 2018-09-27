@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022257,
-    "geom:area_square_m":208624604.408688,
+    "geom:area_square_m":208624604.408429,
     "geom:bbox":"-74.305326,40.591925,-74.051624,40.836001",
     "geom:latitude":40.708578,
     "geom:longitude":-74.207881,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NJ-10"
     ],
@@ -35,6 +35,9 @@
         85688607
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3410"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903903,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738227,
-    "wof:lastmodified":1532444671,
+    "wof:lastmodified":1537999340,
     "wof:name":"New Jersey Congressional District 10",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ10",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

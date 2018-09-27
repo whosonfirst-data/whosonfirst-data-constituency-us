@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043071,
-    "geom:area_square_m":415156765.451294,
+    "geom:area_square_m":415156765.451159,
     "geom:bbox":"-77.245756,38.605617,-77.032143,38.942635",
     "geom:latitude":38.783012,
     "geom:longitude":-77.138486,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "VA-08"
     ],
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5108"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903892,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738165,
-    "wof:lastmodified":1532444637,
+    "wof:lastmodified":1537999239,
     "wof:name":"Virginia Congressional District 8",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA08",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

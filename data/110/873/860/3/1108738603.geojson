@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064118,
-    "geom:area_square_m":660209715.653454,
+    "geom:area_square_m":660209715.653231,
     "geom:bbox":"-118.1259,33.418975,-117.672529,33.78757",
     "geom:latitude":33.620034,
     "geom:longitude":-117.906469,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "CA-48"
     ],
@@ -35,6 +35,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0648"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903969,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738603,
-    "wof:lastmodified":1532444659,
+    "wof:lastmodified":1537999263,
     "wof:name":"California Congressional District 48",
     "wof:parent_id":85688637,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"CA48",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

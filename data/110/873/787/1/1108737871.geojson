@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307779,
-    "geom:area_square_m":2782289657.113351,
+    "geom:area_square_m":2782289657.113414,
     "geom:bbox":"-88.070932,42.842146,-87.069419,43.192581",
     "geom:latitude":43.023166,
     "geom:longitude":-87.538058,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "WI-04"
     ],
@@ -35,6 +35,9 @@
         85688517
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5504"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903837,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737871,
-    "wof:lastmodified":1532444731,
+    "wof:lastmodified":1537999374,
     "wof:name":"Wisconsin Congressional District 4",
     "wof:parent_id":85688517,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"WI04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

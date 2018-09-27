@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329232,
-    "geom:area_square_m":2858821381.940613,
+    "geom:area_square_m":2858821381.940589,
     "geom:bbox":"-122.79113,45.151628,-121.679081,45.656438",
     "geom:latitude":45.393089,
     "geom:longitude":-122.204148,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "OR-03"
     ],
@@ -35,6 +35,9 @@
         85688513
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4103"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903797,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737735,
-    "wof:lastmodified":1532444639,
+    "wof:lastmodified":1537999373,
     "wof:name":"Oregon Congressional District 3",
     "wof:parent_id":85688513,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"OR03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

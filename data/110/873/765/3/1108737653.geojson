@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.89415,
-    "geom:area_square_m":40669718348.527382,
+    "geom:area_square_m":40669718348.524757,
     "geom:bbox":"-114.816591,31.332177,-110.45172,33.566289",
     "geom:latitude":32.365982,
     "geom:longitude":-112.443622,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "AZ-03"
     ],
@@ -35,6 +35,9 @@
         85688719
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"0403"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903780,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737653,
-    "wof:lastmodified":1532444669,
+    "wof:lastmodified":1537999223,
     "wof:name":"Arizona Congressional District 3",
     "wof:parent_id":85688719,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"AZ03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

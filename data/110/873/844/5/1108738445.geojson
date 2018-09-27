@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.501595,
-    "geom:area_square_m":67231846499.46096,
+    "geom:area_square_m":67231846499.460335,
     "geom:bbox":"-103.064871,32.081203,-98.420436,34.74819",
     "geom:latitude":33.244982,
     "geom:longitude":-101.217307,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-19"
     ],
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4819"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903938,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738445,
-    "wof:lastmodified":1532444683,
+    "wof:lastmodified":1537999252,
     "wof:name":"Texas Congressional District 19",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX19",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

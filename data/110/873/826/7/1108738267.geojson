@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031557,
-    "geom:area_square_m":296420686.477412,
+    "geom:area_square_m":296420686.477375,
     "geom:bbox":"-74.25909,40.477399,-73.951754,40.655657",
     "geom:latitude":40.567431,
     "geom:longitude":-74.124951,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NY-11"
     ],
@@ -35,6 +35,9 @@
         85688543
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3611"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903909,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738267,
-    "wof:lastmodified":1532444696,
+    "wof:lastmodified":1537999249,
     "wof:name":"New York Congressional District 11",
     "wof:parent_id":85688543,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NY11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

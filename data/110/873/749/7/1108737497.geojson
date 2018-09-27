@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.035002,
-    "geom:area_square_m":21348337829.681911,
+    "geom:area_square_m":21348337829.677017,
     "geom:bbox":"-95.594541,31.026088,-93.59497,33.01345",
     "geom:latitude":31.959045,
     "geom:longitude":-94.55897,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TX-01"
     ],
@@ -35,6 +35,9 @@
         85688753
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4801"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903742,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737497,
-    "wof:lastmodified":1532444599,
+    "wof:lastmodified":1537999276,
     "wof:name":"Texas Congressional District 1",
     "wof:parent_id":85688753,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TX01",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

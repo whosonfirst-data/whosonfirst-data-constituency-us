@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.87262,
-    "geom:area_square_m":18101552054.995728,
+    "geom:area_square_m":18101552054.994709,
     "geom:bbox":"-92.829837,37.977802,-90.109107,39.227265",
     "geom:latitude":38.578311,
     "geom:longitude":-91.554919,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "MO-03"
     ],
@@ -35,6 +35,9 @@
         85688661
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2903"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903791,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737707,
-    "wof:lastmodified":1532444592,
+    "wof:lastmodified":1537999286,
     "wof:name":"Missouri Congressional District 3",
     "wof:parent_id":85688661,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MO03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

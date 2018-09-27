@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.434011,
-    "geom:area_square_m":5134063515.609372,
+    "geom:area_square_m":5134063515.609804,
     "geom:bbox":"144.81334,14.036565,146.154418,20.616556",
     "geom:latitude":16.817084,
     "geom:longitude":145.595722,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "src:geom":"uscensus",
     "uscensus:aland":472276664.0,
     "uscensus:awater":4644268325.0,
@@ -28,11 +28,14 @@
     "wof:association":"us-house",
     "wof:belongsto":[
         "102191583",
-        "85632421",
         "85633793",
-        85674801
+        85674801,
+        "85632421"
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"6998"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903972,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108738625,
-    "wof:lastmodified":1532444636,
+    "wof:lastmodified":1537998980,
     "wof:name":"Tinian Delegate District (at Large)",
     "wof:parent_id":85674801,
     "wof:placetype":"constituency",

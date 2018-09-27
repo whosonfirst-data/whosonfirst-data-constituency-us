@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.367567,
-    "geom:area_square_m":21968168458.616604,
+    "geom:area_square_m":21968168458.61393,
     "geom:bbox":"-77.913929,40.185362,-74.689502,42.002134",
     "geom:latitude":41.3732,
     "geom:longitude":-76.517225,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "PA-10"
     ],
@@ -35,6 +35,9 @@
         85688481
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4210"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903904,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738239,
-    "wof:lastmodified":1532444627,
+    "wof:lastmodified":1537999327,
     "wof:name":"Pennsylvania Congressional District 10",
     "wof:parent_id":85688481,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"PA10",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

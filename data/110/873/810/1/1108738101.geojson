@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.841369,
-    "geom:area_square_m":8217457298.966516,
+    "geom:area_square_m":8217457298.963104,
     "geom:bbox":"-78.369797,36.982667,-77.404534,38.698923",
     "geom:latitude":37.825451,
     "geom:longitude":-77.901425,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "VA-07"
     ],
@@ -35,6 +35,9 @@
         85688747
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"5107"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903881,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738101,
-    "wof:lastmodified":1532444698,
+    "wof:lastmodified":1537999243,
     "wof:name":"Virginia Congressional District 7",
     "wof:parent_id":85688747,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"VA07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

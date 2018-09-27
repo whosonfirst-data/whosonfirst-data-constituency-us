@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.712993,
-    "geom:area_square_m":17092462384.566227,
+    "geom:area_square_m":17092462384.561687,
     "geom:bbox":"-87.150371,35.28918,-84.659082,36.652443",
     "geom:latitude":36.199645,
     "geom:longitude":-85.78144,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "TN-06"
     ],
@@ -35,6 +35,9 @@
         85688701
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"4706"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903866,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738023,
-    "wof:lastmodified":1532444595,
+    "wof:lastmodified":1537999267,
     "wof:name":"Tennessee Congressional District 6",
     "wof:parent_id":85688701,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"TN06",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

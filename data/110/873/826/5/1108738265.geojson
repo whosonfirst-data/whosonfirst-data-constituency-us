@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147277,
-    "geom:area_square_m":1376399915.487934,
+    "geom:area_square_m":1376399915.488256,
     "geom:bbox":"-74.790408,40.688038,-74.129909,41.118668",
     "geom:latitude":40.90419,
     "geom:longitude":-74.45133,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "NJ-11"
     ],
@@ -35,6 +35,9 @@
         85688607
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"3411"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903909,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108738265,
-    "wof:lastmodified":1532444696,
+    "wof:lastmodified":1537999249,
     "wof:name":"New Jersey Congressional District 11",
     "wof:parent_id":85688607,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"NJ11",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

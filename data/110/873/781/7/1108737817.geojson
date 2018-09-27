@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10798,
-    "geom:area_square_m":944090329.260749,
+    "geom:area_square_m":944090329.260603,
     "geom:bbox":"-93.228119,44.844091,-92.739527,45.124533",
     "geom:latitude":45.001973,
     "geom:longitude":-92.980878,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "MN-04"
     ],
@@ -35,6 +35,9 @@
         85688727
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2704"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903818,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737817,
-    "wof:lastmodified":1532444601,
+    "wof:lastmodified":1537999368,
     "wof:name":"Minnesota Congressional District 4",
     "wof:parent_id":85688727,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MN04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

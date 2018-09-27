@@ -5,13 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085188,
-    "geom:area_square_m":818985648.830711,
+    "geom:area_square_m":818985648.83205,
     "geom:bbox":"-77.042022,38.746124,-76.440546,39.162999",
     "geom:latitude":38.968262,
     "geom:longitude":-76.745173,
     "iso:country":"us",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "name:eng_x_variant":[
         "MD-04"
     ],
@@ -35,6 +35,9 @@
         85688501
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "uscensus:geoid":"2404"
+    },
     "wof:constituency":"country",
     "wof:country":"us",
     "wof:created":1478903817,
@@ -48,11 +51,12 @@
         }
     ],
     "wof:id":1108737809,
-    "wof:lastmodified":1532444680,
+    "wof:lastmodified":1537999375,
     "wof:name":"Maryland Congressional District 4",
     "wof:parent_id":85688501,
     "wof:placetype":"constituency",
     "wof:repo":"whosonfirst-data-constituency-us",
+    "wof:shortcode":"MD04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
